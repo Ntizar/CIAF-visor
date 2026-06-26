@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "CIAF-2014-001",
+    "year": 2014,
+    "date": "2014-05-19",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 42.1221,
+    "lng": -1.1531,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2014). Colisión frontal.",
+    "latlng": [
+      42.1221,
+      -1.1531
+    ]
+  },
+  {
+    "id": "CIAF-2014-002",
+    "year": 2014,
+    "date": "2014-02-08",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 41.4685,
+    "lng": 2.3594,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2014). Fallos eléctricos.",
+    "latlng": [
+      41.4685,
+      2.3594
+    ]
+  },
+  {
+    "id": "CIAF-2014-003",
+    "year": 2014,
+    "date": "2014-11-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.6636,
+    "lng": -8.2256,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Vigo (2014). Atropello.",
+    "latlng": [
+      42.6636,
+      -8.2256
+    ]
+  },
+  {
+    "id": "CIAF-2014-004",
+    "year": 2014,
+    "date": "2014-12-07",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Alicante",
+    "lat": 38.1619,
+    "lng": -0.4226,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Alicante (2014). Choque con obstáculo.",
+    "latlng": [
+      38.1619,
+      -0.4226
+    ]
+  },
+  {
+    "id": "CIAF-2014-005",
+    "year": 2014,
+    "date": "2014-12-16",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 38.2869,
+    "lng": -4.7941,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2014). Vía bloqueada.",
+    "latlng": [
+      38.2869,
+      -4.7941
+    ]
+  },
+  {
+    "id": "CIAF-2014-006",
+    "year": 2014,
+    "date": "2014-03-03",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Gijón",
+    "lat": 43.3559,
+    "lng": -5.6927,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Gijón (2014). Error humano.",
+    "latlng": [
+      43.3559,
+      -5.6927
+    ]
+  },
+  {
+    "id": "CIAF-2014-007",
+    "year": 2014,
+    "date": "2014-07-24",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.2261,
+    "lng": -2.5779,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Logroño (2014). Fallos eléctricos.",
+    "latlng": [
+      42.2261,
+      -2.5779
+    ]
+  },
+  {
+    "id": "CIAF-2014-008",
+    "year": 2014,
+    "date": "2014-09-22",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Alicante",
+    "lat": 38.1659,
+    "lng": -0.9177,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Alicante (2014). Fallos eléctricos.",
+    "latlng": [
+      38.1659,
+      -0.9177
+    ]
+  },
+  {
+    "id": "CIAF-2014-009",
+    "year": 2014,
+    "date": "2014-02-02",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valladolid",
+    "lat": 41.4749,
+    "lng": -4.5836,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Valladolid (2014). Fallo mecánico.",
+    "latlng": [
+      41.4749,
+      -4.5836
+    ]
+  },
+  {
+    "id": "CIAF-2014-010",
+    "year": 2014,
+    "date": "2014-11-16",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.3745,
+    "lng": -6.3857,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Sevilla (2014). Colisión frontal.",
+    "latlng": [
+      37.3745,
+      -6.3857
+    ]
+  },
+  {
+    "id": "CIAF-2014-011",
+    "year": 2014,
+    "date": "2014-11-16",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Gijón",
+    "lat": 43.2529,
+    "lng": -5.4433,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Gijón (2014). Condiciones meteorológicas.",
+    "latlng": [
+      43.2529,
+      -5.4433
+    ]
+  },
+  {
+    "id": "CIAF-2014-012",
+    "year": 2014,
+    "date": "2014-10-09",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 43.0902,
+    "lng": -2.2937,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Vitoria (2014). Error humano.",
+    "latlng": [
+      43.0902,
+      -2.2937
+    ]
+  },
+  {
+    "id": "CIAF-2014-013",
+    "year": 2014,
+    "date": "2014-09-13",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.9145,
+    "lng": 0.0843,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Valencia (2014). Fallos eléctricos.",
+    "latlng": [
+      39.9145,
+      0.0843
+    ]
+  },
+  {
+    "id": "CIAF-2014-014",
+    "year": 2014,
+    "date": "2014-11-19",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 42.0651,
+    "lng": 0.6784,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Lleida (2014). Descarrilamiento.",
+    "latlng": [
+      42.0651,
+      0.6784
+    ]
+  },
+  {
+    "id": "CIAF-2014-015",
+    "year": 2014,
+    "date": "2014-09-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 37.0138,
+    "lng": -4.3714,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Málaga (2014). Vía bloqueada.",
+    "latlng": [
+      37.0138,
+      -4.3714
+    ]
+  },
+  {
+    "id": "CIAF-2014-016",
+    "year": 2014,
+    "date": "2014-06-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.5777,
+    "lng": -8.8103,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Vigo (2014). Fallo de señalización.",
+    "latlng": [
+      42.5777,
+      -8.8103
+    ]
+  },
+  {
+    "id": "CIAF-2014-017",
+    "year": 2014,
+    "date": "2014-07-01",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "León",
+    "lat": 42.6489,
+    "lng": -5.3225,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 8,
+    "material_damage": true,
+    "description": "Incidente en León (2014). Vía bloqueada.",
+    "latlng": [
+      42.6489,
+      -5.3225
+    ]
+  },
+  {
+    "id": "CIAF-2014-018",
+    "year": 2014,
+    "date": "2014-06-01",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Bilbao",
+    "lat": 43.7564,
+    "lng": -3.1332,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Bilbao (2014). Descarrilamiento.",
+    "latlng": [
+      43.7564,
+      -3.1332
+    ]
+  },
+  {
+    "id": "CIAF-2014-019",
+    "year": 2014,
+    "date": "2014-04-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.3478,
+    "lng": 1.8247,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Barcelona (2014). Fallos eléctricos.",
+    "latlng": [
+      41.3478,
+      1.8247
+    ]
+  },
+  {
+    "id": "CIAF-2014-020",
+    "year": 2014,
+    "date": "2014-03-16",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.2464,
+    "lng": -3.8812,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Granada (2014). Colisión frontal.",
+    "latlng": [
+      37.2464,
+      -3.8812
+    ]
+  },
+  {
+    "id": "CIAF-2014-021",
+    "year": 2014,
+    "date": "2014-06-27",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Burgos",
+    "lat": 42.6397,
+    "lng": -3.8203,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Burgos (2014). Fallo mecánico.",
+    "latlng": [
+      42.6397,
+      -3.8203
+    ]
+  },
+  {
+    "id": "CIAF-2014-022",
+    "year": 2014,
+    "date": "2014-07-02",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.4842,
+    "lng": -3.5995,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Burgos (2014). Condiciones meteorológicas.",
+    "latlng": [
+      42.4842,
+      -3.5995
+    ]
+  },
+  {
+    "id": "CIAF-2014-023",
+    "year": 2014,
+    "date": "2014-11-24",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.9116,
+    "lng": -2.8573,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2014). Fallo mecánico.",
+    "latlng": [
+      42.9116,
+      -2.8573
+    ]
+  },
+  {
+    "id": "CIAF-2014-024",
+    "year": 2014,
+    "date": "2014-10-24",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.7768,
+    "lng": -1.2357,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Murcia (2014). Error humano.",
+    "latlng": [
+      37.7768,
+      -1.2357
+    ]
+  },
+  {
+    "id": "CIAF-2014-025",
+    "year": 2014,
+    "date": "2014-08-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.3684,
+    "lng": -0.4418,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Valencia (2014). Fallos eléctricos.",
+    "latlng": [
+      39.3684,
+      -0.4418
+    ]
+  },
+  {
+    "id": "CIAF-2014-026",
+    "year": 2014,
+    "date": "2014-05-25",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.71,
+    "lng": -0.392,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2014). Descarrilamiento.",
+    "latlng": [
+      41.71,
+      -0.392
+    ]
+  },
+  {
+    "id": "CIAF-2014-027",
+    "year": 2014,
+    "date": "2014-11-01",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 42.0498,
+    "lng": -0.5433,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Huesca (2014). Fallos eléctricos.",
+    "latlng": [
+      42.0498,
+      -0.5433
+    ]
+  },
+  {
+    "id": "CIAF-2014-028",
+    "year": 2014,
+    "date": "2014-04-22",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.953,
+    "lng": -2.5028,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Logroño (2014). Descarrilamiento.",
+    "latlng": [
+      42.953,
+      -2.5028
+    ]
+  },
+  {
+    "id": "CIAF-2014-029",
+    "year": 2014,
+    "date": "2014-01-11",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Burgos",
+    "lat": 41.8859,
+    "lng": -3.2529,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2014). Atropello.",
+    "latlng": [
+      41.8859,
+      -3.2529
+    ]
+  },
+  {
+    "id": "CIAF-2014-030",
+    "year": 2014,
+    "date": "2014-05-18",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.2487,
+    "lng": -3.4638,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Madrid (2014). Colisión frontal.",
+    "latlng": [
+      40.2487,
+      -3.4638
+    ]
+  },
+  {
+    "id": "CIAF-2014-031",
+    "year": 2014,
+    "date": "2014-05-07",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.2603,
+    "lng": -3.4351,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Granada (2014). Atropello.",
+    "latlng": [
+      37.2603,
+      -3.4351
+    ]
+  },
+  {
+    "id": "CIAF-2014-032",
+    "year": 2014,
+    "date": "2014-06-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 42.0628,
+    "lng": 0.1866,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Lleida (2014). Fallo de señalización.",
+    "latlng": [
+      42.0628,
+      0.1866
+    ]
+  },
+  {
+    "id": "CIAF-2014-033",
+    "year": 2014,
+    "date": "2014-08-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.825,
+    "lng": -0.4725,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Alicante (2014). Choque con obstáculo.",
+    "latlng": [
+      38.825,
+      -0.4725
+    ]
+  },
+  {
+    "id": "CIAF-2014-034",
+    "year": 2014,
+    "date": "2014-09-10",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.6495,
+    "lng": -0.9311,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Zaragoza (2014). Choque con obstáculo.",
+    "latlng": [
+      41.6495,
+      -0.9311
+    ]
+  },
+  {
+    "id": "CIAF-2014-035",
+    "year": 2014,
+    "date": "2014-05-26",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.2636,
+    "lng": -3.8519,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Madrid (2014). Colisión frontal.",
+    "latlng": [
+      40.2636,
+      -3.8519
+    ]
+  },
+  {
+    "id": "CIAF-2014-036",
+    "year": 2014,
+    "date": "2014-03-03",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Vitoria",
+    "lat": 43.2958,
+    "lng": -2.9585,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Vitoria (2014). Fallo de señalización.",
+    "latlng": [
+      43.2958,
+      -2.9585
+    ]
+  },
+  {
+    "id": "CIAF-2014-037",
+    "year": 2014,
+    "date": "2014-08-18",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Alicante",
+    "lat": 38.4181,
+    "lng": -0.5545,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2014). Fallos eléctricos.",
+    "latlng": [
+      38.4181,
+      -0.5545
+    ]
+  },
+  {
+    "id": "CIAF-2014-038",
+    "year": 2014,
+    "date": "2014-09-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 43.0307,
+    "lng": -2.9818,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Vitoria (2014). Condiciones meteorológicas.",
+    "latlng": [
+      43.0307,
+      -2.9818
+    ]
+  },
+  {
+    "id": "CIAF-2014-039",
+    "year": 2014,
+    "date": "2014-12-01",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.5272,
+    "lng": 0.0723,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Valencia (2014). Error humano.",
+    "latlng": [
+      39.5272,
+      0.0723
+    ]
+  },
+  {
+    "id": "CIAF-2014-040",
+    "year": 2014,
+    "date": "2014-03-25",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Pamplona",
+    "lat": 43.0581,
+    "lng": -1.3241,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Pamplona (2014). Choque con obstáculo.",
+    "latlng": [
+      43.0581,
+      -1.3241
+    ]
+  },
+  {
+    "id": "CIAF-2014-041",
+    "year": 2014,
+    "date": "2014-04-20",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Madrid",
+    "lat": 40.6792,
+    "lng": -3.5918,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2014). Condiciones meteorológicas.",
+    "latlng": [
+      40.6792,
+      -3.5918
+    ]
+  },
+  {
+    "id": "CIAF-2014-042",
+    "year": 2014,
+    "date": "2014-12-21",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Valencia",
+    "lat": 39.658,
+    "lng": -0.3997,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Valencia (2014). Atropello.",
+    "latlng": [
+      39.658,
+      -0.3997
+    ]
+  },
+  {
+    "id": "CIAF-2014-043",
+    "year": 2014,
+    "date": "2014-05-14",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 42.9558,
+    "lng": -2.2879,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en San Sebastián (2014). Descarrilamiento.",
+    "latlng": [
+      42.9558,
+      -2.2879
+    ]
+  },
+  {
+    "id": "CIAF-2014-044",
+    "year": 2014,
+    "date": "2014-08-08",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 37.1484,
+    "lng": -3.9358,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Málaga (2014). Fallos eléctricos.",
+    "latlng": [
+      37.1484,
+      -3.9358
+    ]
+  },
+  {
+    "id": "CIAF-2014-045",
+    "year": 2014,
+    "date": "2014-10-20",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.6557,
+    "lng": -3.4816,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Burgos (2014). Vía bloqueada.",
+    "latlng": [
+      42.6557,
+      -3.4816
+    ]
+  },
+  {
+    "id": "CIAF-2014-046",
+    "year": 2014,
+    "date": "2014-09-18",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Sevilla",
+    "lat": 37.3407,
+    "lng": -5.6575,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Sevilla (2014). Vía bloqueada.",
+    "latlng": [
+      37.3407,
+      -5.6575
+    ]
+  },
+  {
+    "id": "CIAF-2014-047",
+    "year": 2014,
+    "date": "2014-05-15",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.7293,
+    "lng": -6.0178,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en León (2014). Fallos eléctricos.",
+    "latlng": [
+      42.7293,
+      -6.0178
+    ]
+  },
+  {
+    "id": "CIAF-2014-048",
+    "year": 2014,
+    "date": "2014-08-03",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.0298,
+    "lng": -6.3554,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Cáceres (2014). Fallos eléctricos.",
+    "latlng": [
+      39.0298,
+      -6.3554
+    ]
+  },
+  {
+    "id": "CIAF-2014-049",
+    "year": 2014,
+    "date": "2014-03-15",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.4575,
+    "lng": -7.3094,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2014). Descarrilamiento.",
+    "latlng": [
+      37.4575,
+      -7.3094
+    ]
+  },
+  {
+    "id": "CIAF-2014-050",
+    "year": 2014,
+    "date": "2014-12-04",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 37.7123,
+    "lng": -4.6308,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Córdoba (2014). Condiciones meteorológicas.",
+    "latlng": [
+      37.7123,
+      -4.6308
+    ]
+  },
+  {
+    "id": "CIAF-2014-051",
+    "year": 2014,
+    "date": "2014-07-18",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Valencia",
+    "lat": 39.4937,
+    "lng": -0.4922,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Valencia (2014). Condiciones meteorológicas.",
+    "latlng": [
+      39.4937,
+      -0.4922
+    ]
+  },
+  {
+    "id": "CIAF-2014-052",
+    "year": 2014,
+    "date": "2014-12-02",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Santander",
+    "lat": 43.8336,
+    "lng": -3.4473,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Santander (2014). Atropello.",
+    "latlng": [
+      43.8336,
+      -3.4473
+    ]
+  },
+  {
+    "id": "CIAF-2014-053",
+    "year": 2014,
+    "date": "2014-10-25",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Valladolid",
+    "lat": 41.7788,
+    "lng": -5.1069,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Valladolid (2014). Atropello.",
+    "latlng": [
+      41.7788,
+      -5.1069
+    ]
+  },
+  {
+    "id": "CIAF-2014-054",
+    "year": 2014,
+    "date": "2014-04-19",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 38.8779,
+    "lng": -6.6631,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Badajoz (2014). Atropello.",
+    "latlng": [
+      38.8779,
+      -6.6631
+    ]
+  },
+  {
+    "id": "CIAF-2014-055",
+    "year": 2014,
+    "date": "2014-09-27",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.5711,
+    "lng": -0.8697,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Valencia (2014). Choque con obstáculo.",
+    "latlng": [
+      39.5711,
+      -0.8697
+    ]
+  },
+  {
+    "id": "CIAF-2014-056",
+    "year": 2014,
+    "date": "2014-05-11",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 41.5407,
+    "lng": 1.7053,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Barcelona (2014). Fallo de señalización.",
+    "latlng": [
+      41.5407,
+      1.7053
+    ]
+  },
+  {
+    "id": "CIAF-2014-057",
+    "year": 2014,
+    "date": "2014-10-26",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.3826,
+    "lng": -4.637,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Málaga (2014). Fallos eléctricos.",
+    "latlng": [
+      36.3826,
+      -4.637
+    ]
+  },
+  {
+    "id": "CIAF-2014-058",
+    "year": 2014,
+    "date": "2014-02-25",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.9637,
+    "lng": -6.068,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Gijón (2014). Error humano.",
+    "latlng": [
+      43.9637,
+      -6.068
+    ]
+  },
+  {
+    "id": "CIAF-2014-059",
+    "year": 2014,
+    "date": "2014-09-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 42.9528,
+    "lng": -1.7866,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en San Sebastián (2014). Descarrilamiento.",
+    "latlng": [
+      42.9528,
+      -1.7866
+    ]
+  },
+  {
+    "id": "CIAF-2014-060",
+    "year": 2014,
+    "date": "2014-10-26",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.692,
+    "lng": -3.681,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Santander (2014). Error humano.",
+    "latlng": [
+      43.692,
+      -3.681
+    ]
+  },
+  {
+    "id": "CIAF-2014-061",
+    "year": 2014,
+    "date": "2014-09-24",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 41.0452,
+    "lng": -5.5403,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Salamanca (2014). Fallos eléctricos.",
+    "latlng": [
+      41.0452,
+      -5.5403
+    ]
+  },
+  {
+    "id": "CIAF-2014-062",
+    "year": 2014,
+    "date": "2014-11-26",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.5538,
+    "lng": -0.0017,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Alicante (2014). Fallo de señalización.",
+    "latlng": [
+      38.5538,
+      -0.0017
+    ]
+  },
+  {
+    "id": "CIAF-2014-063",
+    "year": 2014,
+    "date": "2014-04-23",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.2212,
+    "lng": 2.229,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2014). Error humano.",
+    "latlng": [
+      41.2212,
+      2.229
+    ]
+  },
+  {
+    "id": "CIAF-2014-064",
+    "year": 2014,
+    "date": "2014-06-13",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valladolid",
+    "lat": 41.659,
+    "lng": -4.9006,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Valladolid (2014). Choque con obstáculo.",
+    "latlng": [
+      41.659,
+      -4.9006
+    ]
+  },
+  {
+    "id": "CIAF-2014-065",
+    "year": 2014,
+    "date": "2014-01-21",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.4793,
+    "lng": -1.0512,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2014). Atropello.",
+    "latlng": [
+      41.4793,
+      -1.0512
+    ]
+  },
+  {
+    "id": "CIAF-2014-066",
+    "year": 2014,
+    "date": "2014-12-02",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 37.6266,
+    "lng": -6.5488,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2014). Vía bloqueada.",
+    "latlng": [
+      37.6266,
+      -6.5488
+    ]
+  },
+  {
+    "id": "CIAF-2014-067",
+    "year": 2014,
+    "date": "2014-02-05",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.3654,
+    "lng": -2.6067,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Vitoria (2014). Fallo de señalización.",
+    "latlng": [
+      42.3654,
+      -2.6067
+    ]
+  },
+  {
+    "id": "CIAF-2014-068",
+    "year": 2014,
+    "date": "2014-02-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.6519,
+    "lng": 0.286,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Lleida (2014). Error humano.",
+    "latlng": [
+      41.6519,
+      0.286
+    ]
+  },
+  {
+    "id": "CIAF-2014-069",
+    "year": 2014,
+    "date": "2014-04-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.5738,
+    "lng": -0.753,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Murcia (2014). Condiciones meteorológicas.",
+    "latlng": [
+      37.5738,
+      -0.753
+    ]
+  },
+  {
+    "id": "CIAF-2014-070",
+    "year": 2014,
+    "date": "2014-08-17",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.4156,
+    "lng": -8.8427,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Santiago (2014). Atropello.",
+    "latlng": [
+      42.4156,
+      -8.8427
+    ]
+  },
+  {
+    "id": "CIAF-2014-071",
+    "year": 2014,
+    "date": "2014-09-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.7053,
+    "lng": -3.8914,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Burgos (2014). Atropello.",
+    "latlng": [
+      42.7053,
+      -3.8914
+    ]
+  },
+  {
+    "id": "CIAF-2014-072",
+    "year": 2014,
+    "date": "2014-11-28",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.391,
+    "lng": -3.5763,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Granada (2014). Atropello.",
+    "latlng": [
+      37.391,
+      -3.5763
+    ]
+  },
+  {
+    "id": "CIAF-2014-073",
+    "year": 2014,
+    "date": "2014-10-25",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 36.8075,
+    "lng": -6.9241,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Huelva (2014). Fallo mecánico.",
+    "latlng": [
+      36.8075,
+      -6.9241
+    ]
+  },
+  {
+    "id": "CIAF-2014-074",
+    "year": 2014,
+    "date": "2014-03-06",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.4354,
+    "lng": -0.8568,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2014). Fallos eléctricos.",
+    "latlng": [
+      41.4354,
+      -0.8568
+    ]
+  },
+  {
+    "id": "CIAF-2014-075",
+    "year": 2014,
+    "date": "2014-03-23",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.8608,
+    "lng": -2.9775,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Vitoria (2014). Choque con obstáculo.",
+    "latlng": [
+      42.8608,
+      -2.9775
+    ]
+  },
+  {
+    "id": "CIAF-2014-076",
+    "year": 2014,
+    "date": "2014-01-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.2813,
+    "lng": 0.0159,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Valencia (2014). Colisión frontal.",
+    "latlng": [
+      39.2813,
+      0.0159
+    ]
+  },
+  {
+    "id": "CIAF-2014-077",
+    "year": 2014,
+    "date": "2014-12-23",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Valencia",
+    "lat": 39.3964,
+    "lng": -0.6973,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Valencia (2014). Error humano.",
+    "latlng": [
+      39.3964,
+      -0.6973
+    ]
+  },
+  {
+    "id": "CIAF-2014-078",
+    "year": 2014,
+    "date": "2014-08-19",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Vigo",
+    "lat": 42.5502,
+    "lng": -8.5097,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Vigo (2014). Descarrilamiento.",
+    "latlng": [
+      42.5502,
+      -8.5097
+    ]
+  },
+  {
+    "id": "CIAF-2014-079",
+    "year": 2014,
+    "date": "2014-03-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.6229,
+    "lng": -1.5014,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Pamplona (2014). Fallo de señalización.",
+    "latlng": [
+      42.6229,
+      -1.5014
+    ]
+  },
+  {
+    "id": "CIAF-2014-080",
+    "year": 2014,
+    "date": "2014-02-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.9209,
+    "lng": -4.2562,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Málaga (2014). Atropello.",
+    "latlng": [
+      36.9209,
+      -4.2562
+    ]
+  },
+  {
+    "id": "CIAF-2014-081",
+    "year": 2014,
+    "date": "2014-02-13",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 38.5501,
+    "lng": -6.7027,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2014). Error humano.",
+    "latlng": [
+      38.5501,
+      -6.7027
+    ]
+  },
+  {
+    "id": "CIAF-2014-082",
+    "year": 2014,
+    "date": "2014-03-16",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.8077,
+    "lng": -2.5936,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Vitoria (2014). Fallo mecánico.",
+    "latlng": [
+      42.8077,
+      -2.5936
+    ]
+  },
+  {
+    "id": "CIAF-2014-083",
+    "year": 2014,
+    "date": "2014-09-23",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.6569,
+    "lng": -2.5139,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Logroño (2014). Fallos eléctricos.",
+    "latlng": [
+      42.6569,
+      -2.5139
+    ]
+  },
+  {
+    "id": "CIAF-2014-084",
+    "year": 2014,
+    "date": "2014-08-06",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.4494,
+    "lng": -2.3528,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Logroño (2014). Fallos eléctricos.",
+    "latlng": [
+      42.4494,
+      -2.3528
+    ]
+  },
+  {
+    "id": "CIAF-2014-085",
+    "year": 2014,
+    "date": "2014-11-02",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.5746,
+    "lng": -5.8881,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Sevilla (2014). Fallos eléctricos.",
+    "latlng": [
+      37.5746,
+      -5.8881
+    ]
+  },
+  {
+    "id": "CIAF-2014-086",
+    "year": 2014,
+    "date": "2014-09-10",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 37.5164,
+    "lng": -6.6349,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2014). Fallo mecánico.",
+    "latlng": [
+      37.5164,
+      -6.6349
+    ]
+  },
+  {
+    "id": "CIAF-2014-087",
+    "year": 2014,
+    "date": "2014-05-14",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.8303,
+    "lng": -1.0725,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2014). Fallos eléctricos.",
+    "latlng": [
+      41.8303,
+      -1.0725
+    ]
+  },
+  {
+    "id": "CIAF-2014-088",
+    "year": 2014,
+    "date": "2014-01-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 40.8743,
+    "lng": -6.0359,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Salamanca (2014). Error humano.",
+    "latlng": [
+      40.8743,
+      -6.0359
+    ]
+  },
+  {
+    "id": "CIAF-2014-089",
+    "year": 2014,
+    "date": "2014-12-13",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.4105,
+    "lng": -7.0389,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Badajoz (2014). Vía bloqueada.",
+    "latlng": [
+      38.4105,
+      -7.0389
+    ]
+  },
+  {
+    "id": "CIAF-2014-090",
+    "year": 2014,
+    "date": "2014-07-05",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.8113,
+    "lng": -0.9142,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Zaragoza (2014). Colisión frontal.",
+    "latlng": [
+      41.8113,
+      -0.9142
+    ]
+  },
+  {
+    "id": "CIAF-2014-091",
+    "year": 2014,
+    "date": "2014-02-05",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valencia",
+    "lat": 39.6183,
+    "lng": -0.7323,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Valencia (2014). Fallos eléctricos.",
+    "latlng": [
+      39.6183,
+      -0.7323
+    ]
+  },
+  {
+    "id": "CIAF-2014-092",
+    "year": 2014,
+    "date": "2014-03-14",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.6757,
+    "lng": -4.4973,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Málaga (2014). Fallo mecánico.",
+    "latlng": [
+      36.6757,
+      -4.4973
+    ]
+  },
+  {
+    "id": "CIAF-2014-093",
+    "year": 2014,
+    "date": "2014-01-19",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.5315,
+    "lng": -6.3818,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Cádiz (2014). Fallos eléctricos.",
+    "latlng": [
+      36.5315,
+      -6.3818
+    ]
+  },
+  {
+    "id": "CIAF-2014-094",
+    "year": 2014,
+    "date": "2014-08-17",
+    "type": "avería",
+    "severity": "grave",
+    "city": "San Sebastián",
+    "lat": 43.78,
+    "lng": -2.4011,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en San Sebastián (2014). Fallo mecánico.",
+    "latlng": [
+      43.78,
+      -2.4011
+    ]
+  },
+  {
+    "id": "CIAF-2014-095",
+    "year": 2014,
+    "date": "2014-09-26",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.449,
+    "lng": -1.8175,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en San Sebastián (2014). Condiciones meteorológicas.",
+    "latlng": [
+      43.449,
+      -1.8175
+    ]
+  },
+  {
+    "id": "CIAF-2014-096",
+    "year": 2014,
+    "date": "2014-12-11",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Vitoria",
+    "lat": 43.1252,
+    "lng": -2.7152,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2014). Error humano.",
+    "latlng": [
+      43.1252,
+      -2.7152
+    ]
+  },
+  {
+    "id": "CIAF-2014-097",
+    "year": 2014,
+    "date": "2014-05-02",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.2566,
+    "lng": -3.9985,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Málaga (2014). Fallos eléctricos.",
+    "latlng": [
+      36.2566,
+      -3.9985
+    ]
+  },
+  {
+    "id": "CIAF-2014-098",
+    "year": 2014,
+    "date": "2014-08-03",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 41.5437,
+    "lng": 1.9604,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2014). Error humano.",
+    "latlng": [
+      41.5437,
+      1.9604
+    ]
+  },
+  {
+    "id": "CIAF-2014-099",
+    "year": 2014,
+    "date": "2014-10-06",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.5207,
+    "lng": -4.9984,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2014). Condiciones meteorológicas.",
+    "latlng": [
+      37.5207,
+      -4.9984
+    ]
+  },
+  {
+    "id": "CIAF-2014-100",
+    "year": 2014,
+    "date": "2014-01-11",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.5536,
+    "lng": -8.2623,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2014). Atropello.",
+    "latlng": [
+      42.5536,
+      -8.2623
+    ]
+  },
+  {
+    "id": "CIAF-2014-101",
+    "year": 2014,
+    "date": "2014-11-06",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "León",
+    "lat": 43.0923,
+    "lng": -5.2967,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en León (2014). Colisión frontal.",
+    "latlng": [
+      43.0923,
+      -5.2967
+    ]
+  },
+  {
+    "id": "CIAF-2014-102",
+    "year": 2014,
+    "date": "2014-08-10",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.382,
+    "lng": 0.9395,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Lleida (2014). Fallo de señalización.",
+    "latlng": [
+      41.382,
+      0.9395
+    ]
+  },
+  {
+    "id": "CIAF-2014-103",
+    "year": 2014,
+    "date": "2014-01-10",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.3418,
+    "lng": -0.434,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Huesca (2014). Vía bloqueada.",
+    "latlng": [
+      42.3418,
+      -0.434
+    ]
+  },
+  {
+    "id": "CIAF-2014-104",
+    "year": 2014,
+    "date": "2014-10-21",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.5921,
+    "lng": -0.8112,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Huesca (2014). Error humano.",
+    "latlng": [
+      42.5921,
+      -0.8112
+    ]
+  },
+  {
+    "id": "CIAF-2014-105",
+    "year": 2014,
+    "date": "2014-12-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.4765,
+    "lng": -8.3905,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Santiago (2014). Choque con obstáculo.",
+    "latlng": [
+      42.4765,
+      -8.3905
+    ]
+  },
+  {
+    "id": "CIAF-2014-106",
+    "year": 2014,
+    "date": "2014-09-04",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.2804,
+    "lng": -8.5498,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Vigo (2014). Error humano.",
+    "latlng": [
+      42.2804,
+      -8.5498
+    ]
+  },
+  {
+    "id": "CIAF-2014-107",
+    "year": 2014,
+    "date": "2014-11-27",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.5813,
+    "lng": -5.2557,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Córdoba (2014). Descarrilamiento.",
+    "latlng": [
+      37.5813,
+      -5.2557
+    ]
+  },
+  {
+    "id": "CIAF-2014-108",
+    "year": 2014,
+    "date": "2014-10-26",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Valencia",
+    "lat": 39.8263,
+    "lng": -0.7464,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Valencia (2014). Error humano.",
+    "latlng": [
+      39.8263,
+      -0.7464
+    ]
+  },
+  {
+    "id": "CIAF-2014-109",
+    "year": 2014,
+    "date": "2014-07-23",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Valladolid",
+    "lat": 41.6193,
+    "lng": -4.2883,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Valladolid (2014). Descarrilamiento.",
+    "latlng": [
+      41.6193,
+      -4.2883
+    ]
+  },
+  {
+    "id": "CIAF-2014-110",
+    "year": 2014,
+    "date": "2014-05-06",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Córdoba",
+    "lat": 38.1653,
+    "lng": -4.8966,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2014). Fallo mecánico.",
+    "latlng": [
+      38.1653,
+      -4.8966
+    ]
+  },
+  {
+    "id": "CIAF-2014-111",
+    "year": 2014,
+    "date": "2014-04-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.2291,
+    "lng": -7.7184,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Ourense (2014). Descarrilamiento.",
+    "latlng": [
+      42.2291,
+      -7.7184
+    ]
+  },
+  {
+    "id": "CIAF-2014-112",
+    "year": 2014,
+    "date": "2014-08-05",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 40.9603,
+    "lng": 2.2399,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Barcelona (2014). Error humano.",
+    "latlng": [
+      40.9603,
+      2.2399
+    ]
+  },
+  {
+    "id": "CIAF-2014-113",
+    "year": 2014,
+    "date": "2014-08-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.4631,
+    "lng": -2.5304,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Bilbao (2014). Vía bloqueada.",
+    "latlng": [
+      43.4631,
+      -2.5304
+    ]
+  },
+  {
+    "id": "CIAF-2014-114",
+    "year": 2014,
+    "date": "2014-06-11",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 37.8485,
+    "lng": -0.0268,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2014). Descarrilamiento.",
+    "latlng": [
+      37.8485,
+      -0.0268
+    ]
+  },
+  {
+    "id": "CIAF-2014-115",
+    "year": 2014,
+    "date": "2014-11-07",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Gijón",
+    "lat": 43.5668,
+    "lng": -5.2002,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Gijón (2014). Fallo de señalización.",
+    "latlng": [
+      43.5668,
+      -5.2002
+    ]
+  },
+  {
+    "id": "CIAF-2014-116",
+    "year": 2014,
+    "date": "2014-08-03",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 41.8272,
+    "lng": -0.2127,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2014). Colisión frontal.",
+    "latlng": [
+      41.8272,
+      -0.2127
+    ]
+  },
+  {
+    "id": "CIAF-2014-117",
+    "year": 2014,
+    "date": "2014-09-21",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.1742,
+    "lng": -0.3927,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2014). Colisión frontal.",
+    "latlng": [
+      41.1742,
+      -0.3927
+    ]
+  },
+  {
+    "id": "CIAF-2014-118",
+    "year": 2014,
+    "date": "2014-04-26",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.2267,
+    "lng": 2.0063,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2014). Fallos eléctricos.",
+    "latlng": [
+      41.2267,
+      2.0063
+    ]
+  },
+  {
+    "id": "CIAF-2014-119",
+    "year": 2014,
+    "date": "2014-08-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.77,
+    "lng": -0.9441,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Alicante (2014). Colisión frontal.",
+    "latlng": [
+      38.77,
+      -0.9441
+    ]
+  },
+  {
+    "id": "CIAF-2014-120",
+    "year": 2014,
+    "date": "2014-10-03",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.854,
+    "lng": -4.0167,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Málaga (2014). Fallos eléctricos.",
+    "latlng": [
+      36.854,
+      -4.0167
+    ]
+  }
+]

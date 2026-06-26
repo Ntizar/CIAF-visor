@@ -1,0 +1,1479 @@
+/* ============================================
+   KAIZEN DESIGN SYSTEM v4.0
+   Equipo Kaizen - Ineco
+   Estilo: Flat corporativo Ineco real
+   Colores oficiales del manual de marca
+   ============================================ */
+
+/* ============================================
+   1. VARIABLES (TOKENS)
+   ============================================ */
+:root {
+  /* Colores Oficiales Ineco — Manual de Marca */
+  --kz-azul: #1A4488;          /* Pantone 7687 C — Color principal */
+  --kz-rojo: #CB1823;          /* Pantone 485 C — Complementario */
+  --kz-azul-medio: #3463AC;    /* Complementario secundario */
+  --kz-azul-claro: #6B96CF;    /* Complementario terciario */
+
+  /* Escala de azules (derivados oficiales) */
+  --kz-azul-900: #0f2d5a;
+  --kz-azul-800: #1A4488;
+  --kz-azul-700: #22569e;
+  --kz-azul-600: #3463AC;
+  --kz-azul-500: #4a7fc0;
+  --kz-azul-400: #6B96CF;
+  --kz-azul-300: #8fb3de;
+  --kz-azul-200: #b8d1ec;
+  --kz-azul-100: #dce9f6;
+  --kz-azul-50: #eef4fb;
+
+  /* Escala de rojos */
+  --kz-rojo-600: #a31420;
+  --kz-rojo-500: #CB1823;
+  --kz-rojo-400: #d9404d;
+  --kz-rojo-300: #e8707a;
+  --kz-rojo-200: #f4aab0;
+  --kz-rojo-100: #fbd5d8;
+  --kz-rojo-50: #fdf2f3;
+
+  /* Neutrales — Grises limpios */
+  --kz-negro: #1a1a2e;
+  --kz-gris-900: #333333;
+  --kz-gris-800: #4a4a5a;
+  --kz-gris-700: #666666;
+  --kz-gris-600: #808080;
+  --kz-gris-500: #999999;
+  --kz-gris-400: #b3b3b3;
+  --kz-gris-300: #cccccc;
+  --kz-gris-200: #e0e0e0;
+  --kz-gris-100: #f0f0f0;
+  --kz-gris-50: #f8f8f8;
+  --kz-blanco: #ffffff;
+
+  /* Semi-transparentes */
+  --kz-overlay: rgba(0, 0, 0, 0.45);
+  --kz-backdrop: rgba(255, 255, 255, 0.8);
+
+  /* Tipografía — Inter */
+  --kz-font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --kz-font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  /* Tamaños */
+  --kz-text-xs: 0.75rem;
+  --kz-text-sm: 0.8125rem;
+  --kz-text-base: 0.9375rem;
+  --kz-text-md: 1rem;
+  --kz-text-lg: 1.125rem;
+  --kz-text-xl: 1.375rem;
+  --kz-text-2xl: 1.75rem;
+  --kz-text-3xl: 2.25rem;
+
+  /* Espaciado */
+  --kz-gap-xs: 4px;
+  --kz-gap-sm: 8px;
+  --kz-gap-md: 16px;
+  --kz-gap-lg: 24px;
+  --kz-gap-xl: 32px;
+  --kz-gap-2xl: 48px;
+
+  /* Radio — muy sutil, estilo Ineco */
+  --kz-radius-sm: 4px;
+  --kz-radius-md: 6px;
+  --kz-radius-lg: 8px;
+
+  /* Transiciones */
+  --kz-transition: 150ms ease;
+
+  /* Sidebar */
+  --kz-sidebar-width: 380px;
+
+  /* Header */
+  --kz-header-height: 60px;
+  --kz-banner-height: 44px;
+}
+
+/* ============================================
+   2. RESET Y BASE
+   ============================================ */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--kz-font);
+  font-size: var(--kz-text-base);
+  line-height: 1.6;
+  color: var(--kz-gris-900);
+  background: var(--kz-blanco);
+}
+
+a {
+  color: var(--kz-azul);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ============================================
+   3. SIDEBAR — Estilo Ineco real
+   ============================================ */
+.kz-sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: var(--kz-sidebar-width);
+  background: var(--kz-blanco);
+  border-right: 1px solid var(--kz-gris-200);
+  overflow-y: auto;
+  z-index: 100;
+  padding: 0;
+}
+
+/* Categorías del sidebar (GENERAL, PERSONAL, etc.) */
+.kz-sidebar-category {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  font-size: var(--kz-text-sm);
+  font-weight: 700;
+  color: var(--kz-azul);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 3px solid var(--kz-azul);
+  cursor: pointer;
+  background: var(--kz-blanco);
+}
+
+.kz-sidebar-category:hover {
+  background: var(--kz-azul-50);
+}
+
+.kz-sidebar-category::after {
+  content: '▾';
+  font-size: 10px;
+  color: var(--kz-azul);
+}
+
+/* Items del sidebar */
+.kz-sidebar-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px 10px 28px;
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-800);
+  cursor: pointer;
+  border-bottom: 1px solid var(--kz-gris-100);
+}
+
+.kz-sidebar-item:hover {
+  background: var(--kz-azul-50);
+  color: var(--kz-azul);
+}
+
+.kz-sidebar-item::after {
+  content: '▾';
+  font-size: 9px;
+  color: var(--kz-gris-400);
+}
+
+/* ============================================
+   4. HEADER — Barra azul superior
+   ============================================ */
+.kz-header {
+  background: var(--kz-blanco);
+  border-bottom: 1px solid var(--kz-gris-200);
+  height: var(--kz-header-height);
+  display: flex;
+  align-items: center;
+  padding: 0 var(--kz-gap-lg);
+  gap: var(--kz-gap-lg);
+}
+
+/* Buscador en header */
+.kz-search {
+  display: flex;
+  align-items: center;
+  gap: var(--kz-gap-sm);
+}
+
+.kz-search-label {
+  font-size: var(--kz-text-xs);
+  font-weight: 700;
+  color: var(--kz-azul);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.kz-search-input {
+  border: 1px solid var(--kz-gris-300);
+  border-radius: var(--kz-radius-sm);
+  padding: 6px 12px;
+  font-size: var(--kz-text-sm);
+  width: 200px;
+  outline: none;
+}
+
+.kz-search-input:focus {
+  border-color: var(--kz-azul);
+}
+
+.kz-search-btn {
+  background: var(--kz-azul);
+  color: var(--kz-blanco);
+  border: none;
+  border-radius: var(--kz-radius-sm);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.kz-search-btn:hover {
+  background: var(--kz-azul-700);
+}
+
+/* Iconos de header (Soporte, Personae, etc.) */
+.kz-header-icons {
+  display: flex;
+  gap: var(--kz-gap-xl);
+  margin-left: auto;
+}
+
+.kz-header-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  color: var(--kz-azul);
+  font-size: var(--kz-text-xs);
+  text-decoration: none;
+}
+
+.kz-header-icon:hover {
+  color: var(--kz-azul-600);
+  text-decoration: none;
+}
+
+.kz-header-icon-symbol {
+  font-size: 20px;
+}
+
+/* Logos */
+.kz-header-logo {
+  margin-left: auto;
+  font-size: var(--kz-text-2xl);
+  font-weight: 800;
+  color: var(--kz-azul);
+  letter-spacing: -0.5px;
+}
+
+.kz-header-logo-red {
+  color: var(--kz-rojo);
+}
+
+/* ============================================
+   5. BANNER — Barra de bienvenida azul
+   ============================================ */
+.kz-banner {
+  background: linear-gradient(135deg, var(--kz-azul) 0%, var(--kz-azul-medio) 100%);
+  color: var(--kz-blanco);
+  height: var(--kz-banner-height);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--kz-gap-lg);
+  font-size: var(--kz-text-sm);
+}
+
+.kz-banner-greeting {
+  font-weight: 500;
+}
+
+.kz-banner-date {
+  font-weight: 400;
+  opacity: 0.9;
+}
+
+/* ============================================
+   6. SECCIONES — Estilo Ineco real
+   ============================================ */
+.kz-section {
+  padding: var(--kz-gap-lg) var(--kz-gap-xl);
+}
+
+/* Título de sección — azul, bold, uppercase, línea debajo */
+.kz-section-title {
+  font-size: var(--kz-text-md);
+  font-weight: 700;
+  color: var(--kz-azul);
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  padding-bottom: var(--kz-gap-sm);
+  border-bottom: 2px solid var(--kz-azul);
+  margin-bottom: var(--kz-gap-lg);
+}
+
+/* Subtítulo de sección */
+.kz-section-subtitle {
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-600);
+  margin-top: calc(-1 * var(--kz-gap-sm));
+  margin-bottom: var(--kz-gap-lg);
+}
+
+/* Separador horizontal simple */
+.kz-divider {
+  border: none;
+  border-top: 1px solid var(--kz-gris-200);
+  margin: var(--kz-gap-lg) 0;
+}
+
+/* ============================================
+   7. GRID — Layout de contenido
+   ============================================ */
+.kz-grid {
+  display: grid;
+  gap: var(--kz-gap-lg);
+}
+
+.kz-grid-2 { grid-template-columns: repeat(2, 1fr); }
+.kz-grid-3 { grid-template-columns: repeat(3, 1fr); }
+.kz-grid-4 { grid-template-columns: repeat(4, 1fr); }
+.kz-grid-6 { grid-template-columns: repeat(6, 1fr); }
+
+.kz-grid-sidebar {
+  grid-template-columns: var(--kz-sidebar-width) 1fr;
+}
+
+/* ============================================
+   8. TILES / KPI — Estilo Ineco
+   ============================================ */
+.kz-tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--kz-gap-sm);
+  padding: var(--kz-gap-md);
+  background: var(--kz-blanco);
+  border: 1px solid var(--kz-gris-200);
+  border-radius: var(--kz-radius-md);
+  cursor: pointer;
+  transition: background var(--kz-transition);
+  text-align: center;
+}
+
+.kz-tile:hover {
+  background: var(--kz-azul-50);
+  border-color: var(--kz-azul-300);
+}
+
+.kz-tile-icon {
+  font-size: 28px;
+  color: var(--kz-azul);
+}
+
+.kz-tile-label {
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-800);
+  font-weight: 500;
+}
+
+.kz-tile-value {
+  font-size: var(--kz-text-2xl);
+  font-weight: 700;
+  color: var(--kz-azul);
+}
+
+.kz-tile-unit {
+  font-size: var(--kz-text-xs);
+  color: var(--kz-gris-600);
+  font-weight: 400;
+}
+
+/* ============================================
+   9. BOTONES — Limpios, sin sombras
+   ============================================ */
+.kz-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 16px;
+  font-family: var(--kz-font);
+  font-size: var(--kz-text-sm);
+  font-weight: 500;
+  border: 1px solid transparent;
+  border-radius: var(--kz-radius-sm);
+  cursor: pointer;
+  transition: all var(--kz-transition);
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.kz-btn:hover {
+  text-decoration: none;
+}
+
+/* Primario — Azul Ineco */
+.kz-btn-primary {
+  background: var(--kz-azul);
+  color: var(--kz-blanco);
+  border-color: var(--kz-azul);
+}
+
+.kz-btn-primary:hover {
+  background: var(--kz-azul-700);
+  border-color: var(--kz-azul-700);
+}
+
+/* Secundario — Borde azul */
+.kz-btn-secondary {
+  background: var(--kz-blanco);
+  color: var(--kz-azul);
+  border-color: var(--kz-azul);
+}
+
+.kz-btn-secondary:hover {
+  background: var(--kz-azul-50);
+}
+
+/* Acento — Rojo Ineco */
+.kz-btn-accent {
+  background: var(--kz-rojo);
+  color: var(--kz-blanco);
+  border-color: var(--kz-rojo);
+}
+
+.kz-btn-accent:hover {
+  background: var(--kz-rojo-600);
+  border-color: var(--kz-rojo-600);
+}
+
+/* Fantasma — Transparente */
+.kz-btn-ghost {
+  background: transparent;
+  color: var(--kz-azul);
+  border-color: transparent;
+}
+
+.kz-btn-ghost:hover {
+  background: var(--kz-azul-50);
+}
+
+/* Tamaños */
+.kz-btn-sm { padding: 5px 10px; font-size: var(--kz-text-xs); }
+.kz-btn-lg { padding: 12px 24px; font-size: var(--kz-text-md); }
+
+/* ============================================
+   10. TABLA — Línea bajo encabezado
+   ============================================ */
+.kz-table-wrapper {
+  overflow-x: auto;
+}
+
+.kz-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--kz-text-sm);
+}
+
+.kz-table thead th {
+  text-align: left;
+  font-weight: 600;
+  font-size: var(--kz-text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--kz-azul);
+  padding: 10px 16px;
+  border-bottom: 2px solid var(--kz-azul);
+}
+
+.kz-table tbody td {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--kz-gris-100);
+  color: var(--kz-gris-900);
+}
+
+.kz-table tbody tr:hover {
+  background: var(--kz-azul-50);
+}
+
+/* ============================================
+   11. FORMULARIOS — Limpios
+   ============================================ */
+.kz-form-group {
+  margin-bottom: var(--kz-gap-md);
+}
+
+.kz-label {
+  display: block;
+  font-size: var(--kz-text-sm);
+  font-weight: 500;
+  color: var(--kz-gris-800);
+  margin-bottom: var(--kz-gap-xs);
+}
+
+.kz-input,
+.kz-select,
+.kz-textarea {
+  width: 100%;
+  padding: 8px 12px;
+  font-family: var(--kz-font);
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-900);
+  background: var(--kz-blanco);
+  border: 1px solid var(--kz-gris-300);
+  border-radius: var(--kz-radius-sm);
+  outline: none;
+  transition: border-color var(--kz-transition);
+}
+
+.kz-input:focus,
+.kz-select:focus,
+.kz-textarea:focus {
+  border-color: var(--kz-azul);
+}
+
+.kz-hint {
+  font-size: var(--kz-text-xs);
+  color: var(--kz-gris-600);
+  margin-top: 2px;
+}
+
+.kz-textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+/* ============================================
+   12. CAROUSEL / TARJETAS DE IMÁGENES
+   ============================================ */
+.kz-carousel {
+  display: flex;
+  gap: var(--kz-gap-md);
+  overflow-x: auto;
+  padding: var(--kz-gap-sm) 0;
+  scroll-snap-type: x mandatory;
+}
+
+.kz-carousel-item {
+  flex: 0 0 auto;
+  width: 200px;
+  height: 120px;
+  border-radius: var(--kz-radius-md);
+  overflow: hidden;
+  scroll-snap-align: start;
+  position: relative;
+  background: var(--kz-gris-100);
+}
+
+.kz-carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.kz-carousel-label {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px 12px;
+  background: var(--kz-overlay);
+  color: var(--kz-blanco);
+  font-size: var(--kz-text-xs);
+  font-weight: 500;
+}
+
+/* ============================================
+   13. TARJETAS DE NOTICIAS
+   ============================================ */
+.kz-news {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--kz-gap-lg);
+  align-items: start;
+}
+
+.kz-news-main {
+  display: flex;
+  gap: var(--kz-gap-lg);
+  align-items: center;
+}
+
+.kz-news-image {
+  width: 280px;
+  height: 160px;
+  background: var(--kz-gris-100);
+  border-radius: var(--kz-radius-md);
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.kz-news-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.kz-news-title {
+  font-size: var(--kz-text-lg);
+  font-weight: 600;
+  color: var(--kz-gris-900);
+  margin-bottom: var(--kz-gap-sm);
+  line-height: 1.3;
+}
+
+.kz-news-excerpt {
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-700);
+  line-height: 1.6;
+}
+
+.kz-news-link {
+  display: inline-block;
+  margin-top: var(--kz-gap-sm);
+  font-size: var(--kz-text-sm);
+  color: var(--kz-azul);
+  font-weight: 500;
+}
+
+/* ============================================
+   14. AVISO / BANNER INFORMATIVO
+   ============================================ */
+.kz-notice {
+  background: var(--kz-azul-50);
+  border-left: 4px solid var(--kz-azul);
+  padding: var(--kz-gap-md) var(--kz-gap-lg);
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-800);
+}
+
+.kz-notice-error {
+  background: var(--kz-rojo-50);
+  border-left-color: var(--kz-rojo);
+}
+
+.kz-notice-success {
+  background: #f0fdf4;
+  border-left-color: #16a34a;
+}
+
+/* ============================================
+   15. BADGE / ETIQUETA
+   ============================================ */
+.kz-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  font-size: var(--kz-text-xs);
+  font-weight: 500;
+  border-radius: var(--kz-radius-sm);
+  background: var(--kz-azul-50);
+  color: var(--kz-azul);
+}
+
+.kz-badge-success {
+  background: #f0fdf4;
+  color: #16a34a;
+}
+
+.kz-badge-warning {
+  background: #fffbeb;
+  color: #d97706;
+}
+
+.kz-badge-error {
+  background: var(--kz-rojo-50);
+  color: var(--kz-rojo);
+}
+
+/* ============================================
+   16. TABS — Pestañas simples
+   ============================================ */
+.kz-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid var(--kz-gris-200);
+}
+
+.kz-tab {
+  padding: 10px 20px;
+  font-size: var(--kz-text-sm);
+  font-weight: 500;
+  color: var(--kz-gris-600);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: all var(--kz-transition);
+}
+
+.kz-tab:hover {
+  color: var(--kz-azul);
+}
+
+.kz-tab-active {
+  color: var(--kz-azul);
+  border-bottom-color: var(--kz-azul);
+  font-weight: 600;
+}
+
+/* ============================================
+   17. MAPA / CONTENIDO EMBED
+   ============================================ */
+.kz-map-container {
+  width: 100%;
+  height: 400px;
+  background: var(--kz-gris-100);
+  border-radius: var(--kz-radius-md);
+  overflow: hidden;
+  position: relative;
+}
+
+/* ============================================
+   18. DROPZONE — Zona de carga de archivos
+   ============================================ */
+.kz-dropzone {
+  border: 2px dashed var(--kz-gris-300);
+  border-radius: var(--kz-radius-lg);
+  padding: var(--kz-gap-lg) var(--kz-gap-md);
+  text-align: center;
+  cursor: pointer;
+  transition: all var(--kz-transition);
+  background: var(--kz-blanco);
+}
+
+.kz-dropzone:hover,
+.kz-dropzone.kz-dropzone-active {
+  border-color: var(--kz-azul);
+  background: var(--kz-azul-50);
+}
+
+.kz-dropzone-icon {
+  font-size: 32px;
+  margin-bottom: var(--kz-gap-sm);
+  color: var(--kz-gris-400);
+}
+
+.kz-dropzone-text {
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-700);
+  margin-bottom: var(--kz-gap-xs);
+}
+
+.kz-dropzone-text strong {
+  color: var(--kz-azul);
+  font-weight: 600;
+}
+
+.kz-dropzone-hint {
+  font-size: var(--kz-text-xs);
+  color: var(--kz-gris-500);
+}
+
+.kz-dropzone.kz-dropzone-active {
+  border-style: solid;
+}
+
+/* ============================================
+   19. RANGE SLIDER — Input de rango estilizado
+   ============================================ */
+.kz-slider-row {
+  display: flex;
+  align-items: center;
+  gap: var(--kz-gap-md);
+}
+
+.kz-slider {
+  flex: 1;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  background: var(--kz-gris-200);
+  border-radius: 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.kz-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--kz-azul);
+  border: 2px solid var(--kz-blanco);
+  cursor: pointer;
+  transition: background var(--kz-transition);
+}
+
+.kz-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--kz-azul);
+  border: 2px solid var(--kz-blanco);
+  cursor: pointer;
+}
+
+.kz-slider::-webkit-slider-thumb:hover {
+  background: var(--kz-azul-700);
+}
+
+.kz-slider-value {
+  font-size: var(--kz-text-sm);
+  font-weight: 600;
+  color: var(--kz-azul);
+  min-width: 48px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============================================
+   20. PROGRESS BAR — Barra de progreso
+   ============================================ */
+.kz-progress {
+  width: 100%;
+  height: 6px;
+  background: var(--kz-gris-100);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.kz-progress-fill {
+  height: 100%;
+  background: var(--kz-azul);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+  width: 0%;
+}
+
+.kz-progress-fill-success {
+  background: #16a34a;
+}
+
+.kz-progress-fill-warning {
+  background: #d97706;
+}
+
+.kz-progress-fill-error {
+  background: var(--kz-rojo);
+}
+
+.kz-progress-indeterminate .kz-progress-fill {
+  width: 30%;
+  animation: kz-progress-slide 1.5s ease-in-out infinite;
+}
+
+@keyframes kz-progress-slide {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(400%); }
+}
+
+/* ============================================
+   21. LOADING STATES — Spinners y overlays
+   ============================================ */
+.kz-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--kz-gris-200);
+  border-top-color: var(--kz-azul);
+  border-radius: 50%;
+  animation: kz-spin 0.8s linear infinite;
+}
+
+.kz-spinner-sm {
+  width: 16px;
+  height: 16px;
+  border-width: 2px;
+}
+
+.kz-spinner-lg {
+  width: 48px;
+  height: 48px;
+  border-width: 4px;
+}
+
+@keyframes kz-spin {
+  to { transform: rotate(360deg); }
+}
+
+.kz-loading-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--kz-overlay);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.kz-loading-card {
+  background: var(--kz-blanco);
+  padding: var(--kz-gap-xl) var(--kz-gap-2xl);
+  border-radius: var(--kz-radius-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--kz-gap-md);
+}
+
+.kz-loading-text {
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-700);
+}
+
+/* ============================================
+   22. SEARCH DROPDOWN — Autocomplete
+   ============================================ */
+.kz-search-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--kz-blanco);
+  border: 1px solid var(--kz-gris-200);
+  border-radius: 0 0 var(--kz-radius-md) var(--kz-radius-md);
+  max-height: 240px;
+  overflow-y: auto;
+  z-index: 200;
+  display: none;
+}
+
+.kz-search-dropdown.kz-search-dropdown-open {
+  display: block;
+}
+
+.kz-search-dropdown-item {
+  padding: 10px 16px;
+  font-size: var(--kz-text-sm);
+  cursor: pointer;
+  border-bottom: 1px solid var(--kz-gris-50);
+  display: flex;
+  align-items: center;
+  gap: var(--kz-gap-sm);
+  transition: background var(--kz-transition);
+}
+
+.kz-search-dropdown-item:hover {
+  background: var(--kz-azul-50);
+}
+
+.kz-search-dropdown-item:last-child {
+  border-bottom: none;
+}
+
+.kz-search-dropdown-item-name {
+  font-weight: 500;
+  color: var(--kz-gris-900);
+}
+
+.kz-search-dropdown-item-meta {
+  font-size: var(--kz-text-xs);
+  color: var(--kz-gris-500);
+}
+
+/* ============================================
+   23. PANEL / DRAWER — Paneles deslizantes
+   ============================================ */
+.kz-panel {
+  position: fixed;
+  background: var(--kz-blanco);
+  border-top: 2px solid var(--kz-azul);
+  z-index: 1000;
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+  overflow-y: auto;
+}
+
+.kz-panel-bottom {
+  bottom: 0;
+  left: var(--kz-sidebar-width);
+  right: 0;
+  max-height: 45vh;
+}
+
+.kz-panel-right {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 400px;
+  max-height: 100vh;
+  border-top: none;
+  border-left: 2px solid var(--kz-azul);
+  transform: translateX(100%);
+}
+
+.kz-panel.kz-panel-open {
+  transform: translateY(0);
+}
+
+.kz-panel-right.kz-panel-open {
+  transform: translateX(0);
+}
+
+.kz-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--kz-gap-sm) var(--kz-gap-lg);
+  background: var(--kz-gris-50);
+  border-bottom: 1px solid var(--kz-gris-200);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.kz-panel-header h4 {
+  font-size: var(--kz-text-base);
+  font-weight: 700;
+}
+
+.kz-panel-close {
+  background: none;
+  border: none;
+  font-size: 1.3rem;
+  cursor: pointer;
+  color: var(--kz-gris-500);
+  padding: 4px 8px;
+  border-radius: var(--kz-radius-sm);
+  transition: all var(--kz-transition);
+}
+
+.kz-panel-close:hover {
+  background: var(--kz-gris-100);
+  color: var(--kz-gris-900);
+}
+
+.kz-panel-body {
+  padding: var(--kz-gap-lg);
+}
+
+/* ============================================
+   24. TOGGLE / SWITCH — Interruptor on/off
+   ============================================ */
+.kz-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--kz-gap-sm);
+  cursor: pointer;
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-800);
+}
+
+.kz-toggle-input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.kz-toggle-track {
+  width: 36px;
+  height: 20px;
+  background: var(--kz-gris-300);
+  border-radius: 10px;
+  position: relative;
+  transition: background var(--kz-transition);
+  flex-shrink: 0;
+}
+
+.kz-toggle-track::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  background: var(--kz-blanco);
+  border-radius: 50%;
+  transition: transform var(--kz-transition);
+}
+
+.kz-toggle-input:checked + .kz-toggle-track {
+  background: var(--kz-azul);
+}
+
+.kz-toggle-input:checked + .kz-toggle-track::after {
+  transform: translateX(16px);
+}
+
+.kz-toggle-input:focus-visible + .kz-toggle-track {
+  outline: 2px solid var(--kz-azul);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   25. FILTER CHIPS — Pilas de filtros
+   ============================================ */
+.kz-chips {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.kz-chip {
+  padding: 4px 12px;
+  border: 1px solid var(--kz-gris-200);
+  background: var(--kz-blanco);
+  border-radius: var(--kz-radius-sm);
+  font-size: var(--kz-text-xs);
+  font-weight: 500;
+  color: var(--kz-gris-700);
+  cursor: pointer;
+  transition: all var(--kz-transition);
+  white-space: nowrap;
+}
+
+.kz-chip:hover {
+  border-color: var(--kz-azul-300);
+  color: var(--kz-azul);
+}
+
+.kz-chip.kz-chip-active {
+  background: var(--kz-azul);
+  color: var(--kz-blanco);
+  border-color: var(--kz-azul);
+}
+
+.kz-chip-accent {
+  border-color: var(--kz-rojo-200);
+  color: var(--kz-rojo);
+}
+
+.kz-chip-accent.kz-chip-active {
+  background: var(--kz-rojo);
+  border-color: var(--kz-rojo);
+  color: var(--kz-blanco);
+}
+
+/* ============================================
+   26. TOAST / SNACKBAR — Notificaciones
+   ============================================ */
+.kz-toast-container {
+  position: fixed;
+  bottom: var(--kz-gap-lg);
+  right: var(--kz-gap-lg);
+  z-index: 10000;
+  display: flex;
+  flex-direction: column;
+  gap: var(--kz-gap-sm);
+}
+
+.kz-toast {
+  background: var(--kz-gris-900);
+  color: var(--kz-blanco);
+  padding: 12px 20px;
+  border-radius: var(--kz-radius-md);
+  font-size: var(--kz-text-sm);
+  display: flex;
+  align-items: center;
+  gap: var(--kz-gap-sm);
+  min-width: 280px;
+  max-width: 420px;
+  animation: kz-toast-in 0.3s ease;
+}
+
+.kz-toast-success {
+  background: #16a34a;
+}
+
+.kz-toast-error {
+  background: var(--kz-rojo);
+}
+
+.kz-toast-warning {
+  background: #d97706;
+}
+
+@keyframes kz-toast-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================================
+   27. STATUS INDICATOR — Puntos de estado
+   ============================================ */
+.kz-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: var(--kz-text-xs);
+  font-weight: 500;
+}
+
+.kz-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.kz-status-online .kz-status-dot { background: #16a34a; }
+.kz-status-offline .kz-status-dot { background: var(--kz-gris-400); }
+.kz-status-warning .kz-status-dot { background: #d97706; }
+.kz-status-error .kz-status-dot { background: var(--kz-rojo); }
+
+.kz-status-online { color: #16a34a; }
+.kz-status-offline { color: var(--kz-gris-500); }
+.kz-status-warning { color: #d97706; }
+.kz-status-error { color: var(--kz-rojo); }
+
+/* ============================================
+   28. STATS ROW — KPIs horizontales
+   ============================================ */
+.kz-stats-row {
+  display: flex;
+  gap: var(--kz-gap-md);
+}
+
+.kz-stat-box {
+  flex: 1;
+  padding: var(--kz-gap-md);
+  background: var(--kz-gris-50);
+  border-radius: var(--kz-radius-md);
+  text-align: center;
+}
+
+.kz-stat-box .kz-stat-val {
+  font-size: var(--kz-text-xl);
+  font-weight: 700;
+  color: var(--kz-azul);
+  font-variant-numeric: tabular-nums;
+}
+
+.kz-stat-box .kz-stat-lbl {
+  font-size: var(--kz-text-xs);
+  color: var(--kz-gris-600);
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-top: 2px;
+}
+
+/* ============================================
+   29. EMPTY STATE — Sin datos
+   ============================================ */
+.kz-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--kz-gap-2xl) var(--kz-gap-lg);
+  text-align: center;
+}
+
+.kz-empty-icon {
+  font-size: 48px;
+  margin-bottom: var(--kz-gap-md);
+  opacity: 0.4;
+}
+
+.kz-empty-title {
+  font-size: var(--kz-text-md);
+  font-weight: 600;
+  color: var(--kz-gris-800);
+  margin-bottom: var(--kz-gap-sm);
+}
+
+.kz-empty-text {
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-500);
+  max-width: 360px;
+  line-height: 1.5;
+}
+
+/* ============================================
+   30. SKELETON — Loading placeholders
+   ============================================ */
+.kz-skeleton {
+  background: var(--kz-gris-100);
+  border-radius: var(--kz-radius-sm);
+  animation: kz-skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+.kz-skeleton-text {
+  height: 14px;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.kz-skeleton-text:last-child {
+  width: 60%;
+}
+
+.kz-skeleton-title {
+  height: 20px;
+  width: 40%;
+  margin-bottom: 12px;
+}
+
+.kz-skeleton-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.kz-skeleton-card {
+  height: 120px;
+  width: 100%;
+  border-radius: var(--kz-radius-md);
+}
+
+@keyframes kz-skeleton-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/* ============================================
+   31. CHECKBOX / RADIO — Controles de formulario
+   ============================================ */
+.kz-checkbox,
+.kz-radio {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: var(--kz-text-sm);
+  color: var(--kz-gris-800);
+  cursor: pointer;
+  user-select: none;
+}
+
+.kz-checkbox-input,
+.kz-radio-input {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border: 1.5px solid var(--kz-gris-400);
+  background: var(--kz-blanco);
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: all var(--kz-transition);
+}
+
+.kz-checkbox-input {
+  border-radius: 3px;
+}
+
+.kz-radio-input {
+  border-radius: 50%;
+}
+
+.kz-checkbox-input:checked,
+.kz-radio-input:checked {
+  background: var(--kz-azul);
+  border-color: var(--kz-azul);
+}
+
+.kz-checkbox-input:checked::after {
+  content: '✓';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  width: 100%;
+  height: 100%;
+}
+
+.kz-radio-input:checked::after {
+  content: '';
+  display: block;
+  width: 6px;
+  height: 6px;
+  margin: auto;
+  background: white;
+  border-radius: 50%;
+}
+
+.kz-checkbox-input:focus-visible,
+.kz-radio-input:focus-visible {
+  outline: 2px solid var(--kz-azul);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   32. UTILIDADES
+   ============================================ */
+.kz-text-azul { color: var(--kz-azul); }
+.kz-text-rojo { color: var(--kz-rojo); }
+.kz-text-gris { color: var(--kz-gris-600); }
+.kz-text-blanco { color: var(--kz-blanco); }
+.kz-text-center { text-align: center; }
+.kz-text-right { text-align: right; }
+.kz-text-bold { font-weight: 700; }
+.kz-text-sm { font-size: var(--kz-text-sm); }
+.kz-text-xs { font-size: var(--kz-text-xs); }
+.kz-text-lg { font-size: var(--kz-text-lg); }
+.kz-text-uppercase { text-transform: uppercase; letter-spacing: 0.5px; }
+
+.kz-mt-0 { margin-top: 0; }
+.kz-mt-sm { margin-top: var(--kz-gap-sm); }
+.kz-mt-md { margin-top: var(--kz-gap-md); }
+.kz-mt-lg { margin-top: var(--kz-gap-lg); }
+.kz-mb-0 { margin-bottom: 0; }
+.kz-mb-sm { margin-bottom: var(--kz-gap-sm); }
+.kz-mb-md { margin-bottom: var(--kz-gap-md); }
+.kz-mb-lg { margin-bottom: var(--kz-gap-lg); }
+
+.kz-flex { display: flex; }
+.kz-flex-center { display: flex; align-items: center; justify-content: center; }
+.kz-flex-between { display: flex; align-items: center; justify-content: space-between; }
+.kz-flex-col { display: flex; flex-direction: column; }
+.kz-gap-sm { gap: var(--kz-gap-sm); }
+.kz-gap-md { gap: var(--kz-gap-md); }
+.kz-gap-lg { gap: var(--kz-gap-lg); }
+
+.kz-w-full { width: 100%; }
+.kz-hidden { display: none; }
+
+/* ============================================
+   33. RESPONSIVE
+   ============================================ */
+@media (max-width: 1024px) {
+  .kz-grid-3 { grid-template-columns: repeat(2, 1fr); }
+  .kz-grid-4 { grid-template-columns: repeat(2, 1fr); }
+  .kz-grid-6 { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 768px) {
+  .kz-sidebar {
+    display: none;
+  }
+
+  .kz-grid-2,
+  .kz-grid-3,
+  .kz-grid-4 {
+    grid-template-columns: 1fr;
+  }
+
+  .kz-news {
+    grid-template-columns: 1fr;
+  }
+
+  .kz-news-main {
+    flex-direction: column;
+  }
+}

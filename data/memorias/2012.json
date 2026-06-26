@@ -1,0 +1,47 @@
+{
+  "year": 2012,
+  "title": "Memoria Anual CIAF 2012",
+  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2012.",
+  "total_accidents": 54,
+  "total_incidents": 47,
+  "total_fatal": 5,
+  "total_victims": 78,
+  "total_material_damage_eur": 36002930,
+  "top_causes": [
+    {
+      "cause": "Colisión frontal",
+      "count": 8
+    },
+    {
+      "cause": "Descarrilamiento",
+      "count": 14
+    },
+    {
+      "cause": "Choque con obstáculo",
+      "count": 7
+    },
+    {
+      "cause": "Error humano",
+      "count": 13
+    },
+    {
+      "cause": "Fallo mecánico",
+      "count": 9
+    }
+  ],
+  "top_entities": [
+    {
+      "entity": "ADIF",
+      "count": 27
+    },
+    {
+      "entity": "Renfe",
+      "count": 13
+    },
+    {
+      "entity": "FCC",
+      "count": 15
+    }
+  ],
+  "highlights": "En 2012 se realizaron mejoras significativas en la seguridad ferroviaria."
+}

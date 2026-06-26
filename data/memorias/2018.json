@@ -1,0 +1,47 @@
+{
+  "year": 2018,
+  "title": "Memoria Anual CIAF 2018",
+  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2018.",
+  "total_accidents": 75,
+  "total_incidents": 24,
+  "total_fatal": 10,
+  "total_victims": 23,
+  "total_material_damage_eur": 31654877,
+  "top_causes": [
+    {
+      "cause": "Colisión frontal",
+      "count": 6
+    },
+    {
+      "cause": "Descarrilamiento",
+      "count": 3
+    },
+    {
+      "cause": "Choque con obstáculo",
+      "count": 10
+    },
+    {
+      "cause": "Error humano",
+      "count": 12
+    },
+    {
+      "cause": "Fallo mecánico",
+      "count": 6
+    }
+  ],
+  "top_entities": [
+    {
+      "entity": "ADIF",
+      "count": 32
+    },
+    {
+      "entity": "Renfe",
+      "count": 5
+    },
+    {
+      "entity": "FCC",
+      "count": 15
+    }
+  ],
+  "highlights": "En 2018 se realizaron mejoras significativas en la seguridad ferroviaria."
+}

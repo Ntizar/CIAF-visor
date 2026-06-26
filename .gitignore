@@ -1,0 +1,19 @@
+# PDFs originales (muy pesados, ~200MB)
+pdfs/
+
+# Imágenes extraídas (pesadas)
+data/images/
+
+# Archivos temporales
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datos temporales de procesamiento
+data/parse_errors.json
+scripts/test_parser.py

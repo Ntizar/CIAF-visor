@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CIAF - Centro de Información de Accidentes Ferroviarios</title>
+    <link rel="stylesheet" href="css/kaizen.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --kz-azul: #1A4488;
+            --kz-rojo: #CB1823;
+            --kz-azul-medio: #3463AC;
+            --kz-azul-claro: #6B96CF;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--kz-font, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif); background: #f5f7fa; color: #333; }
+        .app-header { background: var(--kz-azul); color: white; padding: 0.75rem 1.5rem; display: flex; align-items: center; justify-content: space-between; height: 56px; }
+        .app-header h1 { font-size: 1.1rem; font-weight: 600; }
+        .app-header .subtitle { font-size: 0.8rem; opacity: 0.8; }
+        .tabs-bar { display: flex; background: white; border-bottom: 2px solid #e0e0e0; padding: 0 1rem; }
+        .tabs-bar .tab { padding: 0.75rem 1.25rem; cursor: pointer; border-bottom: 3px solid transparent; font-size: 0.9rem; color: #666; transition: all 0.2s; }
+        .tabs-bar .tab:hover { color: var(--kz-azul); background: #f0f4f8; }
+        .tabs-bar .tab.active { color: var(--kz-azul); border-bottom-color: var(--kz-azul); font-weight: 600; }
+        .main-layout { display: flex; height: calc(100vh - 100px); }
+        .sidebar { width: 280px; background: white; border-right: 1px solid #e0e0e0; overflow-y: auto; padding: 1rem; flex-shrink: 0; }
+        .sidebar h3 { font-size: 0.8rem; text-transform: uppercase; color: var(--kz-azul); margin: 1rem 0 0.5rem; letter-spacing: 0.5px; border-bottom: 1px solid var(--kz-azul-claro); padding-bottom: 0.25rem; }
+        .sidebar h3:first-child { margin-top: 0; }
+        .sidebar label { display: block; font-size: 0.85rem; margin-bottom: 0.3rem; color: #555; }
+        .sidebar select, .sidebar input[type="number"], .sidebar input[type="range"] { width: 100%; padding: 0.4rem; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85rem; margin-bottom: 0.5rem; }
+        .sidebar input[type="range"] { padding: 0; }
+        .sidebar .range-values { display: flex; justify-content: space-between; font-size: 0.75rem; color: #888; }
+        .sidebar .filter-count { font-size: 0.75rem; color: var(--kz-azul-medio); margin-top: 0.5rem; }
+        .sidebar .btn-reset { background: var(--kz-rojo); color: white; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.8rem; margin-top: 0.5rem; width: 100%; }
+        .sidebar .btn-reset:hover { opacity: 0.9; }
+        .content { flex: 1; overflow: hidden; }
+        .tab-content { display: none; height: 100%; overflow-y: auto; }
+        .tab-content.active { display: block; }
+        #map { width: 100%; height: 100%; }
+        .dashboard-grid { padding: 1.5rem; }
+        .kpi-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+        .kpi-card { background: white; padding: 1.25rem; border-left: 4px solid var(--kz-azul); }
+        .kpi-card.rojo { border-left-color: var(--kz-rojo); }
+        .kpi-card.medio { border-left-color: var(--kz-azul-medio); }
+        .kpi-card.claro { border-left-color: var(--kz-azul-claro); }
+        .kpi-card .value { font-size: 2rem; font-weight: 700; color: var(--kz-azul); }
+        .kpi-card.rojo .value { color: var(--kz-rojo); }
+        .kpi-card.medio .value { color: var(--kz-azul-medio); }
+        .kpi-card.claro .value { color: var(--kz-azul-claro); }
+        .kpi-card .label { font-size: 0.8rem; color: #666; text-transform: uppercase; letter-spacing: 0.5px; }
+        .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem; }
+        .chart-card { background: white; padding: 1rem; }
+        .chart-card h3 { font-size: 0.9rem; color: var(--kz-azul); margin-bottom: 0.75rem; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.5rem; }
+        .chart-card canvas { width: 100% !important; max-height: 300px; }
+        .reports-table-wrapper { padding: 1.5rem; }
+        .search-bar { display: flex; gap: 0.75rem; margin-bottom: 1rem; align-items: center; }
+        .search-bar input { flex: 1; padding: 0.5rem 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 0.9rem; }
+        .search-bar .result-count { font-size: 0.8rem; color: #888; }
+        table.reports-table { width: 100%; border-collapse: collapse; background: white; font-size: 0.85rem; }
+        table.reports-table th { background: var(--kz-azul); color: white; padding: 0.6rem 0.75rem; text-align: left; font-weight: 500; position: sticky; top: 0; cursor: pointer; }
+        table.reports-table th:hover { background: var(--kz-azul-medio); }
+        table.reports-table td { padding: 0.5rem 0.75rem; border-bottom: 1px solid #eee; }
+        table.reports-table tr:hover { background: #f0f4f8; }
+        .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 3px; font-size: 0.75rem; font-weight: 500; }
+        .badge-accidente { background: #fee; color: var(--kz-rojo); }
+        .badge-incidente { background: #fff3e0; color: #e65100; }
+        .badge-averia { background: #e3f2fd; color: var(--kz-azul); }
+        .badge-leve { background: #e8f5e9; color: #2e7d32; }
+        .badge-grave { background: #fff3e0; color: #e65100; }
+        .badge-muy-grave { background: #fce4ec; color: #c62828; }
+        .badge-fatal { background: #c62828; color: white; }
+        .memorias-content { padding: 1.5rem; }
+        .memorias-content h2 { color: var(--kz-azul); margin-bottom: 1rem; border-bottom: 2px solid var(--kz-azul); padding-bottom: 0.5rem; }
+        .year-selector { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
+        .year-btn { padding: 0.4rem 0.8rem; border: 1px solid #ccc; background: white; cursor: pointer; border-radius: 4px; font-size: 0.85rem; }
+        .year-btn.active { background: var(--kz-azul); color: white; border-color: var(--kz-azul); }
+        .memoria-detail { background: white; padding: 1.5rem; }
+        .memoria-detail h3 { color: var(--kz-azul); margin-bottom: 0.5rem; }
+        .memoria-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin: 1rem 0; }
+        .memoria-stat { text-align: center; padding: 0.75rem; background: #f5f7fa; }
+        .memoria-stat .num { font-size: 1.5rem; font-weight: 700; color: var(--kz-azul); }
+        .memoria-stat .lbl { font-size: 0.75rem; color: #666; }
+        .comparison-table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+        .comparison-table th, .comparison-table td { padding: 0.5rem; border: 1px solid #ddd; text-align: right; font-size: 0.85rem; }
+        .comparison-table th { background: #f0f4f8; text-align: left; }
+        .comparison-table th.year-col { text-align: center; background: var(--kz-azul); color: white; }
+        .normativa-content { padding: 1.5rem; }
+        .normativa-content h2 { color: var(--kz-azul); margin-bottom: 1rem; border-bottom: 2px solid var(--kz-azul); padding-bottom: 0.5rem; }
+        .normativa-list { list-style: none; }
+        .normativa-item { background: white; padding: 1rem 1.25rem; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
+        .normativa-item:hover { background: #f0f4f8; }
+        .normativa-item .doc-title { font-weight: 600; color: var(--kz-azul); }
+        .normativa-item .doc-desc { font-size: 0.85rem; color: #666; margin-top: 0.25rem; }
+        .normativa-item .doc-date { font-size: 0.8rem; color: #999; }
+        .loading-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255,255,255,0.9); display: flex; align-items: center; justify-content: center; z-index: 9999; }
+        .loading-overlay.hidden { display: none; }
+        .spinner { width: 40px; height: 40px; border: 4px solid #e0e0e0; border-top: 4px solid var(--kz-azul); border-radius: 50%; animation: spin 1s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .popup-content h4 { color: var(--kz-azul); margin-bottom: 0.5rem; }
+        .popup-content p { margin: 0.25rem 0; font-size: 0.85rem; }
+        .popup-content .detail-label { font-weight: 600; }
+        @media (max-width: 900px) {
+            .sidebar { display: none; }
+            .chart-row { grid-template-columns: 1fr; }
+            .kpi-row { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 600px) {
+            .kpi-row { grid-template-columns: 1fr; }
+            .tabs-bar { overflow-x: auto; }
+            .tabs-bar .tab { white-space: nowrap; font-size: 0.8rem; padding: 0.6rem 0.8rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="loading-overlay" id="loadingOverlay">
+    <div style="text-align:center">
+        <div class="spinner"></div>
+        <p style="margin-top:1rem;color:var(--kz-azul)">Cargando datos...</p>
+    </div>
+</div>
+
+<div class="app-header">
+    <div>
+        <h1>🚂 CIAF - Centro de Información de Accidentes Ferroviarios</h1>
+        <div class="subtitle">Visualización interactiva de datos de seguridad ferroviaria en España</div>
+    </div>
+</div>
+
+<div class="tabs-bar" id="tabsBar">
+    <div class="tab active" data-tab="mapa">🗺️ Mapa</div>
+    <div class="tab" data-tab="dashboard">📊 Dashboard</div>
+    <div class="tab" data-tab="informes">📋 Informes</div>
+    <div class="tab" data-tab="memorias">📖 Memorias</div>
+    <div class="tab" data-tab="normativa">⚖️ Normativa</div>
+</div>
+
+<div class="main-layout">
+    <div class="sidebar" id="sidebar">
+        <h3>Filtros</h3>
+        <label>Año desde</label>
+        <input type="range" id="yearMin" min="2007" max="2025" value="2007">
+        <div class="range-values"><span id="yearMinVal">2007</span><span>2025</span></div>
+        <label>Año hasta</label>
+        <input type="range" id="yearMax" min="2007" max="2025" value="2025">
+        <div class="range-values"><span>2007</span><span id="yearMaxVal">2025</span></div>
+
+        <h3>Tipo</h3>
+        <select id="filterType">
+            <option value="">Todos</option>
+            <option value="accidente">Accidente</option>
+            <option value="incidente">Incidente</option>
+            <option value="avería">Avería</option>
+        </select>
+
+        <h3>Gravedad</h3>
+        <select id="filterSeverity">
+            <option value="">Todas</option>
+            <option value="leve">Leve</option>
+            <option value="grave">Grave</option>
+            <option value="muy grave">Muy Grave</option>
+            <option value="fatal">Fatal</option>
+        </select>
+
+        <h3>Entidad</h3>
+        <select id="filterEntity">
+            <option value="">Todas</option>
+            <option value="ADIF">ADIF</option>
+            <option value="Renfe">Renfe</option>
+            <option value="FCC">FCC</option>
+            <option value="Ferrocarriles">Ferrocarriles</option>
+            <option value="Otros">Otros</option>
+        </select>
+
+        <div class="filter-count" id="filterCount">Mostrando todos los informes</div>
+        <button class="btn-reset" onclick="resetFilters()">Restablecer filtros</button>
+    </div>
+
+    <div class="content">
+        <div class="tab-content active" id="tab-mapa">
+            <div id="map"></div>
+        </div>
+        <div class="tab-content" id="tab-dashboard">
+            <div class="dashboard-grid">
+                <div class="kpi-row">
+                    <div class="kpi-card">
+                        <div class="value" id="kpiTotal">-</div>
+                        <div class="label">Total Informes</div>
+                    </div>
+                    <div class="kpi-card rojo">
+                        <div class="value" id="kpiVictims">-</div>
+                        <div class="label">Total Víctimas</div>
+                    </div>
+                    <div class="kpi-card medio">
+                        <div class="value" id="kpiFatal">-</div>
+                        <div class="label">Accidentes Fatales</div>
+                    </div>
+                    <div class="kpi-card claro">
+                        <div class="value" id="kpiMaterial">-</div>
+                        <div class="label">Daños Materiales</div>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Evolución Anual de Informes</h3>
+                        <canvas id="chartEvolution"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Distribución por Tipo</h3>
+                        <canvas id="chartType"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Distribución por Gravedad</h3>
+                        <canvas id="chartSeverity"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Top 10 Ciudades</h3>
+                        <canvas id="chartCities"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tab-content" id="tab-informes">
+            <div class="reports-table-wrapper">
+                <div class="search-bar">
+                    <input type="text" id="searchInput" placeholder="Buscar por ID, ciudad, causa o entidad...">
+                    <span class="result-count" id="resultCount"></span>
+                </div>
+                <div style="overflow-x:auto; max-height: calc(100vh - 200px); overflow-y:auto;">
+                    <table class="reports-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="id">ID</th>
+                                <th data-sort="date">Fecha</th>
+                                <th data-sort="type">Tipo</th>
+                                <th data-sort="severity">Gravedad</th>
+                                <th data-sort="city">Ciudad</th>
+                                <th data-sort="entity">Entidad</th>
+                                <th data-sort="cause">Causa</th>
+                                <th data-sort="victims">Víctimas</th>
+                            </tr>
+                        </thead>
+                        <tbody id="reportsTableBody"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="tab-content" id="tab-memorias">
+            <div class="memorias-content">
+                <h2>Memorias Anuales</h2>
+                <div class="year-selector" id="memoriaYearSelector"></div>
+                <div id="memoriaDetail"></div>
+            </div>
+        </div>
+        <div class="tab-content" id="tab-normativa">
+            <div class="normativa-content">
+                <h2>Normativa Ferroviaria</h2>
+                <ul class="normativa-list" id="normativaList"></ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// ===== GLOBAL STATE =====
+let allReports = [];
+let filteredReports = [];
+let map, markersLayer, trainTracksLayer;
+
+// ===== INIT =====
+async function init() {
+    setupTabs();
+    setupFilters();
+    setupSearch();
+    await loadData();
+    initMap();
+    renderDashboard();
+    renderMemorias();
+    renderNormativa();
+    document.getElementById('loadingOverlay').classList.add('hidden');
+}
+
+// ===== TABS =====
+function setupTabs() {
+    document.querySelectorAll('.tabs-bar .tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            document.querySelectorAll('.tabs-bar .tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            tab.classList.add('active');
+            document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
+            if (tab.dataset.tab === 'mapa' && map) setTimeout(() => map.invalidateSize(), 100);
+        });
+    });
+}
+
+// ===== FILTERS =====
+function setupFilters() {
+    const yearMin = document.getElementById('yearMin');
+    const yearMax = document.getElementById('yearMax');
+    yearMin.addEventListener('input', () => { document.getElementById('yearMinVal').textContent = yearMin.value; applyFilters(); });
+    yearMax.addEventListener('input', () => { document.getElementById('yearMaxVal').textContent = yearMax.value; applyFilters(); });
+    document.getElementById('filterType').addEventListener('change', applyFilters);
+    document.getElementById('filterSeverity').addEventListener('change', applyFilters);
+    document.getElementById('filterEntity').addEventListener('change', applyFilters);
+}
+
+function resetFilters() {
+    document.getElementById('yearMin').value = 2007;
+    document.getElementById('yearMax').value = 2025;
+    document.getElementById('yearMinVal').textContent = '2007';
+    document.getElementById('yearMaxVal').textContent = '2025';
+    document.getElementById('filterType').value = '';
+    document.getElementById('filterSeverity').value = '';
+    document.getElementById('filterEntity').value = '';
+    document.getElementById('searchInput').value = '';
+    applyFilters();
+}
+
+function applyFilters() {
+    const yMin = parseInt(document.getElementById('yearMin').value);
+    const yMax = parseInt(document.getElementById('yearMax').value);
+    const type = document.getElementById('filterType').value;
+    const severity = document.getElementById('filterSeverity').value;
+    const entity = document.getElementById('filterEntity').value;
+    const search = document.getElementById('searchInput').value.toLowerCase();
+
+    filteredReports = allReports.filter(r => {
+        if (r.year < yMin || r.year > yMax) return false;
+        if (type && r.type !== type) return false;
+        if (severity && r.severity !== severity) return false;
+        if (entity && r.entity !== entity) return false;
+        if (search && !`${r.id} ${r.city} ${r.cause} ${r.entity} ${r.description}`.toLowerCase().includes(search)) return false;
+        return true;
+    });
+
+    document.getElementById('filterCount').textContent = `Mostrando ${filteredReports.length} de ${allReports.length} informes`;
+    document.getElementById('resultCount').textContent = `${filteredReports.length} resultados`;
+    updateMapMarkers();
+    renderTable();
+    renderDashboard();
+}
+
+// ===== SEARCH =====
+function setupSearch() {
+    document.getElementById('searchInput').addEventListener('input', applyFilters);
+}
+
+// ===== LOAD DATA =====
+async function loadData() {
+    try {
+        const indexResp = await fetch('../data/index.json');
+        const indexData = await indexResp.json();
+        const years = indexData.years_available || Object.keys(indexData.stats?.por_anio || {}).map(Number);
+        for (const year of years) {
+            try {
+                const resp = await fetch(`../data/reports/${year}.json`);
+                if (resp.ok) {
+                    const yearData = await resp.json();
+                    // Map parser fields to frontend fields
+                    const mapped = yearData.map(r => ({
+                        id: r.id,
+                        year: r.year,
+                        type: r.tipo || 'desconocido',
+                        severity: r.gravedad || 'leve',
+                        date: r.fecha_suceso || '',
+                        city: r.ubicacion?.estacion || r.ubicacion?.provincia || '',
+                        province: r.ubicacion?.provincia || '',
+                        entity: (r.entidades && r.entidades[0]) || '',
+                        cause: (r.tags && r.tags[0]) || '',
+                        description: r.analisis?.resumen || '',
+                        lat: r.ubicacion?.lat,
+                        lng: r.ubicacion?.lng,
+                        victims: r.consecuencias?.victimas_mortales || 0,
+                        injured: r.consecuencias?.heridos || 0,
+                        material_damage: r.consecuencias?.danos_materiales === true,
+                        tags: r.tags || [],
+                        recommendations: r.recomendaciones?.length || 0,
+                        conclusions: r.conclusiones?.length || 0,
+                        entities: r.entidades || [],
+                        station: r.ubicacion?.estacion || '',
+                        expediente: r.expediente || '',
+                        tipo_suceso: r.tipo_suceso || '',
+                        enlaces: r.enlaces || {}
+                    }));
+                    allReports = allReports.concat(mapped);
+                }
+            } catch (e) { console.warn(`No se pudieron cargar datos de ${year}`); }
+        }
+    } catch (e) {
+        console.error('Error cargando index.json:', e);
+    }
+    filteredReports = [...allReports];
+    document.getElementById('filterCount').textContent = `Mostrando ${filteredReports.length} de ${allReports.length} informes`;
+    document.getElementById('resultCount').textContent = `${filteredReports.length} resultados`;
+}
+
+// ===== MAP =====
+function initMap() {
+    map = L.map('map').setView([40.0, -3.5], 6);
+    L.tileLayer('https://www.ign.es/wmts/ign-base?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=IGNBase-gris&STYLE=default&TILEMATRIXSET=GoogleMapsCompatible&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&FORMAT=image/jpeg', {
+        attribution: '© IGN España',
+        maxZoom: 18
+    }).addTo(map);
+
+    markersLayer = L.markerClusterGroup({ maxClusterRadius: 50 });
+    map.addLayer(markersLayer);
+
+    trainTracksLayer = L.layerGroup();
+    loadTrainTracks();
+
+    const overlays = {
+        'Informes': markersLayer,
+        'Vías de tren': trainTracksLayer
+    };
+    L.control.layers(null, overlays, { position: 'topright' }).addTo(map);
+
+    updateMapMarkers();
+}
+
+function updateMapMarkers() {
+    markersLayer.clearLayers();
+    filteredReports.forEach(r => {
+        if (r.lat && r.lng) {
+            const color = r.type === 'accidente' ? '#CB1823' : r.type === 'incidente' ? '#e65100' : '#3463AC';
+            const icon = L.divIcon({
+                className: '',
+                html: `<div style="width:12px;height:12px;background:${color};border-radius:50%;border:2px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.4)"></div>`,
+                iconSize: [12, 12], iconAnchor: [6, 6]
+            });
+            const marker = L.marker([r.lat, r.lng], { icon });
+            marker.bindPopup(`
+                <div class="popup-content">
+                    <h4>${r.id}</h4>
+                    <p><span class="detail-label">Fecha:</span> ${r.date}</p>
+                    <p><span class="detail-label">Tipo:</span> <span class="badge badge-${r.type}">${r.type}</span></p>
+                    <p><span class="detail-label">Gravedad:</span> <span class="badge badge-${r.severity.replace(' ','-')}">${r.severity}</span></p>
+                    <p><span class="detail-label">Ciudad:</span> ${r.city}</p>
+                    <p><span class="detail-label">Entidad:</span> ${r.entity}</p>
+                    <p><span class="detail-label">Causa:</span> ${r.cause}</p>
+                    <p><span class="detail-label">Víctimas:</span> ${r.victims}</p>
+                    <p><span class="detail-label">Daños materiales:</span> ${r.material_damage ? 'Sí' : 'No'}</p>
+                </div>
+            `);
+            markersLayer.addLayer(marker);
+        }
+    });
+}
+
+async function loadTrainTracks() {
+    try {
+        const resp = await fetch('../data/train-tracks.geojson');
+        if (!resp.ok) throw new Error('GeoJSON no encontrado');
+        const data = await resp.json();
+        
+        // Dibujar vías por tipo
+        data.features.forEach(f => {
+            const coords = f.geometry.coordinates.map(c => [c[1], c[0]]); // [lat, lng]
+            if (coords.length < 2) return;
+            
+            const props = f.properties || {};
+            const color = props.color || '#3463AC';
+            const weight = props.weight || 2;
+            const opacity = 0.6;
+            
+            L.polyline(coords, { color, weight, opacity }).addTo(trainTracksLayer);
+        });
+        
+        console.log(`Vías de tren cargadas: ${data.features.length} tramos`);
+    } catch (e) {
+        console.warn('Error cargando vías de tren:', e);
+        // Fallback: intentar Overpass API
+        try {
+            const query = `[out:json][timeout:30]; way["railway"="rail"](36.0,-9.5,44.0,3.5); out body; >; out skel qt;`;
+            const resp = await fetch('https://overpass-api.de/api/interpreter', {
+                method: 'POST',
+                body: 'data=' + encodeURIComponent(query),
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+            });
+            const data = await resp.json();
+            const nodes = {};
+            data.elements.filter(e => e.type === 'node').forEach(n => { nodes[n.id] = [n.lat, n.lon]; });
+            data.elements.filter(e => e.type === 'way').forEach(way => {
+                const coords = way.nodes.map(id => nodes[id]).filter(Boolean);
+                if (coords.length > 1) {
+                    L.polyline(coords, { color: '#CB1823', weight: 2, opacity: 0.6 }).addTo(trainTracksLayer);
+                }
+            });
+        } catch (e2) {
+            console.warn('Fallback Overpass también falló:', e2);
+        }
+    }
+}
+
+// ===== DASHBOARD =====
+function renderDashboard() {
+    const total = filteredReports.length;
+    const victims = filteredReports.reduce((s, r) => s + (r.victims || 0), 0);
+    const fatal = filteredReports.filter(r => r.severity === 'fatal').length;
+    const material = filteredReports.filter(r => r.material_damage).length;
+
+    document.getElementById('kpiTotal').textContent = total.toLocaleString('es-ES');
+    document.getElementById('kpiVictims').textContent = victims.toLocaleString('es-ES');
+    document.getElementById('kpiFatal').textContent = fatal.toLocaleString('es-ES');
+    document.getElementById('kpiMaterial').textContent = material.toLocaleString('es-ES');
+
+    renderCharts();
+}
+
+function renderCharts() {
+    // Evolution chart
+    const years = {};
+    filteredReports.forEach(r => { years[r.year] = (years[r.year] || 0) + 1; });
+    const yearLabels = Object.keys(years).sort();
+    const yearData = yearLabels.map(y => years[y]);
+
+    if (window._chartEvolution) window._chartEvolution.destroy();
+    window._chartEvolution = new Chart(document.getElementById('chartEvolution'), {
+        type: 'line',
+        data: { labels: yearLabels, datasets: [{ label: 'Informes', data: yearData, borderColor: '#1A4488', backgroundColor: 'rgba(26,68,136,0.1)', fill: true, tension: 0.3 }] },
+        options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+    });
+
+    // Type chart
+    const types = {};
+    filteredReports.forEach(r => { types[r.type] = (types[r.type] || 0) + 1; });
+    if (window._chartType) window._chartType.destroy();
+    window._chartType = new Chart(document.getElementById('chartType'), {
+        type: 'doughnut',
+        data: {
+            labels: Object.keys(types),
+            datasets: [{ data: Object.values(types), backgroundColor: ['#CB1823', '#e65100', '#3463AC'] }]
+        },
+        options: { responsive: true }
+    });
+
+    // Severity chart
+    const sev = {};
+    filteredReports.forEach(r => { sev[r.severity] = (sev[r.severity] || 0) + 1; });
+    if (window._chartSeverity) window._chartSeverity.destroy();
+    window._chartSeverity = new Chart(document.getElementById('chartSeverity'), {
+        type: 'bar',
+        data: {
+            labels: Object.keys(sev),
+            datasets: [{ label: 'Informes', data: Object.values(sev), backgroundColor: ['#2e7d32', '#e65100', '#c62828', '#880e4f'] }]
+        },
+        options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+    });
+
+    // Cities chart
+    const cities = {};
+    filteredReports.forEach(r => { cities[r.city] = (cities[r.city] || 0) + 1; });
+    const topCities = Object.entries(cities).sort((a, b) => b[1] - a[1]).slice(0, 10);
+    if (window._chartCities) window._chartCities.destroy();
+    window._chartCities = new Chart(document.getElementById('chartCities'), {
+        type: 'bar',
+        data: {
+            labels: topCities.map(c => c[0]),
+            datasets: [{ label: 'Informes', data: topCities.map(c => c[1]), backgroundColor: '#6B96CF' }]
+        },
+        options: { indexAxis: 'y', responsive: true, plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true } } }
+    });
+}
+
+// ===== TABLE =====
+function renderTable() {
+    const tbody = document.getElementById('reportsTableBody');
+    const sorted = [...filteredReports].sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+    tbody.innerHTML = sorted.map(r => `
+        <tr>
+            <td>${r.id}</td>
+            <td>${r.date}</td>
+            <td><span class="badge badge-${r.type}">${r.type}</span></td>
+            <td><span class="badge badge-${r.severity.replace(' ','-')}">${r.severity}</span></td>
+            <td>${r.city}</td>
+            <td>${r.entity}</td>
+            <td>${r.cause}</td>
+            <td style="text-align:center">${r.victims}</td>
+        </tr>
+    `).join('');
+}
+
+// ===== MEMORIAS =====
+async function renderMemorias() {
+    const selector = document.getElementById('memoriaYearSelector');
+    const years = [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007];
+    selector.innerHTML = years.map((y, i) => `<button class="year-btn${i===0?' active':''}" data-year="${y}">${y}</button>`).join('');
+
+    let memoriaCache = {};
+
+    selector.addEventListener('click', async (e) => {
+        if (e.target.classList.contains('year-btn')) {
+            selector.querySelectorAll('.year-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            const year = e.target.dataset.year;
+            await showMemoria(year);
+        }
+    });
+
+    async function showMemoria(year) {
+        if (!memoriaCache[year]) {
+            try {
+                const resp = await fetch(`../data/memorias/${year}.json`);
+                if (resp.ok) memoriaCache[year] = await resp.json();
+            } catch (e) { /* ignore */ }
+        }
+        const detail = document.getElementById('memoriaDetail');
+        const m = memoriaCache[year];
+        if (!m) {
+            detail.innerHTML = `<div class="memoria-detail"><p>No hay datos disponibles para ${year}.</p></div>`;
+            return;
+        }
+
+        let comparisonHtml = '';
+        if (year > 2007) {
+            const prevYear = year - 1;
+            const pm = memoriaCache[prevYear];
+            if (pm) {
+                comparisonHtml = `
+                <h3 style="margin-top:1.5rem;color:var(--kz-azul)">Comparativa con año anterior</h3>
+                <table class="comparison-table">
+                    <thead><tr><th>Métrica</th><th class="year-col">${prevYear}</th><th class="year-col">${year}</th><th>Variación</th></tr></thead>
+                    <tbody>
+                        <tr><td>Accidentes</td><td>${pm.total_accidents}</td><td>${m.total_accidents}</td><td>${((m.total_accidents-pm.total_accidents)/pm.total_accidents*100).toFixed(1)}%</td></tr>
+                        <tr><td>Víctimas</td><td>${pm.total_victims}</td><td>${m.total_victims}</td><td>${((m.total_victims-pm.total_victims)/pm.total_victims*100).toFixed(1)}%</td></tr>
+                        <tr><td>Fatales</td><td>${pm.total_fatal}</td><td>${m.total_fatal}</td><td>${((m.total_fatal-pm.total_fatal)/(pm.total_fatal||1)*100).toFixed(1)}%</td></tr>
+                    </tbody>
+                </table>`;
+            }
+        }
+
+        detail.innerHTML = `
+            <div class="memoria-detail">
+                <h3>${m.title}</h3>
+                <p>${m.summary}</p>
+                <div class="memoria-stats">
+                    <div class="memoria-stat"><div class="num">${m.total_accidents}</div><div class="lbl">Accidentes</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_incidents}</div><div class="lbl">Incidentes</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_fatal}</div><div class="lbl">Fatales</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_victims}</div><div class="lbl">Víctimas</div></div>
+                    <div class="memoria-stat"><div class="num">${(m.total_material_damage_eur/1000000).toFixed(1)}M€</div><div class="lbl">Daños materiales</div></div>
+                </div>
+                ${m.highlights ? `<p style="margin-top:1rem"><strong>Destacados:</strong> ${m.highlights}</p>` : ''}
+                ${comparisonHtml}
+            </div>`;
+    }
+
+    await showMemoria(2025);
+}
+
+// ===== NORMATIVA =====
+function renderNormativa() {
+    const docs = [
+        { title: 'Ley 38/2015, de 29 de septiembre', desc: 'Ley General de Telecomunicaciones. Aplicable a sistemas de comunicación ferroviaria.', date: '2015-09-29' },
+        { title: 'Real Decreto 2320/2004', desc: 'Reglamento sobre seguridad de los recintos ferroviarios y sus instalaciones de apoyo.', date: '2004-12-17' },
+        { title: 'Ley 39/2015, de 1 de octubre', desc: 'Ley del Procedimiento Administrativo Común de las Administraciones Públicas.', date: '2015-10-01' },
+        { title: 'Reglamento (UE) 2021/782', desc: 'Reglamento sobre los derechos de los viajeros en ferrocarril.', date: '2021-05-19' },
+        { title: 'Ley 12/2013, de 2 de octubre', desc: 'Ley de liberalización e impulso del uso de medios de transporte ferroviario.', date: '2013-10-02' },
+        { title: 'Real Decreto 917/2017', desc: 'Reglamento Nacional de Explotación Ferroviaria (RNEF).', date: '2017-07-21' },
+        { title: 'Orden FOM/1200/2009', desc: 'Reglamento sobre seguridad en la explotación y circulación de trenes.', date: '2009-04-24' },
+        { title: 'Ley 6/2020, de 11 de noviembre', desc: 'Ley reguladora de determinados aspectos de los servicios y plataformas de intermediación.', date: '2020-11-11' },
+        { title: 'Reglamento (CE) 1370/2007', desc: 'Transporte público de pasajeros por ferrocarril y carretera.', date: '2007-10-23' },
+        { title: 'Norma UNE EN 50126', desc: 'Especificación y demostración de la fiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS).', date: '1999-01-01' },
+        { title: 'Norma UNE EN 50128', desc: 'Software de sistemas de control y señalización ferroviaria.', date: '2011-01-01' },
+        { title: 'Norma UNE EN 50129', desc: 'Sistemas de señalización ferroviaria — Sistemas electrónicos de seguridad.', date: '2003-01-01' },
+        { title: 'Circular 4/2010 (AGIF)', desc: 'Guía de buenas prácticas para la gestión de la seguridad en la explotación ferroviaria.', date: '2010-06-15' },
+        { title: 'Resolución 08/2019 (ASF)', desc: 'Procedimiento de investigación de accidentes e incidentes ferroviarios.', date: '2019-03-12' }
+    ];
+
+    const list = document.getElementById('normativaList');
+    list.innerHTML = docs.map(d => `
+        <li class="normativa-item">
+            <div>
+                <div class="doc-title">${d.title}</div>
+                <div class="doc-desc">${d.desc}</div>
+            </div>
+            <div class="doc-date">${d.date}</div>
+        </li>
+    `).join('');
+}
+
+// ===== SORT TABLE =====
+let sortCol = 'date', sortDir = -1;
+document.querySelectorAll('.reports-table th[data-sort]').forEach(th => {
+    th.addEventListener('click', () => {
+        const col = th.dataset.sort;
+        if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = -1; }
+        const sorted = [...filteredReports].sort((a, b) => {
+            let va = a[col], vb = b[col];
+            if (typeof va === 'number') return (va - vb) * sortDir;
+            return String(va || '').localeCompare(String(vb || '')) * sortDir;
+        });
+        const tbody = document.getElementById('reportsTableBody');
+        tbody.innerHTML = sorted.map(r => `
+            <tr>
+                <td>${r.id}</td><td>${r.date}</td>
+                <td><span class="badge badge-${r.type}">${r.type}</span></td>
+                <td><span class="badge badge-${r.severity.replace(' ','-')}">${r.severity}</span></td>
+                <td>${r.city}</td><td>${r.entity}</td><td>${r.cause}</td>
+                <td style="text-align:center">${r.victims}</td>
+            </tr>
+        `).join('');
+    });
+});
+
+init();
+</script>
+</body>
+</html>

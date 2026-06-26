@@ -1,0 +1,2206 @@
+[
+  {
+    "id": "CIAF-2007-001",
+    "year": 2007,
+    "date": "2007-11-24",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 36.9141,
+    "lng": -6.2095,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Sevilla (2007). Colisión frontal.",
+    "latlng": [
+      36.9141,
+      -6.2095
+    ]
+  },
+  {
+    "id": "CIAF-2007-002",
+    "year": 2007,
+    "date": "2007-12-21",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.0105,
+    "lng": -3.9711,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Madrid (2007). Atropello.",
+    "latlng": [
+      40.0105,
+      -3.9711
+    ]
+  },
+  {
+    "id": "CIAF-2007-003",
+    "year": 2007,
+    "date": "2007-05-05",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.2405,
+    "lng": -3.4407,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Santander (2007). Descarrilamiento.",
+    "latlng": [
+      43.2405,
+      -3.4407
+    ]
+  },
+  {
+    "id": "CIAF-2007-004",
+    "year": 2007,
+    "date": "2007-12-15",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 36.774,
+    "lng": -3.2511,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Granada (2007). Descarrilamiento.",
+    "latlng": [
+      36.774,
+      -3.2511
+    ]
+  },
+  {
+    "id": "CIAF-2007-005",
+    "year": 2007,
+    "date": "2007-02-02",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.6399,
+    "lng": -2.5555,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Vitoria (2007). Fallo mecánico.",
+    "latlng": [
+      42.6399,
+      -2.5555
+    ]
+  },
+  {
+    "id": "CIAF-2007-006",
+    "year": 2007,
+    "date": "2007-06-12",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 38.4803,
+    "lng": -7.1926,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2007). Fallos eléctricos.",
+    "latlng": [
+      38.4803,
+      -7.1926
+    ]
+  },
+  {
+    "id": "CIAF-2007-007",
+    "year": 2007,
+    "date": "2007-11-23",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.2887,
+    "lng": 0.8491,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Lleida (2007). Colisión frontal.",
+    "latlng": [
+      41.2887,
+      0.8491
+    ]
+  },
+  {
+    "id": "CIAF-2007-008",
+    "year": 2007,
+    "date": "2007-10-23",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.667,
+    "lng": -0.176,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Alicante (2007). Fallo de señalización.",
+    "latlng": [
+      38.667,
+      -0.176
+    ]
+  },
+  {
+    "id": "CIAF-2007-009",
+    "year": 2007,
+    "date": "2007-09-18",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.6759,
+    "lng": -6.9858,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2007). Fallos eléctricos.",
+    "latlng": [
+      37.6759,
+      -6.9858
+    ]
+  },
+  {
+    "id": "CIAF-2007-010",
+    "year": 2007,
+    "date": "2007-01-28",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.0393,
+    "lng": -3.1013,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Granada (2007). Fallo de señalización.",
+    "latlng": [
+      37.0393,
+      -3.1013
+    ]
+  },
+  {
+    "id": "CIAF-2007-011",
+    "year": 2007,
+    "date": "2007-01-22",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 41.9,
+    "lng": -7.9823,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2007). Condiciones meteorológicas.",
+    "latlng": [
+      41.9,
+      -7.9823
+    ]
+  },
+  {
+    "id": "CIAF-2007-012",
+    "year": 2007,
+    "date": "2007-09-25",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Sevilla",
+    "lat": 37.1826,
+    "lng": -6.3263,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Sevilla (2007). Error humano.",
+    "latlng": [
+      37.1826,
+      -6.3263
+    ]
+  },
+  {
+    "id": "CIAF-2007-013",
+    "year": 2007,
+    "date": "2007-09-25",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.6017,
+    "lng": -2.336,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Logroño (2007). Atropello.",
+    "latlng": [
+      42.6017,
+      -2.336
+    ]
+  },
+  {
+    "id": "CIAF-2007-014",
+    "year": 2007,
+    "date": "2007-10-03",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.0287,
+    "lng": -3.8408,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2007). Vía bloqueada.",
+    "latlng": [
+      40.0287,
+      -3.8408
+    ]
+  },
+  {
+    "id": "CIAF-2007-015",
+    "year": 2007,
+    "date": "2007-10-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.2245,
+    "lng": -5.4073,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en León (2007). Error humano.",
+    "latlng": [
+      42.2245,
+      -5.4073
+    ]
+  },
+  {
+    "id": "CIAF-2007-016",
+    "year": 2007,
+    "date": "2007-02-08",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Granada",
+    "lat": 37.6724,
+    "lng": -3.4487,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Granada (2007). Colisión frontal.",
+    "latlng": [
+      37.6724,
+      -3.4487
+    ]
+  },
+  {
+    "id": "CIAF-2007-017",
+    "year": 2007,
+    "date": "2007-01-08",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.5162,
+    "lng": -3.7216,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Santander (2007). Descarrilamiento.",
+    "latlng": [
+      43.5162,
+      -3.7216
+    ]
+  },
+  {
+    "id": "CIAF-2007-018",
+    "year": 2007,
+    "date": "2007-10-19",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 40.7081,
+    "lng": -5.4945,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Salamanca (2007). Fallo de señalización.",
+    "latlng": [
+      40.7081,
+      -5.4945
+    ]
+  },
+  {
+    "id": "CIAF-2007-019",
+    "year": 2007,
+    "date": "2007-12-02",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.2431,
+    "lng": -0.7301,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Zaragoza (2007). Condiciones meteorológicas.",
+    "latlng": [
+      41.2431,
+      -0.7301
+    ]
+  },
+  {
+    "id": "CIAF-2007-020",
+    "year": 2007,
+    "date": "2007-07-06",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Santiago",
+    "lat": 43.2399,
+    "lng": -8.7961,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2007). Descarrilamiento.",
+    "latlng": [
+      43.2399,
+      -8.7961
+    ]
+  },
+  {
+    "id": "CIAF-2007-021",
+    "year": 2007,
+    "date": "2007-01-03",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 43.1205,
+    "lng": -1.2898,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Pamplona (2007). Atropello.",
+    "latlng": [
+      43.1205,
+      -1.2898
+    ]
+  },
+  {
+    "id": "CIAF-2007-022",
+    "year": 2007,
+    "date": "2007-07-09",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.032,
+    "lng": -2.0802,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en San Sebastián (2007). Vía bloqueada.",
+    "latlng": [
+      43.032,
+      -2.0802
+    ]
+  },
+  {
+    "id": "CIAF-2007-023",
+    "year": 2007,
+    "date": "2007-10-24",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 42.3546,
+    "lng": -0.7538,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Huesca (2007). Colisión frontal.",
+    "latlng": [
+      42.3546,
+      -0.7538
+    ]
+  },
+  {
+    "id": "CIAF-2007-024",
+    "year": 2007,
+    "date": "2007-02-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.4716,
+    "lng": 2.1715,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2007). Fallo mecánico.",
+    "latlng": [
+      41.4716,
+      2.1715
+    ]
+  },
+  {
+    "id": "CIAF-2007-025",
+    "year": 2007,
+    "date": "2007-10-03",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 36.7972,
+    "lng": -3.2083,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Granada (2007). Error humano.",
+    "latlng": [
+      36.7972,
+      -3.2083
+    ]
+  },
+  {
+    "id": "CIAF-2007-026",
+    "year": 2007,
+    "date": "2007-11-10",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.8185,
+    "lng": -1.0749,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2007). Colisión frontal.",
+    "latlng": [
+      41.8185,
+      -1.0749
+    ]
+  },
+  {
+    "id": "CIAF-2007-027",
+    "year": 2007,
+    "date": "2007-09-09",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.9337,
+    "lng": -1.5828,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Pamplona (2007). Fallo mecánico.",
+    "latlng": [
+      42.9337,
+      -1.5828
+    ]
+  },
+  {
+    "id": "CIAF-2007-028",
+    "year": 2007,
+    "date": "2007-11-17",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.3172,
+    "lng": -5.7229,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Gijón (2007). Descarrilamiento.",
+    "latlng": [
+      43.3172,
+      -5.7229
+    ]
+  },
+  {
+    "id": "CIAF-2007-029",
+    "year": 2007,
+    "date": "2007-05-10",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 36.8957,
+    "lng": -7.3293,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2007). Fallo mecánico.",
+    "latlng": [
+      36.8957,
+      -7.3293
+    ]
+  },
+  {
+    "id": "CIAF-2007-030",
+    "year": 2007,
+    "date": "2007-02-21",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 42.2704,
+    "lng": -0.6446,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Huesca (2007). Colisión frontal.",
+    "latlng": [
+      42.2704,
+      -0.6446
+    ]
+  },
+  {
+    "id": "CIAF-2007-031",
+    "year": 2007,
+    "date": "2007-09-23",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.5039,
+    "lng": -8.5855,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Vigo (2007). Descarrilamiento.",
+    "latlng": [
+      42.5039,
+      -8.5855
+    ]
+  },
+  {
+    "id": "CIAF-2007-032",
+    "year": 2007,
+    "date": "2007-10-18",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Valencia",
+    "lat": 39.915,
+    "lng": -0.1853,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Valencia (2007). Colisión frontal.",
+    "latlng": [
+      39.915,
+      -0.1853
+    ]
+  },
+  {
+    "id": "CIAF-2007-033",
+    "year": 2007,
+    "date": "2007-11-08",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Valladolid",
+    "lat": 41.517,
+    "lng": -4.2914,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Valladolid (2007). Fallos eléctricos.",
+    "latlng": [
+      41.517,
+      -4.2914
+    ]
+  },
+  {
+    "id": "CIAF-2007-034",
+    "year": 2007,
+    "date": "2007-07-01",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Burgos",
+    "lat": 41.986,
+    "lng": -3.2719,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2007). Fallo mecánico.",
+    "latlng": [
+      41.986,
+      -3.2719
+    ]
+  },
+  {
+    "id": "CIAF-2007-035",
+    "year": 2007,
+    "date": "2007-04-07",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Córdoba",
+    "lat": 37.5474,
+    "lng": -4.5781,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2007). Fallo mecánico.",
+    "latlng": [
+      37.5474,
+      -4.5781
+    ]
+  },
+  {
+    "id": "CIAF-2007-036",
+    "year": 2007,
+    "date": "2007-05-12",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 37.8689,
+    "lng": -0.7879,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Alicante (2007). Colisión frontal.",
+    "latlng": [
+      37.8689,
+      -0.7879
+    ]
+  },
+  {
+    "id": "CIAF-2007-037",
+    "year": 2007,
+    "date": "2007-01-04",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Sevilla",
+    "lat": 37.7661,
+    "lng": -6.2233,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Sevilla (2007). Condiciones meteorológicas.",
+    "latlng": [
+      37.7661,
+      -6.2233
+    ]
+  },
+  {
+    "id": "CIAF-2007-038",
+    "year": 2007,
+    "date": "2007-05-02",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Murcia",
+    "lat": 38.0932,
+    "lng": -1.1186,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Murcia (2007). Condiciones meteorológicas.",
+    "latlng": [
+      38.0932,
+      -1.1186
+    ]
+  },
+  {
+    "id": "CIAF-2007-039",
+    "year": 2007,
+    "date": "2007-02-24",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 37.557,
+    "lng": -0.9658,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Murcia (2007). Fallo de señalización.",
+    "latlng": [
+      37.557,
+      -0.9658
+    ]
+  },
+  {
+    "id": "CIAF-2007-040",
+    "year": 2007,
+    "date": "2007-07-22",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.1352,
+    "lng": -8.9269,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Vigo (2007). Fallo de señalización.",
+    "latlng": [
+      42.1352,
+      -8.9269
+    ]
+  },
+  {
+    "id": "CIAF-2007-041",
+    "year": 2007,
+    "date": "2007-10-21",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 43.1804,
+    "lng": -2.8802,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Vitoria (2007). Atropello.",
+    "latlng": [
+      43.1804,
+      -2.8802
+    ]
+  },
+  {
+    "id": "CIAF-2007-042",
+    "year": 2007,
+    "date": "2007-05-17",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 41.8499,
+    "lng": -0.4354,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Huesca (2007). Fallo mecánico.",
+    "latlng": [
+      41.8499,
+      -0.4354
+    ]
+  },
+  {
+    "id": "CIAF-2007-043",
+    "year": 2007,
+    "date": "2007-08-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 41.9466,
+    "lng": -0.102,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Huesca (2007). Fallos eléctricos.",
+    "latlng": [
+      41.9466,
+      -0.102
+    ]
+  },
+  {
+    "id": "CIAF-2007-044",
+    "year": 2007,
+    "date": "2007-12-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.8671,
+    "lng": -1.0051,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2007). Choque con obstáculo.",
+    "latlng": [
+      41.8671,
+      -1.0051
+    ]
+  },
+  {
+    "id": "CIAF-2007-045",
+    "year": 2007,
+    "date": "2007-08-05",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Santiago",
+    "lat": 43.3362,
+    "lng": -8.5268,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Santiago (2007). Atropello.",
+    "latlng": [
+      43.3362,
+      -8.5268
+    ]
+  },
+  {
+    "id": "CIAF-2007-046",
+    "year": 2007,
+    "date": "2007-08-06",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Ourense",
+    "lat": 42.6515,
+    "lng": -7.4719,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2007). Fallo mecánico.",
+    "latlng": [
+      42.6515,
+      -7.4719
+    ]
+  },
+  {
+    "id": "CIAF-2007-047",
+    "year": 2007,
+    "date": "2007-05-15",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.6005,
+    "lng": -2.1792,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Logroño (2007). Error humano.",
+    "latlng": [
+      42.6005,
+      -2.1792
+    ]
+  },
+  {
+    "id": "CIAF-2007-048",
+    "year": 2007,
+    "date": "2007-12-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.0525,
+    "lng": -8.6824,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Vigo (2007). Fallo de señalización.",
+    "latlng": [
+      42.0525,
+      -8.6824
+    ]
+  },
+  {
+    "id": "CIAF-2007-049",
+    "year": 2007,
+    "date": "2007-10-23",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Vigo",
+    "lat": 42.2754,
+    "lng": -8.8068,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Vigo (2007). Atropello.",
+    "latlng": [
+      42.2754,
+      -8.8068
+    ]
+  },
+  {
+    "id": "CIAF-2007-050",
+    "year": 2007,
+    "date": "2007-09-24",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Madrid",
+    "lat": 40.8595,
+    "lng": -3.9052,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2007). Atropello.",
+    "latlng": [
+      40.8595,
+      -3.9052
+    ]
+  },
+  {
+    "id": "CIAF-2007-051",
+    "year": 2007,
+    "date": "2007-07-24",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.1181,
+    "lng": -0.4954,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2007). Fallos eléctricos.",
+    "latlng": [
+      38.1181,
+      -0.4954
+    ]
+  },
+  {
+    "id": "CIAF-2007-052",
+    "year": 2007,
+    "date": "2007-11-14",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.3737,
+    "lng": -2.7901,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2007). Colisión frontal.",
+    "latlng": [
+      42.3737,
+      -2.7901
+    ]
+  },
+  {
+    "id": "CIAF-2007-053",
+    "year": 2007,
+    "date": "2007-05-25",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.7673,
+    "lng": -5.0677,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2007). Atropello.",
+    "latlng": [
+      37.7673,
+      -5.0677
+    ]
+  },
+  {
+    "id": "CIAF-2007-054",
+    "year": 2007,
+    "date": "2007-11-02",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.6658,
+    "lng": -4.1517,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2007). Colisión frontal.",
+    "latlng": [
+      40.6658,
+      -4.1517
+    ]
+  },
+  {
+    "id": "CIAF-2007-055",
+    "year": 2007,
+    "date": "2007-08-23",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 41.9889,
+    "lng": -8.2377,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Ourense (2007). Fallos eléctricos.",
+    "latlng": [
+      41.9889,
+      -8.2377
+    ]
+  },
+  {
+    "id": "CIAF-2007-056",
+    "year": 2007,
+    "date": "2007-10-01",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Ourense",
+    "lat": 42.8002,
+    "lng": -7.6455,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Ourense (2007). Fallo de señalización.",
+    "latlng": [
+      42.8002,
+      -7.6455
+    ]
+  },
+  {
+    "id": "CIAF-2007-057",
+    "year": 2007,
+    "date": "2007-05-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cádiz",
+    "lat": 36.2281,
+    "lng": -6.2005,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Cádiz (2007). Condiciones meteorológicas.",
+    "latlng": [
+      36.2281,
+      -6.2005
+    ]
+  },
+  {
+    "id": "CIAF-2007-058",
+    "year": 2007,
+    "date": "2007-07-27",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.7751,
+    "lng": -2.8135,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2007). Condiciones meteorológicas.",
+    "latlng": [
+      42.7751,
+      -2.8135
+    ]
+  },
+  {
+    "id": "CIAF-2007-059",
+    "year": 2007,
+    "date": "2007-09-21",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 42.0092,
+    "lng": 0.5797,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Lleida (2007). Atropello.",
+    "latlng": [
+      42.0092,
+      0.5797
+    ]
+  },
+  {
+    "id": "CIAF-2007-060",
+    "year": 2007,
+    "date": "2007-05-15",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Murcia",
+    "lat": 38.3127,
+    "lng": -1.0375,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Murcia (2007). Condiciones meteorológicas.",
+    "latlng": [
+      38.3127,
+      -1.0375
+    ]
+  },
+  {
+    "id": "CIAF-2007-061",
+    "year": 2007,
+    "date": "2007-06-09",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.4111,
+    "lng": -3.8788,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2007). Vía bloqueada.",
+    "latlng": [
+      40.4111,
+      -3.8788
+    ]
+  },
+  {
+    "id": "CIAF-2007-062",
+    "year": 2007,
+    "date": "2007-12-16",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.2344,
+    "lng": -0.669,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2007). Descarrilamiento.",
+    "latlng": [
+      41.2344,
+      -0.669
+    ]
+  },
+  {
+    "id": "CIAF-2007-063",
+    "year": 2007,
+    "date": "2007-08-18",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 41.3739,
+    "lng": -4.5327,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Valladolid (2007). Vía bloqueada.",
+    "latlng": [
+      41.3739,
+      -4.5327
+    ]
+  },
+  {
+    "id": "CIAF-2007-064",
+    "year": 2007,
+    "date": "2007-12-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.0846,
+    "lng": -8.7689,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Vigo (2007). Fallo mecánico.",
+    "latlng": [
+      42.0846,
+      -8.7689
+    ]
+  },
+  {
+    "id": "CIAF-2007-065",
+    "year": 2007,
+    "date": "2007-02-27",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 41.8874,
+    "lng": -1.1126,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2007). Condiciones meteorológicas.",
+    "latlng": [
+      41.8874,
+      -1.1126
+    ]
+  },
+  {
+    "id": "CIAF-2007-066",
+    "year": 2007,
+    "date": "2007-09-10",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.5236,
+    "lng": -4.2134,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Málaga (2007). Colisión frontal.",
+    "latlng": [
+      36.5236,
+      -4.2134
+    ]
+  },
+  {
+    "id": "CIAF-2007-067",
+    "year": 2007,
+    "date": "2007-05-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.2466,
+    "lng": -3.8313,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Santander (2007). Fallo de señalización.",
+    "latlng": [
+      43.2466,
+      -3.8313
+    ]
+  },
+  {
+    "id": "CIAF-2007-068",
+    "year": 2007,
+    "date": "2007-05-03",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 42.8924,
+    "lng": -1.8518,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en San Sebastián (2007). Fallos eléctricos.",
+    "latlng": [
+      42.8924,
+      -1.8518
+    ]
+  },
+  {
+    "id": "CIAF-2007-069",
+    "year": 2007,
+    "date": "2007-05-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.6272,
+    "lng": -8.1382,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Ourense (2007). Fallos eléctricos.",
+    "latlng": [
+      42.6272,
+      -8.1382
+    ]
+  },
+  {
+    "id": "CIAF-2007-070",
+    "year": 2007,
+    "date": "2007-11-07",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Ourense",
+    "lat": 41.8967,
+    "lng": -7.4038,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Ourense (2007). Fallo mecánico.",
+    "latlng": [
+      41.8967,
+      -7.4038
+    ]
+  },
+  {
+    "id": "CIAF-2007-071",
+    "year": 2007,
+    "date": "2007-08-10",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.7733,
+    "lng": -4.7649,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Málaga (2007). Error humano.",
+    "latlng": [
+      36.7733,
+      -4.7649
+    ]
+  },
+  {
+    "id": "CIAF-2007-072",
+    "year": 2007,
+    "date": "2007-10-22",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Cádiz",
+    "lat": 36.8894,
+    "lng": -6.7214,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Cádiz (2007). Vía bloqueada.",
+    "latlng": [
+      36.8894,
+      -6.7214
+    ]
+  },
+  {
+    "id": "CIAF-2007-073",
+    "year": 2007,
+    "date": "2007-05-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.4928,
+    "lng": -0.0726,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Alicante (2007). Descarrilamiento.",
+    "latlng": [
+      38.4928,
+      -0.0726
+    ]
+  },
+  {
+    "id": "CIAF-2007-074",
+    "year": 2007,
+    "date": "2007-08-03",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Pamplona",
+    "lat": 43.0012,
+    "lng": -1.4461,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Pamplona (2007). Condiciones meteorológicas.",
+    "latlng": [
+      43.0012,
+      -1.4461
+    ]
+  },
+  {
+    "id": "CIAF-2007-075",
+    "year": 2007,
+    "date": "2007-10-01",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Ourense",
+    "lat": 42.0869,
+    "lng": -8.2726,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Ourense (2007). Choque con obstáculo.",
+    "latlng": [
+      42.0869,
+      -8.2726
+    ]
+  },
+  {
+    "id": "CIAF-2007-076",
+    "year": 2007,
+    "date": "2007-07-21",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.3373,
+    "lng": -2.039,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en San Sebastián (2007). Condiciones meteorológicas.",
+    "latlng": [
+      43.3373,
+      -2.039
+    ]
+  },
+  {
+    "id": "CIAF-2007-077",
+    "year": 2007,
+    "date": "2007-08-10",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.8203,
+    "lng": -0.9599,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2007). Atropello.",
+    "latlng": [
+      37.8203,
+      -0.9599
+    ]
+  },
+  {
+    "id": "CIAF-2007-078",
+    "year": 2007,
+    "date": "2007-11-28",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Valencia",
+    "lat": 39.2844,
+    "lng": -0.553,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Valencia (2007). Colisión frontal.",
+    "latlng": [
+      39.2844,
+      -0.553
+    ]
+  },
+  {
+    "id": "CIAF-2007-079",
+    "year": 2007,
+    "date": "2007-04-09",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.6672,
+    "lng": -0.7665,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Zaragoza (2007). Atropello.",
+    "latlng": [
+      41.6672,
+      -0.7665
+    ]
+  },
+  {
+    "id": "CIAF-2007-080",
+    "year": 2007,
+    "date": "2007-12-06",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 37.4597,
+    "lng": -7.3233,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Huelva (2007). Vía bloqueada.",
+    "latlng": [
+      37.4597,
+      -7.3233
+    ]
+  },
+  {
+    "id": "CIAF-2007-081",
+    "year": 2007,
+    "date": "2007-11-27",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.5802,
+    "lng": -0.6377,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Murcia (2007). Vía bloqueada.",
+    "latlng": [
+      37.5802,
+      -0.6377
+    ]
+  },
+  {
+    "id": "CIAF-2007-082",
+    "year": 2007,
+    "date": "2007-03-13",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Cádiz",
+    "lat": 36.3032,
+    "lng": -5.9579,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Cádiz (2007). Descarrilamiento.",
+    "latlng": [
+      36.3032,
+      -5.9579
+    ]
+  },
+  {
+    "id": "CIAF-2007-083",
+    "year": 2007,
+    "date": "2007-05-27",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Córdoba",
+    "lat": 38.1609,
+    "lng": -4.425,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2007). Fallos eléctricos.",
+    "latlng": [
+      38.1609,
+      -4.425
+    ]
+  },
+  {
+    "id": "CIAF-2007-084",
+    "year": 2007,
+    "date": "2007-06-11",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.9612,
+    "lng": -3.8204,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Santander (2007). Atropello.",
+    "latlng": [
+      43.9612,
+      -3.8204
+    ]
+  },
+  {
+    "id": "CIAF-2007-085",
+    "year": 2007,
+    "date": "2007-04-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.2971,
+    "lng": -6.6837,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Cáceres (2007). Atropello.",
+    "latlng": [
+      39.2971,
+      -6.6837
+    ]
+  },
+  {
+    "id": "CIAF-2007-086",
+    "year": 2007,
+    "date": "2007-03-16",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.9432,
+    "lng": -6.4114,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Cádiz (2007). Descarrilamiento.",
+    "latlng": [
+      36.9432,
+      -6.4114
+    ]
+  },
+  {
+    "id": "CIAF-2007-087",
+    "year": 2007,
+    "date": "2007-07-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 39.2243,
+    "lng": -7.3709,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Badajoz (2007). Error humano.",
+    "latlng": [
+      39.2243,
+      -7.3709
+    ]
+  },
+  {
+    "id": "CIAF-2007-088",
+    "year": 2007,
+    "date": "2007-09-13",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Vigo",
+    "lat": 42.3561,
+    "lng": -8.8251,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Vigo (2007). Fallos eléctricos.",
+    "latlng": [
+      42.3561,
+      -8.8251
+    ]
+  },
+  {
+    "id": "CIAF-2007-089",
+    "year": 2007,
+    "date": "2007-07-04",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Valencia",
+    "lat": 39.2047,
+    "lng": -0.1919,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2007). Error humano.",
+    "latlng": [
+      39.2047,
+      -0.1919
+    ]
+  },
+  {
+    "id": "CIAF-2007-090",
+    "year": 2007,
+    "date": "2007-07-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 36.7903,
+    "lng": -7.1203,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2007). Fallos eléctricos.",
+    "latlng": [
+      36.7903,
+      -7.1203
+    ]
+  },
+  {
+    "id": "CIAF-2007-091",
+    "year": 2007,
+    "date": "2007-10-22",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.4287,
+    "lng": -0.7386,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2007). Fallo mecánico.",
+    "latlng": [
+      42.4287,
+      -0.7386
+    ]
+  },
+  {
+    "id": "CIAF-2007-092",
+    "year": 2007,
+    "date": "2007-05-22",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.9504,
+    "lng": -1.6862,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Pamplona (2007). Atropello.",
+    "latlng": [
+      42.9504,
+      -1.6862
+    ]
+  },
+  {
+    "id": "CIAF-2007-093",
+    "year": 2007,
+    "date": "2007-05-07",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 44.0199,
+    "lng": -5.8619,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Gijón (2007). Fallo mecánico.",
+    "latlng": [
+      44.0199,
+      -5.8619
+    ]
+  },
+  {
+    "id": "CIAF-2007-094",
+    "year": 2007,
+    "date": "2007-07-09",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.2492,
+    "lng": -3.5238,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Granada (2007). Fallos eléctricos.",
+    "latlng": [
+      37.2492,
+      -3.5238
+    ]
+  },
+  {
+    "id": "CIAF-2007-095",
+    "year": 2007,
+    "date": "2007-10-26",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.3281,
+    "lng": -3.2976,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Burgos (2007). Fallos eléctricos.",
+    "latlng": [
+      42.3281,
+      -3.2976
+    ]
+  },
+  {
+    "id": "CIAF-2007-096",
+    "year": 2007,
+    "date": "2007-11-04",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 38.066,
+    "lng": -4.5585,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Córdoba (2007). Colisión frontal.",
+    "latlng": [
+      38.066,
+      -4.5585
+    ]
+  },
+  {
+    "id": "CIAF-2007-097",
+    "year": 2007,
+    "date": "2007-03-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.3272,
+    "lng": -4.1786,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Santander (2007). Vía bloqueada.",
+    "latlng": [
+      43.3272,
+      -4.1786
+    ]
+  },
+  {
+    "id": "CIAF-2007-098",
+    "year": 2007,
+    "date": "2007-05-24",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Salamanca",
+    "lat": 41.3836,
+    "lng": -5.333,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2007). Descarrilamiento.",
+    "latlng": [
+      41.3836,
+      -5.333
+    ]
+  },
+  {
+    "id": "CIAF-2007-099",
+    "year": 2007,
+    "date": "2007-09-12",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Bilbao",
+    "lat": 43.5172,
+    "lng": -3.2094,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Bilbao (2007). Error humano.",
+    "latlng": [
+      43.5172,
+      -3.2094
+    ]
+  },
+  {
+    "id": "CIAF-2007-100",
+    "year": 2007,
+    "date": "2007-07-27",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.4703,
+    "lng": -2.8155,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2007). Atropello.",
+    "latlng": [
+      42.4703,
+      -2.8155
+    ]
+  },
+  {
+    "id": "CIAF-2007-101",
+    "year": 2007,
+    "date": "2007-11-03",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Madrid",
+    "lat": 40.5363,
+    "lng": -3.2606,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Madrid (2007). Descarrilamiento.",
+    "latlng": [
+      40.5363,
+      -3.2606
+    ]
+  },
+  {
+    "id": "CIAF-2007-102",
+    "year": 2007,
+    "date": "2007-09-05",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 42.8083,
+    "lng": -3.3978,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Bilbao (2007). Vía bloqueada.",
+    "latlng": [
+      42.8083,
+      -3.3978
+    ]
+  },
+  {
+    "id": "CIAF-2007-103",
+    "year": 2007,
+    "date": "2007-10-14",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.0743,
+    "lng": -0.9034,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Murcia (2007). Fallo mecánico.",
+    "latlng": [
+      38.0743,
+      -0.9034
+    ]
+  },
+  {
+    "id": "CIAF-2007-104",
+    "year": 2007,
+    "date": "2007-06-18",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.7572,
+    "lng": -1.9097,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Pamplona (2007). Error humano.",
+    "latlng": [
+      42.7572,
+      -1.9097
+    ]
+  },
+  {
+    "id": "CIAF-2007-105",
+    "year": 2007,
+    "date": "2007-11-21",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 42.117,
+    "lng": -0.4401,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2007). Condiciones meteorológicas.",
+    "latlng": [
+      42.117,
+      -0.4401
+    ]
+  },
+  {
+    "id": "CIAF-2007-106",
+    "year": 2007,
+    "date": "2007-04-19",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.834,
+    "lng": -0.194,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Alicante (2007). Choque con obstáculo.",
+    "latlng": [
+      38.834,
+      -0.194
+    ]
+  },
+  {
+    "id": "CIAF-2007-107",
+    "year": 2007,
+    "date": "2007-03-04",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Santiago",
+    "lat": 43.2787,
+    "lng": -9.042,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2007). Condiciones meteorológicas.",
+    "latlng": [
+      43.2787,
+      -9.042
+    ]
+  },
+  {
+    "id": "CIAF-2007-108",
+    "year": 2007,
+    "date": "2007-03-24",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 43.1666,
+    "lng": -8.4559,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2007). Descarrilamiento.",
+    "latlng": [
+      43.1666,
+      -8.4559
+    ]
+  },
+  {
+    "id": "CIAF-2007-109",
+    "year": 2007,
+    "date": "2007-04-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.2666,
+    "lng": -2.1192,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en San Sebastián (2007). Atropello.",
+    "latlng": [
+      43.2666,
+      -2.1192
+    ]
+  },
+  {
+    "id": "CIAF-2007-110",
+    "year": 2007,
+    "date": "2007-11-04",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Lleida",
+    "lat": 42.0816,
+    "lng": 0.1808,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Lleida (2007). Descarrilamiento.",
+    "latlng": [
+      42.0816,
+      0.1808
+    ]
+  },
+  {
+    "id": "CIAF-2007-111",
+    "year": 2007,
+    "date": "2007-09-23",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 42.3411,
+    "lng": -9.1569,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Vigo (2007). Atropello.",
+    "latlng": [
+      42.3411,
+      -9.1569
+    ]
+  },
+  {
+    "id": "CIAF-2007-112",
+    "year": 2007,
+    "date": "2007-11-25",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.0755,
+    "lng": -6.0643,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Salamanca (2007). Atropello.",
+    "latlng": [
+      41.0755,
+      -6.0643
+    ]
+  },
+  {
+    "id": "CIAF-2007-113",
+    "year": 2007,
+    "date": "2007-02-11",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 36.9899,
+    "lng": -7.1058,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2007). Condiciones meteorológicas.",
+    "latlng": [
+      36.9899,
+      -7.1058
+    ]
+  },
+  {
+    "id": "CIAF-2007-114",
+    "year": 2007,
+    "date": "2007-07-04",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Bilbao",
+    "lat": 43.4498,
+    "lng": -2.9607,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Bilbao (2007). Fallos eléctricos.",
+    "latlng": [
+      43.4498,
+      -2.9607
+    ]
+  },
+  {
+    "id": "CIAF-2007-115",
+    "year": 2007,
+    "date": "2007-07-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.9084,
+    "lng": -2.5141,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Vitoria (2007). Condiciones meteorológicas.",
+    "latlng": [
+      42.9084,
+      -2.5141
+    ]
+  },
+  {
+    "id": "CIAF-2007-116",
+    "year": 2007,
+    "date": "2007-06-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.467,
+    "lng": -6.2718,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Sevilla (2007). Error humano.",
+    "latlng": [
+      37.467,
+      -6.2718
+    ]
+  }
+]

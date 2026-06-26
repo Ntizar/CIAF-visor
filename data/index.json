@@ -1,0 +1,154 @@
+{
+  "title": "CIAF - Centro de Información de Accidentes Ferroviarios",
+  "description": "Visor de datos del Centro de Información de Accidentes Ferroviarios de España",
+  "years_available": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "total_reports": 270,
+  "total_victims": 316,
+  "total_heridos": 467,
+  "report_types": [
+    "accidente"
+  ],
+  "severities": [
+    "fatal",
+    "grave",
+    "leve"
+  ],
+  "entities": [
+    "Activa Rail",
+    "Adif",
+    "Administrador de Infraestructuras Ferroviarias",
+    "COMSA Rail Transport",
+    "Continental Rail",
+    "FEVE",
+    "LOGIRAIL",
+    "Logitren",
+    "Low Cost Rail",
+    "RENFE",
+    "Renfe Mercancías",
+    "Renfe Operadora",
+    "Renfe Viajeros",
+    "Renfe Viajeros colisionó",
+    "TRAM",
+    "Tracción Rail",
+    "Transfesa Rail",
+    "Transitia Rail"
+  ],
+  "fecha_generacion": "2026-06-26T11:54:09.996948",
+  "estadisticas_por_anio": {
+    "2007": {
+      "total": 4,
+      "victimas": 8,
+      "heridos": 0
+    },
+    "2008": {
+      "total": 53,
+      "victimas": 164,
+      "heridos": 8
+    },
+    "2009": {
+      "total": 43,
+      "victimas": 52,
+      "heridos": 75
+    },
+    "2010": {
+      "total": 28,
+      "victimas": 1,
+      "heridos": 10
+    },
+    "2011": {
+      "total": 24,
+      "victimas": 0,
+      "heridos": 0
+    },
+    "2012": {
+      "total": 22,
+      "victimas": 0,
+      "heridos": 32
+    },
+    "2013": {
+      "total": 23,
+      "victimas": 80,
+      "heridos": 186
+    },
+    "2014": {
+      "total": 14,
+      "victimas": 0,
+      "heridos": 0
+    },
+    "2015": {
+      "total": 10,
+      "victimas": 0,
+      "heridos": 0
+    },
+    "2016": {
+      "total": 11,
+      "victimas": 3,
+      "heridos": 18
+    },
+    "2017": {
+      "total": 12,
+      "victimas": 1,
+      "heridos": 32
+    },
+    "2018": {
+      "total": 2,
+      "victimas": 1,
+      "heridos": 6
+    },
+    "2019": {
+      "total": 3,
+      "victimas": 6,
+      "heridos": 89
+    },
+    "2020": {
+      "total": 3,
+      "victimas": 0,
+      "heridos": 6
+    },
+    "2021": {
+      "total": 6,
+      "victimas": 0,
+      "heridos": 0
+    },
+    "2022": {
+      "total": 5,
+      "victimas": 0,
+      "heridos": 5
+    },
+    "2023": {
+      "total": 3,
+      "victimas": 0,
+      "heridos": 0
+    },
+    "2024": {
+      "total": 3,
+      "victimas": 0,
+      "heridos": 0
+    },
+    "2025": {
+      "total": 1,
+      "victimas": 0,
+      "heridos": 0
+    }
+  }
+}

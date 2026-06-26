@@ -1,0 +1,47 @@
+{
+  "year": 2016,
+  "title": "Memoria Anual CIAF 2016",
+  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2016.",
+  "total_accidents": 67,
+  "total_incidents": 39,
+  "total_fatal": 2,
+  "total_victims": 30,
+  "total_material_damage_eur": 23234703,
+  "top_causes": [
+    {
+      "cause": "Colisión frontal",
+      "count": 19
+    },
+    {
+      "cause": "Descarrilamiento",
+      "count": 6
+    },
+    {
+      "cause": "Choque con obstáculo",
+      "count": 4
+    },
+    {
+      "cause": "Error humano",
+      "count": 13
+    },
+    {
+      "cause": "Fallo mecánico",
+      "count": 6
+    }
+  ],
+  "top_entities": [
+    {
+      "entity": "ADIF",
+      "count": 30
+    },
+    {
+      "entity": "Renfe",
+      "count": 26
+    },
+    {
+      "entity": "FCC",
+      "count": 14
+    }
+  ],
+  "highlights": "En 2016 se realizaron mejoras significativas en la seguridad ferroviaria."
+}

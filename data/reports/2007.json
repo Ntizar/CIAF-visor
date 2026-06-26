@@ -1,0 +1,334 @@
+[
+  {
+    "id": "2007-ID181207230508CIAF",
+    "expediente": "0062/2007",
+    "tipo": "accidente",
+    "tipo_suceso": "Arrollamiento",
+    "fecha_suceso": "2007-12-18",
+    "hora_suceso": "14:20",
+    "year": 2007,
+    "ubicacion": {
+      "estacion": "Guillarei en condiciones normales a la circulación",
+      "provincia": "Pontevedra",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "GY259",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P.K. \n165,160 se produce el arrollamiento de una persona por vagoneta de electrificación de Mantenimiento \nde Infraestructura de Adif. La víctima resultó herida de gravedad falleciendo posteriormente en el \nhospital. \nConclusión: el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no \nhabilitado para ello cuando se acercaba el tren. \nRecomendaciones: No se establecen recomendaciones.",
+      "factores_humanos": "Jornada de conducción del maquinista el día del accidente: 2 horas y 15 minutos \nPrueba de alcoholemia realizada el día del accidente a las 15:20 horas: resultado negativo. (0,00 \nmg/1000 ml). \n4. ANÁLISIS Y CONCLUSIONES",
+      "infraestructura": ""
+    },
+    "conclusiones": "4.1 \nDELIBERACIÓN \nEl lugar donde se produjo el arrollamiento se sitúa en plena vía, entre las estaciones de Louredo \nValos y Redondela, en el punto kilométrico 165,160 de la línea Monforte de Lemos-Vigo. Es un tramo \nde vía con bloqueo automático de vía única y control de tráfico centralizado. \nLa visibilidad por el lado derecho, por donde cruzó la víctima, es de aproximadamente 100 metros \ny discontinua unos 400 metros debido a la existencia de unos arbustos en la zona. Además, el día del \naccidente, la visibilidad atmosférica era buena. \nSegún la declaración del maquinista el tren GY259 circulaba a velocidad inferior a la máxima \npermitida. \nDe la prueba de alcoholemia se constata que el maquinista se encontraba apto para el desarrollo \nde sus funciones y su actuación en el momento del accidente fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \n\nnº 0062/2007 ocurrido el 18.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nDE \nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-181207-230508-CIAF \n\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- \n el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no \nhabilitado para ello cuando se acercaba el tren.",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P.K. \n165,160 se produce el arrollamiento de una persona por vagoneta de electrificación de Mantenimiento \nde Infraestructura de Adif. La víctima resultó herida de gravedad falleciendo posteriormente en el \nhospital. \nConclusión: el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no \nhabilitado para ello cuando se acercaba el tren. \nRecomendaciones: No se establecen recomendaciones."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 3,
+      "heridos": 0,
+      "total_victimas": 3,
+      "danos_materiales": "2.3.1 \nVíctimas mortales \nUn varón de 86 años."
+    },
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "factor humano",
+      "leve",
+      "mantenimiento",
+      "paso a nivel"
+    ],
+    "imagenes": [
+      "data/images/2007/2007-ID181207230508CIAF/page01.png",
+      "data/images/2007/2007-ID181207230508CIAF/page02.png",
+      "data/images/2007/2007-ID181207230508CIAF/page03.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2007/ID181207230508CIAF.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "Pre-RD 810/2007",
+    "hash_pdf": "d000984cf115973fda7e933408c9ebc8",
+    "fecha_parseo": "2026-06-26T11:53:18.972133"
+  },
+  {
+    "id": "2007-ID211207290408CIAF",
+    "expediente": "063/2007",
+    "tipo": "accidente",
+    "tipo_suceso": "Arrollamiento",
+    "fecha_suceso": "2007-12-21",
+    "hora_suceso": "08:08",
+    "year": 2007,
+    "ubicacion": {
+      "estacion": "Salou",
+      "provincia": "Valencia",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Del",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "recorrió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tenía",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "citado",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "El Coordinador de accidentes comunicó a la C.I.A.F. a través de mensaje de telefonía móvil el pasado 21 de diciembre a las 10:38 \nque se había producido el arrollamiento de una persona, resultando fallecida, en la estación de Salou, \nsituada en el punto kilométrico 263,600 de la línea 600 Valencia-San Vicente Calders, en la provincia de \nTarragona, perteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEl Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General aprobado \npor el Real Decreto 810/2007, de 22 de junio (B.O.E. nº 162 de 07.07.07), en su artículo 21 asigna la \ncompetencia para la investigación de accidentes Accidentes De conformidad con el artículo 23.1 del mencionado Reglamento, el 11 de diciembre de 2007, el \npresidente de la investigador responsable de la − \nUn técnico integrado en la Integrándose el equipo investigador con \n− \nEl responsable de seguridad de ADIF en la zona Noroeste quien, por delegación expresa del \nDirector de Seguridad en la Circulación de ADIF, entregó su informe particular del accidente el \n21.01.08. \n− \nEl Responsable de Seguridad de RENFE Operadora quien, por delegación expresa del Director de \nSeguridad en la Circulación de RENFE Operadora, entregó su informe particular del accidente el",
+      "factores_humanos": "",
+      "infraestructura": ""
+    },
+    "conclusiones": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye: “El arrollamiento se produce por invasión del gálibo \nimprudentemente de la víctima al cruzar las vías, sin percatarse de la llegada del tren 18059 en ese \nmomento” \nEl elaborado por Renfe Operadora establece que “Causas directas e inmediatas del accidente: \nimprudencia de la víctima que cruzó la vía indebidamente. \n\nnº 063/2007 ocurrido el 21.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nDE \nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-211207-290408-CIAF \n\nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente y \ncoincidentes con los datos recogidos.",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Se recomienda: \n- \nConstatado por el agente territorial, adscrito al equipo investigador, que se ha reparado el \nvallado, se recomienda su mantenimiento. \n\nMadrid, 29 de abril de 2008. \n\nnº 063/2007 ocurrido el 21.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nDE \nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-211207-290408-CIAF \n\n\nRESOLUCIÓN SOBRE LA \nNº 0063/2007 \nOCURRIDO EL DÍA 21.12.2007 \n\nnº 063/2007 ocurrido el 21.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nDE \nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-211207-290408-CIAF \n\n\nEn el Pleno de la de 2008, analizado el expediente del accidente 63/2007, acaecido en la estación de Salou el \n21/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador, \naceptando como razonable la recomendación que figura en el mismo: \nConstatado por el agente territorial, adscrito al equipo investigador, que se ha reparado el vallado, \nse recomienda su mantenimiento. \n\nMadrid, 29 de abril de 2008"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 1,
+      "heridos": 0,
+      "total_victimas": 1,
+      "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones."
+    },
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "leve",
+      "mantenimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2007/2007-ID211207290408CIAF/page01.png",
+      "data/images/2007/2007-ID211207290408CIAF/page02.png",
+      "data/images/2007/2007-ID211207290408CIAF/page03.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2007/ID211207290408CIAF.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "Pre-RD 810/2007",
+    "hash_pdf": "1526479a0f035018a379e0871f768d52",
+    "fecha_parseo": "2026-06-26T11:53:19.254529"
+  },
+  {
+    "id": "2007-ID241207230508CIAF",
+    "expediente": "064/2007",
+    "tipo": "accidente",
+    "tipo_suceso": "Arrollamiento",
+    "fecha_suceso": "2007-12-24",
+    "hora_suceso": "20:16",
+    "year": 2007,
+    "ubicacion": {
+      "estacion": "El Pozo",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "registró",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763, de la empresa \nferroviaria Renfe Operadora, circulando entre las estaciones de Vallecas Industrial y El Pozo, golpea a \nuna persona a la altura del kilómetro 5,200 de la línea 930 Madrid- San Fernando de Henares, \nperteneciente a la Red Ferroviaria de Interés General administrada por Adif. La víctima, que resultó \nfallecida por el impacto, caminaba por la vía junto a otra persona que resultó ilesa. \nConclusión: el accidente tuvo su origen en el tránsito indebido de la víctima por la vía. \nRecomendaciones: dadas las características del accidente, no se establecen recomendaciones.",
+      "factores_humanos": "Jornada de trabajo del maquinista \n-en el momento del suceso: 4 horas y 15 minutos \nJornada efectiva de conducción del maquinista: \n-en el momento del suceso: 2 horas y 20 minutos \nJornada de trabajo del maquinista \n24 horas antes: descanso \n48 horas antes: 8 horas (3 horas y 20 minutos de conducción efectiva) \nPrueba de alcoholemia y de droga realizada el día del accidente a las 15:20 horas: resultado \nnegativo. \n4. ANÁLISIS Y CONCLUSIONES",
+      "infraestructura": ""
+    },
+    "conclusiones": "4.1 \nDELIBERACIÓN \nEl lugar donde se produjo el arrollamiento se sitúa en plena vía, entre las estaciones de Vallecas \nIndustrial y El Pozo, en el punto kilométrico 5,200 de la línea 930 Madrid- San Fernando de Henares. \nLa visibilidad atmosférica era buena. \n\nnº 064/2007 ocurrido el 24.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nDE \nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-241207-230508-CIAF \n\nSegún el registro de eventos del tren 21763, éste circulaba a velocidad inferior a la máxima \npermitida. \nDe la prueba de alcoholemia y drogas se constata que el maquinista se encontraba apto para el \ndesarrollo de sus funciones y su actuación en el momento del accidente fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nSe ha comprobado que tanto el material rodante como los sistemas de control de la infraestructura \nfuncionaban correctamente en el momento del accidente. \nLa víctima, junto con su acompañante, caminaba por la vía general en zona no autorizada para el \npúblico. \n4.2 \nCONCLUSIONES \n\nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n\n- \nEl accidente tuvo su origen en el tránsito indebido de la víctima por la vía.",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763, de la empresa \nferroviaria Renfe Operadora, circulando entre las estaciones de Vallecas Industrial y El Pozo, golpea a \nuna persona a la altura del kilómetro 5,200 de la línea 930 Madrid- San Fernando de Henares, \nperteneciente a la Red Ferroviaria de Interés General administrada por Adif. La víctima, que resultó \nfallecida por el impacto, caminaba por la vía junto a otra persona que resultó ilesa. \nConclusión: el accidente tuvo su origen en el tránsito indebido de la víctima por la vía. \nRecomendaciones: dadas las características del accidente, no se establecen recomendaciones."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 3,
+      "heridos": 0,
+      "total_victimas": 3,
+      "danos_materiales": "2.3.1 \nVíctimas mortales \nUn varón de 22 años"
+    },
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "factor humano",
+      "formación",
+      "leve"
+    ],
+    "imagenes": [
+      "data/images/2007/2007-ID241207230508CIAF/page01.png",
+      "data/images/2007/2007-ID241207230508CIAF/page02.png",
+      "data/images/2007/2007-ID241207230508CIAF/page03.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2007/ID241207230508CIAF.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "Pre-RD 810/2007",
+    "hash_pdf": "280f92ada5c961d3cbb6fa76dfd190ed",
+    "fecha_parseo": "2026-06-26T11:53:19.493003"
+  },
+  {
+    "id": "2007-ID291207290408CIAF",
+    "expediente": "065/2007",
+    "tipo": "accidente",
+    "tipo_suceso": "Arrollamiento",
+    "fecha_suceso": "2007-12-29",
+    "hora_suceso": "23:33",
+    "year": 2007,
+    "ubicacion": {
+      "estacion": "Apeadero de Abaroa-San Miguel",
+      "provincia": "Vizcaya",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Del",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hasta",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "nº",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "El Coordinador de accidentes comunicó a la C.I.A.F. a través de mensaje de telefonía móvil a las 23:33 h del pasado día 29 de \ndiciembre, que se había producido el arrollamiento de una persona, resultando fallecida, en el apeadero \nde Abaroa-San Miguel, situado en el punto kilométrico 241,860 de la línea 700 Intermodal Abando Ind. \nPrieto-Casetas, en la provincia de Vizcaya, perteneciente a la Red Ferroviaria de Interés General \nadministrada por Adif. \nEl Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General aprobado \npor el Real Decreto 810/2007, de 22 de junio (B.O.E. nº 162 de 07.07.07), en su artículo 21 asigna la \ncompetencia para la investigación de accidentes Accidentes De conformidad con el artículo 23.1 del mencionado Reglamento, el 11 de diciembre de 2007, el \npresidente de la investigador responsable de la − \nUn técnico integrado en la Integrándose en el equipo investigador con \n− \nEl Responsable de Seguridad de ADIF en la zona Norte quien, por delegación expresa del Director \nde Seguridad en la circulación de ADIF, entregó su informe particular del accidente el 21.01.08. \n− \nEl Responsable de Seguridad de RENFE Operadora quien, por delegación expresa del Director de \nSeguridad en la Circulación de RENFE Operadora, entregó su informe particular del accidente el",
+      "factores_humanos": "",
+      "infraestructura": ""
+    },
+    "conclusiones": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye: “De los hechos descritos y posteriores investigaciones, se deduce \nque el motivo del accidente fue debido a la imprudencia de la persona arrollada que cruzó las vías por \nuna zona no habilitada para ello y sin comprobar previamente de la proximidad de cualquier \ncirculación.” \nEl elaborado por Renfe Operadora establece que “Causas directas e inmediatas del accidente: \nimprudencia de la víctima al cruzar las vías por un lugar no autorizado, no utilizando los dos pasos \nsuperiores que existen en el apeadero de Abaroa-San Miguel. \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente y \ncoherentes con los datos recogidos. \n\nnº 065/2007 ocurrido el 29.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-291207-290408-CIAF",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Se recomienda: \n- \nPotenciar la señalización de advertencia, instando al uso de los pasos habilitados para el \ncruce de las vías, en todos los andenes de estaciones y apeaderos sin perjuicio de que el viajero deba \nadoptar las precauciones necesarias al cruzar una vía de ferrocarril. \n\nMadrid, 29 de abril de 2008. \n\nnº 065/2007 ocurrido el 29.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-291207-290408-CIAF \n\n\nRESOLUCIÓN SOBRE LA \nNº 0065/2007 \nOCURRIDO EL DÍA 29.12.2007 \n\nnº 065/2007 ocurrido el 29.12.2007 \nDE INFRAESTRUCTURAS \n\nINFRAESTRUCTURAS \nA\nFOMENTO \nINVESTIGACIÓN DE \nACCIDENTES \n\nID-291207-290408-CIAF \n\n\nEn el Pleno de la de 2008, analizado el expediente del accidente 65/2007, acaecido en el apeadero de Abaroa el \n29/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador, \naceptando como razonable la recomendación que figura en el mismo: \n\nPotenciar la señalización de advertencia, instando al uso de los pasos habilitados para el cruce de las \nvías en todos los andenes de estaciones y apeaderos, sin perjuicio de que el viajero deba adoptar las \nprecauciones necesarias al cruzar una vía de ferrocarril. \n\nMadrid, 29 de abril de 2008"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 1,
+      "heridos": 0,
+      "total_victimas": 1,
+      "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones."
+    },
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "leve",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2007/2007-ID291207290408CIAF/page01.png",
+      "data/images/2007/2007-ID291207290408CIAF/page02.png",
+      "data/images/2007/2007-ID291207290408CIAF/page03.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2007/ID291207290408CIAF.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "Pre-RD 810/2007",
+    "hash_pdf": "23a332053b52831d098dde0051ac2211",
+    "fecha_parseo": "2026-06-26T11:53:19.717728"
+  }
+]

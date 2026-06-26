@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "CIAF-2018-001",
+    "year": 2018,
+    "date": "2018-02-09",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Vigo",
+    "lat": 42.7252,
+    "lng": -8.789,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Vigo (2018). Vía bloqueada.",
+    "latlng": [
+      42.7252,
+      -8.789
+    ]
+  },
+  {
+    "id": "CIAF-2018-002",
+    "year": 2018,
+    "date": "2018-03-28",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Murcia",
+    "lat": 37.553,
+    "lng": -0.9898,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Murcia (2018). Descarrilamiento.",
+    "latlng": [
+      37.553,
+      -0.9898
+    ]
+  },
+  {
+    "id": "CIAF-2018-003",
+    "year": 2018,
+    "date": "2018-03-17",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.6568,
+    "lng": -3.8764,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Granada (2018). Descarrilamiento.",
+    "latlng": [
+      37.6568,
+      -3.8764
+    ]
+  },
+  {
+    "id": "CIAF-2018-004",
+    "year": 2018,
+    "date": "2018-02-02",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 40.819,
+    "lng": -5.5913,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2018). Choque con obstáculo.",
+    "latlng": [
+      40.819,
+      -5.5913
+    ]
+  },
+  {
+    "id": "CIAF-2018-005",
+    "year": 2018,
+    "date": "2018-08-19",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.8383,
+    "lng": -5.4833,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Gijón (2018). Vía bloqueada.",
+    "latlng": [
+      43.8383,
+      -5.4833
+    ]
+  },
+  {
+    "id": "CIAF-2018-006",
+    "year": 2018,
+    "date": "2018-01-24",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.1853,
+    "lng": -6.6662,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Cádiz (2018). Atropello.",
+    "latlng": [
+      36.1853,
+      -6.6662
+    ]
+  },
+  {
+    "id": "CIAF-2018-007",
+    "year": 2018,
+    "date": "2018-07-17",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.6603,
+    "lng": -4.5674,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Málaga (2018). Error humano.",
+    "latlng": [
+      36.6603,
+      -4.5674
+    ]
+  },
+  {
+    "id": "CIAF-2018-008",
+    "year": 2018,
+    "date": "2018-04-03",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.2576,
+    "lng": -0.7848,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Murcia (2018). Descarrilamiento.",
+    "latlng": [
+      38.2576,
+      -0.7848
+    ]
+  },
+  {
+    "id": "CIAF-2018-009",
+    "year": 2018,
+    "date": "2018-11-17",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Burgos",
+    "lat": 42.1173,
+    "lng": -3.2722,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 7,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2018). Vía bloqueada.",
+    "latlng": [
+      42.1173,
+      -3.2722
+    ]
+  },
+  {
+    "id": "CIAF-2018-010",
+    "year": 2018,
+    "date": "2018-10-07",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 42.6342,
+    "lng": -0.0205,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Huesca (2018). Fallo mecánico.",
+    "latlng": [
+      42.6342,
+      -0.0205
+    ]
+  },
+  {
+    "id": "CIAF-2018-011",
+    "year": 2018,
+    "date": "2018-10-15",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.4926,
+    "lng": -3.2813,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Burgos (2018). Choque con obstáculo.",
+    "latlng": [
+      42.4926,
+      -3.2813
+    ]
+  },
+  {
+    "id": "CIAF-2018-012",
+    "year": 2018,
+    "date": "2018-08-13",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Valencia",
+    "lat": 39.337,
+    "lng": -0.743,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 7,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2018). Condiciones meteorológicas.",
+    "latlng": [
+      39.337,
+      -0.743
+    ]
+  },
+  {
+    "id": "CIAF-2018-013",
+    "year": 2018,
+    "date": "2018-05-09",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.6544,
+    "lng": -6.0407,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Cáceres (2018). Fallo mecánico.",
+    "latlng": [
+      39.6544,
+      -6.0407
+    ]
+  },
+  {
+    "id": "CIAF-2018-014",
+    "year": 2018,
+    "date": "2018-08-20",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Cáceres",
+    "lat": 39.2801,
+    "lng": -5.9393,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Cáceres (2018). Colisión frontal.",
+    "latlng": [
+      39.2801,
+      -5.9393
+    ]
+  },
+  {
+    "id": "CIAF-2018-015",
+    "year": 2018,
+    "date": "2018-03-13",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.2969,
+    "lng": -8.0655,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Ourense (2018). Fallo de señalización.",
+    "latlng": [
+      42.2969,
+      -8.0655
+    ]
+  },
+  {
+    "id": "CIAF-2018-016",
+    "year": 2018,
+    "date": "2018-01-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.0158,
+    "lng": -1.9521,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en San Sebastián (2018). Fallo de señalización.",
+    "latlng": [
+      43.0158,
+      -1.9521
+    ]
+  },
+  {
+    "id": "CIAF-2018-017",
+    "year": 2018,
+    "date": "2018-02-15",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.3315,
+    "lng": -5.7328,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Gijón (2018). Condiciones meteorológicas.",
+    "latlng": [
+      43.3315,
+      -5.7328
+    ]
+  },
+  {
+    "id": "CIAF-2018-018",
+    "year": 2018,
+    "date": "2018-05-02",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.2654,
+    "lng": -3.8426,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Burgos (2018). Condiciones meteorológicas.",
+    "latlng": [
+      42.2654,
+      -3.8426
+    ]
+  },
+  {
+    "id": "CIAF-2018-019",
+    "year": 2018,
+    "date": "2018-02-14",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Huelva",
+    "lat": 36.793,
+    "lng": -6.7785,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2018). Choque con obstáculo.",
+    "latlng": [
+      36.793,
+      -6.7785
+    ]
+  },
+  {
+    "id": "CIAF-2018-020",
+    "year": 2018,
+    "date": "2018-07-05",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 42.4839,
+    "lng": -8.4423,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Vigo (2018). Choque con obstáculo.",
+    "latlng": [
+      42.4839,
+      -8.4423
+    ]
+  },
+  {
+    "id": "CIAF-2018-021",
+    "year": 2018,
+    "date": "2018-06-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.1071,
+    "lng": -3.4214,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Bilbao (2018). Atropello.",
+    "latlng": [
+      43.1071,
+      -3.4214
+    ]
+  },
+  {
+    "id": "CIAF-2018-022",
+    "year": 2018,
+    "date": "2018-12-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valladolid",
+    "lat": 41.4345,
+    "lng": -5.1419,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Valladolid (2018). Descarrilamiento.",
+    "latlng": [
+      41.4345,
+      -5.1419
+    ]
+  },
+  {
+    "id": "CIAF-2018-023",
+    "year": 2018,
+    "date": "2018-08-23",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 38.6428,
+    "lng": -6.7696,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2018). Fallo mecánico.",
+    "latlng": [
+      38.6428,
+      -6.7696
+    ]
+  },
+  {
+    "id": "CIAF-2018-024",
+    "year": 2018,
+    "date": "2018-01-09",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.9705,
+    "lng": -6.8361,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Badajoz (2018). Colisión frontal.",
+    "latlng": [
+      38.9705,
+      -6.8361
+    ]
+  },
+  {
+    "id": "CIAF-2018-025",
+    "year": 2018,
+    "date": "2018-12-21",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.0361,
+    "lng": -7.4995,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2018). Fallo de señalización.",
+    "latlng": [
+      42.0361,
+      -7.4995
+    ]
+  },
+  {
+    "id": "CIAF-2018-026",
+    "year": 2018,
+    "date": "2018-06-09",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 42.8796,
+    "lng": -2.0541,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en San Sebastián (2018). Condiciones meteorológicas.",
+    "latlng": [
+      42.8796,
+      -2.0541
+    ]
+  },
+  {
+    "id": "CIAF-2018-027",
+    "year": 2018,
+    "date": "2018-04-10",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 36.809,
+    "lng": -7.4038,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Huelva (2018). Fallo de señalización.",
+    "latlng": [
+      36.809,
+      -7.4038
+    ]
+  },
+  {
+    "id": "CIAF-2018-028",
+    "year": 2018,
+    "date": "2018-11-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.4736,
+    "lng": -4.4301,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Málaga (2018). Condiciones meteorológicas.",
+    "latlng": [
+      36.4736,
+      -4.4301
+    ]
+  },
+  {
+    "id": "CIAF-2018-029",
+    "year": 2018,
+    "date": "2018-04-21",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.6414,
+    "lng": -3.4589,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Burgos (2018). Descarrilamiento.",
+    "latlng": [
+      42.6414,
+      -3.4589
+    ]
+  },
+  {
+    "id": "CIAF-2018-030",
+    "year": 2018,
+    "date": "2018-11-27",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 36.8678,
+    "lng": -6.8151,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Huelva (2018). Descarrilamiento.",
+    "latlng": [
+      36.8678,
+      -6.8151
+    ]
+  },
+  {
+    "id": "CIAF-2018-031",
+    "year": 2018,
+    "date": "2018-09-24",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valencia",
+    "lat": 39.9117,
+    "lng": -0.2573,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2018). Fallo mecánico.",
+    "latlng": [
+      39.9117,
+      -0.2573
+    ]
+  },
+  {
+    "id": "CIAF-2018-032",
+    "year": 2018,
+    "date": "2018-08-21",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Murcia",
+    "lat": 38.0375,
+    "lng": -1.3775,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 6,
+    "material_damage": true,
+    "description": "Avería en Murcia (2018). Atropello.",
+    "latlng": [
+      38.0375,
+      -1.3775
+    ]
+  },
+  {
+    "id": "CIAF-2018-033",
+    "year": 2018,
+    "date": "2018-12-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.0108,
+    "lng": -0.6776,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2018). Fallo mecánico.",
+    "latlng": [
+      38.0108,
+      -0.6776
+    ]
+  },
+  {
+    "id": "CIAF-2018-034",
+    "year": 2018,
+    "date": "2018-03-15",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Burgos",
+    "lat": 42.6459,
+    "lng": -3.7068,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Burgos (2018). Fallo de señalización.",
+    "latlng": [
+      42.6459,
+      -3.7068
+    ]
+  },
+  {
+    "id": "CIAF-2018-035",
+    "year": 2018,
+    "date": "2018-12-01",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 42.108,
+    "lng": -8.1798,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Ourense (2018). Error humano.",
+    "latlng": [
+      42.108,
+      -8.1798
+    ]
+  },
+  {
+    "id": "CIAF-2018-036",
+    "year": 2018,
+    "date": "2018-01-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.5996,
+    "lng": -6.7623,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2018). Choque con obstáculo.",
+    "latlng": [
+      38.5996,
+      -6.7623
+    ]
+  },
+  {
+    "id": "CIAF-2018-037",
+    "year": 2018,
+    "date": "2018-04-18",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 37.0392,
+    "lng": -7.3117,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2018). Fallos eléctricos.",
+    "latlng": [
+      37.0392,
+      -7.3117
+    ]
+  },
+  {
+    "id": "CIAF-2018-038",
+    "year": 2018,
+    "date": "2018-07-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.3568,
+    "lng": -5.2147,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Gijón (2018). Colisión frontal.",
+    "latlng": [
+      43.3568,
+      -5.2147
+    ]
+  },
+  {
+    "id": "CIAF-2018-039",
+    "year": 2018,
+    "date": "2018-09-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.3183,
+    "lng": -2.2145,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Logroño (2018). Error humano.",
+    "latlng": [
+      42.3183,
+      -2.2145
+    ]
+  },
+  {
+    "id": "CIAF-2018-040",
+    "year": 2018,
+    "date": "2018-06-09",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 39.0055,
+    "lng": -6.8663,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Badajoz (2018). Choque con obstáculo.",
+    "latlng": [
+      39.0055,
+      -6.8663
+    ]
+  },
+  {
+    "id": "CIAF-2018-041",
+    "year": 2018,
+    "date": "2018-02-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.5442,
+    "lng": -1.4195,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Pamplona (2018). Choque con obstáculo.",
+    "latlng": [
+      42.5442,
+      -1.4195
+    ]
+  },
+  {
+    "id": "CIAF-2018-042",
+    "year": 2018,
+    "date": "2018-05-06",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.7185,
+    "lng": -0.4457,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Zaragoza (2018). Descarrilamiento.",
+    "latlng": [
+      41.7185,
+      -0.4457
+    ]
+  },
+  {
+    "id": "CIAF-2018-043",
+    "year": 2018,
+    "date": "2018-12-17",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Bilbao",
+    "lat": 42.835,
+    "lng": -3.1897,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Bilbao (2018). Fallo de señalización.",
+    "latlng": [
+      42.835,
+      -3.1897
+    ]
+  },
+  {
+    "id": "CIAF-2018-044",
+    "year": 2018,
+    "date": "2018-04-25",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Granada",
+    "lat": 36.698,
+    "lng": -3.272,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Granada (2018). Fallos eléctricos.",
+    "latlng": [
+      36.698,
+      -3.272
+    ]
+  },
+  {
+    "id": "CIAF-2018-045",
+    "year": 2018,
+    "date": "2018-12-03",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Madrid",
+    "lat": 40.7092,
+    "lng": -4.1944,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Madrid (2018). Fallos eléctricos.",
+    "latlng": [
+      40.7092,
+      -4.1944
+    ]
+  },
+  {
+    "id": "CIAF-2018-046",
+    "year": 2018,
+    "date": "2018-01-18",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.2057,
+    "lng": -7.2816,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Huelva (2018). Colisión frontal.",
+    "latlng": [
+      37.2057,
+      -7.2816
+    ]
+  },
+  {
+    "id": "CIAF-2018-047",
+    "year": 2018,
+    "date": "2018-03-01",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.0073,
+    "lng": -2.4004,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Logroño (2018). Fallo de señalización.",
+    "latlng": [
+      42.0073,
+      -2.4004
+    ]
+  },
+  {
+    "id": "CIAF-2018-048",
+    "year": 2018,
+    "date": "2018-07-22",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Granada",
+    "lat": 36.8247,
+    "lng": -3.4432,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Granada (2018). Descarrilamiento.",
+    "latlng": [
+      36.8247,
+      -3.4432
+    ]
+  },
+  {
+    "id": "CIAF-2018-049",
+    "year": 2018,
+    "date": "2018-02-12",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 37.9469,
+    "lng": -0.0252,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2018). Choque con obstáculo.",
+    "latlng": [
+      37.9469,
+      -0.0252
+    ]
+  },
+  {
+    "id": "CIAF-2018-050",
+    "year": 2018,
+    "date": "2018-11-10",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.0175,
+    "lng": -1.0304,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Murcia (2018). Descarrilamiento.",
+    "latlng": [
+      38.0175,
+      -1.0304
+    ]
+  },
+  {
+    "id": "CIAF-2018-051",
+    "year": 2018,
+    "date": "2018-02-26",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Córdoba",
+    "lat": 38.3044,
+    "lng": -4.6177,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2018). Condiciones meteorológicas.",
+    "latlng": [
+      38.3044,
+      -4.6177
+    ]
+  },
+  {
+    "id": "CIAF-2018-052",
+    "year": 2018,
+    "date": "2018-10-14",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Bilbao",
+    "lat": 43.1536,
+    "lng": -2.7137,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Bilbao (2018). Condiciones meteorológicas.",
+    "latlng": [
+      43.1536,
+      -2.7137
+    ]
+  },
+  {
+    "id": "CIAF-2018-053",
+    "year": 2018,
+    "date": "2018-12-14",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 42.9449,
+    "lng": -3.05,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Bilbao (2018). Fallo mecánico.",
+    "latlng": [
+      42.9449,
+      -3.05
+    ]
+  },
+  {
+    "id": "CIAF-2018-054",
+    "year": 2018,
+    "date": "2018-04-13",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.096,
+    "lng": -3.6015,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Granada (2018). Vía bloqueada.",
+    "latlng": [
+      37.096,
+      -3.6015
+    ]
+  }
+]

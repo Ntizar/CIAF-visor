@@ -1,0 +1,2073 @@
+[
+  {
+    "id": "CIAF-2020-001",
+    "year": 2020,
+    "date": "2020-03-08",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.6167,
+    "lng": -5.3312,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Gijón (2020). Atropello.",
+    "latlng": [
+      43.6167,
+      -5.3312
+    ]
+  },
+  {
+    "id": "CIAF-2020-002",
+    "year": 2020,
+    "date": "2020-03-24",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 42.4927,
+    "lng": -8.2413,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Vigo (2020). Colisión frontal.",
+    "latlng": [
+      42.4927,
+      -8.2413
+    ]
+  },
+  {
+    "id": "CIAF-2020-003",
+    "year": 2020,
+    "date": "2020-10-21",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.087,
+    "lng": -8.3265,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Ourense (2020). Descarrilamiento.",
+    "latlng": [
+      42.087,
+      -8.3265
+    ]
+  },
+  {
+    "id": "CIAF-2020-004",
+    "year": 2020,
+    "date": "2020-04-09",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.4793,
+    "lng": -6.6594,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Cádiz (2020). Fallo mecánico.",
+    "latlng": [
+      36.4793,
+      -6.6594
+    ]
+  },
+  {
+    "id": "CIAF-2020-005",
+    "year": 2020,
+    "date": "2020-02-19",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Zaragoza",
+    "lat": 41.891,
+    "lng": -0.955,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2020). Colisión frontal.",
+    "latlng": [
+      41.891,
+      -0.955
+    ]
+  },
+  {
+    "id": "CIAF-2020-006",
+    "year": 2020,
+    "date": "2020-06-06",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Santiago",
+    "lat": 42.5188,
+    "lng": -9.0396,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Santiago (2020). Fallo mecánico.",
+    "latlng": [
+      42.5188,
+      -9.0396
+    ]
+  },
+  {
+    "id": "CIAF-2020-007",
+    "year": 2020,
+    "date": "2020-03-26",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.7899,
+    "lng": -3.8091,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Santander (2020). Fallo de señalización.",
+    "latlng": [
+      43.7899,
+      -3.8091
+    ]
+  },
+  {
+    "id": "CIAF-2020-008",
+    "year": 2020,
+    "date": "2020-08-08",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.4502,
+    "lng": -7.3925,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Badajoz (2020). Colisión frontal.",
+    "latlng": [
+      38.4502,
+      -7.3925
+    ]
+  },
+  {
+    "id": "CIAF-2020-009",
+    "year": 2020,
+    "date": "2020-02-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.6665,
+    "lng": -0.6911,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2020). Vía bloqueada.",
+    "latlng": [
+      38.6665,
+      -0.6911
+    ]
+  },
+  {
+    "id": "CIAF-2020-010",
+    "year": 2020,
+    "date": "2020-10-02",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.2037,
+    "lng": -3.7922,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Santander (2020). Error humano.",
+    "latlng": [
+      43.2037,
+      -3.7922
+    ]
+  },
+  {
+    "id": "CIAF-2020-011",
+    "year": 2020,
+    "date": "2020-03-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.1476,
+    "lng": 0.458,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Lleida (2020). Fallo mecánico.",
+    "latlng": [
+      41.1476,
+      0.458
+    ]
+  },
+  {
+    "id": "CIAF-2020-012",
+    "year": 2020,
+    "date": "2020-06-03",
+    "type": "avería",
+    "severity": "grave",
+    "city": "San Sebastián",
+    "lat": 42.8912,
+    "lng": -1.5332,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en San Sebastián (2020). Vía bloqueada.",
+    "latlng": [
+      42.8912,
+      -1.5332
+    ]
+  },
+  {
+    "id": "CIAF-2020-013",
+    "year": 2020,
+    "date": "2020-09-08",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.7649,
+    "lng": -2.2107,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en San Sebastián (2020). Error humano.",
+    "latlng": [
+      43.7649,
+      -2.2107
+    ]
+  },
+  {
+    "id": "CIAF-2020-014",
+    "year": 2020,
+    "date": "2020-04-18",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Santiago",
+    "lat": 43.228,
+    "lng": -8.0733,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2020). Vía bloqueada.",
+    "latlng": [
+      43.228,
+      -8.0733
+    ]
+  },
+  {
+    "id": "CIAF-2020-015",
+    "year": 2020,
+    "date": "2020-07-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 42.8704,
+    "lng": -1.7155,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en San Sebastián (2020). Descarrilamiento.",
+    "latlng": [
+      42.8704,
+      -1.7155
+    ]
+  },
+  {
+    "id": "CIAF-2020-016",
+    "year": 2020,
+    "date": "2020-01-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.3771,
+    "lng": -6.5411,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Huelva (2020). Fallo mecánico.",
+    "latlng": [
+      37.3771,
+      -6.5411
+    ]
+  },
+  {
+    "id": "CIAF-2020-017",
+    "year": 2020,
+    "date": "2020-12-08",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.2345,
+    "lng": -0.7417,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Murcia (2020). Choque con obstáculo.",
+    "latlng": [
+      38.2345,
+      -0.7417
+    ]
+  },
+  {
+    "id": "CIAF-2020-018",
+    "year": 2020,
+    "date": "2020-05-05",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Pamplona",
+    "lat": 42.4931,
+    "lng": -2.1021,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Pamplona (2020). Descarrilamiento.",
+    "latlng": [
+      42.4931,
+      -2.1021
+    ]
+  },
+  {
+    "id": "CIAF-2020-019",
+    "year": 2020,
+    "date": "2020-12-27",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 41.713,
+    "lng": -0.6584,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Huesca (2020). Error humano.",
+    "latlng": [
+      41.713,
+      -0.6584
+    ]
+  },
+  {
+    "id": "CIAF-2020-020",
+    "year": 2020,
+    "date": "2020-06-23",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.8124,
+    "lng": -5.8684,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Gijón (2020). Colisión frontal.",
+    "latlng": [
+      43.8124,
+      -5.8684
+    ]
+  },
+  {
+    "id": "CIAF-2020-021",
+    "year": 2020,
+    "date": "2020-04-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.9326,
+    "lng": -5.4556,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Gijón (2020). Vía bloqueada.",
+    "latlng": [
+      43.9326,
+      -5.4556
+    ]
+  },
+  {
+    "id": "CIAF-2020-022",
+    "year": 2020,
+    "date": "2020-12-15",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.2715,
+    "lng": -0.6642,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Zaragoza (2020). Atropello.",
+    "latlng": [
+      41.2715,
+      -0.6642
+    ]
+  },
+  {
+    "id": "CIAF-2020-023",
+    "year": 2020,
+    "date": "2020-01-09",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 41.9966,
+    "lng": -2.667,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Logroño (2020). Colisión frontal.",
+    "latlng": [
+      41.9966,
+      -2.667
+    ]
+  },
+  {
+    "id": "CIAF-2020-024",
+    "year": 2020,
+    "date": "2020-11-14",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.7619,
+    "lng": -7.0266,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Badajoz (2020). Colisión frontal.",
+    "latlng": [
+      38.7619,
+      -7.0266
+    ]
+  },
+  {
+    "id": "CIAF-2020-025",
+    "year": 2020,
+    "date": "2020-05-26",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 43.1097,
+    "lng": -2.2469,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2020). Condiciones meteorológicas.",
+    "latlng": [
+      43.1097,
+      -2.2469
+    ]
+  },
+  {
+    "id": "CIAF-2020-026",
+    "year": 2020,
+    "date": "2020-01-26",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.6606,
+    "lng": -3.7677,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Burgos (2020). Error humano.",
+    "latlng": [
+      42.6606,
+      -3.7677
+    ]
+  },
+  {
+    "id": "CIAF-2020-027",
+    "year": 2020,
+    "date": "2020-09-09",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 39.3702,
+    "lng": -6.9358,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Badajoz (2020). Fallo mecánico.",
+    "latlng": [
+      39.3702,
+      -6.9358
+    ]
+  },
+  {
+    "id": "CIAF-2020-028",
+    "year": 2020,
+    "date": "2020-04-25",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Bilbao",
+    "lat": 43.6707,
+    "lng": -3.1543,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Bilbao (2020). Fallos eléctricos.",
+    "latlng": [
+      43.6707,
+      -3.1543
+    ]
+  },
+  {
+    "id": "CIAF-2020-029",
+    "year": 2020,
+    "date": "2020-10-01",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 36.7159,
+    "lng": -3.8243,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Granada (2020). Error humano.",
+    "latlng": [
+      36.7159,
+      -3.8243
+    ]
+  },
+  {
+    "id": "CIAF-2020-030",
+    "year": 2020,
+    "date": "2020-06-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.5581,
+    "lng": -7.0079,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Badajoz (2020). Colisión frontal.",
+    "latlng": [
+      38.5581,
+      -7.0079
+    ]
+  },
+  {
+    "id": "CIAF-2020-031",
+    "year": 2020,
+    "date": "2020-08-06",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.9011,
+    "lng": -4.0336,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Santander (2020). Atropello.",
+    "latlng": [
+      43.9011,
+      -4.0336
+    ]
+  },
+  {
+    "id": "CIAF-2020-032",
+    "year": 2020,
+    "date": "2020-02-21",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Bilbao",
+    "lat": 42.9904,
+    "lng": -3.2605,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Bilbao (2020). Fallos eléctricos.",
+    "latlng": [
+      42.9904,
+      -3.2605
+    ]
+  },
+  {
+    "id": "CIAF-2020-033",
+    "year": 2020,
+    "date": "2020-05-01",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Vigo",
+    "lat": 41.7748,
+    "lng": -8.5052,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Vigo (2020). Fallos eléctricos.",
+    "latlng": [
+      41.7748,
+      -8.5052
+    ]
+  },
+  {
+    "id": "CIAF-2020-034",
+    "year": 2020,
+    "date": "2020-04-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.1949,
+    "lng": -0.9035,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Alicante (2020). Fallo de señalización.",
+    "latlng": [
+      38.1949,
+      -0.9035
+    ]
+  },
+  {
+    "id": "CIAF-2020-035",
+    "year": 2020,
+    "date": "2020-06-11",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.6118,
+    "lng": -0.0004,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Valencia (2020). Error humano.",
+    "latlng": [
+      39.6118,
+      -0.0004
+    ]
+  },
+  {
+    "id": "CIAF-2020-036",
+    "year": 2020,
+    "date": "2020-01-04",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Ourense",
+    "lat": 41.8677,
+    "lng": -7.9956,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2020). Vía bloqueada.",
+    "latlng": [
+      41.8677,
+      -7.9956
+    ]
+  },
+  {
+    "id": "CIAF-2020-037",
+    "year": 2020,
+    "date": "2020-07-27",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.8107,
+    "lng": -6.2844,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Cádiz (2020). Fallo de señalización.",
+    "latlng": [
+      36.8107,
+      -6.2844
+    ]
+  },
+  {
+    "id": "CIAF-2020-038",
+    "year": 2020,
+    "date": "2020-10-17",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "León",
+    "lat": 43.0965,
+    "lng": -5.9887,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en León (2020). Vía bloqueada.",
+    "latlng": [
+      43.0965,
+      -5.9887
+    ]
+  },
+  {
+    "id": "CIAF-2020-039",
+    "year": 2020,
+    "date": "2020-09-17",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 41.9526,
+    "lng": -3.3233,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2020). Fallo mecánico.",
+    "latlng": [
+      41.9526,
+      -3.3233
+    ]
+  },
+  {
+    "id": "CIAF-2020-040",
+    "year": 2020,
+    "date": "2020-04-15",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.538,
+    "lng": -2.0339,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Logroño (2020). Atropello.",
+    "latlng": [
+      42.538,
+      -2.0339
+    ]
+  },
+  {
+    "id": "CIAF-2020-041",
+    "year": 2020,
+    "date": "2020-02-12",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.789,
+    "lng": -3.7919,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Burgos (2020). Atropello.",
+    "latlng": [
+      42.789,
+      -3.7919
+    ]
+  },
+  {
+    "id": "CIAF-2020-042",
+    "year": 2020,
+    "date": "2020-07-22",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Santiago",
+    "lat": 42.7971,
+    "lng": -8.4755,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Santiago (2020). Error humano.",
+    "latlng": [
+      42.7971,
+      -8.4755
+    ]
+  },
+  {
+    "id": "CIAF-2020-043",
+    "year": 2020,
+    "date": "2020-10-16",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 42.0466,
+    "lng": -9.1411,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Vigo (2020). Colisión frontal.",
+    "latlng": [
+      42.0466,
+      -9.1411
+    ]
+  },
+  {
+    "id": "CIAF-2020-044",
+    "year": 2020,
+    "date": "2020-12-04",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.3421,
+    "lng": -4.658,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Málaga (2020). Colisión frontal.",
+    "latlng": [
+      36.3421,
+      -4.658
+    ]
+  },
+  {
+    "id": "CIAF-2020-045",
+    "year": 2020,
+    "date": "2020-07-12",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Cádiz",
+    "lat": 36.1967,
+    "lng": -6.7196,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Cádiz (2020). Error humano.",
+    "latlng": [
+      36.1967,
+      -6.7196
+    ]
+  },
+  {
+    "id": "CIAF-2020-046",
+    "year": 2020,
+    "date": "2020-02-24",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.2259,
+    "lng": -5.6598,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Sevilla (2020). Atropello.",
+    "latlng": [
+      37.2259,
+      -5.6598
+    ]
+  },
+  {
+    "id": "CIAF-2020-047",
+    "year": 2020,
+    "date": "2020-12-05",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.3842,
+    "lng": -6.4226,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Cáceres (2020). Choque con obstáculo.",
+    "latlng": [
+      39.3842,
+      -6.4226
+    ]
+  },
+  {
+    "id": "CIAF-2020-048",
+    "year": 2020,
+    "date": "2020-06-15",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 36.7692,
+    "lng": -6.8517,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Huelva (2020). Descarrilamiento.",
+    "latlng": [
+      36.7692,
+      -6.8517
+    ]
+  },
+  {
+    "id": "CIAF-2020-049",
+    "year": 2020,
+    "date": "2020-10-17",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Alicante",
+    "lat": 38.1425,
+    "lng": -0.6399,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Alicante (2020). Fallo de señalización.",
+    "latlng": [
+      38.1425,
+      -0.6399
+    ]
+  },
+  {
+    "id": "CIAF-2020-050",
+    "year": 2020,
+    "date": "2020-12-07",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Vigo",
+    "lat": 42.4901,
+    "lng": -8.2691,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Vigo (2020). Fallos eléctricos.",
+    "latlng": [
+      42.4901,
+      -8.2691
+    ]
+  },
+  {
+    "id": "CIAF-2020-051",
+    "year": 2020,
+    "date": "2020-05-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.3769,
+    "lng": -7.3452,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Huelva (2020). Error humano.",
+    "latlng": [
+      37.3769,
+      -7.3452
+    ]
+  },
+  {
+    "id": "CIAF-2020-052",
+    "year": 2020,
+    "date": "2020-05-05",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Cáceres",
+    "lat": 39.2347,
+    "lng": -6.2662,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Cáceres (2020). Colisión frontal.",
+    "latlng": [
+      39.2347,
+      -6.2662
+    ]
+  },
+  {
+    "id": "CIAF-2020-053",
+    "year": 2020,
+    "date": "2020-01-16",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 42.739,
+    "lng": -7.404,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Ourense (2020). Error humano.",
+    "latlng": [
+      42.739,
+      -7.404
+    ]
+  },
+  {
+    "id": "CIAF-2020-054",
+    "year": 2020,
+    "date": "2020-02-23",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Santander",
+    "lat": 43.3888,
+    "lng": -3.8652,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Santander (2020). Atropello.",
+    "latlng": [
+      43.3888,
+      -3.8652
+    ]
+  },
+  {
+    "id": "CIAF-2020-055",
+    "year": 2020,
+    "date": "2020-06-26",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 37.4751,
+    "lng": -5.1426,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2020). Condiciones meteorológicas.",
+    "latlng": [
+      37.4751,
+      -5.1426
+    ]
+  },
+  {
+    "id": "CIAF-2020-056",
+    "year": 2020,
+    "date": "2020-02-23",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.7284,
+    "lng": -4.6453,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Málaga (2020). Descarrilamiento.",
+    "latlng": [
+      36.7284,
+      -4.6453
+    ]
+  },
+  {
+    "id": "CIAF-2020-057",
+    "year": 2020,
+    "date": "2020-11-02",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Cáceres",
+    "lat": 39.6804,
+    "lng": -6.3511,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Cáceres (2020). Fallos eléctricos.",
+    "latlng": [
+      39.6804,
+      -6.3511
+    ]
+  },
+  {
+    "id": "CIAF-2020-058",
+    "year": 2020,
+    "date": "2020-08-27",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.5494,
+    "lng": -3.8784,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Granada (2020). Choque con obstáculo.",
+    "latlng": [
+      37.5494,
+      -3.8784
+    ]
+  },
+  {
+    "id": "CIAF-2020-059",
+    "year": 2020,
+    "date": "2020-04-01",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Zaragoza",
+    "lat": 41.7836,
+    "lng": -1.3004,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Zaragoza (2020). Vía bloqueada.",
+    "latlng": [
+      41.7836,
+      -1.3004
+    ]
+  },
+  {
+    "id": "CIAF-2020-060",
+    "year": 2020,
+    "date": "2020-07-21",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 42.045,
+    "lng": -8.1858,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2020). Atropello.",
+    "latlng": [
+      42.045,
+      -8.1858
+    ]
+  },
+  {
+    "id": "CIAF-2020-061",
+    "year": 2020,
+    "date": "2020-11-16",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Salamanca",
+    "lat": 41.127,
+    "lng": -5.9834,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2020). Vía bloqueada.",
+    "latlng": [
+      41.127,
+      -5.9834
+    ]
+  },
+  {
+    "id": "CIAF-2020-062",
+    "year": 2020,
+    "date": "2020-06-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.1137,
+    "lng": -2.2623,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en San Sebastián (2020). Atropello.",
+    "latlng": [
+      43.1137,
+      -2.2623
+    ]
+  },
+  {
+    "id": "CIAF-2020-063",
+    "year": 2020,
+    "date": "2020-08-20",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 42.3934,
+    "lng": -8.875,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Vigo (2020). Error humano.",
+    "latlng": [
+      42.3934,
+      -8.875
+    ]
+  },
+  {
+    "id": "CIAF-2020-064",
+    "year": 2020,
+    "date": "2020-05-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.8957,
+    "lng": -4.3896,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2020). Atropello.",
+    "latlng": [
+      37.8957,
+      -4.3896
+    ]
+  },
+  {
+    "id": "CIAF-2020-065",
+    "year": 2020,
+    "date": "2020-06-21",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.8857,
+    "lng": -0.7176,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Murcia (2020). Fallo de señalización.",
+    "latlng": [
+      37.8857,
+      -0.7176
+    ]
+  },
+  {
+    "id": "CIAF-2020-066",
+    "year": 2020,
+    "date": "2020-10-20",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Alicante",
+    "lat": 38.4177,
+    "lng": -0.8145,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Alicante (2020). Colisión frontal.",
+    "latlng": [
+      38.4177,
+      -0.8145
+    ]
+  },
+  {
+    "id": "CIAF-2020-067",
+    "year": 2020,
+    "date": "2020-02-21",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Santiago",
+    "lat": 42.7574,
+    "lng": -8.2644,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Santiago (2020). Condiciones meteorológicas.",
+    "latlng": [
+      42.7574,
+      -8.2644
+    ]
+  },
+  {
+    "id": "CIAF-2020-068",
+    "year": 2020,
+    "date": "2020-04-10",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.5451,
+    "lng": -3.0271,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2020). Fallo de señalización.",
+    "latlng": [
+      42.5451,
+      -3.0271
+    ]
+  },
+  {
+    "id": "CIAF-2020-069",
+    "year": 2020,
+    "date": "2020-09-04",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.7018,
+    "lng": -1.1404,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2020). Colisión frontal.",
+    "latlng": [
+      41.7018,
+      -1.1404
+    ]
+  },
+  {
+    "id": "CIAF-2020-070",
+    "year": 2020,
+    "date": "2020-01-09",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.5044,
+    "lng": -4.8972,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Málaga (2020). Choque con obstáculo.",
+    "latlng": [
+      36.5044,
+      -4.8972
+    ]
+  },
+  {
+    "id": "CIAF-2020-071",
+    "year": 2020,
+    "date": "2020-12-23",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.7033,
+    "lng": -2.675,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Logroño (2020). Vía bloqueada.",
+    "latlng": [
+      42.7033,
+      -2.675
+    ]
+  },
+  {
+    "id": "CIAF-2020-072",
+    "year": 2020,
+    "date": "2020-10-28",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 42.7555,
+    "lng": -8.2683,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Ourense (2020). Vía bloqueada.",
+    "latlng": [
+      42.7555,
+      -8.2683
+    ]
+  },
+  {
+    "id": "CIAF-2020-073",
+    "year": 2020,
+    "date": "2020-10-16",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 41.8548,
+    "lng": -3.9278,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2020). Descarrilamiento.",
+    "latlng": [
+      41.8548,
+      -3.9278
+    ]
+  },
+  {
+    "id": "CIAF-2020-074",
+    "year": 2020,
+    "date": "2020-09-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.8121,
+    "lng": -0.42,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2020). Atropello.",
+    "latlng": [
+      38.8121,
+      -0.42
+    ]
+  },
+  {
+    "id": "CIAF-2020-075",
+    "year": 2020,
+    "date": "2020-04-19",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.225,
+    "lng": -3.8291,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Burgos (2020). Atropello.",
+    "latlng": [
+      42.225,
+      -3.8291
+    ]
+  },
+  {
+    "id": "CIAF-2020-076",
+    "year": 2020,
+    "date": "2020-02-04",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.509,
+    "lng": -6.0522,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Gijón (2020). Atropello.",
+    "latlng": [
+      43.509,
+      -6.0522
+    ]
+  },
+  {
+    "id": "CIAF-2020-077",
+    "year": 2020,
+    "date": "2020-12-27",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Santander",
+    "lat": 43.2123,
+    "lng": -4.1687,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Santander (2020). Atropello.",
+    "latlng": [
+      43.2123,
+      -4.1687
+    ]
+  },
+  {
+    "id": "CIAF-2020-078",
+    "year": 2020,
+    "date": "2020-10-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.8001,
+    "lng": -4.5389,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Córdoba (2020). Fallo mecánico.",
+    "latlng": [
+      37.8001,
+      -4.5389
+    ]
+  },
+  {
+    "id": "CIAF-2020-079",
+    "year": 2020,
+    "date": "2020-04-11",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.6611,
+    "lng": -5.5784,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en León (2020). Descarrilamiento.",
+    "latlng": [
+      42.6611,
+      -5.5784
+    ]
+  },
+  {
+    "id": "CIAF-2020-080",
+    "year": 2020,
+    "date": "2020-02-06",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.1863,
+    "lng": -1.2543,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2020). Colisión frontal.",
+    "latlng": [
+      38.1863,
+      -1.2543
+    ]
+  },
+  {
+    "id": "CIAF-2020-081",
+    "year": 2020,
+    "date": "2020-09-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.1856,
+    "lng": -7.274,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Huelva (2020). Descarrilamiento.",
+    "latlng": [
+      37.1856,
+      -7.274
+    ]
+  },
+  {
+    "id": "CIAF-2020-082",
+    "year": 2020,
+    "date": "2020-10-12",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.4827,
+    "lng": -0.9101,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Murcia (2020). Error humano.",
+    "latlng": [
+      38.4827,
+      -0.9101
+    ]
+  },
+  {
+    "id": "CIAF-2020-083",
+    "year": 2020,
+    "date": "2020-05-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.1551,
+    "lng": -5.3607,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Salamanca (2020). Choque con obstáculo.",
+    "latlng": [
+      41.1551,
+      -5.3607
+    ]
+  },
+  {
+    "id": "CIAF-2020-084",
+    "year": 2020,
+    "date": "2020-03-16",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.7457,
+    "lng": -4.092,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Málaga (2020). Fallo mecánico.",
+    "latlng": [
+      36.7457,
+      -4.092
+    ]
+  },
+  {
+    "id": "CIAF-2020-085",
+    "year": 2020,
+    "date": "2020-08-20",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.8428,
+    "lng": -0.8514,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Zaragoza (2020). Vía bloqueada.",
+    "latlng": [
+      41.8428,
+      -0.8514
+    ]
+  },
+  {
+    "id": "CIAF-2020-086",
+    "year": 2020,
+    "date": "2020-10-24",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 36.9874,
+    "lng": -6.8159,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2020). Error humano.",
+    "latlng": [
+      36.9874,
+      -6.8159
+    ]
+  },
+  {
+    "id": "CIAF-2020-087",
+    "year": 2020,
+    "date": "2020-12-07",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.8877,
+    "lng": -2.5247,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Vitoria (2020). Fallos eléctricos.",
+    "latlng": [
+      42.8877,
+      -2.5247
+    ]
+  },
+  {
+    "id": "CIAF-2020-088",
+    "year": 2020,
+    "date": "2020-10-25",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.0158,
+    "lng": -5.9622,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Sevilla (2020). Fallos eléctricos.",
+    "latlng": [
+      37.0158,
+      -5.9622
+    ]
+  },
+  {
+    "id": "CIAF-2020-089",
+    "year": 2020,
+    "date": "2020-02-26",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.5454,
+    "lng": -0.6993,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2020). Choque con obstáculo.",
+    "latlng": [
+      42.5454,
+      -0.6993
+    ]
+  },
+  {
+    "id": "CIAF-2020-090",
+    "year": 2020,
+    "date": "2020-07-22",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.6929,
+    "lng": -2.1579,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en San Sebastián (2020). Vía bloqueada.",
+    "latlng": [
+      43.6929,
+      -2.1579
+    ]
+  },
+  {
+    "id": "CIAF-2020-091",
+    "year": 2020,
+    "date": "2020-08-12",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "León",
+    "lat": 42.216,
+    "lng": -5.507,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en León (2020). Vía bloqueada.",
+    "latlng": [
+      42.216,
+      -5.507
+    ]
+  },
+  {
+    "id": "CIAF-2020-092",
+    "year": 2020,
+    "date": "2020-12-05",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Valencia",
+    "lat": 39.8532,
+    "lng": -0.0341,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Valencia (2020). Atropello.",
+    "latlng": [
+      39.8532,
+      -0.0341
+    ]
+  },
+  {
+    "id": "CIAF-2020-093",
+    "year": 2020,
+    "date": "2020-06-06",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Cádiz",
+    "lat": 36.8188,
+    "lng": -6.1072,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Cádiz (2020). Condiciones meteorológicas.",
+    "latlng": [
+      36.8188,
+      -6.1072
+    ]
+  },
+  {
+    "id": "CIAF-2020-094",
+    "year": 2020,
+    "date": "2020-12-01",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.2555,
+    "lng": -3.5848,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2020). Vía bloqueada.",
+    "latlng": [
+      42.2555,
+      -3.5848
+    ]
+  },
+  {
+    "id": "CIAF-2020-095",
+    "year": 2020,
+    "date": "2020-09-01",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Zaragoza",
+    "lat": 41.1544,
+    "lng": -1.0787,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Zaragoza (2020). Error humano.",
+    "latlng": [
+      41.1544,
+      -1.0787
+    ]
+  },
+  {
+    "id": "CIAF-2020-096",
+    "year": 2020,
+    "date": "2020-11-02",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Lleida",
+    "lat": 41.5963,
+    "lng": 0.1639,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Lleida (2020). Fallos eléctricos.",
+    "latlng": [
+      41.5963,
+      0.1639
+    ]
+  },
+  {
+    "id": "CIAF-2020-097",
+    "year": 2020,
+    "date": "2020-02-02",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Lleida",
+    "lat": 41.5721,
+    "lng": 0.2938,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Lleida (2020). Choque con obstáculo.",
+    "latlng": [
+      41.5721,
+      0.2938
+    ]
+  },
+  {
+    "id": "CIAF-2020-098",
+    "year": 2020,
+    "date": "2020-12-02",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 39.2302,
+    "lng": -7.3878,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Badajoz (2020). Fallo mecánico.",
+    "latlng": [
+      39.2302,
+      -7.3878
+    ]
+  },
+  {
+    "id": "CIAF-2020-099",
+    "year": 2020,
+    "date": "2020-12-06",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Lleida",
+    "lat": 41.7316,
+    "lng": 0.1367,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Lleida (2020). Fallo de señalización.",
+    "latlng": [
+      41.7316,
+      0.1367
+    ]
+  },
+  {
+    "id": "CIAF-2020-100",
+    "year": 2020,
+    "date": "2020-03-24",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.3247,
+    "lng": -0.9604,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2020). Atropello.",
+    "latlng": [
+      38.3247,
+      -0.9604
+    ]
+  },
+  {
+    "id": "CIAF-2020-101",
+    "year": 2020,
+    "date": "2020-12-27",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.1629,
+    "lng": 1.8673,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Barcelona (2020). Vía bloqueada.",
+    "latlng": [
+      41.1629,
+      1.8673
+    ]
+  },
+  {
+    "id": "CIAF-2020-102",
+    "year": 2020,
+    "date": "2020-02-04",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.1499,
+    "lng": -5.6948,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Gijón (2020). Choque con obstáculo.",
+    "latlng": [
+      43.1499,
+      -5.6948
+    ]
+  },
+  {
+    "id": "CIAF-2020-103",
+    "year": 2020,
+    "date": "2020-11-12",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 42.3239,
+    "lng": -8.2568,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Vigo (2020). Error humano.",
+    "latlng": [
+      42.3239,
+      -8.2568
+    ]
+  },
+  {
+    "id": "CIAF-2020-104",
+    "year": 2020,
+    "date": "2020-03-10",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.6437,
+    "lng": -2.0023,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Logroño (2020). Choque con obstáculo.",
+    "latlng": [
+      42.6437,
+      -2.0023
+    ]
+  },
+  {
+    "id": "CIAF-2020-105",
+    "year": 2020,
+    "date": "2020-04-06",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Córdoba",
+    "lat": 37.5286,
+    "lng": -4.9639,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Córdoba (2020). Error humano.",
+    "latlng": [
+      37.5286,
+      -4.9639
+    ]
+  },
+  {
+    "id": "CIAF-2020-106",
+    "year": 2020,
+    "date": "2020-08-27",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valencia",
+    "lat": 39.4598,
+    "lng": -0.2976,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Valencia (2020). Choque con obstáculo.",
+    "latlng": [
+      39.4598,
+      -0.2976
+    ]
+  },
+  {
+    "id": "CIAF-2020-107",
+    "year": 2020,
+    "date": "2020-05-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.9154,
+    "lng": -2.1903,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Vitoria (2020). Descarrilamiento.",
+    "latlng": [
+      42.9154,
+      -2.1903
+    ]
+  },
+  {
+    "id": "CIAF-2020-108",
+    "year": 2020,
+    "date": "2020-09-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.2435,
+    "lng": -5.9053,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Salamanca (2020). Atropello.",
+    "latlng": [
+      41.2435,
+      -5.9053
+    ]
+  },
+  {
+    "id": "CIAF-2020-109",
+    "year": 2020,
+    "date": "2020-06-23",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.2853,
+    "lng": -3.7462,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Santander (2020). Choque con obstáculo.",
+    "latlng": [
+      43.2853,
+      -3.7462
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "2025-2025-41-0522-if",
+    "expediente": "41/2025",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2025-05-22",
+    "hora_suceso": "21:56",
+    "year": 2025,
+    "ubicacion": {
+      "estacion": "Cortes de Navarra",
+      "provincia": "Navarra",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "fue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "seleccionado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "realizadas",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "impactó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tenía",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estuviera",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "distinto",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ni",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "más",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "adelantado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasante",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "detenido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "quedó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "equivocado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "incorrecto",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "recorrió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "posterior",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "rápido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "visible",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "correcto",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "fuera",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "conducción y los responsables de circulación. Ver Recomendación 41/2025-1.",
+      "factores_humanos": "conducción y los responsables de circulación. Ver Recomendación 41/2025-1.\n\nResultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Maquinistas de Renfe Viajeros presentes a bordo de los trenes 18079 y 18078. \n➢ Responsable de Circulación de la banda de regulación 6101 Cortes de Navarra - Altsasu del \nCRC de Miranda de Ebro, personal de ADIF. \nLas entidades relacionadas con el incidente son las siguientes: \n➢ Renfe Viajeros: Empresa Ferroviaria de los trenes implicados en el suceso. \n➢ ADIF: Administrador de Infraestructuras Ferroviarias.\n\nUno de los factores que influyeron en la sucesión de eventos que dieron lugar al suceso fue la \ndeficiencia en las comunicaciones. Tal como se ha indicado, la disolución de un itinerario dispuesto \npor parte del RC requiere obligatoriamente la comunicación previa con el maquinista y la aceptación \nde dicha disolución por parte de este. En este caso, aunque el RC estableció comunicación, esta se \nrealizó con un tren que no era el afectado. Durante la comunicación, el RC dijo correctamente el \nnúmero de tren que estaba visualizando, pero era el tren equivocado; no se verificó ni la ubicación \ndel tren ni la denominación de la señal S1/1, por lo que ninguna de las partes advirtió el error. Se ha \ncomprobado que, en estas condiciones, no se siguieron estrictamente los procedimientos de \ncomunicación incluidos en los SGS del Administrador de infraestructuras y de la Empresa Ferroviaria \n(NAR 1/24 y Libro de Normas del Maquinista, respectivamente). \nAmbos procedimientos se ajustan a lo estab",
+      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nAAII \nAdministradores de Infraestructura \nCIAF \nCRC \nCentro de Regulación de Circulación \nCTC \nControl de Tráfico Centralizado \nEEFF \nEmpresas Ferroviarias \nNAR \nNorma ADIF de Reglamentación \nSITRA \nSistema de Información de Tráfico \nRC \nResponsable de circulación \n\nInforme Técnico Provisional 41/2025 \n\n5\n\nCon motivo del incidente, las vías 1 y 3 permanecieron interceptadas desde las 21:56 horas del día en \nque se produjo el suceso hasta las 23:30 horas del día siguiente. El acumulado de retraso de los trenes \ncomo consecuencia de esta situación fue de 1.499 horas.\n\nEl material rodante implicado en el suceso pertenece a Renfe Viajeros y corresponde al tren 18079, \ncompuesto por un vehículo automotor con tres coches de la serie 463 que tienen una longitud de \n63,478 m entre topes y alcanza una velocidad máxima de 120 km/h. Las aceleraciones nominales de \n0 a 40 km/h, de 0 a 60 km/h y de 0 a 120 km/h son respectivamente de 1 m/s², 0,9 m/s² y 0,59 m/s². \n\nInforme Técnico Provisional 41/2025 \n\n13 \n\nFigura 3 Serie 463 de Renfe Viajeros (fuente: Renfe Viajeros).\n\nEl suceso investigado tuvo lugar en la Línea 700 de Bilbao Abando Indalecio Prieto a Casetas de la Red \nFerroviaria de Interés General, en la estación de Cortes de Navarra, que se encuentra telemandada \ndesde el CRC de Miranda de Ebro. El tramo corresponde a vía doble banalizada de ancho ibérico, \nelectrificada a 3.000 V de corriente continua y equipada con el sistema de protección ASFA. \nLa estación dispone de dos vías generales (1 y 2) y de tres vías de apartado (3, 5 y 7) situadas por el \nlado de la vía 1, mientras que la única salida de pasajeros se realiza desde el andén de la vía 2, no \nexistiendo paso a distinto nivel entre andenes. \nEl suceso se produjo cuando el tren circulaba por la vía 1 y, tras el rebase de la señal de salida S1/1, \nse produjo el talonamiento de la aguja 6, que conecta la vía 1 con la"
+    },
+    "conclusiones": "Desde el 22 de agosto de 2024 la investigación técnica de accidentes Ley 2/2024 de 1 de agosto, que crea la Autoridad Administrativa Independiente para la Investigación \nTécnica de Accidentes e Incidentes no obstante, en virtud de la Disposición Transitoria única de dicha Ley, la CIAF continúa desarrollando \nsus funciones de investigación hasta la constitución efectiva de la Autoridad, que a fecha de \npublicación de este informe aún no se ha producido. Durante este periodo transitorio la investigación \ncontinúa rigiéndose por el Real Decreto 623/2014, de 18 de julio, en todo lo que no se oponga a la \nLey 2/2024. \nEl Pleno de la CIAF nº 196, celebrado el 26 de junio de 2025, acordó realizar un estudio preliminar \nsobre este suceso. El pleno nº 198, celebrado el 10 de septiembre de 2025, viendo las conclusiones \ndel estudio preliminar, acordó la investigación del suceso, de conformidad con los artículos 4.1, 9 d) \ny 14.2 del Real Decreto 623/2014 y en base a lo establecido en el artículo 7 b), que dispone que la \nCIAF podrá investigar los accidentes y los incidentes que, en condiciones ligeramente distintas, \npudieran haber provocado accidentes graves.",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAESF, EEFF y AAII 41/2025-1 \nGarantizar, mediante la vigilancia interna y supervisión de \nlas comunicaciones entre el personal de conducción y el \npersonal de circulación, el cumplimiento estricto, en \ncualquier situación operacional, de los protocolos de \ncomunicación establecidos en los SGS del Administrador de \nInfraestructuras y las empresas ferroviarias. \nAESF \nEEFF y AAII \n41/2025-2 \nIncidir en los contenidos del plan de formación del personal \nde conducción y circulación sobre la identificación de \nsituaciones de riesgo en casos de talonamiento de las \nagujas y/o retroceso en los aparatos de vía con riesgo de \ndescarrilamiento. \nAESF \nADIF y ADIF AV \n41/2025-3 \nAnalizar las características operativas del sistema “Tren-\nTierra” en los puestos CTC durante los procesos de entrada \ny salida de trenes en la banda de regulación y, en su caso, \nadoptar medidas que eviten efectos no deseados sobre las \nselecciones de tren realizadas por los RC. \nAESF \nADIF y ADIF AV \n41/2025-4 \nMejorar la coordinación y las comunicaciones entre RC de \npuestos de CTC de bandas colaterales dentro de un propio \nCRC o de distintos CRC. \n\nMadrid, a 28 de abril de 2026 \n\nInforme Técnico Provisional 41/2025 \n\n31 \n\nAPPENDIX: ENGLISH SUMMARY OF THE MAIN PARTS OF THE REPORT \n\nCommission Implementing Regulation (EU) 2020/572 of 24 April 2020 on the reporting structure to \nbe followed by railway accident and incident investigation reports states (Article 3): \n“Points 1, 5 and 6 of the Annex I shall be written in a second official European language. This \ntranslation should be available no later than 3 months after the delivery of the report”. \n(Annex I establishes the structure to follow on the reporting). \nThis appendix contains the translation into English of points 1, 5 and 6 of the final report, according \nto that regulation. \nIn case of any doubt or contradiction, the corresponding original Spanish text shall prevail. \n\nThis r"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.3. Interceptación de la vía ...............................................................................................................................12"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "descarrilamiento",
+      "factor humano",
+      "formación",
+      "leve",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2025/2025-2025-41-0522-if/fig00.jpeg",
+      "data/images/2025/2025-2025-41-0522-if/fig01.png",
+      "data/images/2025/2025-2025-41-0522-if/fig02.png",
+      "data/images/2025/2025-2025-41-0522-if/fig03.png",
+      "data/images/2025/2025-2025-41-0522-if/fig04.jpeg",
+      "data/images/2025/2025-2025-41-0522-if/fig05.jpeg",
+      "data/images/2025/2025-2025-41-0522-if/fig06.png",
+      "data/images/2025/2025-2025-41-0522-if/fig07.jpeg",
+      "data/images/2025/2025-2025-41-0522-if/fig08.png",
+      "data/images/2025/2025-2025-41-0522-if/fig09.png",
+      "data/images/2025/2025-2025-41-0522-if/fig10.png",
+      "data/images/2025/2025-2025-41-0522-if/fig11.png",
+      "data/images/2025/2025-2025-41-0522-if/fig12.png",
+      "data/images/2025/2025-2025-41-0522-if/fig13.png",
+      "data/images/2025/2025-2025-41-0522-if/fig14.png",
+      "data/images/2025/2025-2025-41-0522-if/fig15.png",
+      "data/images/2025/2025-2025-41-0522-if/fig16.png",
+      "data/images/2025/2025-2025-41-0522-if/fig17.png",
+      "data/images/2025/2025-2025-41-0522-if/fig18.png",
+      "data/images/2025/2025-2025-41-0522-if/fig19.png",
+      "data/images/2025/2025-2025-41-0522-if/fig20.png",
+      "data/images/2025/2025-2025-41-0522-if/fig21.png",
+      "data/images/2025/2025-2025-41-0522-if/fig22.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2025/2025-41-0522-if.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "b3f3ce26eedca00a702df0305ddaea87",
+    "fecha_parseo": "2026-06-26T11:54:09.956690"
+  }
+]

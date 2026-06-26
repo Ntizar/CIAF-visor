@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "CIAF-2024-001",
+    "year": 2024,
+    "date": "2024-10-07",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.0549,
+    "lng": -8.7236,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Vigo (2024). Fallos eléctricos.",
+    "latlng": [
+      42.0549,
+      -8.7236
+    ]
+  },
+  {
+    "id": "CIAF-2024-002",
+    "year": 2024,
+    "date": "2024-06-13",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.6617,
+    "lng": -2.5673,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Logroño (2024). Fallo mecánico.",
+    "latlng": [
+      42.6617,
+      -2.5673
+    ]
+  },
+  {
+    "id": "CIAF-2024-003",
+    "year": 2024,
+    "date": "2024-04-21",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.2777,
+    "lng": -3.6289,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Granada (2024). Fallo de señalización.",
+    "latlng": [
+      37.2777,
+      -3.6289
+    ]
+  },
+  {
+    "id": "CIAF-2024-004",
+    "year": 2024,
+    "date": "2024-07-03",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.3075,
+    "lng": -3.929,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Santander (2024). Fallo mecánico.",
+    "latlng": [
+      43.3075,
+      -3.929
+    ]
+  },
+  {
+    "id": "CIAF-2024-005",
+    "year": 2024,
+    "date": "2024-10-21",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.7548,
+    "lng": -4.2823,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2024). Colisión frontal.",
+    "latlng": [
+      37.7548,
+      -4.2823
+    ]
+  },
+  {
+    "id": "CIAF-2024-006",
+    "year": 2024,
+    "date": "2024-02-20",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.0419,
+    "lng": -3.3379,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Granada (2024). Descarrilamiento.",
+    "latlng": [
+      37.0419,
+      -3.3379
+    ]
+  },
+  {
+    "id": "CIAF-2024-007",
+    "year": 2024,
+    "date": "2024-05-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.4021,
+    "lng": -5.7104,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2024). Error humano.",
+    "latlng": [
+      41.4021,
+      -5.7104
+    ]
+  },
+  {
+    "id": "CIAF-2024-008",
+    "year": 2024,
+    "date": "2024-11-26",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.7418,
+    "lng": -4.6896,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Málaga (2024). Fallo de señalización.",
+    "latlng": [
+      36.7418,
+      -4.6896
+    ]
+  },
+  {
+    "id": "CIAF-2024-009",
+    "year": 2024,
+    "date": "2024-02-25",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 36.9293,
+    "lng": -7.4275,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Huelva (2024). Vía bloqueada.",
+    "latlng": [
+      36.9293,
+      -7.4275
+    ]
+  },
+  {
+    "id": "CIAF-2024-010",
+    "year": 2024,
+    "date": "2024-09-06",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.6682,
+    "lng": -5.9311,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Sevilla (2024). Choque con obstáculo.",
+    "latlng": [
+      37.6682,
+      -5.9311
+    ]
+  },
+  {
+    "id": "CIAF-2024-011",
+    "year": 2024,
+    "date": "2024-07-05",
+    "type": "avería",
+    "severity": "grave",
+    "city": "León",
+    "lat": 42.371,
+    "lng": -5.2538,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en León (2024). Choque con obstáculo.",
+    "latlng": [
+      42.371,
+      -5.2538
+    ]
+  },
+  {
+    "id": "CIAF-2024-012",
+    "year": 2024,
+    "date": "2024-08-08",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 38.5116,
+    "lng": -6.6089,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Badajoz (2024). Fallo mecánico.",
+    "latlng": [
+      38.5116,
+      -6.6089
+    ]
+  },
+  {
+    "id": "CIAF-2024-013",
+    "year": 2024,
+    "date": "2024-01-10",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Málaga",
+    "lat": 36.8614,
+    "lng": -4.1669,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Málaga (2024). Fallo de señalización.",
+    "latlng": [
+      36.8614,
+      -4.1669
+    ]
+  },
+  {
+    "id": "CIAF-2024-014",
+    "year": 2024,
+    "date": "2024-09-12",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.8882,
+    "lng": -2.7802,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2024). Error humano.",
+    "latlng": [
+      42.8882,
+      -2.7802
+    ]
+  },
+  {
+    "id": "CIAF-2024-015",
+    "year": 2024,
+    "date": "2024-04-03",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.407,
+    "lng": -5.9966,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2024). Descarrilamiento.",
+    "latlng": [
+      41.407,
+      -5.9966
+    ]
+  },
+  {
+    "id": "CIAF-2024-016",
+    "year": 2024,
+    "date": "2024-08-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.7407,
+    "lng": -7.9813,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2024). Choque con obstáculo.",
+    "latlng": [
+      42.7407,
+      -7.9813
+    ]
+  },
+  {
+    "id": "CIAF-2024-017",
+    "year": 2024,
+    "date": "2024-07-08",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 43.1777,
+    "lng": -1.3553,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Pamplona (2024). Atropello.",
+    "latlng": [
+      43.1777,
+      -1.3553
+    ]
+  },
+  {
+    "id": "CIAF-2024-018",
+    "year": 2024,
+    "date": "2024-08-05",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.875,
+    "lng": -4.8131,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2024). Choque con obstáculo.",
+    "latlng": [
+      37.875,
+      -4.8131
+    ]
+  },
+  {
+    "id": "CIAF-2024-019",
+    "year": 2024,
+    "date": "2024-07-21",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.4014,
+    "lng": -7.3434,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2024). Condiciones meteorológicas.",
+    "latlng": [
+      37.4014,
+      -7.3434
+    ]
+  },
+  {
+    "id": "CIAF-2024-020",
+    "year": 2024,
+    "date": "2024-04-10",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.4754,
+    "lng": -2.4679,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Logroño (2024). Descarrilamiento.",
+    "latlng": [
+      42.4754,
+      -2.4679
+    ]
+  },
+  {
+    "id": "CIAF-2024-021",
+    "year": 2024,
+    "date": "2024-11-17",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.5073,
+    "lng": -2.8734,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Bilbao (2024). Fallo de señalización.",
+    "latlng": [
+      43.5073,
+      -2.8734
+    ]
+  },
+  {
+    "id": "CIAF-2024-022",
+    "year": 2024,
+    "date": "2024-01-26",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.5313,
+    "lng": -8.7623,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Vigo (2024). Atropello.",
+    "latlng": [
+      42.5313,
+      -8.7623
+    ]
+  },
+  {
+    "id": "CIAF-2024-023",
+    "year": 2024,
+    "date": "2024-12-24",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "León",
+    "lat": 42.5862,
+    "lng": -5.3035,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en León (2024). Choque con obstáculo.",
+    "latlng": [
+      42.5862,
+      -5.3035
+    ]
+  },
+  {
+    "id": "CIAF-2024-024",
+    "year": 2024,
+    "date": "2024-11-09",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.8,
+    "lng": -6.5422,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Cáceres (2024). Descarrilamiento.",
+    "latlng": [
+      39.8,
+      -6.5422
+    ]
+  },
+  {
+    "id": "CIAF-2024-025",
+    "year": 2024,
+    "date": "2024-03-07",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.2204,
+    "lng": -7.9695,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Ourense (2024). Fallo de señalización.",
+    "latlng": [
+      42.2204,
+      -7.9695
+    ]
+  },
+  {
+    "id": "CIAF-2024-026",
+    "year": 2024,
+    "date": "2024-01-03",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Santiago",
+    "lat": 43.2041,
+    "lng": -8.8932,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Santiago (2024). Atropello.",
+    "latlng": [
+      43.2041,
+      -8.8932
+    ]
+  },
+  {
+    "id": "CIAF-2024-027",
+    "year": 2024,
+    "date": "2024-02-03",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Santiago",
+    "lat": 42.4443,
+    "lng": -8.5765,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Santiago (2024). Atropello.",
+    "latlng": [
+      42.4443,
+      -8.5765
+    ]
+  },
+  {
+    "id": "CIAF-2024-028",
+    "year": 2024,
+    "date": "2024-06-17",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.9652,
+    "lng": -4.7315,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Córdoba (2024). Fallos eléctricos.",
+    "latlng": [
+      37.9652,
+      -4.7315
+    ]
+  },
+  {
+    "id": "CIAF-2024-029",
+    "year": 2024,
+    "date": "2024-06-17",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.9953,
+    "lng": -5.8409,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en León (2024). Colisión frontal.",
+    "latlng": [
+      42.9953,
+      -5.8409
+    ]
+  },
+  {
+    "id": "CIAF-2024-030",
+    "year": 2024,
+    "date": "2024-04-28",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Santander",
+    "lat": 43.2626,
+    "lng": -3.4469,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Santander (2024). Choque con obstáculo.",
+    "latlng": [
+      43.2626,
+      -3.4469
+    ]
+  },
+  {
+    "id": "CIAF-2024-031",
+    "year": 2024,
+    "date": "2024-07-19",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.0739,
+    "lng": -6.3302,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Cáceres (2024). Fallo mecánico.",
+    "latlng": [
+      39.0739,
+      -6.3302
+    ]
+  },
+  {
+    "id": "CIAF-2024-032",
+    "year": 2024,
+    "date": "2024-01-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.8444,
+    "lng": -3.9729,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Málaga (2024). Fallo de señalización.",
+    "latlng": [
+      36.8444,
+      -3.9729
+    ]
+  },
+  {
+    "id": "CIAF-2024-033",
+    "year": 2024,
+    "date": "2024-08-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.7967,
+    "lng": -2.1474,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en San Sebastián (2024). Fallo de señalización.",
+    "latlng": [
+      43.7967,
+      -2.1474
+    ]
+  },
+  {
+    "id": "CIAF-2024-034",
+    "year": 2024,
+    "date": "2024-03-20",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Murcia",
+    "lat": 38.3365,
+    "lng": -1.3435,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Murcia (2024). Descarrilamiento.",
+    "latlng": [
+      38.3365,
+      -1.3435
+    ]
+  },
+  {
+    "id": "CIAF-2024-035",
+    "year": 2024,
+    "date": "2024-08-03",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 36.9712,
+    "lng": -5.6883,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Sevilla (2024). Atropello.",
+    "latlng": [
+      36.9712,
+      -5.6883
+    ]
+  },
+  {
+    "id": "CIAF-2024-036",
+    "year": 2024,
+    "date": "2024-06-22",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.254,
+    "lng": -4.63,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Málaga (2024). Choque con obstáculo.",
+    "latlng": [
+      36.254,
+      -4.63
+    ]
+  },
+  {
+    "id": "CIAF-2024-037",
+    "year": 2024,
+    "date": "2024-10-01",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.0712,
+    "lng": -7.3447,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Huelva (2024). Atropello.",
+    "latlng": [
+      37.0712,
+      -7.3447
+    ]
+  },
+  {
+    "id": "CIAF-2024-038",
+    "year": 2024,
+    "date": "2024-05-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.1564,
+    "lng": -6.1931,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Sevilla (2024). Choque con obstáculo.",
+    "latlng": [
+      37.1564,
+      -6.1931
+    ]
+  },
+  {
+    "id": "CIAF-2024-039",
+    "year": 2024,
+    "date": "2024-05-02",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Lleida",
+    "lat": 41.8937,
+    "lng": 0.6349,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Lleida (2024). Atropello.",
+    "latlng": [
+      41.8937,
+      0.6349
+    ]
+  },
+  {
+    "id": "CIAF-2024-040",
+    "year": 2024,
+    "date": "2024-07-14",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.8307,
+    "lng": -8.0931,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Santiago (2024). Fallo mecánico.",
+    "latlng": [
+      42.8307,
+      -8.0931
+    ]
+  },
+  {
+    "id": "CIAF-2024-041",
+    "year": 2024,
+    "date": "2024-02-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.3065,
+    "lng": -0.2778,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Alicante (2024). Choque con obstáculo.",
+    "latlng": [
+      38.3065,
+      -0.2778
+    ]
+  },
+  {
+    "id": "CIAF-2024-042",
+    "year": 2024,
+    "date": "2024-12-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 41.9048,
+    "lng": -3.4314,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Burgos (2024). Vía bloqueada.",
+    "latlng": [
+      41.9048,
+      -3.4314
+    ]
+  },
+  {
+    "id": "CIAF-2024-043",
+    "year": 2024,
+    "date": "2024-01-12",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Burgos",
+    "lat": 42.4191,
+    "lng": -3.2644,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Burgos (2024). Condiciones meteorológicas.",
+    "latlng": [
+      42.4191,
+      -3.2644
+    ]
+  },
+  {
+    "id": "CIAF-2024-044",
+    "year": 2024,
+    "date": "2024-08-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.0188,
+    "lng": -0.0352,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Valencia (2024). Choque con obstáculo.",
+    "latlng": [
+      39.0188,
+      -0.0352
+    ]
+  },
+  {
+    "id": "CIAF-2024-045",
+    "year": 2024,
+    "date": "2024-12-06",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.2897,
+    "lng": -1.9783,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Logroño (2024). Fallo de señalización.",
+    "latlng": [
+      42.2897,
+      -1.9783
+    ]
+  },
+  {
+    "id": "CIAF-2024-046",
+    "year": 2024,
+    "date": "2024-04-17",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.4568,
+    "lng": 0.1121,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Valencia (2024). Fallo mecánico.",
+    "latlng": [
+      39.4568,
+      0.1121
+    ]
+  },
+  {
+    "id": "CIAF-2024-047",
+    "year": 2024,
+    "date": "2024-06-26",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.0119,
+    "lng": -4.1634,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2024). Colisión frontal.",
+    "latlng": [
+      42.0119,
+      -4.1634
+    ]
+  },
+  {
+    "id": "CIAF-2024-048",
+    "year": 2024,
+    "date": "2024-06-22",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.3719,
+    "lng": -5.6602,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Sevilla (2024). Vía bloqueada.",
+    "latlng": [
+      37.3719,
+      -5.6602
+    ]
+  },
+  {
+    "id": "CIAF-2024-049",
+    "year": 2024,
+    "date": "2024-01-15",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.5748,
+    "lng": -3.6978,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Santander (2024). Vía bloqueada.",
+    "latlng": [
+      43.5748,
+      -3.6978
+    ]
+  },
+  {
+    "id": "CIAF-2024-050",
+    "year": 2024,
+    "date": "2024-02-16",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.5551,
+    "lng": -5.7826,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en León (2024). Condiciones meteorológicas.",
+    "latlng": [
+      42.5551,
+      -5.7826
+    ]
+  },
+  {
+    "id": "CIAF-2024-051",
+    "year": 2024,
+    "date": "2024-04-22",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Logroño",
+    "lat": 42.5537,
+    "lng": -2.4957,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Logroño (2024). Error humano.",
+    "latlng": [
+      42.5537,
+      -2.4957
+    ]
+  },
+  {
+    "id": "CIAF-2024-052",
+    "year": 2024,
+    "date": "2024-07-02",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.4475,
+    "lng": -4.1633,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Madrid (2024). Colisión frontal.",
+    "latlng": [
+      40.4475,
+      -4.1633
+    ]
+  },
+  {
+    "id": "CIAF-2024-053",
+    "year": 2024,
+    "date": "2024-11-02",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 41.3386,
+    "lng": -5.4307,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Salamanca (2024). Vía bloqueada.",
+    "latlng": [
+      41.3386,
+      -5.4307
+    ]
+  },
+  {
+    "id": "CIAF-2024-054",
+    "year": 2024,
+    "date": "2024-09-24",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Huesca",
+    "lat": 42.1886,
+    "lng": -0.1289,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2024). Colisión frontal.",
+    "latlng": [
+      42.1886,
+      -0.1289
+    ]
+  },
+  {
+    "id": "CIAF-2024-055",
+    "year": 2024,
+    "date": "2024-02-05",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Huesca",
+    "lat": 42.0657,
+    "lng": -0.5798,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Huesca (2024). Error humano.",
+    "latlng": [
+      42.0657,
+      -0.5798
+    ]
+  },
+  {
+    "id": "CIAF-2024-056",
+    "year": 2024,
+    "date": "2024-05-10",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.6489,
+    "lng": -1.2036,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Murcia (2024). Descarrilamiento.",
+    "latlng": [
+      37.6489,
+      -1.2036
+    ]
+  },
+  {
+    "id": "CIAF-2024-057",
+    "year": 2024,
+    "date": "2024-05-06",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Bilbao",
+    "lat": 43.6362,
+    "lng": -2.582,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Bilbao (2024). Descarrilamiento.",
+    "latlng": [
+      43.6362,
+      -2.582
+    ]
+  },
+  {
+    "id": "CIAF-2024-058",
+    "year": 2024,
+    "date": "2024-11-20",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 41.2361,
+    "lng": -5.384,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2024). Descarrilamiento.",
+    "latlng": [
+      41.2361,
+      -5.384
+    ]
+  },
+  {
+    "id": "CIAF-2024-059",
+    "year": 2024,
+    "date": "2024-01-20",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Gijón",
+    "lat": 43.2086,
+    "lng": -5.3545,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Gijón (2024). Choque con obstáculo.",
+    "latlng": [
+      43.2086,
+      -5.3545
+    ]
+  },
+  {
+    "id": "CIAF-2024-060",
+    "year": 2024,
+    "date": "2024-06-01",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 41.8931,
+    "lng": -8.4074,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Vigo (2024). Descarrilamiento.",
+    "latlng": [
+      41.8931,
+      -8.4074
+    ]
+  },
+  {
+    "id": "CIAF-2024-061",
+    "year": 2024,
+    "date": "2024-11-16",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.8906,
+    "lng": -8.233,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2024). Atropello.",
+    "latlng": [
+      42.8906,
+      -8.233
+    ]
+  },
+  {
+    "id": "CIAF-2024-062",
+    "year": 2024,
+    "date": "2024-01-15",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 43.1175,
+    "lng": -2.7968,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2024). Colisión frontal.",
+    "latlng": [
+      43.1175,
+      -2.7968
+    ]
+  },
+  {
+    "id": "CIAF-2024-063",
+    "year": 2024,
+    "date": "2024-06-28",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.5701,
+    "lng": -0.2599,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Huesca (2024). Descarrilamiento.",
+    "latlng": [
+      42.5701,
+      -0.2599
+    ]
+  },
+  {
+    "id": "CIAF-2024-064",
+    "year": 2024,
+    "date": "2024-09-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.357,
+    "lng": -7.5978,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Ourense (2024). Condiciones meteorológicas.",
+    "latlng": [
+      42.357,
+      -7.5978
+    ]
+  },
+  {
+    "id": "CIAF-2024-065",
+    "year": 2024,
+    "date": "2024-01-10",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.1573,
+    "lng": -0.1588,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Alicante (2024). Choque con obstáculo.",
+    "latlng": [
+      38.1573,
+      -0.1588
+    ]
+  },
+  {
+    "id": "CIAF-2024-066",
+    "year": 2024,
+    "date": "2024-02-16",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Córdoba",
+    "lat": 37.7281,
+    "lng": -4.8674,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 6,
+    "material_damage": false,
+    "description": "Accidente en Córdoba (2024). Colisión frontal.",
+    "latlng": [
+      37.7281,
+      -4.8674
+    ]
+  },
+  {
+    "id": "CIAF-2024-067",
+    "year": 2024,
+    "date": "2024-09-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.8981,
+    "lng": -3.876,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Madrid (2024). Descarrilamiento.",
+    "latlng": [
+      40.8981,
+      -3.876
+    ]
+  },
+  {
+    "id": "CIAF-2024-068",
+    "year": 2024,
+    "date": "2024-10-07",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Sevilla",
+    "lat": 37.8637,
+    "lng": -5.7165,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Sevilla (2024). Colisión frontal.",
+    "latlng": [
+      37.8637,
+      -5.7165
+    ]
+  },
+  {
+    "id": "CIAF-2024-069",
+    "year": 2024,
+    "date": "2024-12-18",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Córdoba",
+    "lat": 37.6997,
+    "lng": -4.5188,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Córdoba (2024). Vía bloqueada.",
+    "latlng": [
+      37.6997,
+      -4.5188
+    ]
+  },
+  {
+    "id": "CIAF-2024-070",
+    "year": 2024,
+    "date": "2024-02-22",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 41.9337,
+    "lng": -0.0133,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2024). Choque con obstáculo.",
+    "latlng": [
+      41.9337,
+      -0.0133
+    ]
+  },
+  {
+    "id": "CIAF-2024-071",
+    "year": 2024,
+    "date": "2024-01-16",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.0642,
+    "lng": 0.0684,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Valencia (2024). Error humano.",
+    "latlng": [
+      39.0642,
+      0.0684
+    ]
+  },
+  {
+    "id": "CIAF-2024-072",
+    "year": 2024,
+    "date": "2024-03-21",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.8122,
+    "lng": -4.3602,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Málaga (2024). Atropello.",
+    "latlng": [
+      36.8122,
+      -4.3602
+    ]
+  },
+  {
+    "id": "CIAF-2024-073",
+    "year": 2024,
+    "date": "2024-07-01",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 41.8775,
+    "lng": -1.2624,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2024). Atropello.",
+    "latlng": [
+      41.8775,
+      -1.2624
+    ]
+  },
+  {
+    "id": "CIAF-2024-074",
+    "year": 2024,
+    "date": "2024-09-10",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.5846,
+    "lng": -2.7544,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2024). Fallos eléctricos.",
+    "latlng": [
+      42.5846,
+      -2.7544
+    ]
+  },
+  {
+    "id": "CIAF-2024-075",
+    "year": 2024,
+    "date": "2024-12-14",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.3977,
+    "lng": -1.3423,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Murcia (2024). Colisión frontal.",
+    "latlng": [
+      38.3977,
+      -1.3423
+    ]
+  },
+  {
+    "id": "CIAF-2024-076",
+    "year": 2024,
+    "date": "2024-03-27",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.2946,
+    "lng": -6.2933,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Sevilla (2024). Choque con obstáculo.",
+    "latlng": [
+      37.2946,
+      -6.2933
+    ]
+  },
+  {
+    "id": "CIAF-2024-077",
+    "year": 2024,
+    "date": "2024-11-13",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cádiz",
+    "lat": 36.07,
+    "lng": -5.7945,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Cádiz (2024). Descarrilamiento.",
+    "latlng": [
+      36.07,
+      -5.7945
+    ]
+  },
+  {
+    "id": "CIAF-2024-078",
+    "year": 2024,
+    "date": "2024-07-04",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Santander",
+    "lat": 42.9651,
+    "lng": -4.0998,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Santander (2024). Choque con obstáculo.",
+    "latlng": [
+      42.9651,
+      -4.0998
+    ]
+  },
+  {
+    "id": "CIAF-2024-079",
+    "year": 2024,
+    "date": "2024-07-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.4873,
+    "lng": -2.6494,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Bilbao (2024). Fallo mecánico.",
+    "latlng": [
+      43.4873,
+      -2.6494
+    ]
+  },
+  {
+    "id": "CIAF-2024-080",
+    "year": 2024,
+    "date": "2024-11-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 39.0144,
+    "lng": -7.2638,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Badajoz (2024). Fallo de señalización.",
+    "latlng": [
+      39.0144,
+      -7.2638
+    ]
+  },
+  {
+    "id": "CIAF-2024-081",
+    "year": 2024,
+    "date": "2024-12-15",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.1395,
+    "lng": 2.1019,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Barcelona (2024). Fallo de señalización.",
+    "latlng": [
+      41.1395,
+      2.1019
+    ]
+  },
+  {
+    "id": "CIAF-2024-082",
+    "year": 2024,
+    "date": "2024-08-26",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.7704,
+    "lng": -6.3438,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Sevilla (2024). Condiciones meteorológicas.",
+    "latlng": [
+      37.7704,
+      -6.3438
+    ]
+  },
+  {
+    "id": "CIAF-2024-083",
+    "year": 2024,
+    "date": "2024-07-09",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Valladolid",
+    "lat": 41.7966,
+    "lng": -4.7752,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Valladolid (2024). Atropello.",
+    "latlng": [
+      41.7966,
+      -4.7752
+    ]
+  },
+  {
+    "id": "CIAF-2024-084",
+    "year": 2024,
+    "date": "2024-09-17",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 36.8949,
+    "lng": -6.6637,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Huelva (2024). Condiciones meteorológicas.",
+    "latlng": [
+      36.8949,
+      -6.6637
+    ]
+  },
+  {
+    "id": "CIAF-2024-085",
+    "year": 2024,
+    "date": "2024-12-13",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 40.7249,
+    "lng": -6.0647,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Salamanca (2024). Fallo mecánico.",
+    "latlng": [
+      40.7249,
+      -6.0647
+    ]
+  },
+  {
+    "id": "CIAF-2024-086",
+    "year": 2024,
+    "date": "2024-10-26",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Huelva",
+    "lat": 37.0442,
+    "lng": -6.635,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Huelva (2024). Vía bloqueada.",
+    "latlng": [
+      37.0442,
+      -6.635
+    ]
+  },
+  {
+    "id": "CIAF-2024-087",
+    "year": 2024,
+    "date": "2024-10-11",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Madrid",
+    "lat": 40.0659,
+    "lng": -4.1842,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Madrid (2024). Choque con obstáculo.",
+    "latlng": [
+      40.0659,
+      -4.1842
+    ]
+  },
+  {
+    "id": "CIAF-2024-088",
+    "year": 2024,
+    "date": "2024-10-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.6217,
+    "lng": -5.7636,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Sevilla (2024). Descarrilamiento.",
+    "latlng": [
+      37.6217,
+      -5.7636
+    ]
+  },
+  {
+    "id": "CIAF-2024-089",
+    "year": 2024,
+    "date": "2024-06-16",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.1492,
+    "lng": -3.9023,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Granada (2024). Atropello.",
+    "latlng": [
+      37.1492,
+      -3.9023
+    ]
+  },
+  {
+    "id": "CIAF-2024-090",
+    "year": 2024,
+    "date": "2024-03-08",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.276,
+    "lng": -0.4186,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Alicante (2024). Atropello.",
+    "latlng": [
+      38.276,
+      -0.4186
+    ]
+  },
+  {
+    "id": "CIAF-2024-091",
+    "year": 2024,
+    "date": "2024-08-23",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.022,
+    "lng": -0.8914,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2024). Fallo mecánico.",
+    "latlng": [
+      38.022,
+      -0.8914
+    ]
+  },
+  {
+    "id": "CIAF-2024-092",
+    "year": 2024,
+    "date": "2024-11-19",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.1291,
+    "lng": -5.9046,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Gijón (2024). Condiciones meteorológicas.",
+    "latlng": [
+      43.1291,
+      -5.9046
+    ]
+  },
+  {
+    "id": "CIAF-2024-093",
+    "year": 2024,
+    "date": "2024-12-21",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Cáceres",
+    "lat": 39.212,
+    "lng": -6.7536,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Cáceres (2024). Error humano.",
+    "latlng": [
+      39.212,
+      -6.7536
+    ]
+  },
+  {
+    "id": "CIAF-2024-094",
+    "year": 2024,
+    "date": "2024-04-26",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.5137,
+    "lng": -2.4268,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2024). Descarrilamiento.",
+    "latlng": [
+      42.5137,
+      -2.4268
+    ]
+  },
+  {
+    "id": "CIAF-2024-095",
+    "year": 2024,
+    "date": "2024-06-12",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.053,
+    "lng": -5.2387,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Salamanca (2024). Colisión frontal.",
+    "latlng": [
+      41.053,
+      -5.2387
+    ]
+  },
+  {
+    "id": "CIAF-2024-096",
+    "year": 2024,
+    "date": "2024-03-27",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 41.9289,
+    "lng": -3.5746,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Burgos (2024). Choque con obstáculo.",
+    "latlng": [
+      41.9289,
+      -3.5746
+    ]
+  },
+  {
+    "id": "CIAF-2024-097",
+    "year": 2024,
+    "date": "2024-08-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.9761,
+    "lng": -1.1915,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2024). Descarrilamiento.",
+    "latlng": [
+      41.9761,
+      -1.1915
+    ]
+  },
+  {
+    "id": "CIAF-2024-098",
+    "year": 2024,
+    "date": "2024-11-14",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.7436,
+    "lng": -3.9976,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Burgos (2024). Atropello.",
+    "latlng": [
+      42.7436,
+      -3.9976
+    ]
+  },
+  {
+    "id": "CIAF-2024-099",
+    "year": 2024,
+    "date": "2024-02-03",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 36.6849,
+    "lng": -3.7241,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Granada (2024). Choque con obstáculo.",
+    "latlng": [
+      36.6849,
+      -3.7241
+    ]
+  },
+  {
+    "id": "CIAF-2024-100",
+    "year": 2024,
+    "date": "2024-12-18",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.5954,
+    "lng": -1.4007,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Murcia (2024). Atropello.",
+    "latlng": [
+      37.5954,
+      -1.4007
+    ]
+  },
+  {
+    "id": "CIAF-2024-101",
+    "year": 2024,
+    "date": "2024-07-06",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 37.0501,
+    "lng": -4.3271,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Málaga (2024). Condiciones meteorológicas.",
+    "latlng": [
+      37.0501,
+      -4.3271
+    ]
+  },
+  {
+    "id": "CIAF-2024-102",
+    "year": 2024,
+    "date": "2024-07-25",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.9945,
+    "lng": -4.3532,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Córdoba (2024). Fallos eléctricos.",
+    "latlng": [
+      37.9945,
+      -4.3532
+    ]
+  }
+]

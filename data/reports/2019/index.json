@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "CIAF-2019-001",
+    "year": 2019,
+    "date": "2019-01-07",
+    "type": "avería",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.7922,
+    "lng": -5.3188,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en León (2019). Choque con obstáculo.",
+    "latlng": [
+      42.7922,
+      -5.3188
+    ]
+  },
+  {
+    "id": "CIAF-2019-002",
+    "year": 2019,
+    "date": "2019-05-15",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Cáceres",
+    "lat": 39.0855,
+    "lng": -5.961,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Cáceres (2019). Fallo mecánico.",
+    "latlng": [
+      39.0855,
+      -5.961
+    ]
+  },
+  {
+    "id": "CIAF-2019-003",
+    "year": 2019,
+    "date": "2019-12-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.9766,
+    "lng": -1.3332,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2019). Condiciones meteorológicas.",
+    "latlng": [
+      41.9766,
+      -1.3332
+    ]
+  },
+  {
+    "id": "CIAF-2019-004",
+    "year": 2019,
+    "date": "2019-03-01",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.5888,
+    "lng": 2.3313,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Barcelona (2019). Descarrilamiento.",
+    "latlng": [
+      41.5888,
+      2.3313
+    ]
+  },
+  {
+    "id": "CIAF-2019-005",
+    "year": 2019,
+    "date": "2019-08-24",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 37.9223,
+    "lng": -0.4118,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Alicante (2019). Atropello.",
+    "latlng": [
+      37.9223,
+      -0.4118
+    ]
+  },
+  {
+    "id": "CIAF-2019-006",
+    "year": 2019,
+    "date": "2019-02-05",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.2096,
+    "lng": -1.186,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Murcia (2019). Vía bloqueada.",
+    "latlng": [
+      38.2096,
+      -1.186
+    ]
+  },
+  {
+    "id": "CIAF-2019-007",
+    "year": 2019,
+    "date": "2019-09-23",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Málaga",
+    "lat": 36.2322,
+    "lng": -4.0887,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Málaga (2019). Fallo mecánico.",
+    "latlng": [
+      36.2322,
+      -4.0887
+    ]
+  },
+  {
+    "id": "CIAF-2019-008",
+    "year": 2019,
+    "date": "2019-12-07",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.4185,
+    "lng": -1.3582,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2019). Fallo mecánico.",
+    "latlng": [
+      38.4185,
+      -1.3582
+    ]
+  },
+  {
+    "id": "CIAF-2019-009",
+    "year": 2019,
+    "date": "2019-12-15",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 36.861,
+    "lng": -3.3526,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Granada (2019). Fallo de señalización.",
+    "latlng": [
+      36.861,
+      -3.3526
+    ]
+  },
+  {
+    "id": "CIAF-2019-010",
+    "year": 2019,
+    "date": "2019-02-03",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.276,
+    "lng": -4.5499,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Málaga (2019). Colisión frontal.",
+    "latlng": [
+      36.276,
+      -4.5499
+    ]
+  },
+  {
+    "id": "CIAF-2019-011",
+    "year": 2019,
+    "date": "2019-05-07",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.1274,
+    "lng": -0.4394,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Alicante (2019). Fallo mecánico.",
+    "latlng": [
+      38.1274,
+      -0.4394
+    ]
+  },
+  {
+    "id": "CIAF-2019-012",
+    "year": 2019,
+    "date": "2019-01-02",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 37.4732,
+    "lng": -4.7093,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Córdoba (2019). Colisión frontal.",
+    "latlng": [
+      37.4732,
+      -4.7093
+    ]
+  },
+  {
+    "id": "CIAF-2019-013",
+    "year": 2019,
+    "date": "2019-12-12",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.7839,
+    "lng": -5.2024,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Gijón (2019). Fallo de señalización.",
+    "latlng": [
+      43.7839,
+      -5.2024
+    ]
+  },
+  {
+    "id": "CIAF-2019-014",
+    "year": 2019,
+    "date": "2019-08-19",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.5029,
+    "lng": -7.3437,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Huelva (2019). Choque con obstáculo.",
+    "latlng": [
+      37.5029,
+      -7.3437
+    ]
+  },
+  {
+    "id": "CIAF-2019-015",
+    "year": 2019,
+    "date": "2019-04-26",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Huesca",
+    "lat": 42.0993,
+    "lng": -0.0234,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Huesca (2019). Atropello.",
+    "latlng": [
+      42.0993,
+      -0.0234
+    ]
+  },
+  {
+    "id": "CIAF-2019-016",
+    "year": 2019,
+    "date": "2019-01-23",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Santiago",
+    "lat": 42.5094,
+    "lng": -8.754,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Santiago (2019). Fallos eléctricos.",
+    "latlng": [
+      42.5094,
+      -8.754
+    ]
+  },
+  {
+    "id": "CIAF-2019-017",
+    "year": 2019,
+    "date": "2019-01-05",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Ourense",
+    "lat": 41.9115,
+    "lng": -8.2115,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Ourense (2019). Atropello.",
+    "latlng": [
+      41.9115,
+      -8.2115
+    ]
+  },
+  {
+    "id": "CIAF-2019-018",
+    "year": 2019,
+    "date": "2019-10-12",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.3439,
+    "lng": -6.3148,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Sevilla (2019). Choque con obstáculo.",
+    "latlng": [
+      37.3439,
+      -6.3148
+    ]
+  },
+  {
+    "id": "CIAF-2019-019",
+    "year": 2019,
+    "date": "2019-11-05",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Cádiz",
+    "lat": 36.8017,
+    "lng": -6.5347,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 8,
+    "material_damage": false,
+    "description": "Incidente en Cádiz (2019). Colisión frontal.",
+    "latlng": [
+      36.8017,
+      -6.5347
+    ]
+  },
+  {
+    "id": "CIAF-2019-020",
+    "year": 2019,
+    "date": "2019-08-12",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Gijón",
+    "lat": 43.8912,
+    "lng": -5.7602,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Gijón (2019). Condiciones meteorológicas.",
+    "latlng": [
+      43.8912,
+      -5.7602
+    ]
+  },
+  {
+    "id": "CIAF-2019-021",
+    "year": 2019,
+    "date": "2019-01-20",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Valencia",
+    "lat": 39.6521,
+    "lng": -0.3704,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2019). Choque con obstáculo.",
+    "latlng": [
+      39.6521,
+      -0.3704
+    ]
+  },
+  {
+    "id": "CIAF-2019-022",
+    "year": 2019,
+    "date": "2019-04-13",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.4846,
+    "lng": -7.0948,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Badajoz (2019). Atropello.",
+    "latlng": [
+      38.4846,
+      -7.0948
+    ]
+  },
+  {
+    "id": "CIAF-2019-023",
+    "year": 2019,
+    "date": "2019-12-04",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.955,
+    "lng": -1.2457,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Pamplona (2019). Fallo de señalización.",
+    "latlng": [
+      42.955,
+      -1.2457
+    ]
+  },
+  {
+    "id": "CIAF-2019-024",
+    "year": 2019,
+    "date": "2019-12-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 41.7973,
+    "lng": -8.8802,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Vigo (2019). Colisión frontal.",
+    "latlng": [
+      41.7973,
+      -8.8802
+    ]
+  },
+  {
+    "id": "CIAF-2019-025",
+    "year": 2019,
+    "date": "2019-01-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.5024,
+    "lng": -2.7141,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2019). Fallo de señalización.",
+    "latlng": [
+      42.5024,
+      -2.7141
+    ]
+  },
+  {
+    "id": "CIAF-2019-026",
+    "year": 2019,
+    "date": "2019-05-09",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "San Sebastián",
+    "lat": 43.0317,
+    "lng": -2.2697,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 7,
+    "material_damage": true,
+    "description": "Accidente en San Sebastián (2019). Descarrilamiento.",
+    "latlng": [
+      43.0317,
+      -2.2697
+    ]
+  },
+  {
+    "id": "CIAF-2019-027",
+    "year": 2019,
+    "date": "2019-09-07",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.7933,
+    "lng": -4.9811,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Córdoba (2019). Descarrilamiento.",
+    "latlng": [
+      37.7933,
+      -4.9811
+    ]
+  },
+  {
+    "id": "CIAF-2019-028",
+    "year": 2019,
+    "date": "2019-07-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.663,
+    "lng": -7.1027,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Huelva (2019). Fallo de señalización.",
+    "latlng": [
+      37.663,
+      -7.1027
+    ]
+  },
+  {
+    "id": "CIAF-2019-029",
+    "year": 2019,
+    "date": "2019-04-03",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.9448,
+    "lng": -5.5908,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Gijón (2019). Condiciones meteorológicas.",
+    "latlng": [
+      43.9448,
+      -5.5908
+    ]
+  },
+  {
+    "id": "CIAF-2019-030",
+    "year": 2019,
+    "date": "2019-06-01",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Huesca",
+    "lat": 42.6226,
+    "lng": 0.0304,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Huesca (2019). Atropello.",
+    "latlng": [
+      42.6226,
+      0.0304
+    ]
+  },
+  {
+    "id": "CIAF-2019-031",
+    "year": 2019,
+    "date": "2019-12-01",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.6957,
+    "lng": -6.6786,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Badajoz (2019). Fallos eléctricos.",
+    "latlng": [
+      38.6957,
+      -6.6786
+    ]
+  },
+  {
+    "id": "CIAF-2019-032",
+    "year": 2019,
+    "date": "2019-03-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 36.9256,
+    "lng": -5.7388,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Sevilla (2019). Fallo mecánico.",
+    "latlng": [
+      36.9256,
+      -5.7388
+    ]
+  },
+  {
+    "id": "CIAF-2019-033",
+    "year": 2019,
+    "date": "2019-01-10",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 42.1205,
+    "lng": -0.8123,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Zaragoza (2019). Atropello.",
+    "latlng": [
+      42.1205,
+      -0.8123
+    ]
+  },
+  {
+    "id": "CIAF-2019-034",
+    "year": 2019,
+    "date": "2019-07-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 42.1166,
+    "lng": 0.5341,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Lleida (2019). Atropello.",
+    "latlng": [
+      42.1166,
+      0.5341
+    ]
+  },
+  {
+    "id": "CIAF-2019-035",
+    "year": 2019,
+    "date": "2019-05-28",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 37.8601,
+    "lng": -1.0772,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2019). Descarrilamiento.",
+    "latlng": [
+      37.8601,
+      -1.0772
+    ]
+  },
+  {
+    "id": "CIAF-2019-036",
+    "year": 2019,
+    "date": "2019-02-16",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Santiago",
+    "lat": 43.2154,
+    "lng": -8.9552,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2019). Atropello.",
+    "latlng": [
+      43.2154,
+      -8.9552
+    ]
+  },
+  {
+    "id": "CIAF-2019-037",
+    "year": 2019,
+    "date": "2019-04-25",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Salamanca",
+    "lat": 41.0513,
+    "lng": -6.1309,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2019). Descarrilamiento.",
+    "latlng": [
+      41.0513,
+      -6.1309
+    ]
+  },
+  {
+    "id": "CIAF-2019-038",
+    "year": 2019,
+    "date": "2019-07-27",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 42.0051,
+    "lng": -0.4385,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 8,
+    "material_damage": false,
+    "description": "Incidente en Zaragoza (2019). Fallo mecánico.",
+    "latlng": [
+      42.0051,
+      -0.4385
+    ]
+  },
+  {
+    "id": "CIAF-2019-039",
+    "year": 2019,
+    "date": "2019-11-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 40.7537,
+    "lng": -5.2839,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Salamanca (2019). Colisión frontal.",
+    "latlng": [
+      40.7537,
+      -5.2839
+    ]
+  },
+  {
+    "id": "CIAF-2019-040",
+    "year": 2019,
+    "date": "2019-06-11",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Madrid",
+    "lat": 40.0702,
+    "lng": -3.8294,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Madrid (2019). Fallo mecánico.",
+    "latlng": [
+      40.0702,
+      -3.8294
+    ]
+  },
+  {
+    "id": "CIAF-2019-041",
+    "year": 2019,
+    "date": "2019-10-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 43.3202,
+    "lng": -2.9914,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2019). Fallo de señalización.",
+    "latlng": [
+      43.3202,
+      -2.9914
+    ]
+  },
+  {
+    "id": "CIAF-2019-042",
+    "year": 2019,
+    "date": "2019-09-04",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.0795,
+    "lng": -7.2863,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2019). Vía bloqueada.",
+    "latlng": [
+      37.0795,
+      -7.2863
+    ]
+  },
+  {
+    "id": "CIAF-2019-043",
+    "year": 2019,
+    "date": "2019-11-25",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 37.17,
+    "lng": -4.7176,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Málaga (2019). Fallos eléctricos.",
+    "latlng": [
+      37.17,
+      -4.7176
+    ]
+  },
+  {
+    "id": "CIAF-2019-044",
+    "year": 2019,
+    "date": "2019-12-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cádiz",
+    "lat": 36.5735,
+    "lng": -5.8202,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Cádiz (2019). Fallo mecánico.",
+    "latlng": [
+      36.5735,
+      -5.8202
+    ]
+  },
+  {
+    "id": "CIAF-2019-045",
+    "year": 2019,
+    "date": "2019-07-25",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Lleida",
+    "lat": 42.0155,
+    "lng": 0.4169,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Lleida (2019). Descarrilamiento.",
+    "latlng": [
+      42.0155,
+      0.4169
+    ]
+  },
+  {
+    "id": "CIAF-2019-046",
+    "year": 2019,
+    "date": "2019-08-20",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Cáceres",
+    "lat": 39.1191,
+    "lng": -6.8493,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Cáceres (2019). Error humano.",
+    "latlng": [
+      39.1191,
+      -6.8493
+    ]
+  },
+  {
+    "id": "CIAF-2019-047",
+    "year": 2019,
+    "date": "2019-07-04",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Córdoba",
+    "lat": 38.2828,
+    "lng": -5.1866,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2019). Descarrilamiento.",
+    "latlng": [
+      38.2828,
+      -5.1866
+    ]
+  },
+  {
+    "id": "CIAF-2019-048",
+    "year": 2019,
+    "date": "2019-11-15",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.7775,
+    "lng": -2.4049,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en San Sebastián (2019). Colisión frontal.",
+    "latlng": [
+      43.7775,
+      -2.4049
+    ]
+  },
+  {
+    "id": "CIAF-2019-049",
+    "year": 2019,
+    "date": "2019-06-12",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Huelva",
+    "lat": 36.9401,
+    "lng": -6.8774,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Huelva (2019). Choque con obstáculo.",
+    "latlng": [
+      36.9401,
+      -6.8774
+    ]
+  },
+  {
+    "id": "CIAF-2019-050",
+    "year": 2019,
+    "date": "2019-01-17",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 41.2118,
+    "lng": -5.2369,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Salamanca (2019). Condiciones meteorológicas.",
+    "latlng": [
+      41.2118,
+      -5.2369
+    ]
+  },
+  {
+    "id": "CIAF-2019-051",
+    "year": 2019,
+    "date": "2019-12-05",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.7877,
+    "lng": -6.455,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Sevilla (2019). Fallo mecánico.",
+    "latlng": [
+      37.7877,
+      -6.455
+    ]
+  },
+  {
+    "id": "CIAF-2019-052",
+    "year": 2019,
+    "date": "2019-07-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.3185,
+    "lng": -0.3248,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Valencia (2019). Choque con obstáculo.",
+    "latlng": [
+      39.3185,
+      -0.3248
+    ]
+  },
+  {
+    "id": "CIAF-2019-053",
+    "year": 2019,
+    "date": "2019-10-26",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 41.8359,
+    "lng": -0.5018,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2019). Fallo mecánico.",
+    "latlng": [
+      41.8359,
+      -0.5018
+    ]
+  },
+  {
+    "id": "CIAF-2019-054",
+    "year": 2019,
+    "date": "2019-06-20",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.3192,
+    "lng": -3.3189,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Burgos (2019). Fallo de señalización.",
+    "latlng": [
+      42.3192,
+      -3.3189
+    ]
+  },
+  {
+    "id": "CIAF-2019-055",
+    "year": 2019,
+    "date": "2019-03-02",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Zaragoza",
+    "lat": 41.7159,
+    "lng": -1.0151,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Zaragoza (2019). Error humano.",
+    "latlng": [
+      41.7159,
+      -1.0151
+    ]
+  },
+  {
+    "id": "CIAF-2019-056",
+    "year": 2019,
+    "date": "2019-02-06",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.6632,
+    "lng": -7.7188,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Ourense (2019). Condiciones meteorológicas.",
+    "latlng": [
+      42.6632,
+      -7.7188
+    ]
+  },
+  {
+    "id": "CIAF-2019-057",
+    "year": 2019,
+    "date": "2019-02-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 37.9178,
+    "lng": -0.324,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Alicante (2019). Fallo mecánico.",
+    "latlng": [
+      37.9178,
+      -0.324
+    ]
+  },
+  {
+    "id": "CIAF-2019-058",
+    "year": 2019,
+    "date": "2019-05-20",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Pamplona",
+    "lat": 42.88,
+    "lng": -1.8242,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Pamplona (2019). Descarrilamiento.",
+    "latlng": [
+      42.88,
+      -1.8242
+    ]
+  },
+  {
+    "id": "CIAF-2019-059",
+    "year": 2019,
+    "date": "2019-07-22",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.6247,
+    "lng": -2.5762,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2019). Fallo mecánico.",
+    "latlng": [
+      42.6247,
+      -2.5762
+    ]
+  },
+  {
+    "id": "CIAF-2019-060",
+    "year": 2019,
+    "date": "2019-02-04",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 41.1985,
+    "lng": -0.8952,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 7,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2019). Fallos eléctricos.",
+    "latlng": [
+      41.1985,
+      -0.8952
+    ]
+  },
+  {
+    "id": "CIAF-2019-061",
+    "year": 2019,
+    "date": "2019-01-15",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 36.9137,
+    "lng": -4.0773,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Granada (2019). Colisión frontal.",
+    "latlng": [
+      36.9137,
+      -4.0773
+    ]
+  },
+  {
+    "id": "CIAF-2019-062",
+    "year": 2019,
+    "date": "2019-08-04",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 37.2949,
+    "lng": -6.9172,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2019). Condiciones meteorológicas.",
+    "latlng": [
+      37.2949,
+      -6.9172
+    ]
+  },
+  {
+    "id": "CIAF-2019-063",
+    "year": 2019,
+    "date": "2019-07-10",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.4445,
+    "lng": -5.9873,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en León (2019). Condiciones meteorológicas.",
+    "latlng": [
+      42.4445,
+      -5.9873
+    ]
+  },
+  {
+    "id": "CIAF-2019-064",
+    "year": 2019,
+    "date": "2019-12-24",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 41.9392,
+    "lng": -8.1399,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Ourense (2019). Descarrilamiento.",
+    "latlng": [
+      41.9392,
+      -8.1399
+    ]
+  },
+  {
+    "id": "CIAF-2019-065",
+    "year": 2019,
+    "date": "2019-05-26",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 41.8729,
+    "lng": -0.5768,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2019). Error humano.",
+    "latlng": [
+      41.8729,
+      -0.5768
+    ]
+  },
+  {
+    "id": "CIAF-2019-066",
+    "year": 2019,
+    "date": "2019-03-19",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.2336,
+    "lng": -0.1884,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2019). Condiciones meteorológicas.",
+    "latlng": [
+      39.2336,
+      -0.1884
+    ]
+  },
+  {
+    "id": "CIAF-2019-067",
+    "year": 2019,
+    "date": "2019-02-17",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 38.5273,
+    "lng": -6.8865,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Badajoz (2019). Atropello.",
+    "latlng": [
+      38.5273,
+      -6.8865
+    ]
+  },
+  {
+    "id": "CIAF-2019-068",
+    "year": 2019,
+    "date": "2019-12-03",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.7101,
+    "lng": -4.5485,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Córdoba (2019). Fallo mecánico.",
+    "latlng": [
+      37.7101,
+      -4.5485
+    ]
+  },
+  {
+    "id": "CIAF-2019-069",
+    "year": 2019,
+    "date": "2019-04-15",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Cádiz",
+    "lat": 36.1078,
+    "lng": -5.8208,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Cádiz (2019). Descarrilamiento.",
+    "latlng": [
+      36.1078,
+      -5.8208
+    ]
+  },
+  {
+    "id": "CIAF-2019-070",
+    "year": 2019,
+    "date": "2019-05-23",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 41.9415,
+    "lng": -8.6321,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Vigo (2019). Choque con obstáculo.",
+    "latlng": [
+      41.9415,
+      -8.6321
+    ]
+  },
+  {
+    "id": "CIAF-2019-071",
+    "year": 2019,
+    "date": "2019-04-25",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Alicante",
+    "lat": 38.7619,
+    "lng": -0.5954,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2019). Error humano.",
+    "latlng": [
+      38.7619,
+      -0.5954
+    ]
+  },
+  {
+    "id": "CIAF-2019-072",
+    "year": 2019,
+    "date": "2019-08-04",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 37.6512,
+    "lng": -1.3229,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Murcia (2019). Atropello.",
+    "latlng": [
+      37.6512,
+      -1.3229
+    ]
+  },
+  {
+    "id": "CIAF-2019-073",
+    "year": 2019,
+    "date": "2019-02-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.4881,
+    "lng": -4.4452,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Málaga (2019). Fallo mecánico.",
+    "latlng": [
+      36.4881,
+      -4.4452
+    ]
+  },
+  {
+    "id": "CIAF-2019-074",
+    "year": 2019,
+    "date": "2019-06-04",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.1599,
+    "lng": -3.0042,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Bilbao (2019). Fallo mecánico.",
+    "latlng": [
+      43.1599,
+      -3.0042
+    ]
+  },
+  {
+    "id": "CIAF-2019-075",
+    "year": 2019,
+    "date": "2019-09-14",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 41.3417,
+    "lng": -5.0479,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Valladolid (2019). Descarrilamiento.",
+    "latlng": [
+      41.3417,
+      -5.0479
+    ]
+  },
+  {
+    "id": "CIAF-2019-076",
+    "year": 2019,
+    "date": "2019-09-04",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 37.9604,
+    "lng": -0.0859,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Alicante (2019). Fallo de señalización.",
+    "latlng": [
+      37.9604,
+      -0.0859
+    ]
+  },
+  {
+    "id": "CIAF-2019-077",
+    "year": 2019,
+    "date": "2019-03-26",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 36.7786,
+    "lng": -3.3647,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Granada (2019). Fallos eléctricos.",
+    "latlng": [
+      36.7786,
+      -3.3647
+    ]
+  },
+  {
+    "id": "CIAF-2019-078",
+    "year": 2019,
+    "date": "2019-08-24",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Valladolid",
+    "lat": 41.8862,
+    "lng": -5.1303,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Valladolid (2019). Condiciones meteorológicas.",
+    "latlng": [
+      41.8862,
+      -5.1303
+    ]
+  },
+  {
+    "id": "CIAF-2019-079",
+    "year": 2019,
+    "date": "2019-11-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 41.7057,
+    "lng": -0.7213,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Huesca (2019). Choque con obstáculo.",
+    "latlng": [
+      41.7057,
+      -0.7213
+    ]
+  },
+  {
+    "id": "CIAF-2019-080",
+    "year": 2019,
+    "date": "2019-10-01",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 38.2695,
+    "lng": -5.1087,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Córdoba (2019). Descarrilamiento.",
+    "latlng": [
+      38.2695,
+      -5.1087
+    ]
+  },
+  {
+    "id": "CIAF-2019-081",
+    "year": 2019,
+    "date": "2019-09-06",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Barcelona",
+    "lat": 41.7063,
+    "lng": 2.2359,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Barcelona (2019). Error humano.",
+    "latlng": [
+      41.7063,
+      2.2359
+    ]
+  },
+  {
+    "id": "CIAF-2019-082",
+    "year": 2019,
+    "date": "2019-05-22",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 43.1144,
+    "lng": -8.5922,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Santiago (2019). Atropello.",
+    "latlng": [
+      43.1144,
+      -8.5922
+    ]
+  },
+  {
+    "id": "CIAF-2019-083",
+    "year": 2019,
+    "date": "2019-10-16",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Madrid",
+    "lat": 40.7445,
+    "lng": -3.9027,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2019). Choque con obstáculo.",
+    "latlng": [
+      40.7445,
+      -3.9027
+    ]
+  },
+  {
+    "id": "CIAF-2019-084",
+    "year": 2019,
+    "date": "2019-04-19",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.3433,
+    "lng": -0.9706,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2019). Descarrilamiento.",
+    "latlng": [
+      38.3433,
+      -0.9706
+    ]
+  },
+  {
+    "id": "CIAF-2019-085",
+    "year": 2019,
+    "date": "2019-09-06",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 42.0694,
+    "lng": -1.0113,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 8,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2019). Fallo de señalización.",
+    "latlng": [
+      42.0694,
+      -1.0113
+    ]
+  },
+  {
+    "id": "CIAF-2019-086",
+    "year": 2019,
+    "date": "2019-09-23",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.3796,
+    "lng": -3.3161,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Santander (2019). Fallo de señalización.",
+    "latlng": [
+      43.3796,
+      -3.3161
+    ]
+  },
+  {
+    "id": "CIAF-2019-087",
+    "year": 2019,
+    "date": "2019-08-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.8332,
+    "lng": -8.0766,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Santiago (2019). Vía bloqueada.",
+    "latlng": [
+      42.8332,
+      -8.0766
+    ]
+  },
+  {
+    "id": "CIAF-2019-088",
+    "year": 2019,
+    "date": "2019-05-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valladolid",
+    "lat": 41.7761,
+    "lng": -4.5602,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Valladolid (2019). Error humano.",
+    "latlng": [
+      41.7761,
+      -4.5602
+    ]
+  },
+  {
+    "id": "CIAF-2019-089",
+    "year": 2019,
+    "date": "2019-11-27",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.5559,
+    "lng": -2.8918,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Logroño (2019). Choque con obstáculo.",
+    "latlng": [
+      42.5559,
+      -2.8918
+    ]
+  },
+  {
+    "id": "CIAF-2019-090",
+    "year": 2019,
+    "date": "2019-03-03",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.9109,
+    "lng": -5.3758,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Gijón (2019). Fallo de señalización.",
+    "latlng": [
+      43.9109,
+      -5.3758
+    ]
+  },
+  {
+    "id": "CIAF-2019-091",
+    "year": 2019,
+    "date": "2019-04-26",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.8806,
+    "lng": -4.0192,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Santander (2019). Descarrilamiento.",
+    "latlng": [
+      43.8806,
+      -4.0192
+    ]
+  },
+  {
+    "id": "CIAF-2019-092",
+    "year": 2019,
+    "date": "2019-11-11",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.0227,
+    "lng": -7.1427,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Huelva (2019). Error humano.",
+    "latlng": [
+      37.0227,
+      -7.1427
+    ]
+  },
+  {
+    "id": "CIAF-2019-093",
+    "year": 2019,
+    "date": "2019-11-15",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.1793,
+    "lng": -3.2355,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Bilbao (2019). Fallo de señalización.",
+    "latlng": [
+      43.1793,
+      -3.2355
+    ]
+  },
+  {
+    "id": "CIAF-2019-094",
+    "year": 2019,
+    "date": "2019-12-12",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.0277,
+    "lng": -6.0426,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Sevilla (2019). Atropello.",
+    "latlng": [
+      37.0277,
+      -6.0426
+    ]
+  },
+  {
+    "id": "CIAF-2019-095",
+    "year": 2019,
+    "date": "2019-02-25",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.4484,
+    "lng": -1.1687,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Murcia (2019). Fallo mecánico.",
+    "latlng": [
+      38.4484,
+      -1.1687
+    ]
+  },
+  {
+    "id": "CIAF-2019-096",
+    "year": 2019,
+    "date": "2019-01-25",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Santander",
+    "lat": 43.4745,
+    "lng": -4.1827,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Santander (2019). Colisión frontal.",
+    "latlng": [
+      43.4745,
+      -4.1827
+    ]
+  },
+  {
+    "id": "CIAF-2019-097",
+    "year": 2019,
+    "date": "2019-01-09",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Pamplona",
+    "lat": 43.12,
+    "lng": -1.2709,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Pamplona (2019). Error humano.",
+    "latlng": [
+      43.12,
+      -1.2709
+    ]
+  },
+  {
+    "id": "CIAF-2019-098",
+    "year": 2019,
+    "date": "2019-11-17",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.4438,
+    "lng": -3.9787,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Santander (2019). Vía bloqueada.",
+    "latlng": [
+      43.4438,
+      -3.9787
+    ]
+  },
+  {
+    "id": "CIAF-2019-099",
+    "year": 2019,
+    "date": "2019-05-21",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.7987,
+    "lng": -4.0654,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Burgos (2019). Fallos eléctricos.",
+    "latlng": [
+      42.7987,
+      -4.0654
+    ]
+  },
+  {
+    "id": "CIAF-2019-100",
+    "year": 2019,
+    "date": "2019-09-04",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.2305,
+    "lng": -6.7255,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Cádiz (2019). Atropello.",
+    "latlng": [
+      36.2305,
+      -6.7255
+    ]
+  },
+  {
+    "id": "CIAF-2019-101",
+    "year": 2019,
+    "date": "2019-07-16",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Madrid",
+    "lat": 40.7495,
+    "lng": -3.76,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Madrid (2019). Fallos eléctricos.",
+    "latlng": [
+      40.7495,
+      -3.76
+    ]
+  },
+  {
+    "id": "CIAF-2019-102",
+    "year": 2019,
+    "date": "2019-01-06",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 42.0753,
+    "lng": -0.2504,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2019). Vía bloqueada.",
+    "latlng": [
+      42.0753,
+      -0.2504
+    ]
+  },
+  {
+    "id": "CIAF-2019-103",
+    "year": 2019,
+    "date": "2019-02-19",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.531,
+    "lng": -4.0014,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Burgos (2019). Fallo de señalización.",
+    "latlng": [
+      42.531,
+      -4.0014
+    ]
+  },
+  {
+    "id": "CIAF-2019-104",
+    "year": 2019,
+    "date": "2019-01-10",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Granada",
+    "lat": 37.375,
+    "lng": -3.9913,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Granada (2019). Colisión frontal.",
+    "latlng": [
+      37.375,
+      -3.9913
+    ]
+  },
+  {
+    "id": "CIAF-2019-105",
+    "year": 2019,
+    "date": "2019-06-05",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.2651,
+    "lng": -3.6649,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Santander (2019). Colisión frontal.",
+    "latlng": [
+      43.2651,
+      -3.6649
+    ]
+  },
+  {
+    "id": "CIAF-2019-106",
+    "year": 2019,
+    "date": "2019-09-13",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.579,
+    "lng": -4.0656,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Málaga (2019). Choque con obstáculo.",
+    "latlng": [
+      36.579,
+      -4.0656
+    ]
+  },
+  {
+    "id": "CIAF-2019-107",
+    "year": 2019,
+    "date": "2019-05-26",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.6881,
+    "lng": -5.598,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Gijón (2019). Atropello.",
+    "latlng": [
+      43.6881,
+      -5.598
+    ]
+  },
+  {
+    "id": "CIAF-2019-108",
+    "year": 2019,
+    "date": "2019-11-17",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.6399,
+    "lng": -3.4928,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Granada (2019). Fallos eléctricos.",
+    "latlng": [
+      37.6399,
+      -3.4928
+    ]
+  }
+]

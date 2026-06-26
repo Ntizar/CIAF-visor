@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "CIAF-2008-001",
+    "year": 2008,
+    "date": "2008-09-01",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Alicante",
+    "lat": 38.6524,
+    "lng": -0.1358,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Alicante (2008). Choque con obstáculo.",
+    "latlng": [
+      38.6524,
+      -0.1358
+    ]
+  },
+  {
+    "id": "CIAF-2008-002",
+    "year": 2008,
+    "date": "2008-03-19",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 38.0909,
+    "lng": -4.9704,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2008). Colisión frontal.",
+    "latlng": [
+      38.0909,
+      -4.9704
+    ]
+  },
+  {
+    "id": "CIAF-2008-003",
+    "year": 2008,
+    "date": "2008-06-10",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.716,
+    "lng": -0.6612,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2008). Colisión frontal.",
+    "latlng": [
+      39.716,
+      -0.6612
+    ]
+  },
+  {
+    "id": "CIAF-2008-004",
+    "year": 2008,
+    "date": "2008-11-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 42.9204,
+    "lng": -2.8172,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Bilbao (2008). Fallo de señalización.",
+    "latlng": [
+      42.9204,
+      -2.8172
+    ]
+  },
+  {
+    "id": "CIAF-2008-005",
+    "year": 2008,
+    "date": "2008-11-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.6038,
+    "lng": -4.7671,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2008). Colisión frontal.",
+    "latlng": [
+      37.6038,
+      -4.7671
+    ]
+  },
+  {
+    "id": "CIAF-2008-006",
+    "year": 2008,
+    "date": "2008-03-25",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.2405,
+    "lng": -0.3817,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Alicante (2008). Descarrilamiento.",
+    "latlng": [
+      38.2405,
+      -0.3817
+    ]
+  },
+  {
+    "id": "CIAF-2008-007",
+    "year": 2008,
+    "date": "2008-04-17",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.4142,
+    "lng": -3.7731,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Madrid (2008). Fallo de señalización.",
+    "latlng": [
+      40.4142,
+      -3.7731
+    ]
+  },
+  {
+    "id": "CIAF-2008-008",
+    "year": 2008,
+    "date": "2008-10-14",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 39.1213,
+    "lng": -7.0344,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Badajoz (2008). Error humano.",
+    "latlng": [
+      39.1213,
+      -7.0344
+    ]
+  },
+  {
+    "id": "CIAF-2008-009",
+    "year": 2008,
+    "date": "2008-08-27",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Sevilla",
+    "lat": 37.2941,
+    "lng": -5.5183,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Sevilla (2008). Descarrilamiento.",
+    "latlng": [
+      37.2941,
+      -5.5183
+    ]
+  },
+  {
+    "id": "CIAF-2008-010",
+    "year": 2008,
+    "date": "2008-12-11",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Alicante",
+    "lat": 38.2809,
+    "lng": -0.5806,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Alicante (2008). Descarrilamiento.",
+    "latlng": [
+      38.2809,
+      -0.5806
+    ]
+  },
+  {
+    "id": "CIAF-2008-011",
+    "year": 2008,
+    "date": "2008-06-24",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Salamanca",
+    "lat": 41.1033,
+    "lng": -5.6329,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Salamanca (2008). Choque con obstáculo.",
+    "latlng": [
+      41.1033,
+      -5.6329
+    ]
+  },
+  {
+    "id": "CIAF-2008-012",
+    "year": 2008,
+    "date": "2008-08-15",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.5855,
+    "lng": -4.677,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Córdoba (2008). Fallos eléctricos.",
+    "latlng": [
+      37.5855,
+      -4.677
+    ]
+  },
+  {
+    "id": "CIAF-2008-013",
+    "year": 2008,
+    "date": "2008-02-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.7529,
+    "lng": 0.7445,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Lleida (2008). Fallos eléctricos.",
+    "latlng": [
+      41.7529,
+      0.7445
+    ]
+  },
+  {
+    "id": "CIAF-2008-014",
+    "year": 2008,
+    "date": "2008-06-27",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.2393,
+    "lng": 1.7428,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Barcelona (2008). Fallos eléctricos.",
+    "latlng": [
+      41.2393,
+      1.7428
+    ]
+  },
+  {
+    "id": "CIAF-2008-015",
+    "year": 2008,
+    "date": "2008-08-26",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Ourense",
+    "lat": 42.3436,
+    "lng": -7.9012,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Ourense (2008). Fallos eléctricos.",
+    "latlng": [
+      42.3436,
+      -7.9012
+    ]
+  },
+  {
+    "id": "CIAF-2008-016",
+    "year": 2008,
+    "date": "2008-12-03",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.3197,
+    "lng": -1.5235,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en San Sebastián (2008). Fallo mecánico.",
+    "latlng": [
+      43.3197,
+      -1.5235
+    ]
+  },
+  {
+    "id": "CIAF-2008-017",
+    "year": 2008,
+    "date": "2008-06-10",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.4676,
+    "lng": -6.3532,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Cádiz (2008). Fallos eléctricos.",
+    "latlng": [
+      36.4676,
+      -6.3532
+    ]
+  },
+  {
+    "id": "CIAF-2008-018",
+    "year": 2008,
+    "date": "2008-11-13",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.6766,
+    "lng": 2.3159,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Barcelona (2008). Condiciones meteorológicas.",
+    "latlng": [
+      41.6766,
+      2.3159
+    ]
+  },
+  {
+    "id": "CIAF-2008-019",
+    "year": 2008,
+    "date": "2008-12-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.5526,
+    "lng": -0.7349,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2008). Error humano.",
+    "latlng": [
+      39.5526,
+      -0.7349
+    ]
+  },
+  {
+    "id": "CIAF-2008-020",
+    "year": 2008,
+    "date": "2008-11-17",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.7234,
+    "lng": -2.3924,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Vitoria (2008). Colisión frontal.",
+    "latlng": [
+      42.7234,
+      -2.3924
+    ]
+  },
+  {
+    "id": "CIAF-2008-021",
+    "year": 2008,
+    "date": "2008-04-08",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Gijón",
+    "lat": 43.3411,
+    "lng": -5.2099,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Gijón (2008). Error humano.",
+    "latlng": [
+      43.3411,
+      -5.2099
+    ]
+  },
+  {
+    "id": "CIAF-2008-022",
+    "year": 2008,
+    "date": "2008-01-22",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 39.1674,
+    "lng": -6.9629,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2008). Fallos eléctricos.",
+    "latlng": [
+      39.1674,
+      -6.9629
+    ]
+  },
+  {
+    "id": "CIAF-2008-023",
+    "year": 2008,
+    "date": "2008-12-15",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 36.8316,
+    "lng": -3.9178,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Granada (2008). Fallo mecánico.",
+    "latlng": [
+      36.8316,
+      -3.9178
+    ]
+  },
+  {
+    "id": "CIAF-2008-024",
+    "year": 2008,
+    "date": "2008-05-26",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.9231,
+    "lng": -1.3934,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Pamplona (2008). Fallos eléctricos.",
+    "latlng": [
+      42.9231,
+      -1.3934
+    ]
+  },
+  {
+    "id": "CIAF-2008-025",
+    "year": 2008,
+    "date": "2008-03-27",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Pamplona",
+    "lat": 42.7742,
+    "lng": -1.864,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Pamplona (2008). Error humano.",
+    "latlng": [
+      42.7742,
+      -1.864
+    ]
+  },
+  {
+    "id": "CIAF-2008-026",
+    "year": 2008,
+    "date": "2008-09-28",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Barcelona",
+    "lat": 41.5286,
+    "lng": 2.5427,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2008). Choque con obstáculo.",
+    "latlng": [
+      41.5286,
+      2.5427
+    ]
+  },
+  {
+    "id": "CIAF-2008-027",
+    "year": 2008,
+    "date": "2008-08-12",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.8375,
+    "lng": -4.766,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Córdoba (2008). Fallo de señalización.",
+    "latlng": [
+      37.8375,
+      -4.766
+    ]
+  },
+  {
+    "id": "CIAF-2008-028",
+    "year": 2008,
+    "date": "2008-06-04",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 40.8441,
+    "lng": -5.7773,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Salamanca (2008). Colisión frontal.",
+    "latlng": [
+      40.8441,
+      -5.7773
+    ]
+  },
+  {
+    "id": "CIAF-2008-029",
+    "year": 2008,
+    "date": "2008-08-20",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 42.0697,
+    "lng": -4.752,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Valladolid (2008). Error humano.",
+    "latlng": [
+      42.0697,
+      -4.752
+    ]
+  },
+  {
+    "id": "CIAF-2008-030",
+    "year": 2008,
+    "date": "2008-02-25",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.9838,
+    "lng": -0.8403,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Zaragoza (2008). Descarrilamiento.",
+    "latlng": [
+      41.9838,
+      -0.8403
+    ]
+  },
+  {
+    "id": "CIAF-2008-031",
+    "year": 2008,
+    "date": "2008-08-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.1258,
+    "lng": 2.3076,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2008). Choque con obstáculo.",
+    "latlng": [
+      41.1258,
+      2.3076
+    ]
+  },
+  {
+    "id": "CIAF-2008-032",
+    "year": 2008,
+    "date": "2008-11-22",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 41.5815,
+    "lng": -4.6097,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Valladolid (2008). Descarrilamiento.",
+    "latlng": [
+      41.5815,
+      -4.6097
+    ]
+  },
+  {
+    "id": "CIAF-2008-033",
+    "year": 2008,
+    "date": "2008-08-02",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Salamanca",
+    "lat": 41.0142,
+    "lng": -5.3771,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Salamanca (2008). Colisión frontal.",
+    "latlng": [
+      41.0142,
+      -5.3771
+    ]
+  },
+  {
+    "id": "CIAF-2008-034",
+    "year": 2008,
+    "date": "2008-10-24",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.8207,
+    "lng": -5.8163,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Gijón (2008). Condiciones meteorológicas.",
+    "latlng": [
+      43.8207,
+      -5.8163
+    ]
+  },
+  {
+    "id": "CIAF-2008-035",
+    "year": 2008,
+    "date": "2008-08-21",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.6852,
+    "lng": -2.5413,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2008). Atropello.",
+    "latlng": [
+      42.6852,
+      -2.5413
+    ]
+  },
+  {
+    "id": "CIAF-2008-036",
+    "year": 2008,
+    "date": "2008-05-17",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Barcelona",
+    "lat": 41.1808,
+    "lng": 1.7124,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Barcelona (2008). Error humano.",
+    "latlng": [
+      41.1808,
+      1.7124
+    ]
+  },
+  {
+    "id": "CIAF-2008-037",
+    "year": 2008,
+    "date": "2008-11-11",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Barcelona",
+    "lat": 41.6407,
+    "lng": 1.8597,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Barcelona (2008). Fallo de señalización.",
+    "latlng": [
+      41.6407,
+      1.8597
+    ]
+  },
+  {
+    "id": "CIAF-2008-038",
+    "year": 2008,
+    "date": "2008-08-23",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.1614,
+    "lng": -7.005,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Huelva (2008). Descarrilamiento.",
+    "latlng": [
+      37.1614,
+      -7.005
+    ]
+  },
+  {
+    "id": "CIAF-2008-039",
+    "year": 2008,
+    "date": "2008-02-03",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.2559,
+    "lng": -3.7712,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2008). Atropello.",
+    "latlng": [
+      42.2559,
+      -3.7712
+    ]
+  },
+  {
+    "id": "CIAF-2008-040",
+    "year": 2008,
+    "date": "2008-12-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.5542,
+    "lng": -8.1973,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2008). Error humano.",
+    "latlng": [
+      42.5542,
+      -8.1973
+    ]
+  },
+  {
+    "id": "CIAF-2008-041",
+    "year": 2008,
+    "date": "2008-06-17",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Lleida",
+    "lat": 42.0976,
+    "lng": 1.0679,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Lleida (2008). Fallos eléctricos.",
+    "latlng": [
+      42.0976,
+      1.0679
+    ]
+  },
+  {
+    "id": "CIAF-2008-042",
+    "year": 2008,
+    "date": "2008-06-12",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 42.4175,
+    "lng": -0.8738,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2008). Fallos eléctricos.",
+    "latlng": [
+      42.4175,
+      -0.8738
+    ]
+  },
+  {
+    "id": "CIAF-2008-043",
+    "year": 2008,
+    "date": "2008-10-05",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.4421,
+    "lng": -2.4862,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Bilbao (2008). Condiciones meteorológicas.",
+    "latlng": [
+      43.4421,
+      -2.4862
+    ]
+  },
+  {
+    "id": "CIAF-2008-044",
+    "year": 2008,
+    "date": "2008-09-13",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Lleida",
+    "lat": 41.3963,
+    "lng": 1.0805,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Lleida (2008). Error humano.",
+    "latlng": [
+      41.3963,
+      1.0805
+    ]
+  },
+  {
+    "id": "CIAF-2008-045",
+    "year": 2008,
+    "date": "2008-04-04",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.4761,
+    "lng": -5.7962,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Cádiz (2008). Choque con obstáculo.",
+    "latlng": [
+      36.4761,
+      -5.7962
+    ]
+  },
+  {
+    "id": "CIAF-2008-046",
+    "year": 2008,
+    "date": "2008-11-12",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Huelva",
+    "lat": 37.4748,
+    "lng": -6.4474,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 6,
+    "material_damage": false,
+    "description": "Avería en Huelva (2008). Error humano.",
+    "latlng": [
+      37.4748,
+      -6.4474
+    ]
+  },
+  {
+    "id": "CIAF-2008-047",
+    "year": 2008,
+    "date": "2008-09-08",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 38.5368,
+    "lng": -6.761,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2008). Fallo mecánico.",
+    "latlng": [
+      38.5368,
+      -6.761
+    ]
+  },
+  {
+    "id": "CIAF-2008-048",
+    "year": 2008,
+    "date": "2008-03-20",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.8722,
+    "lng": -8.6839,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Santiago (2008). Fallo de señalización.",
+    "latlng": [
+      42.8722,
+      -8.6839
+    ]
+  },
+  {
+    "id": "CIAF-2008-049",
+    "year": 2008,
+    "date": "2008-03-11",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Cádiz",
+    "lat": 36.7487,
+    "lng": -6.2669,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Cádiz (2008). Vía bloqueada.",
+    "latlng": [
+      36.7487,
+      -6.2669
+    ]
+  },
+  {
+    "id": "CIAF-2008-050",
+    "year": 2008,
+    "date": "2008-03-14",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.1605,
+    "lng": -5.332,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Gijón (2008). Vía bloqueada.",
+    "latlng": [
+      43.1605,
+      -5.332
+    ]
+  },
+  {
+    "id": "CIAF-2008-051",
+    "year": 2008,
+    "date": "2008-05-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.0671,
+    "lng": -3.273,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Bilbao (2008). Vía bloqueada.",
+    "latlng": [
+      43.0671,
+      -3.273
+    ]
+  },
+  {
+    "id": "CIAF-2008-052",
+    "year": 2008,
+    "date": "2008-03-19",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.5134,
+    "lng": -4.9766,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Córdoba (2008). Fallos eléctricos.",
+    "latlng": [
+      37.5134,
+      -4.9766
+    ]
+  },
+  {
+    "id": "CIAF-2008-053",
+    "year": 2008,
+    "date": "2008-02-02",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.7334,
+    "lng": -3.8642,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Burgos (2008). Fallos eléctricos.",
+    "latlng": [
+      42.7334,
+      -3.8642
+    ]
+  },
+  {
+    "id": "CIAF-2008-054",
+    "year": 2008,
+    "date": "2008-05-16",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.1051,
+    "lng": -1.5997,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Murcia (2008). Atropello.",
+    "latlng": [
+      38.1051,
+      -1.5997
+    ]
+  },
+  {
+    "id": "CIAF-2008-055",
+    "year": 2008,
+    "date": "2008-06-20",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.6585,
+    "lng": -0.7182,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Valencia (2008). Condiciones meteorológicas.",
+    "latlng": [
+      39.6585,
+      -0.7182
+    ]
+  },
+  {
+    "id": "CIAF-2008-056",
+    "year": 2008,
+    "date": "2008-08-04",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 36.8081,
+    "lng": -3.7281,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Granada (2008). Choque con obstáculo.",
+    "latlng": [
+      36.8081,
+      -3.7281
+    ]
+  },
+  {
+    "id": "CIAF-2008-057",
+    "year": 2008,
+    "date": "2008-06-19",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 36.9397,
+    "lng": -5.5391,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Sevilla (2008). Atropello.",
+    "latlng": [
+      36.9397,
+      -5.5391
+    ]
+  },
+  {
+    "id": "CIAF-2008-058",
+    "year": 2008,
+    "date": "2008-09-15",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 40.9369,
+    "lng": -5.2844,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2008). Colisión frontal.",
+    "latlng": [
+      40.9369,
+      -5.2844
+    ]
+  },
+  {
+    "id": "CIAF-2008-059",
+    "year": 2008,
+    "date": "2008-09-01",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 41.1688,
+    "lng": 2.2661,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2008). Error humano.",
+    "latlng": [
+      41.1688,
+      2.2661
+    ]
+  },
+  {
+    "id": "CIAF-2008-060",
+    "year": 2008,
+    "date": "2008-09-07",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.1972,
+    "lng": -3.7985,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Burgos (2008). Descarrilamiento.",
+    "latlng": [
+      42.1972,
+      -3.7985
+    ]
+  },
+  {
+    "id": "CIAF-2008-061",
+    "year": 2008,
+    "date": "2008-11-20",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Granada",
+    "lat": 37.1816,
+    "lng": -3.3342,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Granada (2008). Fallo de señalización.",
+    "latlng": [
+      37.1816,
+      -3.3342
+    ]
+  },
+  {
+    "id": "CIAF-2008-062",
+    "year": 2008,
+    "date": "2008-10-17",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.8271,
+    "lng": -5.822,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Gijón (2008). Colisión frontal.",
+    "latlng": [
+      43.8271,
+      -5.822
+    ]
+  },
+  {
+    "id": "CIAF-2008-063",
+    "year": 2008,
+    "date": "2008-10-17",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 41.0244,
+    "lng": 2.0016,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Barcelona (2008). Choque con obstáculo.",
+    "latlng": [
+      41.0244,
+      2.0016
+    ]
+  },
+  {
+    "id": "CIAF-2008-064",
+    "year": 2008,
+    "date": "2008-09-18",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.6679,
+    "lng": -3.3593,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Granada (2008). Atropello.",
+    "latlng": [
+      37.6679,
+      -3.3593
+    ]
+  },
+  {
+    "id": "CIAF-2008-065",
+    "year": 2008,
+    "date": "2008-12-28",
+    "type": "accidente",
+    "severity": "fatal",
+    "city": "Logroño",
+    "lat": 41.9794,
+    "lng": -2.6138,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Logroño (2008). Error humano.",
+    "latlng": [
+      41.9794,
+      -2.6138
+    ]
+  },
+  {
+    "id": "CIAF-2008-066",
+    "year": 2008,
+    "date": "2008-10-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.9005,
+    "lng": 0.8962,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Lleida (2008). Choque con obstáculo.",
+    "latlng": [
+      41.9005,
+      0.8962
+    ]
+  },
+  {
+    "id": "CIAF-2008-067",
+    "year": 2008,
+    "date": "2008-08-11",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.6435,
+    "lng": -2.9134,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Logroño (2008). Fallo mecánico.",
+    "latlng": [
+      42.6435,
+      -2.9134
+    ]
+  },
+  {
+    "id": "CIAF-2008-068",
+    "year": 2008,
+    "date": "2008-12-02",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Murcia",
+    "lat": 37.9888,
+    "lng": -1.0185,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Murcia (2008). Vía bloqueada.",
+    "latlng": [
+      37.9888,
+      -1.0185
+    ]
+  },
+  {
+    "id": "CIAF-2008-069",
+    "year": 2008,
+    "date": "2008-08-18",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.7309,
+    "lng": -8.7442,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Vigo (2008). Error humano.",
+    "latlng": [
+      42.7309,
+      -8.7442
+    ]
+  },
+  {
+    "id": "CIAF-2008-070",
+    "year": 2008,
+    "date": "2008-05-25",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 42.3207,
+    "lng": -7.4066,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Ourense (2008). Condiciones meteorológicas.",
+    "latlng": [
+      42.3207,
+      -7.4066
+    ]
+  },
+  {
+    "id": "CIAF-2008-071",
+    "year": 2008,
+    "date": "2008-10-22",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.1671,
+    "lng": -1.5475,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en San Sebastián (2008). Condiciones meteorológicas.",
+    "latlng": [
+      43.1671,
+      -1.5475
+    ]
+  },
+  {
+    "id": "CIAF-2008-072",
+    "year": 2008,
+    "date": "2008-06-15",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "León",
+    "lat": 42.9033,
+    "lng": -5.7766,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en León (2008). Fallo mecánico.",
+    "latlng": [
+      42.9033,
+      -5.7766
+    ]
+  },
+  {
+    "id": "CIAF-2008-073",
+    "year": 2008,
+    "date": "2008-10-24",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.5014,
+    "lng": -2.012,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Logroño (2008). Colisión frontal.",
+    "latlng": [
+      42.5014,
+      -2.012
+    ]
+  },
+  {
+    "id": "CIAF-2008-074",
+    "year": 2008,
+    "date": "2008-06-23",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huesca",
+    "lat": 42.5414,
+    "lng": -0.6829,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Huesca (2008). Colisión frontal.",
+    "latlng": [
+      42.5414,
+      -0.6829
+    ]
+  },
+  {
+    "id": "CIAF-2008-075",
+    "year": 2008,
+    "date": "2008-08-21",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Vitoria",
+    "lat": 43.3246,
+    "lng": -3.0262,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2008). Error humano.",
+    "latlng": [
+      43.3246,
+      -3.0262
+    ]
+  },
+  {
+    "id": "CIAF-2008-076",
+    "year": 2008,
+    "date": "2008-12-24",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Lleida",
+    "lat": 41.1768,
+    "lng": 0.8887,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Lleida (2008). Choque con obstáculo.",
+    "latlng": [
+      41.1768,
+      0.8887
+    ]
+  },
+  {
+    "id": "CIAF-2008-077",
+    "year": 2008,
+    "date": "2008-12-28",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Cáceres",
+    "lat": 39.8949,
+    "lng": -5.8752,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Cáceres (2008). Error humano.",
+    "latlng": [
+      39.8949,
+      -5.8752
+    ]
+  },
+  {
+    "id": "CIAF-2008-078",
+    "year": 2008,
+    "date": "2008-09-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.5651,
+    "lng": -3.3815,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Santander (2008). Error humano.",
+    "latlng": [
+      43.5651,
+      -3.3815
+    ]
+  },
+  {
+    "id": "CIAF-2008-079",
+    "year": 2008,
+    "date": "2008-12-06",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.9576,
+    "lng": -1.0584,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Zaragoza (2008). Fallos eléctricos.",
+    "latlng": [
+      41.9576,
+      -1.0584
+    ]
+  },
+  {
+    "id": "CIAF-2008-080",
+    "year": 2008,
+    "date": "2008-09-11",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Huesca",
+    "lat": 42.3935,
+    "lng": -0.7331,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Huesca (2008). Choque con obstáculo.",
+    "latlng": [
+      42.3935,
+      -0.7331
+    ]
+  },
+  {
+    "id": "CIAF-2008-081",
+    "year": 2008,
+    "date": "2008-08-25",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.2405,
+    "lng": -2.4992,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Bilbao (2008). Fallos eléctricos.",
+    "latlng": [
+      43.2405,
+      -2.4992
+    ]
+  },
+  {
+    "id": "CIAF-2008-082",
+    "year": 2008,
+    "date": "2008-11-04",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.4043,
+    "lng": -3.9402,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Burgos (2008). Fallo de señalización.",
+    "latlng": [
+      42.4043,
+      -3.9402
+    ]
+  },
+  {
+    "id": "CIAF-2008-083",
+    "year": 2008,
+    "date": "2008-02-21",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.1387,
+    "lng": -0.0135,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Huesca (2008). Fallo mecánico.",
+    "latlng": [
+      42.1387,
+      -0.0135
+    ]
+  },
+  {
+    "id": "CIAF-2008-084",
+    "year": 2008,
+    "date": "2008-09-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.2412,
+    "lng": -2.98,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Bilbao (2008). Fallos eléctricos.",
+    "latlng": [
+      43.2412,
+      -2.98
+    ]
+  },
+  {
+    "id": "CIAF-2008-085",
+    "year": 2008,
+    "date": "2008-10-04",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 39.1667,
+    "lng": -6.9451,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2008). Fallos eléctricos.",
+    "latlng": [
+      39.1667,
+      -6.9451
+    ]
+  },
+  {
+    "id": "CIAF-2008-086",
+    "year": 2008,
+    "date": "2008-04-23",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.4966,
+    "lng": -2.856,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2008). Vía bloqueada.",
+    "latlng": [
+      42.4966,
+      -2.856
+    ]
+  },
+  {
+    "id": "CIAF-2008-087",
+    "year": 2008,
+    "date": "2008-01-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 43.1212,
+    "lng": -1.6924,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Pamplona (2008). Fallo de señalización.",
+    "latlng": [
+      43.1212,
+      -1.6924
+    ]
+  },
+  {
+    "id": "CIAF-2008-088",
+    "year": 2008,
+    "date": "2008-06-23",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 38.2047,
+    "lng": -4.5336,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Córdoba (2008). Descarrilamiento.",
+    "latlng": [
+      38.2047,
+      -4.5336
+    ]
+  },
+  {
+    "id": "CIAF-2008-089",
+    "year": 2008,
+    "date": "2008-12-21",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Cáceres",
+    "lat": 39.4474,
+    "lng": -6.5853,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Cáceres (2008). Atropello.",
+    "latlng": [
+      39.4474,
+      -6.5853
+    ]
+  },
+  {
+    "id": "CIAF-2008-090",
+    "year": 2008,
+    "date": "2008-09-05",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 39.2964,
+    "lng": -7.0931,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Badajoz (2008). Vía bloqueada.",
+    "latlng": [
+      39.2964,
+      -7.0931
+    ]
+  },
+  {
+    "id": "CIAF-2008-091",
+    "year": 2008,
+    "date": "2008-05-15",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Granada",
+    "lat": 37.2061,
+    "lng": -3.3707,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Granada (2008). Fallo mecánico.",
+    "latlng": [
+      37.2061,
+      -3.3707
+    ]
+  },
+  {
+    "id": "CIAF-2008-092",
+    "year": 2008,
+    "date": "2008-02-02",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Alicante",
+    "lat": 38.3058,
+    "lng": -0.8259,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Alicante (2008). Fallo mecánico.",
+    "latlng": [
+      38.3058,
+      -0.8259
+    ]
+  },
+  {
+    "id": "CIAF-2008-093",
+    "year": 2008,
+    "date": "2008-01-08",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.2161,
+    "lng": -0.7952,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Zaragoza (2008). Fallo mecánico.",
+    "latlng": [
+      41.2161,
+      -0.7952
+    ]
+  },
+  {
+    "id": "CIAF-2008-094",
+    "year": 2008,
+    "date": "2008-04-27",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.564,
+    "lng": -2.3204,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Vitoria (2008). Fallo mecánico.",
+    "latlng": [
+      42.564,
+      -2.3204
+    ]
+  },
+  {
+    "id": "CIAF-2008-095",
+    "year": 2008,
+    "date": "2008-05-02",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Valladolid",
+    "lat": 42.0286,
+    "lng": -4.2388,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Valladolid (2008). Fallo de señalización.",
+    "latlng": [
+      42.0286,
+      -4.2388
+    ]
+  },
+  {
+    "id": "CIAF-2008-096",
+    "year": 2008,
+    "date": "2008-06-23",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 42.8423,
+    "lng": -2.2118,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2008). Error humano.",
+    "latlng": [
+      42.8423,
+      -2.2118
+    ]
+  },
+  {
+    "id": "CIAF-2008-097",
+    "year": 2008,
+    "date": "2008-12-05",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Granada",
+    "lat": 36.8612,
+    "lng": -3.5607,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Granada (2008). Fallo de señalización.",
+    "latlng": [
+      36.8612,
+      -3.5607
+    ]
+  },
+  {
+    "id": "CIAF-2008-098",
+    "year": 2008,
+    "date": "2008-02-15",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.8767,
+    "lng": -2.7957,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Vitoria (2008). Colisión frontal.",
+    "latlng": [
+      42.8767,
+      -2.7957
+    ]
+  },
+  {
+    "id": "CIAF-2008-099",
+    "year": 2008,
+    "date": "2008-10-24",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Córdoba",
+    "lat": 37.7654,
+    "lng": -4.6744,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Córdoba (2008). Fallo mecánico.",
+    "latlng": [
+      37.7654,
+      -4.6744
+    ]
+  },
+  {
+    "id": "CIAF-2008-100",
+    "year": 2008,
+    "date": "2008-12-04",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 39.2863,
+    "lng": -7.1674,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Badajoz (2008). Fallo de señalización.",
+    "latlng": [
+      39.2863,
+      -7.1674
+    ]
+  },
+  {
+    "id": "CIAF-2008-101",
+    "year": 2008,
+    "date": "2008-11-12",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.2146,
+    "lng": -6.5508,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Cáceres (2008). Vía bloqueada.",
+    "latlng": [
+      39.2146,
+      -6.5508
+    ]
+  },
+  {
+    "id": "CIAF-2008-102",
+    "year": 2008,
+    "date": "2008-04-12",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.2587,
+    "lng": -7.3461,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Huelva (2008). Fallos eléctricos.",
+    "latlng": [
+      37.2587,
+      -7.3461
+    ]
+  },
+  {
+    "id": "CIAF-2008-103",
+    "year": 2008,
+    "date": "2008-10-24",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 38.6006,
+    "lng": -7.3247,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Badajoz (2008). Fallo mecánico.",
+    "latlng": [
+      38.6006,
+      -7.3247
+    ]
+  },
+  {
+    "id": "CIAF-2008-104",
+    "year": 2008,
+    "date": "2008-11-11",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 41.9628,
+    "lng": -8.6528,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Vigo (2008). Atropello.",
+    "latlng": [
+      41.9628,
+      -8.6528
+    ]
+  },
+  {
+    "id": "CIAF-2008-105",
+    "year": 2008,
+    "date": "2008-03-18",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 36.9541,
+    "lng": -4.5692,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Málaga (2008). Descarrilamiento.",
+    "latlng": [
+      36.9541,
+      -4.5692
+    ]
+  },
+  {
+    "id": "CIAF-2008-106",
+    "year": 2008,
+    "date": "2008-04-03",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.631,
+    "lng": -2.1807,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Logroño (2008). Vía bloqueada.",
+    "latlng": [
+      42.631,
+      -2.1807
+    ]
+  },
+  {
+    "id": "CIAF-2008-107",
+    "year": 2008,
+    "date": "2008-11-16",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Pamplona",
+    "lat": 42.6857,
+    "lng": -1.528,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Pamplona (2008). Colisión frontal.",
+    "latlng": [
+      42.6857,
+      -1.528
+    ]
+  },
+  {
+    "id": "CIAF-2008-108",
+    "year": 2008,
+    "date": "2008-11-14",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.4462,
+    "lng": -3.9291,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2008). Vía bloqueada.",
+    "latlng": [
+      40.4462,
+      -3.9291
+    ]
+  }
+]

@@ -1,0 +1,2149 @@
+[
+  {
+    "id": "CIAF-2015-001",
+    "year": 2015,
+    "date": "2015-11-13",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Alicante",
+    "lat": 37.9083,
+    "lng": -0.7784,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2015). Condiciones meteorológicas.",
+    "latlng": [
+      37.9083,
+      -0.7784
+    ]
+  },
+  {
+    "id": "CIAF-2015-002",
+    "year": 2015,
+    "date": "2015-02-04",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.9275,
+    "lng": -2.7318,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Logroño (2015). Choque con obstáculo.",
+    "latlng": [
+      42.9275,
+      -2.7318
+    ]
+  },
+  {
+    "id": "CIAF-2015-003",
+    "year": 2015,
+    "date": "2015-03-04",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Cádiz",
+    "lat": 36.3997,
+    "lng": -6.6276,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Cádiz (2015). Colisión frontal.",
+    "latlng": [
+      36.3997,
+      -6.6276
+    ]
+  },
+  {
+    "id": "CIAF-2015-004",
+    "year": 2015,
+    "date": "2015-11-19",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Huelva",
+    "lat": 37.2484,
+    "lng": -7.4384,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2015). Choque con obstáculo.",
+    "latlng": [
+      37.2484,
+      -7.4384
+    ]
+  },
+  {
+    "id": "CIAF-2015-005",
+    "year": 2015,
+    "date": "2015-10-23",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.2919,
+    "lng": -1.1182,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Zaragoza (2015). Atropello.",
+    "latlng": [
+      41.2919,
+      -1.1182
+    ]
+  },
+  {
+    "id": "CIAF-2015-006",
+    "year": 2015,
+    "date": "2015-09-08",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Ourense",
+    "lat": 42.7868,
+    "lng": -7.7367,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Ourense (2015). Fallos eléctricos.",
+    "latlng": [
+      42.7868,
+      -7.7367
+    ]
+  },
+  {
+    "id": "CIAF-2015-007",
+    "year": 2015,
+    "date": "2015-11-07",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.8949,
+    "lng": -5.1743,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Gijón (2015). Descarrilamiento.",
+    "latlng": [
+      43.8949,
+      -5.1743
+    ]
+  },
+  {
+    "id": "CIAF-2015-008",
+    "year": 2015,
+    "date": "2015-11-02",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.5274,
+    "lng": -8.201,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Santiago (2015). Fallo mecánico.",
+    "latlng": [
+      42.5274,
+      -8.201
+    ]
+  },
+  {
+    "id": "CIAF-2015-009",
+    "year": 2015,
+    "date": "2015-01-18",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 37.7384,
+    "lng": -1.0132,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Murcia (2015). Atropello.",
+    "latlng": [
+      37.7384,
+      -1.0132
+    ]
+  },
+  {
+    "id": "CIAF-2015-010",
+    "year": 2015,
+    "date": "2015-06-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 40.5862,
+    "lng": -5.2684,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Salamanca (2015). Descarrilamiento.",
+    "latlng": [
+      40.5862,
+      -5.2684
+    ]
+  },
+  {
+    "id": "CIAF-2015-011",
+    "year": 2015,
+    "date": "2015-04-03",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Vigo",
+    "lat": 41.9606,
+    "lng": -8.9855,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Vigo (2015). Colisión frontal.",
+    "latlng": [
+      41.9606,
+      -8.9855
+    ]
+  },
+  {
+    "id": "CIAF-2015-012",
+    "year": 2015,
+    "date": "2015-06-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.1973,
+    "lng": -7.2285,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Huelva (2015). Error humano.",
+    "latlng": [
+      37.1973,
+      -7.2285
+    ]
+  },
+  {
+    "id": "CIAF-2015-013",
+    "year": 2015,
+    "date": "2015-02-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.4847,
+    "lng": -1.357,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Zaragoza (2015). Choque con obstáculo.",
+    "latlng": [
+      41.4847,
+      -1.357
+    ]
+  },
+  {
+    "id": "CIAF-2015-014",
+    "year": 2015,
+    "date": "2015-10-06",
+    "type": "avería",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.4423,
+    "lng": -5.1807,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en León (2015). Descarrilamiento.",
+    "latlng": [
+      42.4423,
+      -5.1807
+    ]
+  },
+  {
+    "id": "CIAF-2015-015",
+    "year": 2015,
+    "date": "2015-05-01",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Murcia",
+    "lat": 38.344,
+    "lng": -1.1408,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Murcia (2015). Condiciones meteorológicas.",
+    "latlng": [
+      38.344,
+      -1.1408
+    ]
+  },
+  {
+    "id": "CIAF-2015-016",
+    "year": 2015,
+    "date": "2015-01-14",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Murcia",
+    "lat": 38.0665,
+    "lng": -0.7382,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Murcia (2015). Vía bloqueada.",
+    "latlng": [
+      38.0665,
+      -0.7382
+    ]
+  },
+  {
+    "id": "CIAF-2015-017",
+    "year": 2015,
+    "date": "2015-08-08",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Barcelona",
+    "lat": 41.3131,
+    "lng": 2.0629,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2015). Fallo de señalización.",
+    "latlng": [
+      41.3131,
+      2.0629
+    ]
+  },
+  {
+    "id": "CIAF-2015-018",
+    "year": 2015,
+    "date": "2015-08-22",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 41.2815,
+    "lng": -1.0933,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Avería en Zaragoza (2015). Fallos eléctricos.",
+    "latlng": [
+      41.2815,
+      -1.0933
+    ]
+  },
+  {
+    "id": "CIAF-2015-019",
+    "year": 2015,
+    "date": "2015-07-06",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.4151,
+    "lng": -3.2254,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Burgos (2015). Descarrilamiento.",
+    "latlng": [
+      42.4151,
+      -3.2254
+    ]
+  },
+  {
+    "id": "CIAF-2015-020",
+    "year": 2015,
+    "date": "2015-12-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.5707,
+    "lng": -3.7657,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Granada (2015). Descarrilamiento.",
+    "latlng": [
+      37.5707,
+      -3.7657
+    ]
+  },
+  {
+    "id": "CIAF-2015-021",
+    "year": 2015,
+    "date": "2015-06-02",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 42.7173,
+    "lng": -7.6281,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Ourense (2015). Atropello.",
+    "latlng": [
+      42.7173,
+      -7.6281
+    ]
+  },
+  {
+    "id": "CIAF-2015-022",
+    "year": 2015,
+    "date": "2015-09-23",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Ourense",
+    "lat": 41.8774,
+    "lng": -7.9975,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Ourense (2015). Fallo mecánico.",
+    "latlng": [
+      41.8774,
+      -7.9975
+    ]
+  },
+  {
+    "id": "CIAF-2015-023",
+    "year": 2015,
+    "date": "2015-04-25",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Vitoria",
+    "lat": 42.4603,
+    "lng": -2.7056,
+    "entity": "Renfe",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2015). Error humano.",
+    "latlng": [
+      42.4603,
+      -2.7056
+    ]
+  },
+  {
+    "id": "CIAF-2015-024",
+    "year": 2015,
+    "date": "2015-08-17",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.1503,
+    "lng": -5.8864,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Salamanca (2015). Vía bloqueada.",
+    "latlng": [
+      41.1503,
+      -5.8864
+    ]
+  },
+  {
+    "id": "CIAF-2015-025",
+    "year": 2015,
+    "date": "2015-12-26",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.4616,
+    "lng": -0.0091,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Huesca (2015). Descarrilamiento.",
+    "latlng": [
+      42.4616,
+      -0.0091
+    ]
+  },
+  {
+    "id": "CIAF-2015-026",
+    "year": 2015,
+    "date": "2015-02-23",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.3606,
+    "lng": -0.6975,
+    "entity": "Renfe",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Valencia (2015). Fallo mecánico.",
+    "latlng": [
+      39.3606,
+      -0.6975
+    ]
+  },
+  {
+    "id": "CIAF-2015-027",
+    "year": 2015,
+    "date": "2015-08-12",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Salamanca",
+    "lat": 41.4222,
+    "lng": -6.1408,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Salamanca (2015). Error humano.",
+    "latlng": [
+      41.4222,
+      -6.1408
+    ]
+  },
+  {
+    "id": "CIAF-2015-028",
+    "year": 2015,
+    "date": "2015-11-11",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Zaragoza",
+    "lat": 41.2117,
+    "lng": -0.5173,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2015). Condiciones meteorológicas.",
+    "latlng": [
+      41.2117,
+      -0.5173
+    ]
+  },
+  {
+    "id": "CIAF-2015-029",
+    "year": 2015,
+    "date": "2015-10-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.4117,
+    "lng": -1.7843,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en San Sebastián (2015). Fallo mecánico.",
+    "latlng": [
+      43.4117,
+      -1.7843
+    ]
+  },
+  {
+    "id": "CIAF-2015-030",
+    "year": 2015,
+    "date": "2015-08-06",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.1902,
+    "lng": -2.1931,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en San Sebastián (2015). Choque con obstáculo.",
+    "latlng": [
+      43.1902,
+      -2.1931
+    ]
+  },
+  {
+    "id": "CIAF-2015-031",
+    "year": 2015,
+    "date": "2015-04-04",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 37.0606,
+    "lng": -4.2285,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Málaga (2015). Atropello.",
+    "latlng": [
+      37.0606,
+      -4.2285
+    ]
+  },
+  {
+    "id": "CIAF-2015-032",
+    "year": 2015,
+    "date": "2015-06-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.7579,
+    "lng": -5.0742,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Córdoba (2015). Vía bloqueada.",
+    "latlng": [
+      37.7579,
+      -5.0742
+    ]
+  },
+  {
+    "id": "CIAF-2015-033",
+    "year": 2015,
+    "date": "2015-06-05",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 41.2738,
+    "lng": -5.1996,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Valladolid (2015). Error humano.",
+    "latlng": [
+      41.2738,
+      -5.1996
+    ]
+  },
+  {
+    "id": "CIAF-2015-034",
+    "year": 2015,
+    "date": "2015-12-15",
+    "type": "avería",
+    "severity": "grave",
+    "city": "San Sebastián",
+    "lat": 43.7143,
+    "lng": -1.5116,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en San Sebastián (2015). Colisión frontal.",
+    "latlng": [
+      43.7143,
+      -1.5116
+    ]
+  },
+  {
+    "id": "CIAF-2015-035",
+    "year": 2015,
+    "date": "2015-08-12",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.441,
+    "lng": -3.3181,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Bilbao (2015). Fallos eléctricos.",
+    "latlng": [
+      43.441,
+      -3.3181
+    ]
+  },
+  {
+    "id": "CIAF-2015-036",
+    "year": 2015,
+    "date": "2015-09-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.3127,
+    "lng": 0.6464,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Lleida (2015). Fallo mecánico.",
+    "latlng": [
+      41.3127,
+      0.6464
+    ]
+  },
+  {
+    "id": "CIAF-2015-037",
+    "year": 2015,
+    "date": "2015-07-05",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "San Sebastián",
+    "lat": 43.1361,
+    "lng": -1.8761,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en San Sebastián (2015). Condiciones meteorológicas.",
+    "latlng": [
+      43.1361,
+      -1.8761
+    ]
+  },
+  {
+    "id": "CIAF-2015-038",
+    "year": 2015,
+    "date": "2015-04-24",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Madrid",
+    "lat": 40.2015,
+    "lng": -3.8524,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Madrid (2015). Error humano.",
+    "latlng": [
+      40.2015,
+      -3.8524
+    ]
+  },
+  {
+    "id": "CIAF-2015-039",
+    "year": 2015,
+    "date": "2015-03-27",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Málaga",
+    "lat": 37.027,
+    "lng": -3.951,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Málaga (2015). Choque con obstáculo.",
+    "latlng": [
+      37.027,
+      -3.951
+    ]
+  },
+  {
+    "id": "CIAF-2015-040",
+    "year": 2015,
+    "date": "2015-10-25",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Zaragoza",
+    "lat": 41.452,
+    "lng": -0.4007,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Zaragoza (2015). Fallo de señalización.",
+    "latlng": [
+      41.452,
+      -0.4007
+    ]
+  },
+  {
+    "id": "CIAF-2015-041",
+    "year": 2015,
+    "date": "2015-03-07",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 42.032,
+    "lng": 0.5345,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Lleida (2015). Vía bloqueada.",
+    "latlng": [
+      42.032,
+      0.5345
+    ]
+  },
+  {
+    "id": "CIAF-2015-042",
+    "year": 2015,
+    "date": "2015-12-15",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 42.8605,
+    "lng": -1.655,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en San Sebastián (2015). Choque con obstáculo.",
+    "latlng": [
+      42.8605,
+      -1.655
+    ]
+  },
+  {
+    "id": "CIAF-2015-043",
+    "year": 2015,
+    "date": "2015-11-10",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Córdoba",
+    "lat": 37.6884,
+    "lng": -4.6388,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Córdoba (2015). Fallo mecánico.",
+    "latlng": [
+      37.6884,
+      -4.6388
+    ]
+  },
+  {
+    "id": "CIAF-2015-044",
+    "year": 2015,
+    "date": "2015-10-16",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Madrid",
+    "lat": 40.0362,
+    "lng": -3.9266,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Madrid (2015). Atropello.",
+    "latlng": [
+      40.0362,
+      -3.9266
+    ]
+  },
+  {
+    "id": "CIAF-2015-045",
+    "year": 2015,
+    "date": "2015-03-19",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Cádiz",
+    "lat": 36.8481,
+    "lng": -6.4194,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Cádiz (2015). Atropello.",
+    "latlng": [
+      36.8481,
+      -6.4194
+    ]
+  },
+  {
+    "id": "CIAF-2015-046",
+    "year": 2015,
+    "date": "2015-11-12",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.4547,
+    "lng": -7.0873,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Huelva (2015). Vía bloqueada.",
+    "latlng": [
+      37.4547,
+      -7.0873
+    ]
+  },
+  {
+    "id": "CIAF-2015-047",
+    "year": 2015,
+    "date": "2015-10-25",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 42.0539,
+    "lng": 0.6339,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Lleida (2015). Condiciones meteorológicas.",
+    "latlng": [
+      42.0539,
+      0.6339
+    ]
+  },
+  {
+    "id": "CIAF-2015-048",
+    "year": 2015,
+    "date": "2015-06-04",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.8078,
+    "lng": -2.1451,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Logroño (2015). Choque con obstáculo.",
+    "latlng": [
+      42.8078,
+      -2.1451
+    ]
+  },
+  {
+    "id": "CIAF-2015-049",
+    "year": 2015,
+    "date": "2015-02-07",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.0537,
+    "lng": -3.9224,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2015). Fallo mecánico.",
+    "latlng": [
+      40.0537,
+      -3.9224
+    ]
+  },
+  {
+    "id": "CIAF-2015-050",
+    "year": 2015,
+    "date": "2015-09-23",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Santiago",
+    "lat": 43.2753,
+    "lng": -8.4314,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Santiago (2015). Descarrilamiento.",
+    "latlng": [
+      43.2753,
+      -8.4314
+    ]
+  },
+  {
+    "id": "CIAF-2015-051",
+    "year": 2015,
+    "date": "2015-06-05",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.7079,
+    "lng": -5.5611,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Sevilla (2015). Choque con obstáculo.",
+    "latlng": [
+      37.7079,
+      -5.5611
+    ]
+  },
+  {
+    "id": "CIAF-2015-052",
+    "year": 2015,
+    "date": "2015-03-23",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Cádiz",
+    "lat": 36.3345,
+    "lng": -6.0481,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Cádiz (2015). Fallo mecánico.",
+    "latlng": [
+      36.3345,
+      -6.0481
+    ]
+  },
+  {
+    "id": "CIAF-2015-053",
+    "year": 2015,
+    "date": "2015-07-02",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.7441,
+    "lng": -3.0102,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Bilbao (2015). Vía bloqueada.",
+    "latlng": [
+      43.7441,
+      -3.0102
+    ]
+  },
+  {
+    "id": "CIAF-2015-054",
+    "year": 2015,
+    "date": "2015-11-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santander",
+    "lat": 43.0216,
+    "lng": -4.1911,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Santander (2015). Fallos eléctricos.",
+    "latlng": [
+      43.0216,
+      -4.1911
+    ]
+  },
+  {
+    "id": "CIAF-2015-055",
+    "year": 2015,
+    "date": "2015-05-19",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 36.9614,
+    "lng": -6.7741,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Huelva (2015). Vía bloqueada.",
+    "latlng": [
+      36.9614,
+      -6.7741
+    ]
+  },
+  {
+    "id": "CIAF-2015-056",
+    "year": 2015,
+    "date": "2015-01-17",
+    "type": "avería",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.8273,
+    "lng": -5.8253,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en León (2015). Choque con obstáculo.",
+    "latlng": [
+      42.8273,
+      -5.8253
+    ]
+  },
+  {
+    "id": "CIAF-2015-057",
+    "year": 2015,
+    "date": "2015-09-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Huelva",
+    "lat": 37.5154,
+    "lng": -7.4404,
+    "entity": "Ferrocarriles",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Huelva (2015). Atropello.",
+    "latlng": [
+      37.5154,
+      -7.4404
+    ]
+  },
+  {
+    "id": "CIAF-2015-058",
+    "year": 2015,
+    "date": "2015-04-17",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Huesca",
+    "lat": 42.5939,
+    "lng": -0.7278,
+    "entity": "Renfe",
+    "cause": "Fallo de señalización",
+    "victims": 7,
+    "material_damage": true,
+    "description": "Incidente en Huesca (2015). Condiciones meteorológicas.",
+    "latlng": [
+      42.5939,
+      -0.7278
+    ]
+  },
+  {
+    "id": "CIAF-2015-059",
+    "year": 2015,
+    "date": "2015-05-18",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.355,
+    "lng": -5.9648,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Incidente en Sevilla (2015). Atropello.",
+    "latlng": [
+      37.355,
+      -5.9648
+    ]
+  },
+  {
+    "id": "CIAF-2015-060",
+    "year": 2015,
+    "date": "2015-04-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Sevilla",
+    "lat": 37.2739,
+    "lng": -6.0276,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Sevilla (2015). Fallo mecánico.",
+    "latlng": [
+      37.2739,
+      -6.0276
+    ]
+  },
+  {
+    "id": "CIAF-2015-061",
+    "year": 2015,
+    "date": "2015-03-01",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 38.4489,
+    "lng": -6.6295,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Badajoz (2015). Atropello.",
+    "latlng": [
+      38.4489,
+      -6.6295
+    ]
+  },
+  {
+    "id": "CIAF-2015-062",
+    "year": 2015,
+    "date": "2015-10-04",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 41.1286,
+    "lng": -6.0785,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Salamanca (2015). Fallo mecánico.",
+    "latlng": [
+      41.1286,
+      -6.0785
+    ]
+  },
+  {
+    "id": "CIAF-2015-063",
+    "year": 2015,
+    "date": "2015-12-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 41.9331,
+    "lng": -8.3786,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Vigo (2015). Fallo de señalización.",
+    "latlng": [
+      41.9331,
+      -8.3786
+    ]
+  },
+  {
+    "id": "CIAF-2015-064",
+    "year": 2015,
+    "date": "2015-03-25",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Gijón",
+    "lat": 43.508,
+    "lng": -5.5579,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Gijón (2015). Error humano.",
+    "latlng": [
+      43.508,
+      -5.5579
+    ]
+  },
+  {
+    "id": "CIAF-2015-065",
+    "year": 2015,
+    "date": "2015-01-27",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.3156,
+    "lng": -1.8528,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en San Sebastián (2015). Choque con obstáculo.",
+    "latlng": [
+      43.3156,
+      -1.8528
+    ]
+  },
+  {
+    "id": "CIAF-2015-066",
+    "year": 2015,
+    "date": "2015-02-22",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Granada",
+    "lat": 37.2819,
+    "lng": -3.7716,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Granada (2015). Fallo mecánico.",
+    "latlng": [
+      37.2819,
+      -3.7716
+    ]
+  },
+  {
+    "id": "CIAF-2015-067",
+    "year": 2015,
+    "date": "2015-09-01",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 41.8144,
+    "lng": -4.7342,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Valladolid (2015). Fallo de señalización.",
+    "latlng": [
+      41.8144,
+      -4.7342
+    ]
+  },
+  {
+    "id": "CIAF-2015-068",
+    "year": 2015,
+    "date": "2015-09-22",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.6271,
+    "lng": -1.7695,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Pamplona (2015). Fallo de señalización.",
+    "latlng": [
+      42.6271,
+      -1.7695
+    ]
+  },
+  {
+    "id": "CIAF-2015-069",
+    "year": 2015,
+    "date": "2015-11-18",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Bilbao",
+    "lat": 43.0755,
+    "lng": -3.0459,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Bilbao (2015). Atropello.",
+    "latlng": [
+      43.0755,
+      -3.0459
+    ]
+  },
+  {
+    "id": "CIAF-2015-070",
+    "year": 2015,
+    "date": "2015-07-20",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 43.2011,
+    "lng": -2.6774,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Vitoria (2015). Colisión frontal.",
+    "latlng": [
+      43.2011,
+      -2.6774
+    ]
+  },
+  {
+    "id": "CIAF-2015-071",
+    "year": 2015,
+    "date": "2015-10-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.5073,
+    "lng": -4.0756,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2015). Fallo de señalización.",
+    "latlng": [
+      40.5073,
+      -4.0756
+    ]
+  },
+  {
+    "id": "CIAF-2015-072",
+    "year": 2015,
+    "date": "2015-04-21",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 44.0241,
+    "lng": -5.7492,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en Gijón (2015). Descarrilamiento.",
+    "latlng": [
+      44.0241,
+      -5.7492
+    ]
+  },
+  {
+    "id": "CIAF-2015-073",
+    "year": 2015,
+    "date": "2015-08-22",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Badajoz",
+    "lat": 38.6842,
+    "lng": -7.133,
+    "entity": "Ferrocarriles",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Badajoz (2015). Error humano.",
+    "latlng": [
+      38.6842,
+      -7.133
+    ]
+  },
+  {
+    "id": "CIAF-2015-074",
+    "year": 2015,
+    "date": "2015-06-19",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Madrid",
+    "lat": 40.6128,
+    "lng": -3.6158,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Madrid (2015). Fallo mecánico.",
+    "latlng": [
+      40.6128,
+      -3.6158
+    ]
+  },
+  {
+    "id": "CIAF-2015-075",
+    "year": 2015,
+    "date": "2015-05-12",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vigo",
+    "lat": 42.2295,
+    "lng": -8.4111,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Vigo (2015). Descarrilamiento.",
+    "latlng": [
+      42.2295,
+      -8.4111
+    ]
+  },
+  {
+    "id": "CIAF-2015-076",
+    "year": 2015,
+    "date": "2015-07-26",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Logroño",
+    "lat": 42.8131,
+    "lng": -2.7309,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Logroño (2015). Fallos eléctricos.",
+    "latlng": [
+      42.8131,
+      -2.7309
+    ]
+  },
+  {
+    "id": "CIAF-2015-077",
+    "year": 2015,
+    "date": "2015-07-07",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Sevilla",
+    "lat": 37.481,
+    "lng": -6.2111,
+    "entity": "FCC",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Avería en Sevilla (2015). Vía bloqueada.",
+    "latlng": [
+      37.481,
+      -6.2111
+    ]
+  },
+  {
+    "id": "CIAF-2015-078",
+    "year": 2015,
+    "date": "2015-05-20",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.6781,
+    "lng": -8.3813,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Santiago (2015). Colisión frontal.",
+    "latlng": [
+      42.6781,
+      -8.3813
+    ]
+  },
+  {
+    "id": "CIAF-2015-079",
+    "year": 2015,
+    "date": "2015-12-15",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.8209,
+    "lng": 0.9827,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Lleida (2015). Fallos eléctricos.",
+    "latlng": [
+      41.8209,
+      0.9827
+    ]
+  },
+  {
+    "id": "CIAF-2015-080",
+    "year": 2015,
+    "date": "2015-03-24",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.4582,
+    "lng": -3.6795,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Burgos (2015). Condiciones meteorológicas.",
+    "latlng": [
+      42.4582,
+      -3.6795
+    ]
+  },
+  {
+    "id": "CIAF-2015-081",
+    "year": 2015,
+    "date": "2015-05-21",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Badajoz",
+    "lat": 39.2095,
+    "lng": -7.4062,
+    "entity": "Renfe",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Badajoz (2015). Fallo de señalización.",
+    "latlng": [
+      39.2095,
+      -7.4062
+    ]
+  },
+  {
+    "id": "CIAF-2015-082",
+    "year": 2015,
+    "date": "2015-08-16",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Alicante",
+    "lat": 37.9588,
+    "lng": -0.7891,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Alicante (2015). Colisión frontal.",
+    "latlng": [
+      37.9588,
+      -0.7891
+    ]
+  },
+  {
+    "id": "CIAF-2015-083",
+    "year": 2015,
+    "date": "2015-11-18",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 41.3082,
+    "lng": -1.2527,
+    "entity": "Renfe",
+    "cause": "Colisión frontal",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Zaragoza (2015). Colisión frontal.",
+    "latlng": [
+      41.3082,
+      -1.2527
+    ]
+  },
+  {
+    "id": "CIAF-2015-084",
+    "year": 2015,
+    "date": "2015-07-12",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.747,
+    "lng": 1.7525,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2015). Fallo mecánico.",
+    "latlng": [
+      41.747,
+      1.7525
+    ]
+  },
+  {
+    "id": "CIAF-2015-085",
+    "year": 2015,
+    "date": "2015-09-09",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.4601,
+    "lng": -5.9843,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Sevilla (2015). Fallos eléctricos.",
+    "latlng": [
+      37.4601,
+      -5.9843
+    ]
+  },
+  {
+    "id": "CIAF-2015-086",
+    "year": 2015,
+    "date": "2015-12-08",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.6623,
+    "lng": -6.1711,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Avería en Sevilla (2015). Descarrilamiento.",
+    "latlng": [
+      37.6623,
+      -6.1711
+    ]
+  },
+  {
+    "id": "CIAF-2015-087",
+    "year": 2015,
+    "date": "2015-01-16",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Málaga",
+    "lat": 36.4354,
+    "lng": -4.6469,
+    "entity": "Otros",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Málaga (2015). Condiciones meteorológicas.",
+    "latlng": [
+      36.4354,
+      -4.6469
+    ]
+  },
+  {
+    "id": "CIAF-2015-088",
+    "year": 2015,
+    "date": "2015-06-16",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Vitoria",
+    "lat": 42.7705,
+    "lng": -2.5014,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Vitoria (2015). Fallos eléctricos.",
+    "latlng": [
+      42.7705,
+      -2.5014
+    ]
+  },
+  {
+    "id": "CIAF-2015-089",
+    "year": 2015,
+    "date": "2015-04-09",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 41.7289,
+    "lng": 2.3308,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Accidente en Barcelona (2015). Condiciones meteorológicas.",
+    "latlng": [
+      41.7289,
+      2.3308
+    ]
+  },
+  {
+    "id": "CIAF-2015-090",
+    "year": 2015,
+    "date": "2015-01-13",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Huelva",
+    "lat": 37.5737,
+    "lng": -7.3226,
+    "entity": "FCC",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Huelva (2015). Fallo mecánico.",
+    "latlng": [
+      37.5737,
+      -7.3226
+    ]
+  },
+  {
+    "id": "CIAF-2015-091",
+    "year": 2015,
+    "date": "2015-07-26",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 41.3627,
+    "lng": -4.3343,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Valladolid (2015). Atropello.",
+    "latlng": [
+      41.3627,
+      -4.3343
+    ]
+  },
+  {
+    "id": "CIAF-2015-092",
+    "year": 2015,
+    "date": "2015-03-23",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "San Sebastián",
+    "lat": 43.5552,
+    "lng": -1.5547,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en San Sebastián (2015). Condiciones meteorológicas.",
+    "latlng": [
+      43.5552,
+      -1.5547
+    ]
+  },
+  {
+    "id": "CIAF-2015-093",
+    "year": 2015,
+    "date": "2015-01-25",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Murcia",
+    "lat": 38.0891,
+    "lng": -0.8166,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Murcia (2015). Choque con obstáculo.",
+    "latlng": [
+      38.0891,
+      -0.8166
+    ]
+  },
+  {
+    "id": "CIAF-2015-094",
+    "year": 2015,
+    "date": "2015-03-08",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Madrid",
+    "lat": 40.3175,
+    "lng": -3.5755,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Madrid (2015). Condiciones meteorológicas.",
+    "latlng": [
+      40.3175,
+      -3.5755
+    ]
+  },
+  {
+    "id": "CIAF-2015-095",
+    "year": 2015,
+    "date": "2015-06-26",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Pamplona",
+    "lat": 42.7909,
+    "lng": -1.4106,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Pamplona (2015). Fallo de señalización.",
+    "latlng": [
+      42.7909,
+      -1.4106
+    ]
+  },
+  {
+    "id": "CIAF-2015-096",
+    "year": 2015,
+    "date": "2015-09-21",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.2141,
+    "lng": -5.2847,
+    "entity": "Otros",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Gijón (2015). Atropello.",
+    "latlng": [
+      43.2141,
+      -5.2847
+    ]
+  },
+  {
+    "id": "CIAF-2015-097",
+    "year": 2015,
+    "date": "2015-10-09",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.4106,
+    "lng": -0.5373,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2015). Choque con obstáculo.",
+    "latlng": [
+      41.4106,
+      -0.5373
+    ]
+  },
+  {
+    "id": "CIAF-2015-098",
+    "year": 2015,
+    "date": "2015-11-16",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.0797,
+    "lng": -3.5914,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Santander (2015). Fallo mecánico.",
+    "latlng": [
+      43.0797,
+      -3.5914
+    ]
+  },
+  {
+    "id": "CIAF-2015-099",
+    "year": 2015,
+    "date": "2015-07-28",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 39.1927,
+    "lng": -7.2044,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Badajoz (2015). Error humano.",
+    "latlng": [
+      39.1927,
+      -7.2044
+    ]
+  },
+  {
+    "id": "CIAF-2015-100",
+    "year": 2015,
+    "date": "2015-05-09",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.5086,
+    "lng": -3.7835,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Burgos (2015). Fallo mecánico.",
+    "latlng": [
+      42.5086,
+      -3.7835
+    ]
+  },
+  {
+    "id": "CIAF-2015-101",
+    "year": 2015,
+    "date": "2015-06-23",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.6151,
+    "lng": -5.5139,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Gijón (2015). Fallo de señalización.",
+    "latlng": [
+      43.6151,
+      -5.5139
+    ]
+  },
+  {
+    "id": "CIAF-2015-102",
+    "year": 2015,
+    "date": "2015-04-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.4286,
+    "lng": -4.1287,
+    "entity": "FCC",
+    "cause": "Fallos eléctricos",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Burgos (2015). Colisión frontal.",
+    "latlng": [
+      42.4286,
+      -4.1287
+    ]
+  },
+  {
+    "id": "CIAF-2015-103",
+    "year": 2015,
+    "date": "2015-09-02",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 37.8927,
+    "lng": -4.8985,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2015). Choque con obstáculo.",
+    "latlng": [
+      37.8927,
+      -4.8985
+    ]
+  },
+  {
+    "id": "CIAF-2015-104",
+    "year": 2015,
+    "date": "2015-12-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 40.9629,
+    "lng": -5.8243,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Incidente en Salamanca (2015). Descarrilamiento.",
+    "latlng": [
+      40.9629,
+      -5.8243
+    ]
+  },
+  {
+    "id": "CIAF-2015-105",
+    "year": 2015,
+    "date": "2015-05-09",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Vigo",
+    "lat": 41.777,
+    "lng": -9.0947,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Vigo (2015). Fallo de señalización.",
+    "latlng": [
+      41.777,
+      -9.0947
+    ]
+  },
+  {
+    "id": "CIAF-2015-106",
+    "year": 2015,
+    "date": "2015-09-28",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 36.9264,
+    "lng": -6.7078,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Huelva (2015). Choque con obstáculo.",
+    "latlng": [
+      36.9264,
+      -6.7078
+    ]
+  },
+  {
+    "id": "CIAF-2015-107",
+    "year": 2015,
+    "date": "2015-07-04",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.1173,
+    "lng": 1.7045,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Barcelona (2015). Condiciones meteorológicas.",
+    "latlng": [
+      41.1173,
+      1.7045
+    ]
+  },
+  {
+    "id": "CIAF-2015-108",
+    "year": 2015,
+    "date": "2015-02-12",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "Cádiz",
+    "lat": 36.5907,
+    "lng": -6.3348,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Cádiz (2015). Choque con obstáculo.",
+    "latlng": [
+      36.5907,
+      -6.3348
+    ]
+  },
+  {
+    "id": "CIAF-2015-109",
+    "year": 2015,
+    "date": "2015-10-07",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.1311,
+    "lng": -2.4363,
+    "entity": "Otros",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Logroño (2015). Fallo de señalización.",
+    "latlng": [
+      42.1311,
+      -2.4363
+    ]
+  },
+  {
+    "id": "CIAF-2015-110",
+    "year": 2015,
+    "date": "2015-01-10",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.0521,
+    "lng": -6.1041,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Avería en Cáceres (2015). Fallos eléctricos.",
+    "latlng": [
+      39.0521,
+      -6.1041
+    ]
+  },
+  {
+    "id": "CIAF-2015-111",
+    "year": 2015,
+    "date": "2015-12-22",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.9265,
+    "lng": -6.0354,
+    "entity": "Ferrocarriles",
+    "cause": "Atropello",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Cáceres (2015). Fallos eléctricos.",
+    "latlng": [
+      39.9265,
+      -6.0354
+    ]
+  },
+  {
+    "id": "CIAF-2015-112",
+    "year": 2015,
+    "date": "2015-06-24",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 41.642,
+    "lng": 0.0612,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Avería en Huesca (2015). Colisión frontal.",
+    "latlng": [
+      41.642,
+      0.0612
+    ]
+  },
+  {
+    "id": "CIAF-2015-113",
+    "year": 2015,
+    "date": "2015-10-13",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Santiago",
+    "lat": 43.0218,
+    "lng": -8.7216,
+    "entity": "ADIF",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Santiago (2015). Choque con obstáculo.",
+    "latlng": [
+      43.0218,
+      -8.7216
+    ]
+  }
+]

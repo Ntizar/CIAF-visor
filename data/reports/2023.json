@@ -1,0 +1,408 @@
+[
+  {
+    "id": "2023-2023-11-3001_if_1.1",
+    "expediente": "11/2023",
+    "tipo": "accidente",
+    "tipo_suceso": "Incendio",
+    "fecha_suceso": "2023-01-30",
+    "hora_suceso": "10:18",
+    "year": 2023,
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "el",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "continuó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "proporcionados",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "del",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "eléctrico",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "aguas",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "debe",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "salió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulará",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circuló",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "los",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "elevó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "perdió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entraba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "no",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "como",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entró",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "abandonase",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ya",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "llegó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "inútil",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "volvió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "parado",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "t train \nmovements in each section of the line, leading to uncertainty in cases like the present one. \nSee Recommendation 11/2023-6.",
+      "factores_humanos": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \nPersonal de conducción: \n➢ Maquinista del tren 436 primera conducción (Bilbao Abando – Miranda del Ebro) de la \nempresa ferroviaria RENFE. \n➢ Maquinista del tren 436 segunda conducción (Miranda del Ebro – Zaragoza Delicias) de la \nempresa ferroviaria RENFE. \n➢ Maquinista del tren 436 tercera conducción (Zaragoza Delicias – Barcelona Sants) de la \nempresa ferroviaria RENFE. \n➢ Maquinista del tren 10696 primera conducción (Barcelona Sants – Valencia Nord) de la \nempresa ferroviaria RENFE. \n➢ Maquinista del tren 10696 segunda conducción (Valencia Nord – Alcázar de San Juan) de la \nempresa ferroviaria RENFE. \n➢ Maquinista del tren 10696 tercera conducción (Alcázar de San Juan – Alcolea) de la empresa \nferroviaria RENFE. \nTodo el personal de conducción implicado en este suceso estaba debidamente cualificado y había \nrecibido la formación correspondiente. \nPersonal de circul\n\nProceso de cambio de ancho \nEl proceso de cambio de ancho en Zaragoza Delicias tuvo que realizarse en situación degradada, \ndebido a que se circulaba con el pantógrafo delantero elevado. Para estos casos, el Manual de \nConducción de la serie S 120.050 dedica un apartado, el 5.10, en el que se detalla cómo proceder en \nsituaciones degradadas con respecto a la operativa de cambio de ancho. De nuevo, y tal y como se \nexpuso en los puntos 4.1 y 4.2 del presente informe, se ha detectado que en el manual no se recoge \nla operativa adecuada que el personal de conducción debe ejecutar si el pantógrafo trasero de la \ntensión de entrada no está operativo. \nLa operativa adecuada en estos casos es accionar el pulsador de cambio de ancho con una antelación \nmayor que en la situación normal, de manera que exista tiempo suficiente para que el sistema baje \nel pantógrafo delantero y suba el pantógrafo trasero de la otra tensión. Esta mayor antelación \nrequerida no se indica en el manual, aunque sí s",
+      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nATL \nAsistencia Técnica en Línea \nca \nCorriente alterna \ncc \nCorriente continua \nCTC \nControl de Tráfico Centralizado \nCRC \nCentro de Regulación y Control \nkV \nKilo Voltios \nMCP \nMotor Cabina Preferente \nMCT \nMotor Cabina Turista \nMIP \nMotor Intermedio Preferente \nMIT \nMotor Intermedio Turista \nOT \nOrden de Trabajo \nRC \nResponsable de circulación \nRTL \nTop Meter \nS/E \nSubestación \nTPM \nTransductor de Tensión de Línea, para reconocer 25 kV \n\n\n5\n\nLa vía quedó interceptada un total de 2 horas y 39 minutos, desde las 19:05 hasta las 21:44. \nComo consecuencia del accidente los viajeros fueron transbordados al tren 97063 hasta Córdoba y \ndesde allí en autobús hasta destino. \n\n\n11 \n\nEl retraso acumulado generado por la incidencia ascendió a 16 horas y 52 minutos, de ellas 2 horas y \n12 minutos en trenes de Larga Distancia, 9 horas y 10 minutos en trenes de Media Distancia y 5 horas \ny 30 minutos en trenes de Mercancías.\n\nEn el momento del suceso la composición se encontraba realizando el servicio Intercity Barcelona – \nCádiz. \nEl material rodante implicado en el suceso es un tren eléctrico autopropulsado de la serie S 120.050 \n(rama 120.054), que cuenta con un sistema de rodadura desplazable basado en los bogies Brava \ndesarrollados por CAF, que permiten prestar servicio tanto en las líneas de ancho estándar como de \nancho ibérico, al adaptarse (en movimiento) a cada ancho de vía gracias a los cambiadores de ancho. \nAdemás, tiene un equipo de tracción bitensión capaz de funcionar con las tensiones de catenaria de \n25 kV ca y de 3 kV cc. \n\nFigura 2 Esquema de la serie S 120.050 \nLas unidades están compuestas por cuatro coches designados MCT – MIT – MIP – MCP (Motor Cabina \nTurista - Motor Intermedio Turista - Motor Intermedio Preferente - Motor Cabina Preferente). Cada \nuno de los coches extremos (MCT y MCP) dispone de dos pantógrafos; uno de 25 kV (corriente alterna \n50 Hz"
+    },
+    "conclusiones": "\n\nTal y como se ha expuesto en el punto 4.4, se ha detectado una incongruencia con respecto a las \nmedidas de seguridad implementadas en el año 2009. En el apartado 4.1 se detalla que en dicho año \nse implementó una medida de seguridad consistente en disminuir la velocidad de paso por \ncambiadores de ancho a 5 km/h. No obstante, en el Manual de Conducción de la serie S 120.050, y \nen otros documentos se indica que en las situaciones degradas que impliquen fallo de ambos \npantógrafos o incluso en e",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nCAF y RENFE \n11/2023-1 \nEstudiar la operativa de cambio de ancho en situaciones \ndegradadas de forma que se evalúen los riesgos derivados \nde dicha maniobra y en especial cuando se requiere circular \na una velocidad superior a los 5 km/h, estableciendo \nprocedimientos que mitiguen esos riesgos y que se incluyan \nen los documentos correspondientes. \nAESF \nCAF y RENFE \n11/2023-2 \nActualizar el Manual de Conducción de la serie S 120.050 y \nasimilables, de manera que se reflejen de forma fidedigna y \ndetallada los pasos a seguir en los procedimientos de \ncambio \nde \nancho, \nespecialmente \nen \nsituaciones \ndegradadas, así como los supuestos en los cuales se debe \nproceder a la anulación de pantógrafos. \nAESF \nACTREN y RENFE \n11/2023-3 \nEstablecer procedimientos adicionales de revisión de la \nzona de pantógrafos cuando por alguna causa se haya \ntenido que llevar a cabo un cambio de ancho en situación \ndegradada. En este procedimiento deberá considerarse la \ncomunicación de tal hecho por parte de los actores \ninvolucrados en la maniobra de cambio de ancho. \nAESF \nACTREN y CAF \n11/2023-4 \nEstudiar la posibilidad de establecer mecanismos de \ndetección de averías en los pararrayos, así como \nevolucionar en la mejora de herramientas de diagnosis \ncomo Lead Mind. \nAESF \nADIF \n11/2023-5 \nEstablecer procedimientos de actuación que limiten los \nreenganches de tensión por parte de los telemandos en \nsituaciones en las que se producen sucesivos y seguidos \ncortes de tensión. \n\n\n40 \n\nAESF \nADIF \n11/2023-6 \nEstudiar la posibilidad de que el personal de los telemandos \npueda disponer de información en tiempo real sobre las \ncirculaciones existentes en un tramo. \nAESF \nADIF \n11/2023-7 \nPromover un estudio que analice la posibilidad de \nestablecer medidas técnicas en las subestaciones que \npermitan que se pueda discriminar entre un consumo \nelevado y un cortocircuito no franco. \n\nMadrid, a 25 de abril de 2024 \n\n\n41 \n\nAPPEND"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.3. Interceptación de la vía ...............................................................................................................................10"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "descarrilamiento",
+      "factor humano",
+      "formación",
+      "incendio",
+      "leve",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento"
+    ],
+    "imagenes": [
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig00.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig01.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig02.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig03.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig04.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig05.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig06.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig07.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig08.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig09.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig10.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig11.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig12.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig13.jpeg",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig14.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig15.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig16.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig17.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig18.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig19.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig20.png",
+      "data/images/2023/2023-2023-11-3001_if_1.1/fig21.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2023/2023-11-3001_if_1.1.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "c7f347c60955e503c96d397fa44dbde1",
+    "fecha_parseo": "2026-06-26T11:54:08.643984"
+  },
+  {
+    "id": "2023-2023-43-0518-if",
+    "expediente": "43/2023",
+    "tipo": "accidente",
+    "tipo_suceso": "Fallo de señalización",
+    "fecha_suceso": "2023-05-26",
+    "hora_suceso": "19:00",
+    "year": 2023,
+    "ubicacion": {
+      "estacion": "Borges del Camp",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Mercancías"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "st's testing \ncampaign. See Recommendations 43/2023-2 and 43/2023-3.",
+      "factores_humanos": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Responsable de Circulación de la banda de Tarragona del CRC de Zaragoza (El Portillo), \npersonal de ADIF. \n➢ Maquinista del tren 55115 de RENFE Mercancías. \nLas entidades relacionadas con el accidente son las siguientes: \n➢ ADIF: Administrador de Infraestructuras Ferroviarias. \n➢ RENFE Mercancías: Empresa Ferroviaria del tren implicado en el suceso. \n➢ Alstom Group: Tecnólogo suministrador de instalaciones del proyecto.\n\neba y lo puso \nde manifiesto, pero por error no se corrigió en dicha campaña.\n\nEn este caso es destacable la actuación del maquinista del tren 51155 al percatarse de la incoherencia \nen la secuencia de señales. En primer lugar, actuó sobre el freno de emergencia al comprobar que no \nhabía suficiente distancia de frenado, con la intención de mitigar el posible riesgo, y por otro lado \nalertó al personal del CRC, que una vez comprobada la Consigna Serie A nº 2307, constató la falta de \ncorrespondencia entre esta y el aspecto de la señal de avanzada.",
+      "infraestructura": "Como consecuencia de la incidencia se produjo un retraso que afectó a dos trenes de Renfe \nMercancías el día 19 de mayo de 2023, siendo el retraso acumulado para los mismos de 12 minutos. \n\n\n10\n\nEl tren implicado en el suceso era un tren de la empresa RENFE Mercancías compuesto por una \nlocomotora de la serie 253 (253081) y 10 vagones PRR (vagón cisterna particular), de 187 metros de \nlongitud y 963 toneladas.\n\nEl suceso investigado tuvo lugar en la línea 210 de la Red Ferroviaria de Interés General en la estación \nde Les Borges del Camp. Las estaciones colaterales son Reus y Riudecanyes-Botarell. \nEl tramo es de vía única en ancho ibérico, electrificada a 3 kV con BAU con CTC, sistema de protección \nASFA y velocidad máxima de 115 km/h en la zona del suceso. El tramo pertenece a la subred D de la \nRFIG. El sistema de comunicación es tren-tierra, canal 64. \n\n\n11 \n\nFigura 2 Esquema de la estación de Les Borges del Camp \nLa estación de Borges del Camp cuenta con una vía general y cuatro vías de apartado, una de las \ncuales acaba en mango. El suceso se produjo en la vía general (Vía 1), a la altura de la señal de entrada \nE1 lado Reus. La distancia entre esta señal de entrada E1 y la señal de salida de la vía general, S1/1 es \nde 444 metros. La señal avanzada de la señal de entrada es la 5737.\n\nUna de las cuestiones estudiadas durante el proceso de investigación de este suceso, y que ha influido \nen los errores producidos tanto en la fase de diseño como de pruebas, es la falta de definición de la \nfrontera entre el bloqueo y el enclavamiento. \nOriginalmente en el tramo Reus-Mora existían enclavamientos eléctricos en las estaciones. En el año \n2009 se llevó a cabo la sustitución de estos enclavamientos, por enclavamientos electrónicos \nmanejados por software. Para esta actuación era necesario establecer una interfaz entre el nuevo \nenclavamiento electrónico y el bloqueo, ya que este último no se modificaría en ese momento y \nseguiría controlado por relés. \nSegún la conce"
+    },
+    "conclusiones": "\n\nComo medida inmediata tras el suceso, y una vez constatado el fallo de señalización se procedió a la \nretirada de lámparas y fusibles la madrugada del 18 al 19 de mayo de 2023. En concreto, se retiraron \n\n\n21 \n\nlas lámparas del foco verde de las señales avanzadas. De esta forma, las señales avanzadas dejaban \nde ofrecer los aspectos de Vía Libre y Anuncio de Precaución. \nA continuación, y una vez comprobado que el origen del fallo de señalización se debía a un error en \nel software, se tomó la d\n\nDurante el proceso de investigación de este suceso, se ha detectado que el “Protocolo de pruebas \nestándar de bloqueo”, detallado en la IT- 205-002-001 carece de un desarrollo que concrete la forma \nen que se registre cada una de las pruebas realizadas. Análogamente puede extenderse esta carencia \nal resto de protocolos de prueba incluidos en dicha instrucción técnica. Se aprecia una falta de \naplicabilidad de dichos protocolos a las diferentes funciones evaluadas en cada proyecto, así como \nuna",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nALSTOM \n43/2023-1 \nImplementar mecanismos que aseguren la disponibilidad de \ndatos de explotación antes de la generación del software y, \nen el caso de partir de hipótesis, diseñar métodos que \nrealicen el seguimiento y validación de estas. \nAESF \nALSTOM \n43/2023-2 \nEstablecer procedimientos de doble comprobación por parte \ndel equipo de Safety sobre las campañas de pruebas \ndiseñadas por V&V y especialmente sobre los errores que los \nprimeros hayan detectado, para confirmar su gestión y \nsolución. \nAESF \nALSTOM \n43/2023-3 \nIncluir en los procedimientos de Alstom mecanismos \nespecíficos que analicen las fronteras existentes y las nuevas \nque se creen, así como su alcance, y en su caso las pruebas \nnecesarias para su correcta implementación. \nAESF \nADIF \n43/2023-4 \nIncluir en el SGS de ADIF mecanismos específicos que analicen \nlas fronteras existentes y las nuevas que se creen, así como su \nalcance, y en su caso las pruebas necesarias para su correcta \nimplementación. \nAESF \nADIF \n43/2023-5 \nDesarrollar herramientas tecnológicas que permitan una \nmayor agilidad tanto en el registro como en la realización de \nlas pruebas detalladas en la IT-205-002-001 “Realización de \npruebas en Fábrica”, así como la mejora de dichos protocolos, \nque garantice un cumplimiento riguroso de los mismos. \n\nMadrid, a 20 de junio de 2024 \n\n\n23 \n\nAPPENDIX: ENGLISH SUMMARY OF THE MAIN PARTS OF THE REPORT \nCommission Implementing Regulation (EU) 2020/572 of 24 April 2020 on the reporting \nstructure to be followed by railway accident and incident investigation reports states \n(Article 3): \n“Points 1, 5 and 6 of the Annex I shall be written in a second official European language. \nThis translation should be available no later than 3 months after the delivery of the report”. \n(Annex I establishes the structure to follow on the reporting). \nThis appendix contains the translation into English of points 1, 5 and 6 of the final report, "
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.3. Interceptación de la vía .................................................................................................................................9"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "factor humano",
+      "formación",
+      "leve",
+      "paso a nivel",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2023/2023-2023-43-0518-if/fig00.jpeg",
+      "data/images/2023/2023-2023-43-0518-if/fig01.jpeg",
+      "data/images/2023/2023-2023-43-0518-if/fig02.png",
+      "data/images/2023/2023-2023-43-0518-if/fig03.png",
+      "data/images/2023/2023-2023-43-0518-if/fig04.jpeg",
+      "data/images/2023/2023-2023-43-0518-if/fig05.png",
+      "data/images/2023/2023-2023-43-0518-if/fig06.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2023/2023-43-0518-if.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "3f5566525ebd8738fec409fbd040e583",
+    "fecha_parseo": "2026-06-26T11:54:08.885173"
+  },
+  {
+    "id": "2023-260128-231126-if_ciafv2",
+    "expediente": "114/2023",
+    "tipo": "accidente",
+    "tipo_suceso": "Descarrilamiento",
+    "fecha_suceso": "2023-11-26",
+    "hora_suceso": "14:24",
+    "year": 2023,
+    "ubicacion": {
+      "estacion": "Atocha-Cercanías",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "realizaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "desde",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "AVE",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "n, or \nenvironmental conditions. See Recommendation 114/2023-1, 114/2023-2, 114/2023-3\n\nSAFFETY RECOMMENDATIONS \nAddressee \nFinal \nImplementer \nNumber \nRecommendation \nAESF (NSA-ES) \nADIF \n114/2023-1 \nIdentify critical points in the railway network that \nhave similar characteristics to the site of the accident \nin terms of traffic intensity, design and impact on the \nrailway service, adopting improvement measures as \nnecessary regarding lifecycle, maintenance, material \nperformance and resilience to failures. \nAESF (NSA-ES) \nADIF \n114/2023-2 \nReview and optimize the control and preventive \nmaintenance \nprocedures \napplied \nto \ntrack \ncomponents located at critical points, adapting them \nto the functional and structural characteristics of \nthese elements. \nAESF (NSA-ES) \nADIF \n114/2023-3 \nEstablish the frequency of auscultations, and any \nnecessary adjustments, based on risk studies rather \nthan the availability resources.",
+      "factores_humanos": "Las entidades relacionadas con el accidente son las siguientes: \n➢ ADIF: Administrador de Infraestructuras Ferroviarias. \n➢ Renfe Viajeros: Empresa Ferroviaria del tren implicado en el suceso.\n\nEl descarrilamiento ocurrido el 26 de noviembre de 2023 en la travesía T10 fue provocado por la \nrotura del espadín derecho T10A de la travesía T10, como consecuencia de un estado tensional \ninterno no identificado. Estas tensiones habrían superado la capacidad mecánica del acero, lo que \ncondujo a su fractura. Sin embargo, no ha sido posible determinar con exactitud la causa de dicho \nestado tensional. \nTodo indica que factores como la alta intensidad de tráfico y el diseño complejo del tramo, (como se \nha comentado en el punto 4.2) pudieron influir en la aparición del fallo. Por ello, es importante prestar \nespecial atención a aquellos puntos singulares de la red ferroviaria que, por su intensidad de uso, \nconfiguración estructural o relevancia para el servicio ferroviario, requieran medidas de mejora \nespecíficas. Estas pueden incluir la revisión del ciclo de vida útil de los componentes, la optimización \nde las estrategias de mantenimiento y la evaluación de las prestaciones del ma",
+      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nCIAF \nCTC \nControl de Tráfico Centralizado \nCTV \nCentro de Tecnología de Vía \nRC \nResponsable de circulación \n\n\n5\n\nComo consecuencia del suceso, quedaron interceptadas las vías I y II del túnel de Recoletos entre las \nestaciones de Atocha-Cercanías y Recoletos. El tráfico por la vía II quedó restablecido el 28 de \nnoviembre a las 02:35 horas y por la vía I, el 29 de noviembre a las 02.02 horas.\n\nEl material rodante implicado en el suceso es el tren 00271 de 159 m de longitud y 317 toneladas de \npeso, compuesto por dos locomotoras de la serie 334 (números 010 y 006) que remolcaban una rama \nde 9 coches de Talgo de la Serie 6 (rama 6B10). Se trata de un tren de ancho ibérico 1668 mm, si bien \nla composición remolcada de Talgo dispone de sistema de ancho variable 1668/1435. \n\n\n14 \n\nFigura 5 Locomotora 334 de RENFE remolcando coches Talgo de la Serie 6 (Fuente: SEMAF)\n\nFigura 6 Esquema de la travesía de unión doble T10 (Fuente: Adif) \nEl suceso investigado tuvo lugar en la travesía T10, ubicada a la salida de la estación de Atocha \nCercanías hacia el túnel de Recoletos. La travesía se sitúa en el P.K. 0,150 de la Línea 900 Madrid \nChamartín - Madrid Atocha Cercanías. La línea tiene ancho ibérico, está electrificada a 3 kV y equipada \ncon BAB con CTC y sistema ASFA. \nVía I \nVía II \n\n\n15 \n\nLa travesía T10 es una travesía de unión doble que conecta las vías 4 y 3 de la estación de Atocha y \nlas vías I y II del túnel de Chamartín permitiendo todos los movimientos posibles.\n\nUna vez analizadas las características de los elementos participantes en el suceso, se concluye que el \nmaterial rodante no ha tenido influencia en el descarrilamiento en cuanto a los valores de los \nparámetros de rodadura. No se ha identificado ningún dato representativo ni anomalía técnica en la \ncomposición del tren que pudiera haber contribuido a la causa del descarrilamiento. \nEn cuanto a las instal"
+    },
+    "conclusiones": "La obtención preliminar de datos en el lugar del accidente se vio limitada debido a que, al acceder el \npersonal de la CIAF, el espadín T10A ya había sido embridado para restablecer el servicio con la mayor \nbrevedad posible, dada la alta intensidad del tráfico que soporta la infraestructura. \n\n\n9 \n\nLa elaboración del presente informe también ha experimentado un retraso significativo motivado por \nla necesidad de realizar estudios adicionales sobre el espadín fracturado, para lo cual fue necesario \nla contratación de un laboratorio externo especializado. Este proceso se vio afectado por demoras \najenas a la CIAF, tanto en la contratación de los análisis como en la complejidad derivada de la \ndiversidad de posibles causas y la falta de conclusiones definitivas en los estudios realizados. \nSe registraron también demoras considerables en la respuesta de los agentes implicados y en el envío \nde la información requerida (que en ocasiones ha sido incompleta). En ciertos casos, también se \nevidenció una falta de atención adecuada a las solicitudes, lo que dificultó y ralentizó el avance de la \ninvestigación. \n\n\n10",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Receiver \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nADIF \n114/2023-1 \nIdentificar los puntos críticos en la red ferroviaria que presenten \ncaracterísticas similares a las del lugar del suceso en cuanto a \nintensidad de tráfico, diseño e impacto sobre el servicio \nferroviario, adoptando las medidas de mejora que se consideren \nnecesarias en cuanto a ciclo de vida, mantenimiento, \nprestaciones del material y resiliencia frente a averías. \nAESF \nADIF \n114/2023-2 \nRevisar y optimizar los procedimientos de control y \nmantenimiento preventivo aplicados a los aparatos de vía \nsituados en puntos críticos, adaptándolos a las particularidades \nfuncionales y estructurales de estos elementos. \nAESF \nADIF \n114/2023-3 \nEstablecer la periodicidad de las auscultaciones, así como sus \nposibles modificaciones, en base a estudios de riesgo y no en \nbase a la disponibilidad de los medios materiales disponibles. \n\nMadrid, a 28 de enero de 2026 \n\n\n28 \n\nAPPENDIX: ENGLISH SUMMARY OF THE MAIN PARTS OF THE REPORT \nCommission Implementing Regulation (EU) 2020/572 of 24 April 2020 on the reporting \nstructure to be followed by railway accident and incident investigation reports states (Article \n3): \n\n“Points 1, 5 and 6 of the Annex I shall be written in a second official European language. This \ntranslation should be available no later than 3 months after the delivery of the report”. \n\n(Annex I establishes the structure to follow on the reporting). \n\nThis appendix contains the translation into English of points 1, 5 and 6 of the final report, \naccording to that regulation. \n\nIn case of any doubt or contradiction, the corresponding original Spanish text shall prevail. \n\nThis report is a technical document that presents the approach of the Spanish National \nInvestigation Body (CIAF) to the circumstances of the investigated occurrence, setting out its \nprobable causes and safety recommendations. \n\nAs stated by Royal Decree 623/2014 of 18 July 2014, in particular Article 4 paragraphs 4 and"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.3. Interceptación de la vía ...............................................................................................................................13"
+    },
+    "tags": [
+      "accidente",
+      "colisión",
+      "descarrilamiento",
+      "factor humano",
+      "fatiga",
+      "formación",
+      "leve",
+      "mantenimiento",
+      "procedimiento"
+    ],
+    "imagenes": [
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig00.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig01.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig02.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig03.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig04.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig05.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig06.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig07.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig08.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig09.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig10.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig11.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig12.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig13.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig14.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig15.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig16.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig17.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig18.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig19.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig20.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig21.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig22.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig23.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig24.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig25.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig26.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig27.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig28.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig29.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig30.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig31.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig32.jpeg",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig33.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig34.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig35.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig36.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig37.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig38.png",
+      "data/images/2023/2023-260128-231126-if_ciafv2/fig39.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2023/260128-231126-if_ciafv2.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "cd91fb7649fd34d40678f41b873dfc38",
+    "fecha_parseo": "2026-06-26T11:54:09.122156"
+  }
+]

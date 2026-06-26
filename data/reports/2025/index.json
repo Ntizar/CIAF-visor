@@ -1,0 +1,933 @@
+[
+  {
+    "id": "CIAF-2025-001",
+    "year": 2025,
+    "date": "2025-02-18",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Santiago",
+    "lat": 43.0727,
+    "lng": -8.144,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo de señalización",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Santiago (2025). Colisión frontal.",
+    "latlng": [
+      43.0727,
+      -8.144
+    ]
+  },
+  {
+    "id": "CIAF-2025-002",
+    "year": 2025,
+    "date": "2025-09-28",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Salamanca",
+    "lat": 40.6499,
+    "lng": -5.2877,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en Salamanca (2025). Fallo mecánico.",
+    "latlng": [
+      40.6499,
+      -5.2877
+    ]
+  },
+  {
+    "id": "CIAF-2025-003",
+    "year": 2025,
+    "date": "2025-06-18",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.899,
+    "lng": -2.845,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2025). Fallo de señalización.",
+    "latlng": [
+      42.899,
+      -2.845
+    ]
+  },
+  {
+    "id": "CIAF-2025-004",
+    "year": 2025,
+    "date": "2025-09-05",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "San Sebastián",
+    "lat": 43.6685,
+    "lng": -2.2759,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Accidente en San Sebastián (2025). Fallo de señalización.",
+    "latlng": [
+      43.6685,
+      -2.2759
+    ]
+  },
+  {
+    "id": "CIAF-2025-005",
+    "year": 2025,
+    "date": "2025-05-28",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Burgos",
+    "lat": 42.4653,
+    "lng": -4.1216,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Burgos (2025). Colisión frontal.",
+    "latlng": [
+      42.4653,
+      -4.1216
+    ]
+  },
+  {
+    "id": "CIAF-2025-006",
+    "year": 2025,
+    "date": "2025-01-03",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "León",
+    "lat": 42.126,
+    "lng": -5.4022,
+    "entity": "FCC",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en León (2025). Descarrilamiento.",
+    "latlng": [
+      42.126,
+      -5.4022
+    ]
+  },
+  {
+    "id": "CIAF-2025-007",
+    "year": 2025,
+    "date": "2025-11-12",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Cádiz",
+    "lat": 36.2202,
+    "lng": -5.8395,
+    "entity": "ADIF",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Accidente en Cádiz (2025). Choque con obstáculo.",
+    "latlng": [
+      36.2202,
+      -5.8395
+    ]
+  },
+  {
+    "id": "CIAF-2025-008",
+    "year": 2025,
+    "date": "2025-05-06",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.345,
+    "lng": -5.4889,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Avería en Gijón (2025). Fallos eléctricos.",
+    "latlng": [
+      43.345,
+      -5.4889
+    ]
+  },
+  {
+    "id": "CIAF-2025-009",
+    "year": 2025,
+    "date": "2025-03-06",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Huesca",
+    "lat": 42.2126,
+    "lng": -0.4318,
+    "entity": "FCC",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Incidente en Huesca (2025). Condiciones meteorológicas.",
+    "latlng": [
+      42.2126,
+      -0.4318
+    ]
+  },
+  {
+    "id": "CIAF-2025-010",
+    "year": 2025,
+    "date": "2025-01-01",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.1462,
+    "lng": -3.5915,
+    "entity": "FCC",
+    "cause": "Fallo mecánico",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Incidente en Granada (2025). Condiciones meteorológicas.",
+    "latlng": [
+      37.1462,
+      -3.5915
+    ]
+  },
+  {
+    "id": "CIAF-2025-011",
+    "year": 2025,
+    "date": "2025-07-13",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Lleida",
+    "lat": 41.4591,
+    "lng": 0.4815,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en Lleida (2025). Fallo de señalización.",
+    "latlng": [
+      41.4591,
+      0.4815
+    ]
+  },
+  {
+    "id": "CIAF-2025-012",
+    "year": 2025,
+    "date": "2025-06-10",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Bilbao",
+    "lat": 43.5607,
+    "lng": -2.9233,
+    "entity": "Renfe",
+    "cause": "Fallos eléctricos",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en Bilbao (2025). Colisión frontal.",
+    "latlng": [
+      43.5607,
+      -2.9233
+    ]
+  },
+  {
+    "id": "CIAF-2025-013",
+    "year": 2025,
+    "date": "2025-07-20",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 43.061,
+    "lng": -2.5591,
+    "entity": "Otros",
+    "cause": "Vía bloqueada",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Accidente en Vitoria (2025). Fallos eléctricos.",
+    "latlng": [
+      43.061,
+      -2.5591
+    ]
+  },
+  {
+    "id": "CIAF-2025-014",
+    "year": 2025,
+    "date": "2025-03-05",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Gijón",
+    "lat": 43.8187,
+    "lng": -6.1441,
+    "entity": "ADIF",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Gijón (2025). Colisión frontal.",
+    "latlng": [
+      43.8187,
+      -6.1441
+    ]
+  },
+  {
+    "id": "CIAF-2025-015",
+    "year": 2025,
+    "date": "2025-09-24",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.0977,
+    "lng": -6.4807,
+    "entity": "ADIF",
+    "cause": "Error humano",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Cáceres (2025). Choque con obstáculo.",
+    "latlng": [
+      39.0977,
+      -6.4807
+    ]
+  },
+  {
+    "id": "CIAF-2025-016",
+    "year": 2025,
+    "date": "2025-12-25",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Vitoria",
+    "lat": 43.2951,
+    "lng": -2.6857,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Accidente en Vitoria (2025). Fallo de señalización.",
+    "latlng": [
+      43.2951,
+      -2.6857
+    ]
+  },
+  {
+    "id": "CIAF-2025-017",
+    "year": 2025,
+    "date": "2025-11-10",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 37.6304,
+    "lng": -4.6064,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Córdoba (2025). Fallo de señalización.",
+    "latlng": [
+      37.6304,
+      -4.6064
+    ]
+  },
+  {
+    "id": "CIAF-2025-018",
+    "year": 2025,
+    "date": "2025-06-24",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Valladolid",
+    "lat": 41.3109,
+    "lng": -4.9818,
+    "entity": "Otros",
+    "cause": "Fallo de señalización",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Valladolid (2025). Descarrilamiento.",
+    "latlng": [
+      41.3109,
+      -4.9818
+    ]
+  },
+  {
+    "id": "CIAF-2025-019",
+    "year": 2025,
+    "date": "2025-05-21",
+    "type": "incidente",
+    "severity": "muy grave",
+    "city": "Valladolid",
+    "lat": 42.1131,
+    "lng": -4.9727,
+    "entity": "Ferrocarriles",
+    "cause": "Choque con obstáculo",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Incidente en Valladolid (2025). Condiciones meteorológicas.",
+    "latlng": [
+      42.1131,
+      -4.9727
+    ]
+  },
+  {
+    "id": "CIAF-2025-020",
+    "year": 2025,
+    "date": "2025-12-22",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.3893,
+    "lng": -5.1936,
+    "entity": "FCC",
+    "cause": "Condiciones meteorológicas",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Accidente en León (2025). Error humano.",
+    "latlng": [
+      42.3893,
+      -5.1936
+    ]
+  },
+  {
+    "id": "CIAF-2025-021",
+    "year": 2025,
+    "date": "2025-07-10",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Zaragoza",
+    "lat": 42.108,
+    "lng": -0.4777,
+    "entity": "Ferrocarriles",
+    "cause": "Error humano",
+    "victims": 3,
+    "material_damage": false,
+    "description": "Accidente en Zaragoza (2025). Vía bloqueada.",
+    "latlng": [
+      42.108,
+      -0.4777
+    ]
+  },
+  {
+    "id": "CIAF-2025-022",
+    "year": 2025,
+    "date": "2025-02-12",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Santander",
+    "lat": 43.9223,
+    "lng": -3.7796,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Santander (2025). Error humano.",
+    "latlng": [
+      43.9223,
+      -3.7796
+    ]
+  },
+  {
+    "id": "CIAF-2025-023",
+    "year": 2025,
+    "date": "2025-11-23",
+    "type": "avería",
+    "severity": "muy grave",
+    "city": "Vigo",
+    "lat": 42.4583,
+    "lng": -9.0883,
+    "entity": "FCC",
+    "cause": "Colisión frontal",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Avería en Vigo (2025). Colisión frontal.",
+    "latlng": [
+      42.4583,
+      -9.0883
+    ]
+  },
+  {
+    "id": "CIAF-2025-024",
+    "year": 2025,
+    "date": "2025-04-27",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Badajoz",
+    "lat": 38.6707,
+    "lng": -7.266,
+    "entity": "Otros",
+    "cause": "Error humano",
+    "victims": 2,
+    "material_damage": false,
+    "description": "Accidente en Badajoz (2025). Descarrilamiento.",
+    "latlng": [
+      38.6707,
+      -7.266
+    ]
+  },
+  {
+    "id": "CIAF-2025-025",
+    "year": 2025,
+    "date": "2025-10-15",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Granada",
+    "lat": 37.4058,
+    "lng": -3.2919,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Accidente en Granada (2025). Vía bloqueada.",
+    "latlng": [
+      37.4058,
+      -3.2919
+    ]
+  },
+  {
+    "id": "CIAF-2025-026",
+    "year": 2025,
+    "date": "2025-04-16",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Barcelona",
+    "lat": 41.4939,
+    "lng": 1.8672,
+    "entity": "Renfe",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Barcelona (2025). Condiciones meteorológicas.",
+    "latlng": [
+      41.4939,
+      1.8672
+    ]
+  },
+  {
+    "id": "CIAF-2025-027",
+    "year": 2025,
+    "date": "2025-10-25",
+    "type": "accidente",
+    "severity": "grave",
+    "city": "Alicante",
+    "lat": 37.8844,
+    "lng": -0.5744,
+    "entity": "Otros",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en Alicante (2025). Fallo de señalización.",
+    "latlng": [
+      37.8844,
+      -0.5744
+    ]
+  },
+  {
+    "id": "CIAF-2025-028",
+    "year": 2025,
+    "date": "2025-09-01",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Sevilla",
+    "lat": 37.3508,
+    "lng": -5.9838,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 5,
+    "material_damage": true,
+    "description": "Incidente en Sevilla (2025). Colisión frontal.",
+    "latlng": [
+      37.3508,
+      -5.9838
+    ]
+  },
+  {
+    "id": "CIAF-2025-029",
+    "year": 2025,
+    "date": "2025-10-17",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Santiago",
+    "lat": 42.4076,
+    "lng": -8.9381,
+    "entity": "ADIF",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Santiago (2025). Condiciones meteorológicas.",
+    "latlng": [
+      42.4076,
+      -8.9381
+    ]
+  },
+  {
+    "id": "CIAF-2025-030",
+    "year": 2025,
+    "date": "2025-02-24",
+    "type": "avería",
+    "severity": "leve",
+    "city": "San Sebastián",
+    "lat": 43.4551,
+    "lng": -1.9838,
+    "entity": "Ferrocarriles",
+    "cause": "Colisión frontal",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en San Sebastián (2025). Fallo de señalización.",
+    "latlng": [
+      43.4551,
+      -1.9838
+    ]
+  },
+  {
+    "id": "CIAF-2025-031",
+    "year": 2025,
+    "date": "2025-02-26",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Gijón",
+    "lat": 43.6419,
+    "lng": -5.8153,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Accidente en Gijón (2025). Descarrilamiento.",
+    "latlng": [
+      43.6419,
+      -5.8153
+    ]
+  },
+  {
+    "id": "CIAF-2025-032",
+    "year": 2025,
+    "date": "2025-10-05",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Vitoria",
+    "lat": 42.6389,
+    "lng": -2.9528,
+    "entity": "Ferrocarriles",
+    "cause": "Fallo mecánico",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Vitoria (2025). Choque con obstáculo.",
+    "latlng": [
+      42.6389,
+      -2.9528
+    ]
+  },
+  {
+    "id": "CIAF-2025-033",
+    "year": 2025,
+    "date": "2025-06-11",
+    "type": "accidente",
+    "severity": "leve",
+    "city": "Zaragoza",
+    "lat": 41.7554,
+    "lng": -0.8832,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Accidente en Zaragoza (2025). Error humano.",
+    "latlng": [
+      41.7554,
+      -0.8832
+    ]
+  },
+  {
+    "id": "CIAF-2025-034",
+    "year": 2025,
+    "date": "2025-09-14",
+    "type": "avería",
+    "severity": "leve",
+    "city": "Cáceres",
+    "lat": 39.0118,
+    "lng": -6.1264,
+    "entity": "ADIF",
+    "cause": "Condiciones meteorológicas",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en Cáceres (2025). Condiciones meteorológicas.",
+    "latlng": [
+      39.0118,
+      -6.1264
+    ]
+  },
+  {
+    "id": "CIAF-2025-035",
+    "year": 2025,
+    "date": "2025-09-23",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Alicante",
+    "lat": 38.3376,
+    "lng": -0.5855,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Incidente en Alicante (2025). Fallo de señalización.",
+    "latlng": [
+      38.3376,
+      -0.5855
+    ]
+  },
+  {
+    "id": "CIAF-2025-036",
+    "year": 2025,
+    "date": "2025-09-07",
+    "type": "accidente",
+    "severity": "muy grave",
+    "city": "León",
+    "lat": 42.9452,
+    "lng": -5.1283,
+    "entity": "FCC",
+    "cause": "Fallo de señalización",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Accidente en León (2025). Fallos eléctricos.",
+    "latlng": [
+      42.9452,
+      -5.1283
+    ]
+  },
+  {
+    "id": "CIAF-2025-037",
+    "year": 2025,
+    "date": "2025-02-11",
+    "type": "incidente",
+    "severity": "leve",
+    "city": "Valencia",
+    "lat": 39.7881,
+    "lng": -0.1136,
+    "entity": "Renfe",
+    "cause": "Descarrilamiento",
+    "victims": 3,
+    "material_damage": true,
+    "description": "Incidente en Valencia (2025). Fallo mecánico.",
+    "latlng": [
+      39.7881,
+      -0.1136
+    ]
+  },
+  {
+    "id": "CIAF-2025-038",
+    "year": 2025,
+    "date": "2025-07-19",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 38.2857,
+    "lng": -4.9236,
+    "entity": "ADIF",
+    "cause": "Atropello",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Córdoba (2025). Fallo de señalización.",
+    "latlng": [
+      38.2857,
+      -4.9236
+    ]
+  },
+  {
+    "id": "CIAF-2025-039",
+    "year": 2025,
+    "date": "2025-05-10",
+    "type": "avería",
+    "severity": "leve",
+    "city": "León",
+    "lat": 42.6601,
+    "lng": -5.1647,
+    "entity": "ADIF",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Avería en León (2025). Error humano.",
+    "latlng": [
+      42.6601,
+      -5.1647
+    ]
+  },
+  {
+    "id": "CIAF-2025-040",
+    "year": 2025,
+    "date": "2025-05-08",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Huelva",
+    "lat": 37.3159,
+    "lng": -6.6509,
+    "entity": "Ferrocarriles",
+    "cause": "Vía bloqueada",
+    "victims": 2,
+    "material_damage": true,
+    "description": "Incidente en Huelva (2025). Fallo de señalización.",
+    "latlng": [
+      37.3159,
+      -6.6509
+    ]
+  },
+  {
+    "id": "CIAF-2025-041",
+    "year": 2025,
+    "date": "2025-02-22",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Barcelona",
+    "lat": 41.0994,
+    "lng": 2.3137,
+    "entity": "FCC",
+    "cause": "Atropello",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Barcelona (2025). Fallos eléctricos.",
+    "latlng": [
+      41.0994,
+      2.3137
+    ]
+  },
+  {
+    "id": "CIAF-2025-042",
+    "year": 2025,
+    "date": "2025-05-10",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.0103,
+    "lng": -2.5768,
+    "entity": "Otros",
+    "cause": "Choque con obstáculo",
+    "victims": 0,
+    "material_damage": true,
+    "description": "Avería en Logroño (2025). Atropello.",
+    "latlng": [
+      42.0103,
+      -2.5768
+    ]
+  },
+  {
+    "id": "CIAF-2025-043",
+    "year": 2025,
+    "date": "2025-11-14",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Córdoba",
+    "lat": 37.9711,
+    "lng": -5.1138,
+    "entity": "Otros",
+    "cause": "Fallos eléctricos",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Córdoba (2025). Error humano.",
+    "latlng": [
+      37.9711,
+      -5.1138
+    ]
+  },
+  {
+    "id": "CIAF-2025-044",
+    "year": 2025,
+    "date": "2025-11-25",
+    "type": "avería",
+    "severity": "grave",
+    "city": "Logroño",
+    "lat": 42.5155,
+    "lng": -2.3403,
+    "entity": "Ferrocarriles",
+    "cause": "Descarrilamiento",
+    "victims": 5,
+    "material_damage": false,
+    "description": "Avería en Logroño (2025). Choque con obstáculo.",
+    "latlng": [
+      42.5155,
+      -2.3403
+    ]
+  },
+  {
+    "id": "CIAF-2025-045",
+    "year": 2025,
+    "date": "2025-03-11",
+    "type": "avería",
+    "severity": "fatal",
+    "city": "Vitoria",
+    "lat": 43.1302,
+    "lng": -2.6048,
+    "entity": "Otros",
+    "cause": "Descarrilamiento",
+    "victims": 4,
+    "material_damage": false,
+    "description": "Avería en Vitoria (2025). Colisión frontal.",
+    "latlng": [
+      43.1302,
+      -2.6048
+    ]
+  },
+  {
+    "id": "CIAF-2025-046",
+    "year": 2025,
+    "date": "2025-03-07",
+    "type": "avería",
+    "severity": "grave",
+    "city": "León",
+    "lat": 42.5991,
+    "lng": -5.7575,
+    "entity": "ADIF",
+    "cause": "Choque con obstáculo",
+    "victims": 1,
+    "material_damage": true,
+    "description": "Avería en León (2025). Error humano.",
+    "latlng": [
+      42.5991,
+      -5.7575
+    ]
+  },
+  {
+    "id": "CIAF-2025-047",
+    "year": 2025,
+    "date": "2025-07-20",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "León",
+    "lat": 42.24,
+    "lng": -5.098,
+    "entity": "ADIF",
+    "cause": "Vía bloqueada",
+    "victims": 0,
+    "material_damage": false,
+    "description": "Incidente en León (2025). Choque con obstáculo.",
+    "latlng": [
+      42.24,
+      -5.098
+    ]
+  },
+  {
+    "id": "CIAF-2025-048",
+    "year": 2025,
+    "date": "2025-11-15",
+    "type": "incidente",
+    "severity": "fatal",
+    "city": "Granada",
+    "lat": 37.3175,
+    "lng": -3.6414,
+    "entity": "Renfe",
+    "cause": "Fallo mecánico",
+    "victims": 1,
+    "material_damage": false,
+    "description": "Incidente en Granada (2025). Vía bloqueada.",
+    "latlng": [
+      37.3175,
+      -3.6414
+    ]
+  },
+  {
+    "id": "CIAF-2025-049",
+    "year": 2025,
+    "date": "2025-06-21",
+    "type": "incidente",
+    "severity": "grave",
+    "city": "Burgos",
+    "lat": 42.0595,
+    "lng": -3.5951,
+    "entity": "Renfe",
+    "cause": "Vía bloqueada",
+    "victims": 4,
+    "material_damage": true,
+    "description": "Incidente en Burgos (2025). Vía bloqueada.",
+    "latlng": [
+      42.0595,
+      -3.5951
+    ]
+  }
+]

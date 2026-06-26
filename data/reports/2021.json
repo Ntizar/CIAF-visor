@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "2021-220630-210811-if-sn_ciaf",
+    "expediente": "64/2021",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "",
+    "hora_suceso": "22:15",
+    "year": 2021,
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "quien",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "afectado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "transportaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "eran",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sin",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "está",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "dispuesto",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Mercancías",
+      "Renfe Operadora"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "On the 11th of August 2021, at 22:15 p.m., the 90666-train owned by Low-Cost Rail (LCR), Freight \nRailway Undertaking (RU), that was covering the journey Azuqueca-Puerto Seco to Zaragoza-Corbera \nAlta, suffered a breakdown of the load units between the kilometre points (k.p.) 161+300 and \n161+500 on track 2 of line 200 (Madrid Chamartín - Barcelona França), halfway between Torralba and \nMedinaceli stations. \nIn the incident, five empty load units fell off their respective wagons towards the embankment of the \nopposite track (track 1) due to an inefficient fastening during an adverse weather situation. This train \nwas composed of 31 wagons loaded with 33 empty 40-foot containers and the RU held a permit for \ntheir circulation (Special Transport Authorisation STA 105-2/21) allowing for 9.5-foot-high HC (High \nCube) containers. The driver did not notice the breakdown of the load units until he reached \ndestination. It is noted that the load units fell off from wagons that had been previously transformed, \nusing a fastening system that consisted of stanchions. The other wagons of the formation had ISO \nspigots as the fastening system for the load units and those were not affected by the ascending \nvertical wind forces. \nFive load units fell off and crossed over track 1, reaching the embankment of this line, leaving free \npassage clearance on both lines. On the process of falling, one of the load containers hit an \nelectrification pole, knocking it down and causing the decompensation of the catenary on track 1. On \nthe 12th of August, the 55714-train owned by Renfe Mercancias (Freight RU) that was travelling in the \nopposite direction, on track 1, suffered a catenary hitch with the rear pantograph when it passed by\n\nthe location of the incident. It was the driver of this train who notified the breakdown of the load \nunits. \nOn the day of the event, the daily weather report (MeteoroH24) did not alert of disruptions affecting \nline 200. This report alerts on adverse meteor",
+      "factores_humanos": "Resultan relevantes para la investigación de este suceso tanto las actuaciones previas como la \ninformación proporcionada por el siguiente personal: \n• Maquinista del tren 90666 de LCR que conducía el tren que sufrió la descomposición de \ncargamento. \n• ROC del PSA que autorizó las operaciones de carga y supervisó el tren 90666 para que se pudiera \ndar dispuesto. \nLas entidades que, de un modo u otro, están relacionadas con el suceso, y han colaborado aportando \ninformación y declaraciones de su personal, son: \n• LCR, como EF del tren afectado, arrendadora de los vagones y entidad que solicita la ATE 105-\n2/21. \n• PSA, como dependencia cargadora y emisora del tren. \n• RAXELL RAIL, como propietario de los vagones y EEM de los mismos. \n• SIDERÚRGICA REQUENA, como taller que realizó la transformación de los vagones. \n• TRANSFESA, como propietario del tipo de vagón que fue usado como referencia por SIDERÚRGICA \nREQUENA para la transformación de los vagones. \n\n\n11 \n\n• ADIF como AI, así como\n\nLa empresa LCR tiene subcontratado al estibador PSA la figura del ROC, lo que es práctica habitual en \nlas EF dada la imposibilidad de tener personal propio en todas las terminales de carga en las que \nprestan servicios. En cualquier caso, de acuerdo con la ETI de operaciones, la EF es la responsable del \ntren y del cargamento, aunque delegue la función de ROC en el estibador. \nEl estudio de este suceso ha puesto de manifiesto que los ROC realizan sus funciones por repetitividad \nya que efectúan continuamente las mismas actuaciones, recurriendo únicamente a consultar las \ndirectrices de carga de la UIC en el caso de que tengan que realizar operaciones de cargamento \nespeciales no habituales. Además, hay que tener en cuenta que la Recomendación de cargamento de \nla UIC es muy técnica y poco operativa, al no estar traducida al español y estar sujeta a continuas \n\n\n29 \n\nactualizaciones, siendo la empresa ferroviaria la responsable de proporcionar la información \nespecífica sobre cada ti",
+      "infraestructura": "Como consecuencia del suceso la vía no quedó dañada, aunque se produjo una interrupción parcial \nde la vía 1 durante 18 horas y 41 minutos, mientras se efectuaban las tareas de reparación de la \ncatenaria. Asimismo, se produjeron retrasos en otras circulaciones cuyos valores acumulados fueron \nde 8 min en trenes de viajeros y 4 horas y 51 minutos en trenes de mercancías.\n\nEl tren implicado en este suceso era el Tren 90666 de LCR que realizaba un transporte de \ncontenedores entre Azuqueca-Puerto Seco y Zaragoza-Corbera Alta; tren que sufrió la \ndescomposición de cargamento. Este tren transportaba un total de 31 vagones cargados con 33 \ncontenedores vacíos, de 40 pies y 4t de peso, con un total de 685 t de masa y 507 m de longitud. Este \ntren circulaba bajo la ATE 105-2/21 por transportar contenedores tipo HC de 9,5 pies de altura (2,895 \nm). \nLos sistemas de anclaje utilizados por los vagones de este tren eran de dos tipos. Por un lado, \nesquineros dispuestos sobre los vagones, que únicamente tienen la función de centrar los \ncontenedores sobre las plataformas de los vagones, sin introducir ningún impedimento al \ndesplazamiento vertical de la carga. Y por otro, clavijas tipo ISO que anclan los contenedores a los \nvagones de forma solidaria. Cabe señalar que todos los vagones con contenedores caídos estaban \ndotados del sistema de anclaje mediante esquine\n\nLa línea 200 de ADIF entre las estaciones de Torralba y Medinaceli es un tramo de vía doble \nelectrificada. El suceso se produjo entre los p.k. 161+300 al 161+500, que se encuentran en curva a \nizquierdas y sobre un terraplén de unos 5 m de altura, existiendo un paso inferior en el medio, \ndestinado al paso de ganado, así como a los flujos de agua. En esta zona la vía discurre de oeste a \neste de forma perpendicular a un valle con orientación norte-sur. \nLa línea 200 de ADIF en el tramo Torralba-Medinaceli dispone de radiotelefonía tren-tierra en su canal \n69, y toda la línea está dotada de BLAD y ASFA Digital.\n\nTra"
+    },
+    "conclusiones": "Para llevar a cabo la investigación de este incidente se ha seguido el método STEP cuyo esquema se \nencuentra recogido en el apartado 5 de conclusiones. Las técnicas que se han seguido para el \ndesarrollo de esta investigación fueron: \n• Análisis documental de la documentación recopilada de las empresas implicadas. \n• Reconstrucción de los hechos a partir de la disposición final de los vagones caídos, así como de la \ninformación analizada en la fase anterior. \n• Entrevistas realizadas a los actores implicados. En particular, se ha entrevistado a personal de LCR, \nPSA, RAXELL RAIL, SIDERÚRGICA REQUENA, TRANSFESA, ADIF y la AESF. \n• Visitas a las instalaciones del estibador PSA, a los vagones de RAXELL RAIL y a los talleres de \nSIDERÚRGICA REQUENA que llevaron a cabo la transformación de los vagones. \n• Reconstrucción del proceso seguido para la transformación de los vagones, así como para la \nrealización de los necesarios análisis de riesgos. \n\n\n9",
+    "recomendaciones": [],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.3. Interceptación de la vía ...............................................................................................................................10"
+    },
+    "tags": [
+      "accidente",
+      "alud",
+      "caída de tierra",
+      "condiciones climatológicas",
+      "factor humano",
+      "factor organizativo",
+      "formación",
+      "leve",
+      "mantenimiento",
+      "procedimiento"
+    ],
+    "imagenes": [
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig00.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig01.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig02.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig03.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig04.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig05.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig06.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig07.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig08.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig09.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig10.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig11.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig12.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig13.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig14.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig15.jpeg",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig16.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig17.png",
+      "data/images/2021/2021-220630-210811-if-sn_ciaf/fig18.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2021/220630-210811-if-sn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "d150373c7c0f4a3d0bf4adb42fd8f46e",
+    "fecha_parseo": "2026-06-26T11:54:06.308339"
+  },
+  {
+    "id": "2021-220429-210205-if-sn-en_ciafv2",
+    "expediente": "09/2021",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2021-02-05",
+    "hora_suceso": "07:57",
+    "year": 2021,
+    "ubicacion": {
+      "estacion": "Blanes",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "ordinario",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "especial",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "quedando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "anterior",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "asociado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "representado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "procedente",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sin",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "eran",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "como",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "expedido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "asociadas",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hacia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "siguiente",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "The incident under investigation occurred on the 2nd of May 2021, at around 8:00 a.m. on the \nMaçanet/Massanes line of Blanes station. It was an operational incident caused by an improper \nauthorised signal overpassing. Two RENFE Viajeros trains were involved: 25603 train, which was \nauthorized to pass the exit signal in the direction of Maçanet/Massanes - with the blocking \nestablished in the opposite direction; and 25614 train that came from Maçanet/Massanes and was \nhalted in front of the entrance signal “E2” at Blanes station. The 25614 train was covering a regular \nservice and was circulating straight after another train that had been rescheduled in the circulation \nnetwork due to previous delays and renumbered as follows: 30852 to Maçanet/Massanes; 95756 \nbetween Maçanet/Massanes and Blanes; and 25612 from Blanes. The event was an operational \nincident with no major consequences as the driver of the 25603 train stopped as soon as he noticed \nthe other train, without passing the exit signal.\n\nFigure 1: Location of all trains involved in the incident \n(Dashed lines mean authorised movements of each train).\n\nConclusion \nThe causal factor of this incident was the inappropriate authorised overpassing of signal S1/3 at \nBlanes station. The driver of the 25603 train obtained authorisation to pass the exit signal from the \nMataró´s Signaller Authority (SA), it is noted that the authorisation to pass was originally granted by \nthe Granollers SA. Both SAs were located at the Centralised Traffic Control (CTC). \nThe contributing factors are: \n• \nlack of occupation verification at BTCBM by SAs, \n• \nSignal overpassing authorisation by TDO without appropriately checking the requirements \nstablished, \n• \nfailure of the automatic train numbering since January 31st, \n• \nlack of formal communication to all SAs about the failure of the automatic train numbering \nat the BTCBM, \n• \nmodification in real time of the train schedule, \n• \nthe direct communication between the Railway Und",
+      "factores_humanos": "➢ Personal \nResultan relevantes para la investigación de este suceso las actuaciones previas y las manifestaciones \ndel personal siguiente: \n• Maquinista del tren 25603 de RENFE. \n• Maquinista del tren 25614 de RENFE. \n• Maquinista del tren 95756 de RENFE. \n• RC del CTC de Mataró que telemanda la estación de Blanes. \n• RC del CTC de Granollers que telemanda la estación de Maçanet/Massanes. \n• Inspectores reguladores del PM de Barcelona. \n• Técnico de regulación del PM de Barcelona \n• Responsables del CG de RENFE en Barcelona. \nLas pruebas de control de consumo de alcohol y control de drogas de abuso realizadas a los RC del \nCTC fueron ambas negativas. \n➢ Entidades \nLas entidades implicadas en el accidente son: \n• RENFE viajeros como Empresa Ferroviaria. \n• ADIF como Administrador de Infraestructuras.\n\nEl incidente se produjo en plena hora punta de la mañana y además el día del suceso el tráfico se \nencontraba en una situación degradada, según han manifestado todos los actores implicados. Estas \ncircunstancias someterían tanto a los RC del CTC como al personal del CG de RENFE Viajeros a una \nsituación de mayor carga de trabajo al tratar de resolver los numerosos conflictos entre circulaciones \nque se estaban produciendo. \nEn particular, el RC del CTC de Granollers cuenta en su banda de regulación con varias estaciones que \nhacen de cabecera de línea, así como la terminal intermodal de La Llagosta, que requerían su atención \ncontinua. En cambio, la gestión de circulaciones en Maçanet/Massanes hacia la línea de La Costera \n\n\n31 \n\n(Barcelona por Mataró) no le afecta al resto de su banda, al consistir en circulaciones provenientes \nde una banda colateral que se dirigen a otra banda colateral, por lo que lo dejaba programado \nmandando los itinerarios correspondientes en la estación de Maç",
+      "infraestructura": "Como consecuencia del incidente no se produjeron interceptaciones de consideración a otras \ncirculaciones. \n\n\n11\n\nLos trenes implicados en este suceso pertenecen a RENFE y son: \n• Tren 25603 que realiza el recorrido L’Hospitalet de Llobregat-(Blanes)-Maçanet/Massanes y que \nel día del incidente llegó a Blanes a las 7h49 aproximadamente. \n• Tren 25614 que realiza el recorrido Maçanet/Massanes-(Blanes)-L’Hospitalet de Llobregat y que \nel día del incidente salió de Maçanet/Massanes a las 7h47 aproximadamente. \n• Tren 30852/95756/25612 que realiza el recorrido Figueres-Maçanet/Massanes-Blanes-\nL’Hospitalet de Llobregat y que el día del suceso llevaba 26 minutos de retraso a su paso por \nMaçanet/Massanes, lo que provocó que tuviera que circular justo por delante del tren 25614. El \ndía del incidente, debido al retraso que acumulaba, adoptaría la numeración 30852 hasta \nMaçanet/Massanes, 95756 en el tramo Maçanet/Massanes-Blanes y 25612 desde Blanes, en vez \n\n\n12 \n\nde las numeraciones 30852 hasta Maçanet/Massanes y 25610 desde Maçanet/Massanes como \nestaba programado. \n• Tren 25610 que el día del suceso\n\nEl incidente se produjo en el lado Maçanet/Massanes de la estación de Blanes. La estación de Blanes \nse compone de un haz de 4 vías (1, 3, 5 y 7), todas ellas dotadas de señal de salida para ambos \nsentidos, más 2 vías mango con acceso desde el lado Malgrat. \nEl trayecto comprendido entre Blanes y Maçanet/Massanes es una vía única dotada de bloqueo BLAU \ncon CTC, con contadores de ejes, que constituye un único cantón de bloqueo denominado CVCBM \n(Circuito de Vía Cantón Blanes Maçanet/Massanes). \nLa línea 276 en el entorno de Blanes dispone de radiotelefonía tren-tierra en su canal 6, y toda la línea \nestá dotada de ASFA Digital. \n\n\n13 \n\nFigura 5: Esquema de vías de la estación de Blanes.\n\nEn lo que al material rodante se refiere cabe mencionar que no tuvo implicación directa en el \nincidente, sin que haya indicios de un comportamiento fuera de lo normal. \n\n\n30 \n\nPor su la"
+    },
+    "conclusiones": "Para llevar a cabo la investigación de este incidente se ha seguido el método del árbol causal cuyo \nesquema se encuentra recogido en el apartado 5 de conclusiones. Las técnicas que se han seguido \npara el desarrollo de esta investigación han sido: \n• Análisis documental de la documentación recopilada de ADIF y RENFE. \n• Reconstrucción de los hechos a partir del visionado del registro videográfico del CTC y \nsecuenciación de los acontecimientos, poniendo en relación con el registro videográfico las \ndistintas pruebas existentes, como son las comunicaciones entre actores implicados y telefonemas \ncursados. Para realizar esta labor ha sido necesario realizar una correlación temporal de los \ndistintos relojes. \n• Observación in situ de la disposición y funciones de los distintos actores implicados en el suceso \ndentro del PM de Barcelona con objeto de entender las interacciones entre ellos. \n• Entrevistas realizadas a los actores implicados. En particular, se han entrevistado a los RC del CTC \ninvolucrados, así como a los inspectores reguladores y técnico regulador. \n\n\n9",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Considerada la casuística de sucesos últimamente investigados o en curso de investigación por la \nCIAF, se observa que este incidente guarda algunas similitudes con los siguientes sucesos: \n• Suceso 12/2019, ocurrido el 08/02/2019 en las inmediaciones del antiguo apeadero de \nCastellgalí (Barcelona) consistente en una colisión entre dos trenes, que comparte con este \nincidente la implicación de distintos RC y la suposición errónea de la falsa ocupación. \nComo resultado de la investigación de este suceso se emitieron 7 recomendaciones de las cuales \n3 tienen relación con este suceso: refuerzo de la formación de los RC en la expedición de trenes \nen situaciones de anormalidad, que ha sido implementada mediante un curso sobre manejo, \naprovechamiento e interpretación de la información que proporciona el cuadro videográfico; \nestudio de la posible revisión de la norma NAR nº6/18 para especificar los protocolos, relaciones \ny criterios de actuación para la información entre los RC que fue llevado a cabo por ADIF en \nseptiembre de 2021, dando como resultado la no modificación de la misma; y, establecimiento \nde un procedimiento a seguir por parte de los RC ante casos de pérdida de numeración, falsas \nocupaciones y asignación a un tren de un número ya asignado a otro, cuya implementación se \nencuentra en fase de desarrollo mediante la elaboración de unas listas de comprobación. \n• Suceso 19/2020, ocurrido el 04/03/2020 en la estación de Xeraco (Valencia) consistente en una \nincidencia operacional en el que la vía única entre Tavernes y Xeraco es ocupado por un tren \nprocedente de Tavernes autorizado por los automatismos del GRP (Gestión de Rutas y \nPrioridades) a la vez que el RC del CTC autoriza de forma manual, sin comprobar las condiciones \npara ello, la expedición de otro tren en sentido contrario desde Xeraco compartiendo con este \ncaso la autorización manual por el RC del rebase de una señal que ordena parada sin llevar a \ncabo comprobaciones adicionales de que el ca"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.3. Interceptación de la vía ...............................................................................................................................10"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "factor humano",
+      "factor organizativo",
+      "formación",
+      "leve",
+      "obras en cercanías",
+      "procedimiento"
+    ],
+    "imagenes": [
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig00.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig01.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig02.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig03.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig04.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig05.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig06.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig07.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig08.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig09.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig10.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig11.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig12.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig13.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig14.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig15.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig16.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig17.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig18.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig19.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig20.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig21.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig22.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig23.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig24.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig25.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig26.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig27.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig28.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig29.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig30.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig31.png",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig32.jpeg",
+      "data/images/2021/2021-220429-210205-if-sn-en_ciafv2/fig33.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2021/220429-210205-if-sn-en_ciafv2.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "52c24f5ce4b0b50962335e50794882fe",
+    "fecha_parseo": "2026-06-26T11:54:05.426154"
+  },
+  {
+    "id": "2021-220526-210129-if-sn-en_ciaf",
+    "expediente": "08/2021",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2021-02-25",
+    "hora_suceso": "20:20",
+    "year": 2021,
+    "ubicacion": {
+      "estacion": "La Pobla Llarga",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "salió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "dispuesto",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "fue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "____________",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "________________",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "esté",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entre",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sigue",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "of \ninformation to locate their own trains. This situation difficults the planning and resolution \nof incidents.",
+      "factores_humanos": "4.4 MECANISMOS DE RETROALIMENTACIÓN Y DE CONTROL ............................................................ 36",
+      "infraestructura": "of \ninformation to locate their own trains. This situation difficults the planning and resolution \nof incidents.\n\nuel-\nL'Énova station is represented, instead of the current L'Énova-Manuel halt. This can mislead \nMC staff into mistaking a halt for a station.\n\nructions \nthat correspond exclusively to the signaller of ADIF CP.\n\nt Centers \ndo not detail how the communication between MC and ADIF CP must be, and they were not \nincluded in the Renfe Viajeros SMS. On the other hand, ADIF does not have procedures within \nits SMS that regulate how this communication should be. All of this contributed to the \nineffective communication between Renfe Viajeros MC staff and the signaller of the ADIF CP. \nRecommendations 08/2021-1 and 08/2021-3."
+    },
+    "conclusiones": "interpretaciones erróneas. \n\nComisión de Investigación de Accidentes Ferroviarios – CIAF \n\nSubsecretaría \nMinisterio de Transportes, Movilidad y Agenda Urbana \nGobierno de España \n\nPaseo de la Castellana, 67 \n28071 Madrid \nEspaña \n\nNIPO: 796-22-055-4\n\nÍNDICE \n0 LISTA DE ABREVIATURAS MÁS HABITUALES ............................................................................................. 4 \n1 RESUMEN ........................................................................................................................................................ 5 \n2 LA INVESTIGACIÓN Y SU CONTEXTO .......................................................................................................... 6 \n2.1 DECISIÓN Y MOTIVO ............................................................................................................................. 6 \n2.2 ÁMBITO Y LÍMITES DE LA INVESTIGACIÓN ......................................................................................... 6 \n2.3 EQUIPO DE INVESTIGACIÓN ................................................................................................................ 7 \n2.4 CANALES DE COMUNICACIÓN ............................................................................................................. 7 \n2.5 MÉTODOS Y TÉCNICAS DE INVESTIGACIÓN Y ANÁLISIS ................................................................. 7 \n3 DESCRIPCIÓN DEL SUCESO ......................................................................................................................... 8 \n3.1 EL SUCESO Y SUS CIRCUNSTANCIAS ................................................................................................ 8 \n3.2 DESCRIPCIÓN SECUENCIAL DE LOS HECHOS ................................................................................ 17 \n4 ANÁLISIS DEL SUCESO ............................................................................................................................... 28 \n4.1 COMETIDOS Y DEBERES ................",
+    "recomendaciones": [],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "Como consecuencia del incidente no hubo ni víctimas, ni daños materiales."
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "factor humano",
+      "factor organizativo",
+      "formación",
+      "leve",
+      "paso a nivel",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig00.png",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig01.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig02.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig03.png",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig04.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig05.png",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig06.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig07.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig08.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig09.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig10.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig11.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig12.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig13.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig14.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig15.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig16.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig17.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig18.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig19.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig20.jpeg",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig21.png",
+      "data/images/2021/2021-220526-210129-if-sn-en_ciaf/fig22.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2021/220526-210129-if-sn-en_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "0095cf7034e43e86c377028a0165ea75",
+    "fecha_parseo": "2026-06-26T11:54:06.025058"
+  },
+  {
+    "id": "2021-221220-210503-if_ciaf",
+    "expediente": "38/2021",
+    "tipo": "accidente",
+    "tipo_suceso": "Descarrilamiento",
+    "fecha_suceso": "2021-05-03",
+    "hora_suceso": "",
+    "year": 2021,
+    "ubicacion": {
+      "estacion": "León",
+      "provincia": "León",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "ocurrido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ALVIA",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "encarrilado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarrilado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "viajaban",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ASFA",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "provocando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "quedaría",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ISA",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "On the 3rd of May 2021, at 9.47 am, the 4271 ALVIA train belonging to RENFE VIAJEROS Railway \nUndertaking (RU) that covered the route between Madrid-Chamartín and Gijón-Sanz Crespo suffered \na derailment of the two-last-passenger-car wheelset at the D2 turnout situated at “Bifurcación \nGalicia”(at the KP 1+501, track II, of the 130 line, between León and Asturias, municipality of San \nAndrés de Rabanedo, León); the rest of the train remained on track, including the tail tractor head.\n\nFigure 1: Sketch of the D2 turnout and route of the 4271 ALVIA train. \nThe place where the event occurred was being remodelled to give continuity to Leon station tracks \nas well as for the installation of a third rail track from León to the Pajares tunnel. At the time of the \nevent, “Bifurcación Galicia” consisted of a crossover formed by the D4 turnout on track I and the D2 \nturnout on track II. \nThe installation of this crossover was partially completed in 2020, including the replacement of a \nsingle Iberian gauge turnout called D4T (this will be referred as the “2020 works” throughout this \nreport). Prior to the derailment, works for the integration of this crossover to the interlocking were \nundertaken during nightshifts on the 17th-18th and the 18th-19th of April 2021 (referred as the “2021 \nworks” throughout this report).\n\nDuring the 2021 works, verification failures arose and to solve them, some rods of the D2 turnout \nwere dissembled. Whilst the turnout re-assembling process, the standard gauge switch rail on the \nobtuse frog was left unproperly locked.",
+      "factores_humanos": "Las entidades que, de un modo u otro, están relacionadas con el suceso, y han colaborado aportando \ninformación mediante documentación y/o a través de entrevistas a su personal, son: \n RENFE VIAJEROS, como EF propietaria del tren descarrilado. \n ADIF, como AI encargado de la explotación de la línea 130 en servicio. \n ADIF-AV, como promotor de la obra y proponente del cambio que se estaba llevando a cabo en la \nlínea 130 para su adaptación a la AV. \n ROVER RAIL, como contratista principal de infraestructura para llevar a cabo las obras de \nremodelación en la línea 130 para su adaptación a la AV. \n ALSTOM, como contratista principal de CMS para la integración de los desvíos D4 y D2 en la lógica \ndel enclavamiento de León. \n SEVIMFE, como subcontratista de ROVER RAIL para llevar a cabo los trabajos de montaje y puesta \na punto de la parte mecánica (timonerías) de los desvíos en las obras de remodelación llevadas a \ncabo en la línea 130. Se daba la coincidencia que a su vez era subco\n\nEl estudio del suceso ha puesto de manifiesto que la situación que propició el descarrilamiento, el \ndesmontaje de las timonerías del motor 4 de un desvío de ancho mixto y su posterior embridado con \nobjeto de solventar unos fallos de comprobación, se produjo dos veces y fue afrontado de forma \nparcialmente diferente en cada una de ellas. \nLa primera de estas ocasiones en la que se detectaron los fallos de comprobación fue en el desvío D4 \ndurante la actuación de 2020. En esta ocasión se carecía de conocimiento previo de como solventar \nel problema por lo que se sucedieron varias reuniones y consultas a expertos que desembocaron en \nla solución adoptada, consistente en el desmontaje de los tirantes de comprobación del motor 4 y \nposterior embridado de su cerrojo. Pese al desconocimiento inicial, la solución adoptada se realizó \nde forma correcta ya que la buena planificación propició que los trabajos necesarios se analizaran y \nse realizaran con la precaución requerida, pero sin ser ",
+      "infraestructura": "Como consecuencia del suceso ambas vías, I y II, quedaron interceptadas entre las 9h47 en que se \nprodujo el suceso y las 20h08 en que la vía I quedó expedita para el paso de circulaciones una vez que \nlos coches descarrilados fueron encarrilados y retirados. En total se vieron afectadas 9 circulaciones \nque acumularon un retraso de 699 minutos. El tráfico por vía II no quedó restablecido hasta que \nfinalizaron los trabajos de reparación en el desvío D2.\n\nEl material rodante accidentado pertenecía a la Serie 130 de RENFE, fabricada por Talgo en su parte \nmecánica y por Bombardier en la eléctrica. Esta serie es de tracción eléctrica bitensión 3 kV CC \n(Corriente Continua) y 25 kV CA (Corriente Alterna) así mismo está dotada de cambio de ancho \nvariable y va equipada, entre otros, con el sistema de protección del tren ASFA Digital. La composición \nes de tipo M-11R-M. Su velocidad máxima es 250 km/h en alta velocidad y 200 km/h en red \nconvencional. \n\nFigura 5: Tren de la serie 130 de Renfe (fuente: Wikipedia). \nEl tren circulaba en composición simple compuesta por la rama 130-034 de tipo 250B, que bajo la \ndenominación comercial ALVIA 4271 el día 03/05/2021 cubría el trayecto entre Madrid-Chamartín y \nGijón-Sanz Crespo. La composición estaba formada en total por 13 vehículos y 20 ejes, siendo su \nlongitud total 183 metros y su masa total 343 t. De acuerdo con el registro jurídico proporcionado \npor RENFE VIAJEROS, el descarrilamiento se p\n\nLa Bif. Galicia está situada en el p.k. 1+501 de la línea 130 Venta de Baños – Gijón Sanz Crespo. En \neste punto, la línea original en vía única de ancho ibérico de la variante de León pasaba a vía doble \nen sentido a Asturias mediante un desvío de ancho ibérico denominado D4T. Con las obras que se \nestaban llevando a cabo en la zona se pretendía continuar la vía doble en sentido León y la instalación \nde un tercer hilo en ambas vías, para lo cual el desvío original D4T tuvo que ser sustituido por un \nnuevo desvío de ancho mixto, el"
+    },
+    "conclusiones": "Para llevar a cabo la investigación de este suceso se ha seguido el método STEP cuyo esquema se \nencuentra recogido en el apartado 5 de conclusiones. Las técnicas que se han seguido para el \ndesarrollo de esta investigación fueron: \n Análisis de la documentación recopilada de las empresas implicadas. \n Reconstrucción de los hechos a partir de la disposición final del tren descarrilado, así como de la \ninformación analizada en la fase anterior. \n Entrevistas realizadas a los actores involucrados en las actuaciones. En particular, se ha \nentrevistado a personal de ADIF, ROVER RAIL, INECO, ALSTOM, SEVIMFE e INSTALACIONES ALFAR. \n Visita al lugar del suceso para reconocer in situ los desvíos D4 y D2. \n Reconstrucción del proceso seguido para las actuaciones de 2020 y 2021 llevadas a cabo en los \ndesvíos D4 y D2.",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Resumen del análisis \nDel análisis realizado sobre este suceso se pueden concluir que el material rodante, la infraestructura, \nel control de la circulación, y las instalaciones, salvo el desvío D2, se comportaron correctamente. En \nrelación con este último se pueden extraer los siguientes resultados: \n1.- En la actuación de junio de 2020, en la que se llevó a cabo la sustitución del desvío de ancho ibérico \nD4T por el escape mixto D4-D2, quedaría instalada una brida tipo C en el espadín de ancho ibérico \ndel corazón obtuso del desvío D4 que quedaría visible en el carril. Posteriormente, en julio de 2020, \ndebido a las fallos de comprobación, después de haber sido analizado conjuntamente por los \nresponsables de los subsistemas tanto de infraestructura como de CMS y bajo la dirección de obra, \nse procedió al desmontaje de los tirantes de comprobación del desvío D4 colocando una brida de tipo \nsándwich en el cerrojo del motor 4 alojada en el extremo de la traviesa cajón que sustituiría a la brida \ntipo C previamente colocada que fue retirada, manteniéndose el tirante de tracción del motor. \n2.- La solución adoptada para solventar los problemas de comprobación en el desvío D4 de desmontar \nlas timonerías no fue considerada como una modificación que requería de una documentación en el \nproyecto por lo que éste no fue objeto de una actualización ni de la evaluación de riesgos ni de la \ndocumentación donde se reflejaran las diferencias existentes entre la actuación proyectada y la \nrealmente ejecutada. \n3.- En la actuación de 2021, de conexión lógica del escape D4-D2 al enclavamiento, los mismos \nproblemas de fallos de comprobación detectados un año antes en el desvío D4 se volvieron a \nreproducir en el desvío D2. Dada la necesidad de poner en servicio el escape para las circulaciones y \nel conocimiento previo de la actuación de 2020 se decidió llevar a cabo en el desvío D2 la misma \nsolución implementada un año antes en el desvío D4, que no había sido objeto de document"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.3. Interceptación de la vía ...............................................................................................................................14"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "descarrilamiento",
+      "factor humano",
+      "factor organizativo",
+      "formación",
+      "leve",
+      "mantenimiento",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2021/2021-221220-210503-if_ciaf/fig00.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig01.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig02.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig03.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig04.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig05.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig06.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig07.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig08.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig09.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig10.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig11.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig12.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig13.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig14.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig15.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig16.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig17.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig18.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig19.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig20.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig21.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig22.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig23.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig24.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig25.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig26.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig27.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig28.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig29.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig30.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig31.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig32.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig33.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig34.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig35.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig36.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig37.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig38.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig39.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig40.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig41.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig42.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig43.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig44.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig45.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig46.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig47.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig48.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig49.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig50.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig51.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig52.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig53.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig54.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig55.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig56.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig57.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig58.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig59.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig60.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig61.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig62.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig63.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig64.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig65.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig66.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig67.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig68.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig69.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig70.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig71.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig72.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig73.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig74.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig75.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig76.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig77.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig78.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig79.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig80.jpeg",
+      "data/images/2021/2021-221220-210503-if_ciaf/fig81.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2021/221220-210503-if_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "13dd2ec5d524d93646910c303c04feec",
+    "fecha_parseo": "2026-06-26T11:54:06.859624"
+  },
+  {
+    "id": "2021-220429-210702-if_ciaf",
+    "expediente": "59/2021",
+    "tipo": "accidente",
+    "tipo_suceso": "Paso a nivel",
+    "fecha_suceso": "2021-07-02",
+    "hora_suceso": "17:15",
+    "year": 2021,
+    "ubicacion": {
+      "estacion": "Novelda-Aspe",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "Intercity",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "implicado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ante",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "resultaron",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tras",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "directamente",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "involucrado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "La",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "afectado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "aproximándose",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circula",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "no",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "recorrió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Aunque",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estaría",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "habría",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "había",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "inició",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "On the 2nd of July 2021, at 17:15, an Intercity passenger train, covering the Barcelona-Lorca journey \nand operated by Renfe Viajeros, crashed into a car in a level crossing located in Novelda, at the \nkilometer point 424+690 of the line 330 (La Encina – Alacant Terminal), in the vicinity of the exit of \nNovelda-Aspe station (Alicante). \nThe level crossing is an A3 type (according to Spanish national regulation on classification of level \ncrossings), equipped with horizontal and vertical signals, as well as acoustic and light signals and \nautomatic half-barriers. The car came from Rafael Altamira street, that aligns slightly parallel to the \nrailway track and converges with the main street Camí de Castella few meters South of the level \ncrossing itself. The protection systems of the level crossing worked appropriately, and the half-\nbarriers were closed; however, and according to the witnesses, the level crossing was invaded by the \ncar that trespassed the half-barriers. \nLayout of the accident",
+      "factores_humanos": "4.3.1 Personal ferroviario involucrado .................................................................................................................39",
+      "infraestructura": ""
+    },
+    "conclusiones": "El atestado policial recoge abundante información sobre las circunstancias del suceso. Una parte \nde esta información es la ya conocida sobre el tren, el maquinista, los registradores del tren y del \nCTC, la infraestructura ferroviaria y las instalaciones del paso a nivel. Por otra parte, añade valiosa \ninformación obtenida de testigos presenciales del suceso (explicados anteriormente), datos y \nmediciones sobre la calle por la que se aproximó el automóvil accidentado (que coinciden con lo \nverificado por el equipo investigador de la CIAF) y una reconstrucción del impacto, a partir de los \nrestos del coche y las huellas. \nLa reconstrucción indica que el coche fue embestido lateralmente, de manera sensiblemente \nperpendicular, estando situado en el centro de la vía. Según el atestado, no se han encontrado \nmarcas de neumáticos ni similares que indicasen maniobras intempestivas, lo que encaja con los \ntestimonios recogidos. El vehículo de carretera accidentado era un turismo modelo Kia Stonic, en \nbuen estado de conservación. \n\n\n36 \n\n4 \nANÁLISIS DEL SUCESO \nA partir de los hechos descritos en los apartados anteriores y las circunstancias del suceso expuestos, \nse ha realizado un análisis de sucesos STEP (Sequential Timed Events Plotting – Trazado de Eventos \nSecuenciales), para analizador el proceso previo al accidente relacionando elementos, actores y actos \nimplicados. El resultado se muestra en la figura 23, y se desarrolla en los subapartados siguientes. \n\n4.1 \nCOMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO \nEmpresa Ferroviaria \nLa empresa ferroviaria involucrada en el suceso es Renfe Viajeros, que cuenta con la Licencia de \nEmpresa Ferroviaria y el Certificado de Seguridad pertinentes, otorgados por la Agencia Estatal de \nSeguridad Ferroviaria, para la prestación de servicios de transporte ferroviario de viajeros. \nEn este caso, tras el análisis de lo sucedido, se observa que tanto el maquinista como la empresa \nferroviaria actuaron de manera adecuada en el desem",
+    "recomendaciones": [
+      {
+        "numero": "59/21-1",
+        "implementador": "RECOMENDACIONES DE SEGURIDAD \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF y \nAyuntamiento \nde Novelda \nAdif y \nAyuntamiento de \nNovelda",
+        "destinatarios": "",
+        "texto": "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante \nlas dificultades detectadas, incluyendo la posibilidad de acelerar su \nproceso de supresión. \nAESF \nAESF y Adif \n59/21-2 \nAcelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, \nimpulsando estudios y actuaciones concertadas con las diferentes \nadministraciones implicadas, para identificar y mejorar la seguridad de \naquellos pasos a nivel en los que la presencia de intersecciones con \notras carreteras y vías (apar"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.4 Interceptación de la vía ...............................................................................................................................14"
+    },
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "caída de tierra",
+      "colisión",
+      "distraer",
+      "factor humano",
+      "formación",
+      "leve",
+      "mantenimiento",
+      "obras en cercanías",
+      "paso a nivel",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2021/2021-220429-210702-if_ciaf/fig00.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig01.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig02.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig03.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig04.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig05.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig06.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig07.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig08.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig09.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig10.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig11.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig12.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig13.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig14.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig15.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig16.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig17.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig18.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig19.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig20.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig21.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig22.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig23.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig24.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig25.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig26.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig27.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig28.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig29.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig30.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig31.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig32.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig33.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig34.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig35.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig36.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig37.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig38.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig39.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig40.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig41.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig42.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig43.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig44.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig45.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig46.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig47.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig48.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig49.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig50.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig51.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig52.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig53.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig54.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig55.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig56.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig57.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig58.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig59.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig60.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig61.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig62.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig63.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig64.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig65.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig66.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig67.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig68.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig69.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig70.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig71.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig72.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig73.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig74.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig75.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig76.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig77.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig78.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig79.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig80.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig81.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig82.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig83.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig84.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig85.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig86.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig87.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig88.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig89.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig90.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig91.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig92.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig93.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig94.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig95.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig96.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig97.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig98.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig99.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig100.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig101.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig102.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig103.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig104.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig105.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig106.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig107.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig108.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig109.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig110.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig111.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig112.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig113.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig114.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig115.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig116.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig117.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig118.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig119.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig120.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig121.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig122.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig123.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig124.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig125.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig126.png",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig127.jpeg",
+      "data/images/2021/2021-220429-210702-if_ciaf/fig128.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2021/220429-210702-if_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "037b04f92cc653e8b5d1168937764ba2",
+    "fecha_parseo": "2026-06-26T11:54:05.768311"
+  },
+  {
+    "id": "2021-220721-210906-if-sn_ciaf",
+    "expediente": "71/2021",
+    "tipo": "accidente",
+    "tipo_suceso": "Descarrilamiento",
+    "fecha_suceso": "2021-09-16",
+    "hora_suceso": "15:00",
+    "year": 2021,
+    "ubicacion": {
+      "estacion": "Prat de Llobregat",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circuló",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "accidentado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Renfe",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "era",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "es",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ASFA",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "iba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarriló",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "paró",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tras",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "forzó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "par",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "talonó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "autopropulsado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "procedente",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sea",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sobre",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "rebasa",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "of the \nposition of switches, consisting in acting quickly and without formalizing the intervention by \nthe SIM team, to only position the switch in a specific position. After that, during the \nscheduled activities of preventive maintenance (usually overnight), the problem of detection \nloss of the position of switches is solved. Recommendation 71/2021-1.",
+      "factores_humanos": "Factores relacionados con la no formalización de los trabajos \nDe acuerdo con las entrevistas realizadas por el EI al personal presente en el accidente, no \nconsideraron que fueran propiamente a reparar ninguna avería, su intención era determinar la \nexistencia de una avería y la necesidad de acometer una reparación de la misma, en caso de su \nexistencia. Por ello, realizaron comprobaciones visuales y fruto de las mismas, realizaron el ajuste del \naccionamiento de un motor mediante la manivela para completar el movimiento de uno de los \nmotores. De esto modo y por agilizar, los agentes de IISS no formalizaron reglamentariamente la \npetición de los trabajos, ni la entrega de la instalación tal y como se establece en los mencionados \nartículos del RCF en el apartado de Cometidos y deberes. La utilización del telefonema L3.19 podría \nhaber evitado la confusión sobre la posición de la aguja nº4 por parte del PMANT1. \nPor las entrevistas realizadas, se puede entrever que esto es una práctic",
+      "infraestructura": "Material rodante \nEl material rodante involucrado en este suceso no presentó ninguna anomalía. El funcionamiento de \nsus sistemas fue conforme a lo esperado. \nInfraestructura e instalaciones \nCuando el operador realizó el itinerario desde la señal S36, el desvío nº4 comenzó su movimiento a \nposición invertida y por algún motivo mecánico/eléctrico del motor 4B en campo, éste no llegó al \nfinal del recorrido hacia dicha posición, al contrario que el resto de los motores del desvío, de modo \nque el desvío no llegó a comprobar en el enclavamiento. Seguidamente, el FAI, que estaba activo, \nlanzó el itinerario de forma automática por ocupación del circuito de vía de disparo, y al estar en \nejecución la formación del itinerario de la señal 36 (incompatible con el de la señal 6668), el itinerario \nno se realizó y la señal 6668 no se abrió. \nEl circuito de vía que provoca el lanzamiento del itinerario es el CVPROX_GV2, denominado así en el \nenclavamiento de El Prat de Llobregat, que se presenta\n\nr a la señal 36 \nen el sentido de la marcha para acceder a la estación de El Prat de Llobregat por otra vía.\n\nción del \ncircuito del desvío nº4 (CVA4), y a las 17:40:20 libera por cola el CV 6668, anterior a éste, \npermaneciendo desde este momento en esa posición sin que se aprecie ningún cambio en la \nmoviola. Se estima que a las 17:40:14 se produce el descarrilamiento. \n\nInforme Provisional de la CIAF 71/2021 \n\n19 \n\nRegistro de eventos del enclavamiento \nLas variables del enclavamiento fueron extraídas la misma noche del suceso a través del registro \nFEUtransfile, en la estación de El Prat de Llobregat, por parte de personal de Alstom. Además, se \nextrajeron los datos del sistema moviola que posee el Sistema de Ayuda al Mantenimiento (SAM) de \ndicho enclavamiento. \nCon respecto a los datos del sistema Moviola que posee el SAM: a las 16:46:50, la señal 6668 tiene \nactivado el sistema FAI y el operador manda un itinerario de la señal 36 a la señal E2. Segundos \ndespués de dar la orde"
+    },
+    "conclusiones": "CADENA DE ACONTECIMIENTOS PREVIOS AL SUCESO \nRegistros del sistema embarcado \nLos ficheros utilizados en el análisis de los registradores de seguridad (RS) fueron facilitados por ADIF. \n\nImagen 5 Datos del registrador de seguridad (fuente ADIF) \nDel análisis del registrador se extraen las siguientes conclusiones: \n• \nEl tren 25542 estuvo detenido 3 minutos frente a la señal 6668. \n• \nEl tren 25542 pasó por la baliza previa de la señal E’2, próxima al desvío, a una velocidad de \n35 Km/h. \n• \nSe produjo el remonte de la pestaña a una velocidad de 34 Km/h. El inicio de la bajada de \npresión en la tubería de freno automático (TFA), aproximadamente en el PK 667/466, se \nprodujo cuando circulaba a una velocidad de 32 Km/h. \n\nInforme Provisional de la CIAF 71/2021 \n\n15 \n\nRegistro de eventos del videográfico del CTC \nSe muestran a continuación los eventos más relevantes del registro del videográfico del CTC:",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Al margen de las conclusiones señaladas anteriormente que tienen una relación causal con lo \nsucedido, durante el proceso de investigación se han constatado los siguientes hechos: \n• \nLa designación de las señales de entrada 6668 e interiores E’2 y E2 no se ajusta a la normativa \ngeneral de designación de vías y componentes de la superestructura, NAG 2-0-1.0, julio de \n2016. \n• \nSobre la recuperación de la comprobación del desvío nº4 en el videográfico del CTC: desde \nque la aguja comprueba en invertido (en normal no llega a comprobar en ningún momento) \nen el enclavamiento, hasta que el tren rebasa la señal 6668, pasan 53 segundos. La \nrecuperación de la comprobación no se muestra puesto que el videográfico está mostrando \nla posición a directa y la recuperación de la comprobación de la aguja se realiza a invertido, \nesto provoca una situación discordante entre la posición en campo y la posición marcada en \nel videográfico. \n• \nEl RC del CTC dictó el telefonema de autorización de rebase de la señal 6668 al maquinista \ndel tren 25542 sin la prescripción de comprobar la posición del desvío. Este telefonema \ndictado no coincide con el escrito por el propio RC del CTC en el libro de telefonemas del CTC, \nen el que sí se incluye tal prescripción. \n\n\n42 \n\n6 \nRECOMENDACIONES DE SEGURIDAD \nDestinatarios Implementador \nfinal \nNúmero \nRecomendación \nAESF \nADIF \n71/2021-1 \nInsistir en los procesos de formación y reciclaje del personal \nde infraestructura y circulación y a través de los canales de \ndifusión y aprendizaje permanente, en la obligatoriedad de \nformalizar cualquier tipo de intervención de pruebas, \nverificaciones y actuaciones de mantenimiento correctivo \nque impliquen la comunicación de la posición de los \naparatos de vía. \nAESF \nADIF \n71/2021-2 \nElaboración de un protocolo en el que se denominen \ninequívocamente los aparatos de vía, su estado y posición \nen las comunicaciones entre los agentes de mantenimiento \nde infraestructura y los responsables de circulació"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "numerosos trenes. \nLa estación del Prat de Llobregat pertenece a línea 200 Madrid Chamartín-Clara Campoamor a \nBarcelona Estación de França de la Red Ferroviaria de Interés General. La estación se ubica en el \nmunicipio de El Prat de Llobregat, si bien, el citado desvío se localiza en el municipio de Sant Boi de \nLlobregat, provincia de Barcelona (Cataluña). \nConclusión: \nLa causa directa del accidente fue el talonamiento del desvío nº4, que se encontraba sin su \ncomprobación. Se autorizó al maq"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "descarrilamiento",
+      "factor humano",
+      "formación",
+      "leve",
+      "mantenimiento",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig00.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig01.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig02.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig03.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig04.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig05.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig06.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig07.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig08.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig09.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig10.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig11.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig12.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig13.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig14.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig15.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig16.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig17.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig18.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig19.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig20.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig21.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig22.jpeg",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig23.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig24.png",
+      "data/images/2021/2021-220721-210906-if-sn_ciaf/fig25.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2021/220721-210906-if-sn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "732a5a0ea89633dc0eeb6d920c03d131",
+    "fecha_parseo": "2026-06-26T11:54:06.657983"
+  }
+]

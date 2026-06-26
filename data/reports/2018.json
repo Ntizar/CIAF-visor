@@ -1,0 +1,437 @@
+[
+  {
+    "id": "2018-200421-180701-if-sn_ciaf_",
+    "expediente": "0025/2018",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2018-07-01",
+    "hora_suceso": "20:02",
+    "year": 2018,
+    "ubicacion": {
+      "estacion": "PEDRALBA",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "Alvia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hasta",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "inicia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "dado",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "El incidente por fallo en las instalaciones de seguridad, tiene lugar el día 1 de julio de 2018, a las 20:02 \nhoras, en la estación de Pedralba (Zamora), pk 113+475 de la línea 822 Zamora - A Coruña, estando la \nestación con mando central. \nEl tren Alvia 258, de RENFE VIAJEROS, procedente de Madrid Chamartín con destino Pontevedra, tiene \nprevisto realizar el cruce en la estación de Pedralba con el tren 253 también de RENFE VIAJEROS, \nprocedente de Pontevedra con destino Madrid Chamartín, según itinerario que establece el puesto de \nmando de Ourense conforme la Consigna A1275 de esta estación. \nEl mal funcionamiento del enclavamiento se produjo por la existencia de derivaciones en los conductores \nde enlace de la cabina de relés con el armario 2, que alimentaron eléctricamente la señal de entrada 2N \nllegando a encender su foco verde pese a estar fundido por sobrecorriente debida a una tormenta el \nfusible F2 de alimentación de esta señal. \nAnte esta situación el maquinista del tren 258 detiene el mismo unos metros antes de la señal 2N, por \nno tener certeza de su indicación al observar discrepancias entre su aspecto (foco luce color verde), en \nindicación de vía libre, las informaciones suministradas por el sistema ASFA en la baliza previa (indicación \nde parada) y la disposición del itinerario que ve desde la cabina de conducción (entrada a vía desviada), \nhabiendo pasado además por la señal avanzada 1122, en indicación de anuncio de parada. \nInformado por el maquinista de esta situación el CTC de Ourense, ordena que avance el tren hasta \nrebasar la señal 2N comunicando las posibles incidencias. El tren inicia su marcha y se detiene tras rebasar \nla señal por acción del frenado de emergencia del sistema ASFA. Previa autorización del CTC de Ourense, \nreinicia la marcha hasta su estacionamiento en vía V. \nEl cruce de los trenes 258 y 253, tiene lugar según itinerario establecido por el CTC sin novedad, a las \n20:07 horas. \nEl puesto de mando de Ourense notifica el i",
+      "factores_humanos": "Por parte del administrador de infraestructuras, ADIF: \n Responsable de circulación del CTC de Ourense. \nPor parte del operador, RENFE VIAJEROS: \n Maquinista del tren 258 \n\n DE \n TRANSPORTES, \nMOVILIDAD \n Y \n AGENDA URBANA \nnº 0025/2018 ocurrido el 01.07.2018 \nDE ACCIDENTES\n\nPersonal perteneciente al Administrador de Infraestructuras Ferroviarias, ADIF. \nEl Responsable de Circulación del Puesto de Mando del CTC de Ourense, dispone de habilitación como \ntal desde la fecha de su otorgamiento 23/01/2018 hasta el 03/09/2018, de conformidad con la Orden \nFOM/2872/2010. \nObtuvo su aptitud para el desempeño de sus funciones según consta en el Certificado de Formación de \nfecha 09/07/2013, en el que se acredita la superación de los módulos teóricos y prácticos recogidos en el \nprograma de formación. \nPersonal perteneciente al operador, RENFE VIAJEROS \nEl maquinista del tren 258 perteneciente a la Base de Ourense (AV/LD), está en posesión de Título de \nConducción y Habilitaciones de Material e Infraestructuras, conforme a la Orden FOM 679/2015, de 9 de \nabril, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten \nel ejercicio de las funciones del personal ferroviario relacionado con la seguridad en la circulación. Disp\n\nEste tipo de enclavamientos eléctricos no envían al CTC información real de la indicación de las señales, \nsino sólo el estado de sus relés de mando, por lo que la representación que visionó el responsable de \ncirculación del CTC de Ourense de la entrada a la estación de Pedralba, lado Puebla de Sanabria, no se \ncorrespondía con la situación real del campo. El responsable de circulación no pudo adoptar las \ncorrespondientes medidas para la correcta entrada del tren dado que la avería local de la señal de entrada \n2N no podía reflejarse en el CTC. \nNo obstante, recibida en el puesto de mando de Ourense la información del incidente del tren 258, se \nactivan los protocolos previstos en el Plan de Contingencias. \nA p",
+      "infraestructura": "Por parte del administrador de infraestructuras, ADIF: \n Responsable de circulación del CTC de Ourense. \nPor parte del operador, RENFE VIAJEROS: \n Maquinista del tren 258 \n\n DE \n TRANSPORTES, \nMOVILIDAD \n Y \n AGENDA URBANA \nnº 0025/2018 ocurrido el 01.07.2018 \nDE ACCIDENTES\n\nTren 258 Larga Distancia de RENFE VIAJEROS, formado por automotor 730017, compuesto por 13 \nvehículos y 2 cabezas motrices, 185 m de longitud y 384 t de peso. Para esta línea, es de tipo 180B \n(velocidad máxima: 180 km/hora). \nLa velocidad máxima para el tren 258 por ese tramo del trayecto Puebla de Sanabria – Pedralba es de \n115 km/h hasta el pk 113+000. Desde este punto hasta el PK114+200, ya rebasada la estación de \nPedralba, la velocidad máxima es de 90 km/hora según Libro Horario 100 y Cuadro de Velocidades \nMáximas.\n\nNo se produjo interceptación de la vía. Se causaron retrasos en 12 circulaciones (entre 4 y 15 minutos), \ncon un total de 109 minutos perdidos.\n\nSegún consta en el sistema de información de ADIF, CIRTRA, “Circulaciones y km.tren, por tramos”, la \nestación de Pedralba se encuentra se encuentra incluida en el tramo Puebla de Sanabria – Lubián. \n Los datos relativos al tráfico ferroviario, son los siguientes: \n- Tramo Puebla de Sanabria – Lubián. Media semanal: 80 circulaciones, que se desglosan en: Larga \nDistancia 75 circulaciones. Mercancías 3 circulaciones. Servicio 2 circulaciones. \n\n DE \n TRANSPORTES, \nMOVILIDAD \n Y \n AGENDA URBANA \nnº 0025/2018 ocurrido el 01.07.2018 \nDE ACCIDENTES\n\nRegistrador del tren 258 \nDel análisis de los ficheros del registrador de seguridad del tren 258, tipo Hasler TELOC 2500 de, desde \nel paso por la señal avanzada 1122 de Pedralba hasta su salida de la estación, se observa lo siguiente: \n- A las 19:57:36 horas, (19:57:45 horas CTC) el tren 258 pasa por la baliza previa de la señal avanzada \n1122, en indicación de Anuncio de Parada (frecuencia L1) a una velocidad de 43 km/hora. \n- A las 19:57:58 horas, (19:58:07 horas CTC) el tren 258 pasa por la"
+    },
+    "conclusiones": "\n\nEl incidente por fallo en las instalaciones de seguridad, tiene lugar el día 1 de julio de 2018, a las 20:02 \nhoras, en la estación de Pedralba (Zamora), pk 113+475 de la línea 822 Zamora - A Coruña, estando la \nestación con mando central. \nEl tren Alvia 258, de RENFE VIAJEROS, procedente de Madrid Chamartín con destino Pontevedra, tiene \nprevisto realizar el cruce en la estación de Pedralba con el tren 253 también de RENFE VIAJEROS, \nprocedente de Pontevedra con destino Madrid Chamartín, según \n\n- El material rodante, incluidos los equipos de seguridad instalados a bordo del tren, funcionaron \ncorrectamente \n- El equipo de comunicaciones funcionó correctamente. \n- El sistema ASFA de frenado puntual funciono correctamente: \nAl estar el fusible F2 de alimentación de la señal 2N fundido, sus balizas interpretaron acertadamente \nque la señal estaba apagada, dando al tren 258 en la señal avanzada indicación de anuncio de \nparada (L1) y en las balizas, previa y de pie de la señal de entrada i\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nComo causa directa del incidente cabe indicar: \nEl mal funcionamiento del enclavamiento producido por la existencia de derivaciones en los \nconductores de enlace de la cabina de relés con el armario 2, que alimentaron eléctricamente la \nseñal de entrada 2N llegando a encender su foco verde pese a estar fundido por sobrecorriente \nel fusible F2 de alimentación de esta ",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "El incidente por fallo en las instalaciones de seguridad, tiene lugar el día 1 de julio de 2018, a las 20:02 \nhoras, en la estación de Pedralba (Zamora), pk 113+475 de la línea 822 Zamora - A Coruña, estando la \nestación con mando central. \nEl tren Alvia 258, de RENFE VIAJEROS, procedente de Madrid Chamartín con destino Pontevedra, tiene \nprevisto realizar el cruce en la estación de Pedralba con el tren 253 también de RENFE VIAJEROS, \nprocedente de Pontevedra con destino Madrid Chamartín, según itinerario que establece el puesto de \nmando de Ourense conforme la Consigna A1275 de esta estación. \nEl mal funcionamiento del enclavamiento se produjo por la existencia de derivaciones en los conductores \nde enlace de la cabina de relés con el armario 2, que alimentaron eléctricamente la señal de entrada 2N \nllegando a encender su foco verde pese a estar fundido por sobrecorriente debida a una tormenta el \nfusible F2 de alimentación de esta señal. \nAnte esta situación el maquinista del tren 258 detiene el mismo unos metros antes de la señal 2N, por \nno tener certeza de su indicación al observar discrepancias entre su aspecto (foco luce color verde), en \nindicación de vía libre, las informaciones suministradas por el sistema ASFA en la baliza previa (indicación \nde parada) y la disposición del itinerario que ve desde la cabina de conducción (entrada a vía desviada), \nhabiendo pasado además por la señal avanzada 1122, en indicación de anuncio de parada. \nInformado por el maquinista de esta situación el CTC de Ourense, ordena que avance el tren hasta \nrebasar la señal 2N comunicando las posibles incidencias. El tren inicia su marcha y se detiene tras rebasar \nla señal por acción del frenado de emergencia del sistema ASFA. Previa autorización del CTC de Ourense, \nreinicia la marcha hasta su estacionamiento en vía V. \nEl cruce de los trenes 258 y 253, tiene lugar según itinerario establecido por el CTC sin novedad, a las \n20:07 horas. \nEl puesto de mando de Ourense notifica el i"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. Víctimas mortales y heridos. ............................................................................................... 29"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "condiciones climatológicas",
+      "factor humano",
+      "fatal",
+      "fatiga",
+      "formación",
+      "mantenimiento",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig00.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig01.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig02.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig03.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig04.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig05.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig06.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig07.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig08.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig09.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig10.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig11.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig12.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig13.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig14.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig15.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig16.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig17.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig18.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig19.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig20.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig21.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig22.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig23.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig24.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig25.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig26.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig27.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig28.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig29.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig30.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig31.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig32.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig33.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig34.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig35.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig36.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig37.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig38.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig39.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig40.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig41.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig42.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig43.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig44.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig45.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig46.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig47.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig48.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig49.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig50.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig51.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig52.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig53.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig54.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig55.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig56.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig57.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig58.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig59.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig60.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig61.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig62.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig63.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig64.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig65.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig66.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig67.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig68.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig69.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig70.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig71.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig72.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig73.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig74.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig75.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig76.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig77.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig78.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig79.jpeg",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig80.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig81.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig82.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig83.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig84.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig85.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig86.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig87.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig88.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig89.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig90.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig91.png",
+      "data/images/2018/2018-200421-180701-if-sn_ciaf_/fig92.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2018/200421-180701-if-sn_ciaf_.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "c023471d3db62934d572d717011aec0c",
+    "fecha_parseo": "2026-06-26T11:54:02.184451"
+  },
+  {
+    "id": "2018-200723-181120-if-sn_ciaf",
+    "expediente": "0046/2018",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2018-11-20",
+    "hora_suceso": "06:15",
+    "year": 2018,
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "del",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circula",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "aumenta",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "actúa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "queda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "COCHE",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tipo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "viajaban",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "taller",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarrilara",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "desde",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "había",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sin",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "accidentado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "auscultador",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "el",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sigue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "está",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ha",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "efectúa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "El día 20 de noviembre de 2018 a las 06:15 horas el tren de cercanías 25000, de Rodalíes de \nCataluña operado por Renfe Viajeros, procedente de Manresa y con destino San Vicenç de Calders, \ncolisiona con obstáculos (rocas), dentro del gálibo de paso libre del tren, en el p.k. 321+017 (vía 2) \nde la línea 220 de Lleida Pirineus a L´Hospitalet de Llobregat, entre las estaciones de Vacarisses (p.k. \n319+611) y Vacarisses-Torreblanca (p.k. 322+300), en la provincia de Barcelona. \nLas rocas procedían del desmoronamiento parcial (unos 20 metros) de un muro de mampostería \ncareada que protegía de la erosión el talud izquierdo de una trinchera, según el sentido de la marcha \ndel tren. Las rocas invadieron la totalidad del gálibo de la vía 1 y parcialmente el de la vía 2 por la \nque circulaba el tren. \nLa colisión produce el descarrilamiento de los cuatro primeros vehículos, los 3 de la unidad de cabeza \n(447082) y el primero de la unidad de cola (447081). \nComo consecuencia del descarrilamiento se produjeron: un fallecido, 6 heridos graves y 46 heridos \nleves. También se producen daños materiales en la infraestructura y en el material rodante. \nConclusión: \nComo causa directa del descarrilamiento se establece que la colisión con obstáculos (rocas) se \nproduce por fallo de la infraestructura, al producirse el desmoronamiento parcial de un muro de \nrevestimiento de mampostería careada que protegía de la erosión el talud izquierdo de una trinchera, \nsegún el sentido de la marcha. Las rocas invaden la totalidad del gálibo la vía 1 y parcialmente el de \nla vía 2, por la que circulaba el tren. \nComo factor coadyuvante se considera el desbordamiento de la rejilla existente en la cuneta de la \nderecha de la carretera autonómica C-58 por las aguas de escorrentía y su posterior caída sobre el \ntalud ferroviario y el trasdós del muro de mampostería. \nComo factor coadyuvante se considera la probable meteorización superficial del mortero de unión de \nlos mampuestos agarre y la posible r",
+      "factores_humanos": "Por parte de Renfe \n- Maquinista de tren 25000, perteneciente a Renfe Viajeros. \n- Operador Comercial Especializado de tren 25000, perteneciente a Renfe Viajeros. \nPor parte de Adif \n- Responsable de Circulación del CTC en el P.M. de Barcelona-França. \n- Personal de mantenimiento. \nOrganismos externos \nLa gestión por Adif de las situaciones basadas en la predicción de los fenómenos meteorológicos \nimplica a otros organismos, tales como la Agencia Estatal de Meteorología (AEMET), que participa en \nla prevención de riesgos mediante la información de base que facilita a Adif. \nLa información para la prevención y valoración de los riesgos viene determinada por las diferentes \npredicciones de lluvia, viento y nieve emitidas por la AEMET, según el Convenio vigente entre ésta y \nAdif. \nDentro del plan de contingencias de Adif, cuyo objeto es disponer y publicar un plan general de \nactuación para ordenar y resolver cualquier contingencia que perturbe el normal desarrollo del tráfico \nferroviar\n\nDe interés en la investigación del presente suceso es lo relativo a mantenimiento. Adif realiza un \nconjunto de actividades para la conservación, reparación o reposición y actualización de las \ninfraestructuras ferroviarias, con el objetivo de que se mantengan en condiciones adecuadas para su \noperativa segura. Para cubrir este objetivo establece procedimientos para garantizar que dichas \nactividades de mantenimiento se realizan de forma segura y de acuerdo a las necesidades de la red. \nEntre los procedimientos referentes al mantenimiento de la infraestructura en la red convencional se \nencuentran: \n \nProcedimiento General SGSC-PG-14. Inspección. \n \nProcedimiento General SGSC-PG-18. Investigación técnica de accidentes e incidentes \n \nProcedimiento Específico SGSC-PE-14.02. Inspección de la infraestructura. \n \nProcedimiento Específico SGSC-PE-16.01. Gestión de corrección de anomalías procedentes de \nacciones inspectoras. \n\nA \nDE FOMENTO \nnº 0046/2018 ocurrido el 20.11.2018 \nDE ACC",
+      "infraestructura": "Por parte de Renfe \n- Maquinista de tren 25000, perteneciente a Renfe Viajeros. \n- Operador Comercial Especializado de tren 25000, perteneciente a Renfe Viajeros. \nPor parte de Adif \n- Responsable de Circulación del CTC en el P.M. de Barcelona-França. \n- Personal de mantenimiento. \nOrganismos externos \nLa gestión por Adif de las situaciones basadas en la predicción de los fenómenos meteorológicos \nimplica a otros organismos, tales como la Agencia Estatal de Meteorología (AEMET), que participa en \nla prevención de riesgos mediante la información de base que facilita a Adif. \nLa información para la prevención y valoración de los riesgos viene determinada por las diferentes \npredicciones de lluvia, viento y nieve emitidas por la AEMET, según el Convenio vigente entre ésta y \nAdif. \nDentro del plan de contingencias de Adif, cuyo objeto es disponer y publicar un plan general de \nactuación para ordenar y resolver cualquier contingencia que perturbe el normal desarrollo del tráfico \nferroviar\n\nEl suceso ocurre en el p k 321+017 (plena vía) de la línea 220 de Lleida Pirineus a L´Hospitalet de \nLlobregat, en el trayecto de Castellbell i el Vilar-Monistrol – Terrassa, más concretamente entre las \nestaciones de Vacarisses y Vacarisses-Torreblanca, en la provincia de Barcelona. \nEl tren con inicio en Manresa y destino San Vicenç de Calders debía circular por la Línea 220, Lleida \nPirineus a Hospitalet de Llobregat y línea 240, Hospitalet de Llobregat a San Vicenç de Calders. \nEl trayecto del suceso corresponde a vía doble electrificada de ancho ibérico en el que la circulación \nse realiza al amparo del Bloqueo Automático de Vía Doble (BAD) con CTC gestionado desde la banda \nde regulación nº 5102 (Montcada Bifurcació-Lleida Pirineus) del Puesto de Mando de Barcelona, \nsituado en Barcelona Estació de França. \nEl tramo de vía dispone de carril de 54 Kg/ml asentado sobre traviesas monobloc tipo MR con \nsujeción elástica HM, clip SKL-1. \nPUERTAS \nPUERTAS\nCoche motor\nCoche remolque \n"
+    },
+    "conclusiones": "Trinchera \nEl suceso se produce, entre los apeaderos de Vacarisses (p.k. 319+611) y el de Vacarisses-\nTorreblanca (p.k.322+300) y Vacarisses-Torreblanca de la Línea 220 de Lleida Pirineus a L’Hospitalet \nde Llobregat, donde el trazado en planta de la vía corresponde a una curva a izquierdas (entre el p.k. \n320+430 y el p.k. 321+160), en el sentido de circulación del tren. \nEn cuanto a la declividad, la zona presenta una rampa prolongada, en el sentido de circulación del \ntren, de 14,90 mm/m desde el p k 318+885 hasta el p k 320+967 (2082 metros) y de 14,20 mm/m \ndesde el p k 320+967 al p k 321+707 (740 metros). \nEn la zona de la curva descrita anteriormente existe una trinchera, entre los p.k. 320+780 y p.k. \n321+080, y en ésta existen dos pasos superiores: uno en el p.k. 320+860, por el que salva la vía un \ncamino, y otro en el p.k. 321+040, por el que trascurre la carretera autonómica/comarcal C-58. \nEl inicio del descarrilamiento (“punto 0”) se produce en el p.k. 321+017 y está situado con la zona \ntransición de salida de la mencionada curva y dentro de la mencionada trinchera. \n\nA \nDE FOMENTO \nnº 0046/2018 ocurrido el 20.11.2018 \nDE ACCIDENTES \n200623-181120-IP_CIAF.doc \n\n\nVista aérea de la trinchera (entre p k 320+780 y p k 321+080. (Fuente: Adif) \n\nEn la trinchera se pueden diferenciar tres zonas: \nLa primera zona, previa al punto “0” del suceso, se extendería desde el inicio de la trinchera en el \np.k. 320+780 hasta el p.k. 320+880, en la que ambos taludes van incrementando progresivamente \nsu altura hasta alcanzar unos 10 metros. \nLa segunda zona, es donde se produce el suceso, se extendería entre el p.k. 320+880 y el paso \nsuperior del p.k. 321+040, en la que los taludes siguen aumentando su altura contando en su parte \ninferior con muros de revestimiento de mampostería careada situados a 2,20 metros del carril más \npróximo. \nEl talud derecho alcanza una altura máxima de unos 16 metros, con una inclinación aproximada de \nunos 80 grados. En el talud existía ",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "El día 20 de noviembre de 2018 a las 06:15 horas el tren de cercanías 25000, de Rodalíes de \nCataluña operado por Renfe Viajeros, procedente de Manresa y con destino San Vicenç de Calders, \ncolisiona con obstáculos (rocas), dentro del gálibo de paso libre del tren, en el p.k. 321+017 (vía 2) \nde la línea 220 de Lleida Pirineus a L´Hospitalet de Llobregat, entre las estaciones de Vacarisses (p.k. \n319+611) y Vacarisses-Torreblanca (p.k. 322+300), en la provincia de Barcelona. \nLas rocas procedían del desmoronamiento parcial (unos 20 metros) de un muro de mampostería \ncareada que protegía de la erosión el talud izquierdo de una trinchera, según el sentido de la marcha \ndel tren. Las rocas invadieron la totalidad del gálibo de la vía 1 y parcialmente el de la vía 2 por la \nque circulaba el tren. \nLa colisión produce el descarrilamiento de los cuatro primeros vehículos, los 3 de la unidad de cabeza \n(447082) y el primero de la unidad de cola (447081). \nComo consecuencia del descarrilamiento se produjeron: un fallecido, 6 heridos graves y 46 heridos \nleves. También se producen daños materiales en la infraestructura y en el material rodante. \nConclusión: \nComo causa directa del descarrilamiento se establece que la colisión con obstáculos (rocas) se \nproduce por fallo de la infraestructura, al producirse el desmoronamiento parcial de un muro de \nrevestimiento de mampostería careada que protegía de la erosión el talud izquierdo de una trinchera, \nsegún el sentido de la marcha. Las rocas invaden la totalidad del gálibo la vía 1 y parcialmente el de \nla vía 2, por la que circulaba el tren. \nComo factor coadyuvante se considera el desbordamiento de la rejilla existente en la cuneta de la \nderecha de la carretera autonómica C-58 por las aguas de escorrentía y su posterior caída sobre el \ntalud ferroviario y el trasdós del muro de mampostería. \nComo factor coadyuvante se considera la probable meteorización superficial del mortero de unión de \nlos mampuestos agarre y la posible r"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 1,
+      "heridos": 6,
+      "total_victimas": 7,
+      "danos_materiales": "2.3.1. \nVíctimas mortales y heridos ........................................................................................... 20"
+    },
+    "tags": [
+      "accidente",
+      "alud",
+      "arrollamiento",
+      "caída de tierra",
+      "colisión",
+      "descarrilamiento",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "incendio",
+      "inundación",
+      "mantenimiento",
+      "mercadancías peligrosas",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig00.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig01.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig02.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig03.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig04.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig05.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig06.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig07.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig08.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig09.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig10.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig11.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig12.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig13.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig14.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig15.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig16.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig17.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig18.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig19.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig20.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig21.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig22.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig23.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig24.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig25.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig26.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig27.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig28.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig29.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig30.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig31.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig32.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig33.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig34.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig35.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig36.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig37.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig38.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig39.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig40.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig41.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig42.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig43.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig44.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig45.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig46.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig47.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig48.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig49.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig50.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig51.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig52.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig53.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig54.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig55.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig56.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig57.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig58.png",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig59.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig60.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig61.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig62.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig63.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig64.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig65.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig66.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig67.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig68.jpeg",
+      "data/images/2018/2018-200723-181120-if-sn_ciaf/fig69.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2018/200723-181120-if-sn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "a18b8fd90c20025a5372d6fa5f1986d0",
+    "fecha_parseo": "2026-06-26T11:54:02.772363"
+  }
+]

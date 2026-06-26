@@ -1,0 +1,734 @@
+[
+  {
+    "id": "2019-210624-190208-if-sn_ciaf",
+    "expediente": "623",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2019-02-08",
+    "hora_suceso": "19:36",
+    "year": 2019,
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "par",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "era",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "había",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pudo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Como",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "taller",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "lo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "llegó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "impar",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "inició",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entrando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hasta",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulase",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hacia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entre",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sin",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ya",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "queda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "comienza",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "libera",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "es",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "no",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "habría",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "aproximándose",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "parado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hará",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "desde",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tiene",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "conforme",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "anterior",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "le",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "si",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estacionado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entrase",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tendría",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "invada",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "siempre",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "nresa\nEntrance Signal E2 (that was ordering to stop) in order to get a phone authorisation to pass\nthat signal: this was an incompliance of the driving rules (article 2.1.2.7 in RCF and article\n2.1.2.7. in Driver’s Rules Book).",
+      "factores_humanos": "3.6.1\nPersonal involucrado ..................................................................................................................................89",
+      "infraestructura": ""
+    },
+    "conclusiones": "arios en los\nescapes por los que pasó el tren 15624 en su salida (11/13 y 21/23) y enclavarlos abriendo la señal\nR1, probando distintos órdenes y tiempos de pulsación. La operativa se coordinó desde la estación\nde Manresa, en comunicación con personal en campo y en el CTC para verificar en campo los\nmovimientos, las posiciones y encerrojamiento de los cambios de los escapes 11/13 y 21/23, y sus\ncomprobaciones en el Cuadro de Mando local y en el CTC, así como las indicaciones de la señal R1 y\nel enclavamiento del itinerario, en su caso. Un técnico de la CIAF estuvo presente en campo\n(observando especialmente el escape 21), acompañado por personal de la Dirección de Seguridad en\nla Circulación de Adif. Otro técnico de la CIAF estuvo dirigiendo las pruebas en el Gabinete de\nCirculación de Manresa acompañado por el personal de la Dirección de Seguridad en la Circulación\nde Adif y de personal de Renfe.\nUna de las pruebas realizadas dio un resultado igual al observado en los registros del día del\naccidente. Se accionó el escape 11/13 (de directo a invertido), seguidamente el 21/23 (de invertido\na directo) con una pulsación inferior a un segundo, y finalmente se pulsó apertura de la señal R1. El\nresultado de esta prueba fue que el escape 21/23 permaneció en su posición invertida (según se\npudo observar sobre el terreno), y quedó sin comprobación tanto en el CM de la estación (luz\napagada) como en el videográfico del CTC (parpadeante). La señal R1 no llegó a abrirse. Este resultado\nconfirmó la hipótesis prevista antes de realizar la prueba, que es la única que puede explicar el\nresultado de las acciones del RCM y la circulación por el desvío del tren 15624 a la vía par.\nOtra hipótesis ensayada fue la de una posible doble pulsación (errónea o inadvertida) sobre el escape\n21/23. Se verificó que una segunda pulsación cuando no se había completado ni enclavado el\n\n66\nrecorrido de las agujas hacía que éstas volviesen a la posición original; no obstante, en estos casos el\nescape ",
+    "recomendaciones": [],
+    "consecuencias": {
+      "victimas_mortales": 3,
+      "heridos": 89,
+      "total_victimas": 92,
+      "danos_materiales": "2.3.1\nViajeros, personal y terceros ......................................................................................................................33"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "mantenimiento",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig00.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig01.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig02.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig03.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig04.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig05.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig06.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig07.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig08.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig09.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig10.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig11.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig12.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig13.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig14.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig15.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig16.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig17.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig18.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig19.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig20.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig21.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig22.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig23.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig24.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig25.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig26.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig27.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig28.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig29.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig30.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig31.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig32.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig33.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig34.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig35.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig36.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig37.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig38.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig39.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig40.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig41.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig42.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig43.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig44.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig45.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig46.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig47.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig48.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig49.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig50.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig51.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig52.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig53.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig54.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig55.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig56.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig57.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig58.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig59.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig60.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig61.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig62.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig63.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig64.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig65.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig66.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig67.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig68.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig69.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig70.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig71.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig72.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig73.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig74.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig75.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig76.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig77.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig78.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig79.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig80.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig81.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig82.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig83.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig84.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig85.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig86.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig87.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig88.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig89.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig90.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig91.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig92.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig93.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig94.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig95.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig96.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig97.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig98.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig99.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig100.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig101.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig102.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig103.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig104.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig105.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig106.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig107.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig108.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig109.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig110.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig111.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig112.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig113.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig114.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig115.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig116.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig117.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig118.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig119.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig120.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig121.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig122.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig123.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig124.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig125.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig126.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig127.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig128.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig129.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig130.png",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig131.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig132.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig133.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig134.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig135.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig136.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig137.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig138.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig139.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig140.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig141.jpeg",
+      "data/images/2019/2019-210624-190208-if-sn_ciaf/fig142.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2019/210624-190208-if-sn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "1e2010679435beec465cf358bc4f1790",
+    "fecha_parseo": "2026-06-26T11:54:03.866297"
+  },
+  {
+    "id": "2019-210121-190420-if-sn_ciaf",
+    "expediente": "28/2019",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2019-04-20",
+    "hora_suceso": "14:00",
+    "year": 2019,
+    "ubicacion": {
+      "estacion": "Mataró",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "al",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hacia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "inicia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estacionado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "recorre",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "basados",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "leve",
+    "analisis": {
+      "resumen": "rando \nestablecer procedimientos para la asignación de funciones de control y mando en dicha \nestación, tanto en situación normal en periodos de elevada carga de trabajo como en \ncondiciones degradadas. Del mismo modo, deberían desarrollarse en detalle las técnicas de \nverificación manual en las que debe apoyarse el personal de circulación para la correcta \nverificación de las operaciones, especialmente en aquellas situaciones en que no puedan \nverificarse mediante el enclavamiento [VER RECOMENDACIÓN Nº 1]",
+      "factores_humanos": "esgos en las \nnuevas actuaciones, especialmente en las renovaciones y modificaciones de los \n\n \n31 \n\nenclavamientos, tomando en cuenta las amenazas que la experiencia del funcionamiento del \nenclavamiento o la instalación a modificar puedan aportar. [VER RECOMENDACIÓN Nº 2] \n5.2 \nMEDIDAS ADOPTADAS DESDE EL SUCESO \nMedidas adoptadas por el administrador de infraestructuras ferroviarias ADIF: \nCon la finalidad de disminuir las incidencias en condiciones de temporal marítimo, las cuales consisten \nen ocupaciones intempestivas de varios circuitos de vía y se producen de forma repetitiva, se van a \nllevar a cabo modificaciones y rediseño en la configuración y longitud de dichos circuitos, de forma \nque su sensibilidad a la salinidad del agua de mar se reduzca a valores aceptables. \nAdemás, se están llevando a cabo trabajos de obra civil consistentes en el refuerzo y reparación de \nlas estructuras de protección existentes, mediante la adición y consolidación de nuevas capas de \nescollera con",
+      "infraestructura": ""
+    },
+    "conclusiones": "médicos \ny psicofísicos. \n3.1.7 Material rodante \nTren de Cercanías 28976 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.238 (UIC \n927164652384) tipo 120A, compuesto por 5 vehículos, 12 ejes, con 98 metros de longitud y 203 \ntoneladas de peso. \nTren de Cercanías 25953 de la empresa ferroviaria RENFE Viajeros, compuesto por dos unidades de \nla serie 447, con 6 vehículos, 24 ejes, 152 metros de longitud y 437 toneladas de peso. \n3.1.8 Infraestructura, instalaciones y comunicaciones \nLa estación de Mataró está ubicada en el PK 133+130 de la línea 276, dentro de un tramo dotado de \nvía doble electrificada de ancho ibérico y Bloqueo Automático de vía doble Banalizada (BAB) con CTC. \nCuenta con un nuevo enclavamiento electrónico instalado en julio de 2018. \nLa estación tiene 9 vías de circulación de ancho ibérico (vías 1, 2, 3, 4, 5, 7, 10, 12 y 14) de las que sólo \nlas cinco primeras cuentan con andén. Asimismo, las vías 2 y 4 están divididas en dos \nestacionamientos cada una de ellas denominándose vías 2, 2A, 4 y 4A. En cuanto a las vías 10, 12 y \n14, las dos primeras configuran los accesos al taller, mientras que la vía 14 actualmente está \ninutilizada. \nEl mando de las instalaciones de seguridad se realiza mediante un enclavamiento electrónico \ngobernado en Mando Central (MC) desde el Puesto de Mando (PM) de Barcelona, o en Mando Local \n(ML) desde el gabinete de circulación de la estación de Mataró. Asimismo, tanto el CTC de Barcelona \ncomo el telemando de Mataró pueden telemandar el enclavamiento de la estación de Vilassar de \nMar. \nEn el sentido de circulación del tren 28976, que salió desde la vía 5 de Mataró en sentido L´Hospitalet \nde Llobregat, se encuentran instaladas en la vía la señal de salida S2/5 (PK 132+723) y agujas 33, 31, \n23, 21, 15 y 13. Todas estas agujas están incluidas en el enclavamiento de la estación. \n\n \n11 \n\nLa señal de salida S2/5 es una señal baja de 4 focos que puede presentar las indicaciones de: parada, \nanuncio de para",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "esgos en las \nnuevas actuaciones, especialmente en las renovaciones y modificaciones de los \n\n \n31 \n\nenclavamientos, tomando en cuenta las amenazas que la experiencia del funcionamiento del \nenclavamiento o la instalación a modificar puedan aportar. [VER RECOMENDACIÓN Nº 2] \n5.2 \nMEDIDAS ADOPTADAS DESDE EL SUCESO \nMedidas adoptadas por el administrador de infraestructuras ferroviarias ADIF: \nCon la finalidad de disminuir las incidencias en condiciones de temporal marítimo, las cuales consisten \nen ocupaciones intempestivas de varios circuitos de vía y se producen de forma repetitiva, se van a \nllevar a cabo modificaciones y rediseño en la configuración y longitud de dichos circuitos, de forma \nque su sensibilidad a la salinidad del agua de mar se reduzca a valores aceptables. \nAdemás, se están llevando a cabo trabajos de obra civil consistentes en el refuerzo y reparación de \nlas estructuras de protección existentes, mediante la adición y consolidación de nuevas capas de \nescollera con el objetivo de que la cantidad y frecuencia de agua de mar que llegue a los circuitos de \nvía se reduzca. \nDesde el punto de vista operativo, se ha procedido a mantener en ML únicamente la estación de \nMataró estando la estación de Vilassar telemandada desde el CTC, disminuyendo de esta forma la \ncarga de trabajo del RC de Mataró en consonancia con lo indicado en este informe en relación con el \nelevado número de funciones asignadas. \nEn lo referente a los análisis de riesgos de modificaciones significativas, en la reunión por \nvideoconferencia mantenida con representantes de ADIF se constata que se están tomando medidas \npara adoptar las recomendaciones y requisitos de los Métodos Comunes de Seguridad (MCS). Del \nmismo modo, se están actualizando los criterios de diseño de las IISS para tomar en consideración \ntodas las circunstancias y factores desde las fases iniciales del proyecto. \n5.3 \nOBSERVACIONES ADICIONALES \nDel examen de la documentación de la que se dispone para la investi"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "3.1.5 Interceptación de la vía ................................................................................................................. 9"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "condiciones climatológicas",
+      "factor humano",
+      "fatiga",
+      "formación",
+      "leve",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig00.png",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig01.png",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig02.png",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig03.png",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig04.png",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig05.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig06.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig07.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig08.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig09.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig10.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig11.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig12.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig13.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig14.jpeg",
+      "data/images/2019/2019-210121-190420-if-sn_ciaf/fig15.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2019/210121-190420-if-sn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "d0e9d7b0c6e2138278c282d7e77534af",
+    "fecha_parseo": "2026-06-26T11:54:03.314965"
+  },
+  {
+    "id": "2019-201117-191209-if-sn_ciaf",
+    "expediente": "0063/2019",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2019-12-09",
+    "hora_suceso": "16:35",
+    "year": 2019,
+    "ubicacion": {
+      "estacion": "CORNELLÁ",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ante",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "rebase",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "órdenes",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "detiene",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "reanuda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "marcha",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "detenido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "precedente",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "a vista después \ndel rebase de la señal E’1, ya que circula a una velocidad superior a la que correspondería al \ntramo de vía que es visible desde su posición, incumpliendo lo establecido en el Art. 1.5.1.2. \ndel LNM y el Art. 1.5.1.4. del RCF, “la marcha a la vista impone al Maquinista la obligación de \navanzar … regulando la velocidad de acuerdo con la longitud de vía que visualiza por delante \ndel puesto de conducción, de forma que pueda detener el tren ante cualquier obstáculo o señal \nde parada”. \nPor otro lado, hay que tener en cuenta que el equipo embarcado del sistema ASFA puede \nrecibir órdenes destinadas al tren precedente al pasar por una baliza previa de señal, cuando \nambos trenes circulan en el mismo circuito de vía o cantón. Este es el motivo de mantener la \nmarcha a la vista hasta la señal siguiente, cualquiera que sea su indicación, tal y como se\n\nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nnº 0063/2019 ocurrido el 09.12.2019 \nDE ACCIDENTES prescribe en el Art. 2.1.2.7 del LNM y del RCF, “el Maquinista avanzará con marcha a la vista, \n…, hasta llegar a la señal siguiente, cualquiera que sea su indicación”.",
+      "factores_humanos": "3.6.1 \nPerfil del maquinista ...................................................................................................... 25",
+      "infraestructura": ""
+    },
+    "conclusiones": "4.1 \nDESCRIPCIÓN DEFINITIVA DE LOS ACONTECIMIENTOS ............................................ 27 \n4.2 \nDELIBERACIÓN ............................................................................................................ 28 \n4.2.1 \nAnálisis STEP de los acontecimientos. ............................................................................. 29 \n4.3 \nCAUSAS Y FACTORES CONTRIBUYENTES..................................................................... 30 \n4.4 \nOBSERVACIONES ADICIONALES .................................................................................. 30 \n4.5",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "e parada, \nincumpliendo lo establecido en el Art. 2.1.2.7. del LNM y del RCF de “parar ante la señal sin \nrebasarla”. \nEste rebase activa, de nuevo, el frenado de emergencia del sistema ASFA. Tras rearmar el \nequipo ASFA y recuperar la tracción, el maquinista continúa la marcha sin haber recibido \nautorización del Responsable de Circulación, incumpliendo el Art. 2.3.1.4. del LNM y el Art. \n5.2.1.4. del RCF “el Maquinista efectuará detención inmediata, informará del rebase al \nResponsable de Circulación que la tenga a su cargo y se atendrá a sus instrucciones”. \n4.2.1 Análisis STEP de los acontecimientos. \nA partir de la información recopilada y una vez establecida la descripción de los acontecimientos, se ha \nelaborado un análisis STEP (Sequential Timed Events Plotting – Trazado de Eventos Secuenciales). \nMediante este método se analiza el proceso previo al accidente, aclarando y estableciendo relaciones \nentre las acciones, actores y elementos implicados. De este modo pueden identificarse los posibles \nproblemas relacionados con la seguridad que hayan podido influir en el suceso. \n\nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nnº 0063/2019 ocurrido el 09.12.2019 \nDE ACCIDENTES 4.3 \nCAUSAS Y FACTORES CONTRIBUYENTES \nCausas directas e inmediatas del suceso: \n(cd1) Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando \nlugar al rebase indebido de la señal de entrada E1 en indicación de parada. [VER RECOMENDACIÓN Nº \n1] \nFactores contribuyentes: \n- \nEn relación con la actuación de las personas: \nMaquinista tren 25045: \n(fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando \ncomo si la indicación del ASFA de la baliza previa de la señal E1 fuese equivalente a la indicación de \nla propia señal E1, lo que propicia su rebase indebido. [VER RECOMENDACIÓN Nº 2] \n(fc2) No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E’1, \nsuperando la velocidad máxi"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 3,
+      "heridos": 0,
+      "total_victimas": 3,
+      "danos_materiales": "2.3.1 \nVíctimas mortales y heridos. .......................................................................................... 13"
+    },
+    "tags": [
+      "accidente",
+      "alud",
+      "caída de tierra",
+      "colisión",
+      "condiciones climatológicas",
+      "factor humano",
+      "fatal",
+      "fatiga",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig00.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig01.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig02.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig03.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig04.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig05.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig06.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig07.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig08.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig09.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig10.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig11.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig12.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig13.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig14.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig15.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig16.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig17.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig18.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig19.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig20.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig21.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig22.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig23.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig24.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig25.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig26.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig27.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig28.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig29.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig30.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig31.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig32.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig33.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig34.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig35.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig36.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig37.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig38.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig39.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig40.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig41.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig42.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig43.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig44.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig45.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig46.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig47.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig48.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig49.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig50.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig51.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig52.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig53.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig54.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig55.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig56.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig57.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig58.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig59.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig60.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig61.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig62.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig63.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig64.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig65.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig66.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig67.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig68.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig69.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig70.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig71.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig72.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig73.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig74.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig75.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig76.png",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig77.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig78.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig79.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig80.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig81.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig82.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig83.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig84.jpeg",
+      "data/images/2019/2019-201117-191209-if-sn_ciaf/fig85.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2019/201117-191209-if-sn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "86cae48e40396772b78666414c7163c2",
+    "fecha_parseo": "2026-06-26T11:54:03.087128"
+  }
+]

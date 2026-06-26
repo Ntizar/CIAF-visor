@@ -1,0 +1,47 @@
+{
+  "year": 2010,
+  "title": "Memoria Anual CIAF 2010",
+  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2010.",
+  "total_accidents": 39,
+  "total_incidents": 22,
+  "total_fatal": 1,
+  "total_victims": 26,
+  "total_material_damage_eur": 49601949,
+  "top_causes": [
+    {
+      "cause": "Colisión frontal",
+      "count": 14
+    },
+    {
+      "cause": "Descarrilamiento",
+      "count": 14
+    },
+    {
+      "cause": "Choque con obstáculo",
+      "count": 7
+    },
+    {
+      "cause": "Error humano",
+      "count": 18
+    },
+    {
+      "cause": "Fallo mecánico",
+      "count": 10
+    }
+  ],
+  "top_entities": [
+    {
+      "entity": "ADIF",
+      "count": 22
+    },
+    {
+      "entity": "Renfe",
+      "count": 27
+    },
+    {
+      "entity": "FCC",
+      "count": 11
+    }
+  ],
+  "highlights": "En 2010 se realizaron mejoras significativas en la seguridad ferroviaria."
+}

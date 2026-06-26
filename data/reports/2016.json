@@ -1,0 +1,2821 @@
+[
+  {
+    "id": "2016-170919160123ifsn_ciaf",
+    "expediente": "0010/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-01-23",
+    "hora_suceso": "12:17",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "ASCÓ",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "continúa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "queda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "taller",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "CGX29",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Taller",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "DESCARRILADO",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ni",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "auscultado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "auscultador",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hunda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "incrementa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circula",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Transfesa Rail"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "eral los administradores \nde infraestructuras ferroviarias deberán disponer de una autorización de seguridad.",
+      "factores_humanos": "Personal perteneciente al Administrador de Infraestructuras, (ADIF) \n- Jefe de CTC: Se identifica como J. A. \nPersonal perteneciente al Operador TRANSFESA RAIL \n- Maquinista del tren de mercancías nº 97535: Se identifica como R. M.\n\nLos procedimientos se encuentran clasificados de la siguiente manera: \n- Procedimientos Generales: \nSon los documentos que describen la forma de desarrollar ciertas actividades generales del SGSC, \nindicando responsabilidades, quién, cómo y cuándo se deben realizar. \n- Procedimientos Específicos: \nSon los documentos que describen la forma de desarrollar ciertas actividades del SGSC, indicando \nresponsabilidades, quién, cómo y cuándo se deben realizar. \n- Procedimientos Operativos: \nSon los documentos que describen la forma de desarrollar ciertas actividades del SGSC, específicas de \nlas Áreas de actividad (Dirección General o Dirección), indicando responsabilidades, quién, cómo y \ncuándo se deben realizar. Estos documentos derivan de alguna de las actividades descritas en los \nProcedimientos Generales o Procedimientos Específicos y se elaboran por las Áreas de actividad de \nADIF a las que apliquen. \n\nDE FOMENTO \nnº 0010/2016 ocurrido el 23.01.2016 \nACCIDENTES De interés en la investiga\n\nSe detallan seguidamente los procedimientos que integrados en el Sistema de Gestión de la Seguridad de \nADIF, pueden ser de más interés en la investigación de este suceso. \nProcedimiento Operativo SGSC-PO-24.00.08 “VIGILANCIA DEL ESTADO DE LA INFRAESTRUCTURA Y LA \nVÍA”, de junio de 2015 \nEste procedimiento tiene por objeto regular la actividad de vigilancia en las operaciones de medición, y \nvigilancia de la infraestructura y la superestructura de la vía para líneas de la RFIG de Red Convencional \ngestionadas por ADIF con velocidades menores o iguales a 220 km/h. \nEs de aplicación a todos los trabajos de vigilancia de la vía que se realicen a pie o en cabina y \ncomprobación del estado del elemento: infraestructura y vía en lo relativo a las prospecciones ",
+      "infraestructura": "eral los administradores \nde infraestructuras ferroviarias deberán disponer de una autorización de seguridad.\n\nPersonal perteneciente al Administrador de Infraestructuras, (ADIF) \n- Jefe de CTC: Se identifica como J. A. \nPersonal perteneciente al Operador TRANSFESA RAIL \n- Maquinista del tren de mercancías nº 97535: Se identifica como R. M.\n\nEl material rodante implicado en el suceso es el tren de mercancías nº 97535, propiedad de la empresa \nferroviaria TRANSFESA RAIL, tipo 100N (velocidad máxima 100km/hora) compuesto por: \n Tracción: Locomotora: Nº de serie UIC 95.71.3.335.006.3. Tipo 100N (velocidad máxima 100 km/hora) \nMaterial remolcado: compuesto por 1 vagón serie PMMC y el resto 21 vagones serie PMC. \nDisposición de los vagones en la composición. \nNº orden \ncomposición \nSerie \nNº Vehículo UIC \nOrigen - destino \nMercancía \nEjes \nPeso remolcado (Tm.) \nTara \nCarga \nTotal \n1º \nPMC \n247144330252 Constantí – La Salud CONTENEDORES \n2 \n12,7 \n16,0 \n28,7 \n2º \nPMC \n437143783326 Constantí – La Salud CONTENEDORES \n4 \n26,6 \n27,4 \n54,0 \n3º \nPMC \n437143782799 Constantí – La Salud CONTENEDORES \n4 \n26,6 \n28,7 \n55,3 \n4º \nPMC \n247144330302 Constantí – La Salud CONTENEDORES \n2 \n12,7 \n12,3 \n25,0 \n5º \nPMC \n437143782278 Constantí – La Salud CONTENEDORES \n4 \n12,7 \n26,8 \n39,5 \n6º \nPMC \n247144330161 Constantí – La Salud CONTENEDORES \n2 \n12,7 \n\nLa Estación de Ascó está situada entre el pk 517+833 y el pk 518+929 de la línea 210 Miraflores Tarragona. \nEn el sentido de la marcha del tren (kilometración decreciente, sentido impar),el trazado en planta de la \nlínea en esta zona se inicia con una alineación recta de 727m, que abarca prácticamente toda la estación, \ny que discurre desde el Pk 518+929 (pasada la señal E1 en 126 m) hasta el Pk 518+202. Seguidamente \nhay una curva a derechas de 168m y radio 467m (desde el Pk 518+202 hasta el 518+034), que es donde \nse localiza el punto cero del descarrilamiento (Pk 518+063) junto a la señal S1/1. El trazado en planta \ncontinúa con un tramo recto"
+    },
+    "conclusiones": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nEl suceso tiene lugar el día 23 de enero de 2016 a las 12:17 horas en el pk 518+063 de la línea 210 \nTarragona – Miraflores en la estación de Ascó (Tarragona), cuando el tren de mercancías nº 97534 \npropiedad de la empresa ferroviaria TRANSFESA RAIL, procedente de Costantí (Tarragona) con destino \nLa Salud (Sevilla), circula por vía principal (vía 1 en sentido impar) hacia Flix, a una velocidad de 48 \nkm/hora. \n\nDE FOMENTO \nnº 0010/2016 ocurrido el 23.01.2016 \nACCIDENTES Al salir de la estación se produce el descarrilamiento del vagón que ocupa el lugar nº 18 en la composición \nsegún el sentido de la marcha. \n- A las 12:09:24 horas, el tren 97535 circula con normalidad y se encuentra ocupando el CV E’1 – señal \nde avanzada de la estación de Ascó. Está establecido itinerario de paso sin parada por la estación de \nAscó vía general (vía 1). Las señales E1 (entrada de Ascó) y S1/1 (salida de Ascó) se encuentran en \nindicación de vía libre. \n- A las 12:16:08 horas, se produce el paso del tren por la baliza de la señal de entrada E1 (pk 519+055) \nen indicación de vía libre a una velocidad de 27 km/hora. [debido a la limitación de velocidad de 30 \nkm/hora impuesta entre Ascó y Mora la Nova] \nEl tren incrementa la velocidad a su paso por la estación, y a las 12:17:55 horas descarrila el primer \neje del vagón nº 18 a la velocidad de 48 Km/hora, en el pk 518+063 (punto 0), a la altura de la señal \nde salida S1/1 (situada 2 m después del punto cero). \nEl tren continúa la marcha aumentando la velocidad, y 30 segundos después (a las 12:18:25 horas) \nel maquinista aplica freno a 56 Km/hora en el pk 517+636, tras recorrer 425 m desde el punto 0, al \nhaber notado las consecuencias del suceso. \n- A las 12:18:51 horas, y tras recorrer unos 280 m desde la aplicación de freno, el tren queda detenido \nen el pk 517+350 fraccionado en dos partes separadas entre sí 120 m: Una primera parte formada \npor la locomotora y los trece primeros vagones (des",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "En la línea 210 Miraflores-Tarragona, el mayor número de sucesos se viene concentrando en el tramo \nFlix (pk 511+800) – Reus (pk 570+500) de unos 60 Km de longitud. \nSolicitada información a ADIF, desde enero de 2006 hasta la fecha del suceso (enero de 2016), es decir \nen 10 años, se han producido 11 accidentes y 87 incidentes relacionados con deficiencias en la \ninfraestructura. En los últimos cuatro años (2012 - 2015) antes del suceso la media fue de 1,5 accidentes \ny 6,5 incidentes al año, lo que puede considerarse un ratio relativamente elevado. \nDe estos sucesos, la CIAF por su parte ha tenido constancia de dos de ellos, debidos a deficiencias en la \ninfraestructura: \n- Expdte. 23/2012. El 22 de marzo de 2012 se produce el descarrilamiento de un tren de mercancías en \nel pk 566+100 por fallo de infraestructura. Este suceso no llegó a ser investigado por la CIAF, pero sí \nfue objeto de un “Informe Preliminar”, sin emitir por tanto recomendaciones. \n- Expdte. 41/2012. El 1 de junio de 2012 se produce el descarrilamiento de un tren de mercancías debido \na una rotura de un cupón de carril dispuesto en el túnel de Argentera, situado en el pk 558+049 de \nesta línea (210). Este suceso fue investigado por la CIAF. Se hizo una única recomendación relativa a \nla calidad de las reparaciones en vía. \nCon posterioridad al presente suceso, el 6 de octubre de 2016 se produjo el descarrilamiento de un tren \nde mercancías (Expdte. 44/2016) debido también a un fallo en la infraestructura (sobreancho de vía) en \nel pk 571+900, no siendo investigado por la CIAF. Nuevamente el 24 de mayo de 2017 vuelve a descarrilar \nen Ascó otro tren de mercancías de TRANSFESA RAIL, y debido también a un fallo de la infraestructura \n(por alabeo debido a un deficiente sistema de drenaje)."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. Víctimas mortales y heridos ........................................................................ 15"
+    },
+    "tags": [
+      "accidente",
+      "alud",
+      "caída de tierra",
+      "descarrilamiento",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización",
+      "sobrecarga"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig00.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig01.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig02.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig03.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig04.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig05.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig06.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig07.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig08.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig09.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig10.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig11.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig12.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig13.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig14.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig15.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig16.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig17.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig18.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig19.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig20.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig21.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig22.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig23.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig24.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig25.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig26.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig27.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig28.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig29.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig30.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig31.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig32.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig33.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig34.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig35.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig36.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig37.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig38.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig39.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig40.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig41.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig42.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig43.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig44.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig45.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig46.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig47.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig48.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig49.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig50.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig51.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig52.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig53.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig54.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig55.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig56.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig57.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig58.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig59.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig60.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig61.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig62.jpeg",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig63.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig64.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig65.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig66.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig67.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig68.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig69.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig70.png",
+      "data/images/2016/2016-170919160123ifsn_ciaf/fig71.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/170919160123ifsn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "3d1df168a1b275125810a145b8bc3eee",
+    "fecha_parseo": "2026-06-26T11:53:53.221381"
+  },
+  {
+    "id": "2016-170331-160125-if-ciaf",
+    "expediente": "0004/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-01-25",
+    "hora_suceso": "23:29",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "ELX PARC",
+      "provincia": "Alicante",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "T80",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "EM485",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "EM",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "era",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "porque",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "no",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Talgo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "contemplado",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.",
+      "factores_humanos": "Por parte de Adif \nAgente de infraestructura en funciones de maquinista con Titulo de Conducción A. \nPor parte de la empresa Acciona \nConductor de la máquina de vía con habilitación de operador de maquinaria de infraestructura (OMI).\n\nEl tren EM485 se suprime en Elx Parc y posteriormente fue devuelto a su base en Elx Mercaderies.\n\nJornada laboral del maquinista [agente de infraestructura, en funciones de maquinista con título de \nconducción A] del tren EM485 (Perfiladora 99713010305-1 y Bateadora 99713034502-5): \n- el día 25: 1 horas y 28 minutos \n- el día 24: descanso \n- el día 23: descanso \nJornada laboral del conductor de maquinaria [operador de maquinaria de infraestructura] de la \nperfiladora que circulaba en primer lugar de la composición: \n- el día 25: 1 horas y 28 minutos \n- el día 24: descanso \n- el día 23: descanso \nEl maquinista [agente de infraestructura, en funciones de maquinista con título de conducción A] en \nfunciones y el conductor de maquinaria [operador de maquinaria de infraestructura] de la perfiladora, \nel día 26 de enero de 2016 sobre las 01:30 horas en la estación de Elx Parc, se someten a la prueba de \nalcoholemia y de drogas con resultado negativo para ambos.\n\nLos procedimientos se encuentran clasificados de la siguiente manera: \nProcedimientos Generales \nSon los documentos que describen la forma de desarrollar ciertas actividades generales del SGSC, \nindicando responsabilidades, quién, cómo y cuándo se deben realizar. \n\nProcedimientos Específicos \nSon los documentos que describen la forma de desarrollar ciertas actividades del SGSC, indicando \nresponsabilidades, quién, cómo y cuándo se deben realizar. \n\nProcedimientos Operativos \nSon los documentos que describen la forma de desarrollar ciertas actividades del SGSC, específicas de \nlas Áreas de actividad (Dirección General o Dirección), indicando responsabilidades, quién, cómo y \ncuándo se deben realizar. Estos documentos derivan de alguna de las actividades descritas en los \nProcedimiento",
+      "infraestructura": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.\n\nPor parte de Adif \nAgente de infraestructura en funciones de maquinista con Titulo de Conducción A. \nPor parte de la empresa Acciona \nConductor de la máquina de vía con habilitación de operador de maquinaria de infraestructura (OMI).\n\nEl tramo de vía donde se ubica la estación de Elx Parc (P.K. 20+596 de la línea 336 El Reguerón a \nAlacant Terminal) es de vía única en túnel, sin electrificar y de ancho ibérico. El bloqueo es automático \n(BAU), con control de tráfico centralizado (CTC) gestionado desde el Puesto de Mando de Valencia. \nLa estación dispone de dos vías y su enclavamiento es electrónico que puede manejarse a nivel local \ndesde un puesto de operador ubicado en el gabinete de circulación, o en modo remoto desde el Puesto \nde Mando de Valencia, siendo en esta última situación en la que se encontraba en el momento de \nproducirse el suceso. \nLa disposición de señales, aparatos y circuitos de vía viene reflejada en el esquema siguiente: \n\nA \nDE FOMENTO \nnº 0004/2016 ocurrido el 25.01.2016 \nDE ACCIDENTES \n\n\nLos aspectos y órdenes de las señales, son los que se indican en el cuadro siguiente: \n\n Todas las señales (luminosas), cuya disposición se refleja en el esquema, están normalmente \nencendidas en el terreno\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos) Tomo II de Adif-Circulación, la \nmedia semanal de circulaciones del tramo S. Isidro-Albater–Sant Gabriel, tramo al que pertenece el \npunto kilométrico donde suceden los hechos, es de 327. \nEstas circulaciones se desglosan en: 42 de larga distancia, 27 de media distancia, 257 de cercancías y 1 \nde servicio. \n\nA \nDE FOMENTO \nnº 0004/2016 ocurrido el 25.01.2016 \nDE ACCIDENTES\n\nDel análisis del registrador de seguridad del tren 10171 se verifica que: \n \nA las 23:24:40 horas efectúa su paso por baliza de pie de señal E1 en indicación de vía libre. \n \nA las 23:25:36 horas efectúa par"
+    },
+    "conclusiones": "\n\nLos hechos tuvieron lugar el día 25 de enero de 2016 a las \n23:28 horas en la estación de Elx Parc de la línea 336 El \nReguerón – Alacant Terminal, provincia de Alicante. \nEl tren de viajeros 10171 de la empresa ferroviaria Renfe \nViajeros, procedente de Barcelona y destino Murcia del \nCarmen, y el tren de mantenimiento de infraestructura \nEM485, procedente de Elx-Mercaderies y con destino El \nReguerón, formado por dos máquinas de vía (perfiladora \nde Acciona y bateadora de Ferrovial) en tracció\n\nEl personal de conducción cumple la normativa vigente en cuanto título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. Asimismo, los días anteriores ambos tuvieron descanso y la \njornada laboral ese día era de una hora y media, cumpliendo la normativa vigente. \nLos equipos de seguridad del material móvil funcionaron de modo correcto. \nLa infraestructura funcionó correctamente, presentando la señal de entrada E1 la indicación de parada \nen todo momento. La moviola confirma que\n\nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción del tren EM485 [compuesto por \nun agente de infraestructura, en funciones de maquinista con título de conducción A y por un operador \nde maquinaria de infraestructura]. Más concretamente por una falta de atención, dando lugar al rebase \nindebido de la señal de entrada E1 y de la de retroceso R1, que s",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \n\nConsiderando adecuadas las medidas adoptadas, por \nAdif, consistentes en: \n Aplicación \ndel \nProcedimiento \nde \nSuspensión, \nRevocación y Recuperación de Títulos Habilitantes. \nNo se establecen recomendaciones. \n\nMadrid, 31 de marzo de 2017"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. \nVíctimas mortales y heridos ...........................................................................................................10"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-170331-160125-if-ciaf/fig00.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig01.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig02.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig03.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig04.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig05.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig06.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig07.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig08.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig09.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig10.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig11.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig12.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig13.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig14.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig15.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig16.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig17.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig18.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig19.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig20.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig21.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig22.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig23.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig24.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig25.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig26.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig27.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig28.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig29.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig30.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig31.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig32.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig33.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig34.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig35.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig36.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig37.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig38.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig39.jpeg",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig40.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig41.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig42.png",
+      "data/images/2016/2016-170331-160125-if-ciaf/fig43.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/170331-160125-if-ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "6b4c9d0cdebc66cd46f2da94278c2c5a",
+    "fecha_parseo": "2026-06-26T11:53:52.699080"
+  },
+  {
+    "id": "2016-170720160315ifciafsn",
+    "expediente": "0012/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Arrollamiento",
+    "fecha_suceso": "2016-03-15",
+    "hora_suceso": "17:19",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarriló",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarrilado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "activó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "es",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "continuó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "con",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "desde",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "accidentado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "no",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "antes",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "colisionó",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "RENFE",
+      "Renfe Viajeros",
+      "Renfe Viajeros colisionó"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "El día 15 de marzo de 2016 a las 17:19 horas en plena vía (p.k. 247+490), entre las estaciones de \nMont-Roig del Camp y L`Hospitalet de L`Infant de la línea 600 Valencia Nord – Sant Vicenç de \nCalders, el tren de viajeros 11161 de la empresa ferroviaria Renfe Viajeros colisionó con un obstáculo \nque se encontraba en la caja de la vía, consistente en tierras y una gran piedra procedentes del \ndesmoronamiento de la trinchera adyacente a la vía en ese punto. Como consecuencia de la colisión el \ntren descarriló del primer eje, circulando de esta manera durante 826 metros hasta su detención. \nComo consecuencia del accidente no se produjeron víctimas mortales ni heridos, aunque tuvieron que \nser atendidos tres pasajeros por los servicios médicos de emergencias, uno de ellos por una lipotimia y \nlos otros dos por ataques de ansiedad. \nSe produjeron daños materiales en el frontal de la motriz del automotor y en la infraestructura de la \nvía (traviesas, sujeciones, etc) debido a los metros que circuló el tren descarrilado. \nConclusión: El accidente se produjo por fallo de la infraestructura, al producirse el desmoronamiento \nparcial de la trinchera, ocasionando la ocupación de la caja de la vía por tierras y especialmente por \nuna roca de grandes dimensiones, que provocaron el descarrilamiento del tren por arrollamiento de \nobstáculo (las piedras de la trinchera). \nComo factor coadyuvante se consideran los episodios de fuertes lluvias que tuvieron lugar en la zona \nlos días anteriores.\n\nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia \nEstatal \nde \nSeguridad \nFerroviaria \n(AESF) \n Adif \n12/16-1 \nAnalizar la posibilidad de estabilizar \ntoda \nla \ntrinchera \nmediante \nla \naplicación del sistema que se \nconsidere adecuado.\n\nDE FOMENTO \nnº 0012/2016 ocurrido el 15.03.2016 \nDE ACCIDENTES",
+      "factores_humanos": "Por parte de Renfe \nEl maquinista del tren 11161, matrícula 7799045.\n\nEl maquinista del tren 11161 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nTiene una antigüedad en el cargo desde el día 2 de enero de 2007. \nRealizó su último reciclaje formativo el 10.10.2014 y su último reconocimiento médico y psicotécnico el \n24.01.2014, conforme a la normativa vigente. \n\nDE FOMENTO \nnº 0012/2016 ocurrido el 15.03.2016 \nDE ACCIDENTES\n\nUna vez detenido el tren 11161 el maquinista informó del suceso al puesto de mando de Valencia. \nEl puesto de mando de Valencia cursó aviso al operador afectado, CPS, Logística de PM y a la Gerencia \nde Área de seguridad en la circulación Este de ADIF. \nSe suprime la circulación en el tramo. \n\nDE FOMENTO \nnº 0012/2016 ocurrido el 15.03.2016 \nDE ACCIDENTES\n\nJornada laboral del maquinista del tren 11161: \n- el día 15: 1 hora y 34 minutos (1 hora y 19 minutos de conducción efectiva), \n- el día 14: 8 horas (1 hora y 27 minutos de conducción efectiva), \n- el día 13: 4 horas y 45 minutos (2 horas y 28 minutos de conducción efectiva). \nAl maquinista del tren 11161, el día15 de marzo a las 18:20 horas en Mont-Roig del Camp, se le \nrealizó prueba de alcoholemia por parte de la Policía Local de Mont-Roig del Camp, con resultado \nnegativo.\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por fallo de la infraestructura, al producirse el desmoronamiento parcial de la \ntrinchera, ocasionando la ocupación de la caja de la vía por tierras y especialmente una roca de \ngrandes dimensiones que provocaron el descarrilamiento del tren por arrollamiento de obstáculo (las \npiedras de la trinchera). \nComo factor coadyuvante se consideran los",
+      "infraestructura": "Por parte de Renfe \nEl maquinista del tren 11161, matrícula 7799045.\n\nEl trayecto “Mont-Roig del Camp a L`Hospitalet de L`Infant” donde se produjo el arrollamiento del \nobstáculo, perteneciente a la línea 600 Valencia Nord – Sant Vicenç de Calders, es de vía única, \n\nDE FOMENTO \nnº 0012/2016 ocurrido el 15.03.2016 \nDE ACCIDENTES \nelectrificada y ancho ibérico. Está dotada de bloqueo automático de vía única (BAU) y control de \ntráfico centralizado (CTC) controlado desde el puesto de mando de Valencia. \nEl arrollamiento de obstáculo se produjo en el p.k. 247+490, entre las estaciones de Mont-Roig del \nCamp (p.k. 251+100) y L´Hospitalet de L`Infant (p.k. 243+000). En dicho punto la vía discurre en \nrampa de 10 milésimas y curva a la izquierda de radio 3000 metros, según el sentido de la marcha del \ntren. En dicha zona la vía discurre en trinchera de taludes verticales de una altura de unos tres metros, \ndesde el p.k. 247+235 al p.k. 247+499. \nLa velocidad de paso para los trenes tipo B es de 160 Km/h, según el cuadro de velocidades máximas \nCVM. \n\nEn la fot\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos) Tomo II de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Vandellós-Cambrils, tramo al que pertenece el punto \nkilométrico donde suceden los hechos, es de 451, desglosándose en 219 de larga distancia, 135 de \nmedia distancia, 22 de cercanías, 71 de mercancías y 4 de servicio.\n\nComo consecuencia del accidente la vía quedó interceptada totalmente desde las 17:19 horas hasta \nlas 23:56 horas en que se restablece la circulación con una limitación temporal (LTV) de 30 km/h, \nentre el p.k 247+482 y el p.k 246+664. \nSe vieron afectados 31 trenes, de los que 21 fueron suprimidos y se produjo una pérdida de 2.409 \nminutos.\n\nLos equipos de seguridad del tren (freno, ASFA, etc) funcionaron correctamente. \nRegistrador de seguridad \n\nDE FOMENTO \nnº 0012/2016 ocurrido el 15.03.2016 \nDE ACCIDENTES \nDel análisis del registrador de seguridad HASLER TE"
+    },
+    "conclusiones": "\n\nEl día 15 de marzo de 2016 a las 17:19 horas en plena vía, en el tramo entre Mont-Roig del Camp a \nL`Hospitalet de L`Infant, en el p.k. 247+490 de la línea 600 Valencia Nord – Sant Vicenç de Calders \nprovincia de Tarragona, el tren 11161 arrolló un obstáculo (tierras y piedras) que se encontraba en la \ncaja de la vía, produciéndose la colisión y posterior descarrilamiento del mismo. \nEl tren de viajeros de larga distancia (Euromed) 11161 de la empresa ferroviaria Renfe Viajeros, \nprocedente de B\n\nLos sistemas del tren 11161 funcionaron correctamente. \nEl tren no superó en ningún momento la velocidad máxima permitida, circulaba a unos 150 Km/h \ncuando se produjo el arrollamiento de obstáculo. \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. \nEl maquinista, al observar el obstáculo hizo uso del freno de urgencia, pero dado que el trazado en esa \nzona es en curva, no había distancia suficiente para\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por fallo de la infraestructura, al producirse el desmoronamiento parcial de la \ntrinchera, ocasionando la ocupación de la caja de la vía por tierras y especialmente una roca de \ngrandes dimensiones que provocaron el descarrilamiento del tren por arrollamiento de obstáculo (las \npiedras de la trinchera). \nComo factor coadyuvante se consideran l",
+    "recomendaciones": [
+      {
+        "numero": "12/16-1",
+        "implementador": "Adif",
+        "destinatarios": "",
+        "texto": "Analizar la posibilidad de estabilizar \ntoda \nla \ntrinchera \nmediante \nla \naplicación del sistema que se \nconsidere adecuado."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. \nVíctimas mortales y heridos ...........................................................................................................14"
+    },
+    "tags": [
+      "accidente",
+      "alud",
+      "arrollamiento",
+      "caída de tierra",
+      "colisión",
+      "descarrilamiento",
+      "factor humano",
+      "fatal",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-170720160315ifciafsn/fig00.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig01.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig02.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig03.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig04.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig05.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig06.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig07.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig08.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig09.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig10.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig11.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig12.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig13.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig14.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig15.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig16.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig17.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig18.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig19.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig20.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig21.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig22.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig23.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig24.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig25.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig26.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig27.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig28.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig29.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig30.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig31.jpeg",
+      "data/images/2016/2016-170720160315ifciafsn/fig32.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/170720160315ifciafsn.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "0ec62e53dfa92f278f6499d06ab15502",
+    "fecha_parseo": "2026-06-26T11:53:52.807377"
+  },
+  {
+    "id": "2016-170720160316ifciafsn",
+    "expediente": "0014/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-03-16",
+    "hora_suceso": "08:37",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "TORREJÓN DE ARDOZ",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "CGX44",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "CGX89",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "era",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "queda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "posee",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "respecto",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sale",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "del",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Según",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "Continental Rail"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "El día 16 de marzo de 2016, a las 08:37 horas en la estación de Torrejón de Ardoz (Madrid) de la \nlínea 200 Madrid Chamartín a Barcelona Estación de Francia, se produce un conato de colisión \nentre el tren CGX44, de la empresa ferroviaria Continental Rail, y el tren de mercancías CGX89, de \nla empresa ferroviaria Acciona Rail Services, cuando éste último rebasa indebidamente la señal de \nsalida S1/3 de la estación que se encontraba en indicación de parada. \nComo consecuencia del incidente no se producen víctimas ni daños materiales. \nConclusión: El incidente se produjo por fallo humano del personal de conducción de tren CGX89, \nmás concretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida \nS1/3 que se encontraba en indicación de parada y al consecuente incumplimiento reglamentario. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal \nde Seguridad \nFerroviaria \n(AESF) \nAcciona Rail \nServices \n14/2016-1 \nQue se incluya en el SGS, mediante el \nprocedimiento PROC 02-03 o uno nuevo, unos \ncriterios generales para la recuperación de los \ntítulos habilitantes suspendidos o revocados tras \nun fallo humano y en función de la gravedad de \néste, \nteniéndose \npara \nello \nen \ncuenta \nlo \nestablecido en la “Recomendación Técnica 4/2016 \nde la AESF sobre las actuaciones en relación con \nlos títulos habilitantes del personal ferroviario tras \nsucesos con fallo humano”. \nAgencia Estatal \nde Seguridad \nFerroviaria \n(AESF) \nAgencia Estatal \nde Seguridad \nFerroviaria \n(AESF) \n14/2016-2 \nQue se realice una evaluación a la empresa ARS \nen lo referente al tratamiento que viene \nrealizando a su personal de conducción tras \nsucesos que inciden en la seguridad de la \ncirculación ferroviaria.",
+      "factores_humanos": "Por parte de Adif. \nResponsable de circulación con matrícula 2837854. \nPor parte de Acciona Rail Services. \nEl maquinista titular del tren, responsable de la conducción, y un segundo maquinista que conducía en \nel momento del incidente y que se encontraba en proceso de formación práctica para la obtención de \nla habilitación de la infraestructura de la línea 200.\n\nNo se producen víctimas. \n\nA \nDE FOMENTO \nnº 0014/2016 ocurrido el 16.03.2016 \nDE ACCIDENTES\n\nJornada del maquinista titular del tren CGX89: \n- el día 16: 4 horas y 26 minutos de conducción efectiva. \n- el día 15: 4 horas y 30 minutos de conducción efectiva. \n- el día 14: 4 horas y 30 minutos de conducción efectiva. \nAl maquinista titular y al de prácticas, el día del suceso en la estación de Torrejón de Ardoz a las 23:00 \nhoras, se les realiza prueba de alcoholemia y drogas con resultado negativo en ambas. \nJornada laboral en el presente suceso (maquinista titular y de prácticas): \nLa empresa Acciona Rail Services señala que el trayecto se realizó con 3 maquinistas: dos habilitados \nen la línea y uno habilitándose en ella. Los tres parten de Bilbao Mercancías, JM comienza trayecto en \nBilbao. En Cabañas de Ebro se informa por radio al CTC que se realiza relevo de cabina en Grisén \ndonde se realiza parada de 4 minutos. FM continúa como maquinistas titular (esta comunicación queda \nregistrada en el CTC). \nEn todo el trayecto FF se está habilitando. No obstante, el punto en que s\n\nCada Proceso es desarrollado mediante los correspondientes procedimientos, a los que a su vez \npueden adscribirse “Instrucciones” y “Documentos”. Los procedimientos (PROC) elaborados por ARS \ndentro de su SGSF son los siguientes: \nFUNCIÓN 01.- PLANIFICACIÓN Y DISEÑO. \n \nPROC 01_01.- Estandarización y formato de la documentación de Seguridad Ferroviaria. Incluye \ntres documentos. \n \nPROC 01_02.- Comunicaciones con las partes interesadas internas y externas. Incluye dos \ndocumentos. \n \nPROC 01_03.- Organización, recursos y respons",
+      "infraestructura": "Por parte de Adif. \nResponsable de circulación con matrícula 2837854. \nPor parte de Acciona Rail Services. \nEl maquinista titular del tren, responsable de la conducción, y un segundo maquinista que conducía en \nel momento del incidente y que se encontraba en proceso de formación práctica para la obtención de \nla habilitación de la infraestructura de la línea 200.\n\nLa estación de Torrejón de Ardoz está situada en el PK 22+964 de la de la línea de Madrid Chamartín \na Barcelona Estación de Francia. Su perfil es en recta y horizontal. \nLos tramos entre Torrejón de Ardoz y sus colaterales, San Fernando de Henares y Alcalá de Henares, \nson de vía cuádruple (G1, G2, G3 y G4), todas electrificadas y de ancho ibérico. \nLa estación dispone de bloqueo automático de vía cuádruple banalizada (BAB) y las operaciones de \ncirculación se realizaban desde el Puesto de Mando de Chamartín –adscrito a la Subdirección de \nOperaciones Centro- y, concretamente, asignadas al Jefe del CTC Operador de la Banda 1108 (Madrid \nAtocha Cercanías/Alcalá de Henares). En el momento del suceso la estación se encontraba en mando \ncentral. \nLa estación dispone de cuatro vías generales (2, 1, 3 y 5). Todas las señales son luminosas y disponen \nde balizas ASFA, excepto las de retroceso y maniobra. \n\nLa señal de salida rebasada S1/3 (PK \n22+554) es de tres focos, está situada \nsobre pe\n\nNo se producen víctimas. \n\nA \nDE FOMENTO \nnº 0014/2016 ocurrido el 16.03.2016 \nDE ACCIDENTES\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Torrejón de Ardoz - Alcalá de Henares, tramo donde se \nproduce el incidente, es de 1.908. \nEstas circulaciones se desglosan en: 12 de larga distancia, 62 de media distancia, 1.719 de cercanías, \n109 mercancías y 6 de servicio.\n\nDel análisis del registrador de seguridad del tren CGX89 (locomotora UIC 957103333218) se verifica \nque: \n \nEl maquinista circulaba con el sistema ASFA conectado y fu"
+    },
+    "conclusiones": "\n\nLos hechos tuvieron lugar el día 16 de marzo de 2016 a las 08:37 horas, en la estación de Torrejón de \nArdoz de la línea 200 Madrid Chamartín a Barcelona Estación de Francia, en la provincia de \nMadrid. \nEl tren de mercancía CGX89, de la empresa ferroviaria Acciona Rail Services, procedente de Bilbao \nMercancías y con destino Vicálvaro Clasificación, y el tren de mercancías CGX44, de la empresa \nContinental Rail, procedente de Bilbao Mercancías y con destino Azuqueca de Henares, circulan en \nsen\n\nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. \nNo obstante, el maquinista titular del tren CGX89 disponía de título de conducción de vehículos \n31.05.2014 y de la línea de fecha 18.12.2015, siendo escasa su experiencia, pues además había \npasado anteriormente por el lugar del suceso en siete ocasiones, pero seis lo fueron en sentido \ncontrario. \nLa jornada laboral y los tiempos de conducción cumplen t\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción de tren CGX89, más \nconcretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida S1/3 que \nse encontraba en indicación de parada y al consecuente incumplimiento reglamentario. \nComo causas coadyuvantes se apuntan la limitada experiencia del maquinista y también la posi",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal \nde Seguridad \nFerroviaria \n(AESF) \nAcciona Rail \nServices \n14/2016-1 \nQue se incluya en el SGS, mediante el \nprocedimiento PROC 02-03 o uno nuevo, unos \ncriterios generales para la recuperación de los \ntítulos habilitantes suspendidos o revocados tras \nun fallo humano y en función de la gravedad de \néste, \nteniéndose \npara \nello \nen \ncuenta \nlo \nestablecido en la “Recomendación Técnica 4/2016 \nde la AESF sobre las actuaciones en relación con \nlos títulos habilitantes del personal ferroviario tras \nsucesos con fallo humano”. \n\nA \nDE FOMENTO \nnº 0014/2016 ocurrido el 16.03.2016 \nDE ACCIDENTES \nAgencia Estatal \nde Seguridad \nFerroviaria \n(AESF) \nAgencia Estatal \nde Seguridad \nFerroviaria \n(AESF) \n14/2016-2 \nQue se realice una evaluación a la empresa ARS \nen lo referente al tratamiento que viene \nrealizando a su personal de conducción tras \nsucesos que inciden en la seguridad de la \ncirculación ferroviaria. \n\nMadrid, 20 de julio de 2017"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................... 11"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "fatiga",
+      "formación",
+      "mantenimiento",
+      "mercadancías peligrosas",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-170720160316ifciafsn/fig00.png",
+      "data/images/2016/2016-170720160316ifciafsn/fig01.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig02.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig03.png",
+      "data/images/2016/2016-170720160316ifciafsn/fig04.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig05.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig06.png",
+      "data/images/2016/2016-170720160316ifciafsn/fig07.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig08.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig09.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig10.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig11.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig12.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig13.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig14.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig15.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig16.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig17.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig18.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig19.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig20.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig21.png",
+      "data/images/2016/2016-170720160316ifciafsn/fig22.jpeg",
+      "data/images/2016/2016-170720160316ifciafsn/fig23.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/170720160316ifciafsn.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "fa432062aeabb17b4917a6e714d57287",
+    "fecha_parseo": "2026-06-26T11:53:52.943813"
+  },
+  {
+    "id": "2016-171017160417ifsnciaf",
+    "expediente": "0021/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-04-17",
+    "hora_suceso": "21:34",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "HERNANI",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "al",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "shunt",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "era",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "MIR39",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "quedó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estacionado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tierra",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Mercancías",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "eral los\nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.",
+      "factores_humanos": "Por parte de Adif\nResponsable de circulación con matrícula 9651530.\nPor parte de Renfe Viajeros\nMaquinista del tren 26882 con matrícula 6834881.\nPor parte de Renfe Mercancías\nMaquinista del tren 82692 con matrícula 6820641.\n\nEl accidente causa 5 viajeros heridos del tren 26882 que fueron evacuados por los servicios de\nemergencia a hospitales de Gipuzkoa.\n\nLos procedimientos se encuentran clasificados de la siguiente manera:\nProcedimientos Generales\nSon los documentos que describen la forma de desarrollar ciertas actividades generales del SGSC,\nindicando responsabilidades, quién, cómo y cuándo se deben realizar.\nProcedimientos Específicos\nSon los documentos que describen la forma de desarrollar ciertas actividades del SGSC, indicando\nresponsabilidades, quién, cómo y cuándo se deben realizar.\n\nA\nDE FOMENTO\nnº 0021/2016 ocurrido el 17.04.2016\nDE ACCIDENTES Procedimientos Operativos\nSon los documentos que describen la forma de desarrollar ciertas actividades del SGSC, específicas de\nlas Áreas de actividad (Dirección General o Dirección), indicando responsabilidades, quién, cómo y\ncuándo se deben realizar. Estos documentos derivan de alguna de las actividades descritas en los\nProcedimientos Generales o Procedimientos Específicos y se elaboran por las Áreas de actividad de\nAdif a las que apliquen.\nEntre los procedimientos referentes a manteni\n\nSe detallan seguidamente los procedimientos anteriormente citados que son de aplicación más directa\nen la investigación de este suceso.\nProcedimiento Operativo de Vigilancia del estado de la infraestructura y la vía. SGSC-PE-\n24.00.08 de fecha 08 de octubre de 2015.\nEste procedimiento establece las actividades destinadas a la vigilancia del estado de la vía y su\ninfraestructura, detallando los elementos objeto de análisis, las fases de ejecución, los\n\nA\nDE FOMENTO\nnº 0021/2016 ocurrido el 17.04.2016\nDE ACCIDENTES parámetros a controlar y sus tolerancias, la periodicidad de cada vigilancia y las funciones\ndel personal en su ejecución",
+      "infraestructura": "eral los\nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.\n\nPor parte de Adif\nResponsable de circulación con matrícula 9651530.\nPor parte de Renfe Viajeros\nMaquinista del tren 26882 con matrícula 6834881.\nPor parte de Renfe Mercancías\nMaquinista del tren 82692 con matrícula 6820641.\n\nLa estación de Hernani está situada en el PK 606+202 de la de la línea 100 Madrid Chamartín a\nHendaya.\nEl trayecto entre Hernani y su colateral Martutene, por el lado Irún, es una vía doble, electrificada y de\nancho ibérico.\nLa estación dispone de bloqueo automático banalizada (BAB) y las operaciones de circulación se\nrealizaban desde el Puesto de Mando de Miranda de Ebro. En el momento del suceso la estación se\nencontraba en mando central.\nEl Enclavamiento es electrónico, tipo WESTRACE, de tecnología Dimetronic.\nLa estación de Hernani dispone de las vías 1, 2 y 4 integradas en el enclavamiento y de las vías 6, 8 y\nmango de vía 4 fuera de él.\nLa longitud total de la vía 4 es de 283 metros, y así se refleja en la\npantalla del videográfico de la banda correspondiente en el CTC. La vía 4 de la estación de Hernani no\nes utilizada con frecuencia.\nLa colisión se produce en el PK 616+351 de la línea, situado en la vía 2 de la estación de\nHernani, en su circuito de vía CVA4 correspondiente a l\n\nEl accidente causa 5 viajeros heridos del tren 26882 que fueron evacuados por los servicios de\nemergencia a hospitales de Gipuzkoa.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, la\nmedia semanal de circulaciones del tramo Tolosa – San Sebastián, tramo donde se produce el suceso,\nes de 717.\nEstas circulaciones se desglosan en: 93 de larga distancia, 51 de media distancia, 482 de cercanías, 87\nde mercancías y 4 de servicio.\n\nLa última revisión de mantenimiento del circuito de vía CVA4, realizada por Mantenimiento de Red\nConvencional, es de fecha 27.01.2014 con el resultado “sin anomalías”.\nNo obstante, rev"
+    },
+    "conclusiones": "\n\nLos hechos tuvieron lugar el día 17 de abril de 2016, a las 21:34 horas en la estación de Hernani\n(Guipúzcoa) de la línea 100 Hendaya a Madrid Chamartín, en la provincia de Guipúzcoa.\nEl tren de mercancías 82692, de la empresa ferroviaria Renfe Mercancías,\nprocedente de Irún y con\ndestino Miranda de Ebro, y el tren de viajeros 26882, de la empresa ferroviaria Renfe Viajeros,\nprocedente de Irún y con destino Brinkola, circulan en el mismo sentido hacia la estación Hernani (PK\n616+202).\nA las 21:2\n\nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y\nreconocimiento médico y psicotécnico. La jornada laboral y los tiempos de conducción y descanso\ncumplen también con la normativa vigente. Las pruebas de alcohol y de drogas dieron resultado\nnegativo.\nEl jefe del CTC se encontraba en posesión de la habilitación en vigor de responsable de circulación y\nlas jornadas realizadas estaban dentro de las máximas legales permitidas.\nLa longitud de la vía\n\ncionados con\nlas acciones de las personas implicadas o las condiciones del material rodante o de las\ninstalaciones técnicas\nEl accidente se produjo por fallo de las instalaciones de seguridad y más concretamente del circuito\nde vía CVA4, al no detectar éste la presencia del último vagón del tren 82692 estacionado sobre él y\nrebasando el piquete de las vías 2-4. La no ocupación eléctrica del mencionado circuito permitió que\nel enclavamiento estableciera un nuevo itinerario aún estando en realidad",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "Destinatario\nImplementa\ndor final\nNúmero\nRecomendación\nAgencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-1\nEn\nlos\ncursos\nde\nreciclaje\nimpartidos\nal\npersonal que interviene en la circulación,\ninsistir en la necesidad de verificar de forma\nfehaciente\nla\nliberación\nde\nlos\ncircuitos\neléctricos existentes en vías poco utilizadas.\nInsistir también en verificar la longitud de las\nvías de estacionamiento y la de los trenes al\nser estacionados en éstas.\nAgencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-2\nEstablecer un plan de inspección del óxido\nexistente en los desvíos de la red ferroviaria\nque\ndan\nacceso\ndesde\nvía\ngeneral\na\ndesviadas, comprobando donde sea necesario\nel correcto shuntado de los circuitos de vía,\nprocediendo en su caso a su limpieza con el\nfin\nde\nrestablecer\nlas\ncondiciones\nque\npermitan circular con seguridad.\n\nA\nDE FOMENTO\nnº 0021/2016 ocurrido el 17.04.2016\nDE ACCIDENTES Agencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-3\nDentro del SGS de Adif, que se incluya en el\nProcedimiento “Vigilancia del estado de la\ninfraestructura y vía (SGSC-PO-24.00.08)” el\nexceso de óxido en la vía (principalmente en\nlos\ndesvíos\nde\nvías\ngenerales\ny\nvías\nsecundarias incluidas en el enclavamiento)\ncomo un elemento más a revisar y tratar en\nsu\ncaso,\ncon\nel\nfin\nde\nimpedir\nposibles\ndefectos de shuntado.\nAgencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-4\nDentro del SGS de Adif, que se incluya un\nprocedimiento\npara\nla\nvigilancia\ny\nmantenimiento de los circuitos de vía que\npermita\nla\ndetección\nde\nproblemas\nde\nasuntado, tanto en la situación de circuito\nlibre\ncomo\nocupado\n(con\ntren\nshunt\naplicado).\nMadrid. 17 de octubre de 2017"
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 5,
+      "total_victimas": 5,
+      "danos_materiales": "2.3.1.Viajeros, personal y terceros...............................................................................................................................14"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "descarrilamiento",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-171017160417ifsnciaf/fig00.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig01.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig02.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig03.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig04.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig05.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig06.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig07.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig08.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig09.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig10.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig11.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig12.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig13.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig14.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig15.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig16.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig17.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig18.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig19.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig20.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig21.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig22.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig23.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig24.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig25.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig26.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig27.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig28.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig29.jpx",
+      "data/images/2016/2016-171017160417ifsnciaf/fig30.jpx"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/171017160417ifsnciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "6308ce23cdff9553aa8588e6223a110f",
+    "fecha_parseo": "2026-06-26T11:53:53.414759"
+  },
+  {
+    "id": "2016-180223160528ifsnciaf",
+    "expediente": "0027/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-05-28",
+    "hora_suceso": "09:51",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "VILANOVA I LA GELTRÚ",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "regional",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "es",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "etc",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "directo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "TG500",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "reduce",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "el",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "marcha",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sigue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.",
+      "factores_humanos": "Por parte del Operador, (RENFE VIAJEROS): \nMaquinista del tren 17501, que se identifica como matrícula 6835144. \nPor parte del Administrador de Infraestructuras, (ADIF): \nEl jefe de CTC – jefe de circulación de Vilanova i la Geltrú, que se identifica como matrícula 974911.\n\nLos procedimientos que, integrados en el Sistema de Gestión de la Seguridad de RENFE VIAJEROS, \nson de más interés en la investigación de este suceso son los siguientes: \n- Procedimiento General RV-SGS-PG-14: Gestión de los certificados y las habilitaciones del personal que \nrealiza labores relacionadas con la seguridad en la circulación. \n- Procedimiento Específico RV-SGS-PE-SPC-16: Procedimiento para regular la suspensión y, en su caso, \nla revocación de una habilitación y/o certificado. \n- Circular Operativa COP nº 1 de la DSC sobre actuación de Renfe Viajeros en la investigación de \naccidentes e incidentes. \n\nDE FOMENTO \nnº 0027/2016 ocurrido el 28.05.2016 \nACCIDENTES Estos procedimientos son acordes con lo dispuesto sobre la materia por la normativa nacional vigente. Al \nrespecto se destaca lo siguiente: \n- Orden FOM/2520/2006, de 27 de julio que establece que los títulos de conducción de vehículos \npsicofísica y realice cada tres años cursos de actualización y reciclaje de conoci\n\nhabilitaciones del personal que realiza labores relacionadas con la seguridad en \nla circulación. \nEl Apartado 8.2. “Actualización y Mantenimiento” de los certificados y habilitaciones correspondientes al \npersonal de conducción recoge que las Habilitaciones y/o Certificados otorgadas por el Gerente de Área \nde Organización y RRHH conservarán su validez siempre que se cumplan las siguientes condiciones: \n- Continúe la prestación, para Renfe Viajeros, de los servicios para los que le faculta su Habilitación y/o \nCertificado. \n- Supere en tiempo y forma los reciclajes formativos previstos en la normativa correspondiente. \n- Mantenga la aptitud psicofísica requerida superando en tiempo y forma los reconocimientos \nco",
+      "infraestructura": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.\n\nPor parte del Operador, (RENFE VIAJEROS): \nMaquinista del tren 17501, que se identifica como matrícula 6835144. \nPor parte del Administrador de Infraestructuras, (ADIF): \nEl jefe de CTC – jefe de circulación de Vilanova i la Geltrú, que se identifica como matrícula 974911.\n\nTren regional exprés 17501, propiedad de RENFE VIAJEROS, formado por material autopropulsado \n470122, UIC nº 967194701223, tipo 140 (velocidad máxima 140 Km/hora) según el libro horario del tren. \n\nDE FOMENTO \nnº 0027/2016 ocurrido el 28.05.2016 \nACCIDENTES Estaba compuesto por 3 vehículos, (motor – remolque – remolque con cabina), 12 ejes, 79 metros de \nlongitud y 159 Tm de peso. \nTren de cercanías 25513, propiedad de RENFE VIAJEROS, compuesto por las UU/TT 927164652574 y\n\nLa estación de Vilanova i la Geltrú se encuentra situada en el Pk 636+000 de la Línea 200, de Madrid, \nChamartín a Barcelona, Estación de Francia. \n- La estación cuenta con enclavamiento electrónico (Consigna serie A nº 1971 y anejo 1). Se encuentra \nen un tramo de vía doble electrificada en la que la circulación se realiza al amparo de Bloqueo \nAutomático Banalizado (BAB) con Control de Tráfico Centralizado (CTC) que se gestiona desde el \nPuesto de Mando de Barcelona (Consigna serie A nº 2952). \nLa circulación por vía principal (vía I), sentido impar Sitges (Barcelona) – Cunit (Madrid), está protegida \npor los siguientes elementos: Señal de avanzada 6389.1 con baliza de señal, pk 638+890 y baliza previa \na 300 m de la misma. Señal de entrada E1, pk 637+141, con baliza de señal y baliza previa a 300 m. de \ndistancia de misma. Señal de retroceso R1, pk 636+754. Señal de salida S1/2, pk 635+888, con baliza \nde señal. \nLa señal rebasada S1/2 está definida en el Reglamento General de Circu\n\nSegún el administrador de infraestructura ADIF, el incidente provoca unos retrasos acumulados de 53 \nminutos en 6 trenes, de los que "
+    },
+    "conclusiones": "\n\nEl suceso tiene lugar el día 28 de mayo de 2016 a las 09:50:39 horas, en la estación de Vilanova i la \nGeltrú, pk 635+888 de la línea 200 de Madrid, Chamartín a Barcelona, Estación de Francia, cuando el \ntren regional exprés 17501, propiedad de la empresa RENFE VIAJEROS, procedente de Barcelona con \ndestino Madrid, circula por vía general (vía I), sentido impar, entra en la estación por vía 2 con 14 minutos \nde retraso sobre su horario prescrito y sin parada comercial, rebasa la señal de salida \n\nDel estudio del presente evento, se observa lo siguiente: \na) Los sistemas de control, mando y señalización, funcionaron correctamente. \nb) Las instalaciones correspondientes a la infraestructura y superestructura funcionaron \ncorrectamente. \nc) Los sistemas de comunicación y seguridad del tren, funcionaron correctamente. \nd) La señal S1/2, de salida de la estación de Vilanova i la Geltrú para circulaciones por vía 2 en \nsentido Cunit, permanece a lo largo de este suceso ordenando parada (aspect\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción del tren regional exprés \n17501, probablemente por una mala percepción del riesgo (falta de atención o exceso de \nconfianza) tras pasar por la señal de entrada E1 de la estación de Vilanova y Geltrú en indicación \nde anuncio de parada (amarillo) y no ponerse en disposición de parar y seguidamente reba",
+    "recomendaciones": [],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. Víctimas mortales y heridos .............................................................................................. 14"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-180223160528ifsnciaf/fig00.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig01.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig02.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig03.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig04.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig05.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig06.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig07.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig08.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig09.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig10.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig11.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig12.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig13.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig14.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig15.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig16.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig17.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig18.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig19.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig20.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig21.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig22.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig23.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig24.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig25.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig26.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig27.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig28.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig29.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig30.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig31.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig32.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig33.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig34.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig35.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig36.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig37.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig38.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig39.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig40.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig41.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig42.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig43.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig44.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig45.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig46.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig47.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig48.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig49.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig50.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig51.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig52.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig53.jpeg",
+      "data/images/2016/2016-180223160528ifsnciaf/fig54.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig55.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig56.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig57.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig58.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig59.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig60.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig61.png",
+      "data/images/2016/2016-180223160528ifsnciaf/fig62.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/180223160528ifsnciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "621bcbc068c00824377323fab952f98a",
+    "fecha_parseo": "2026-06-26T11:53:53.974506"
+  },
+  {
+    "id": "2016-171017160718ifsnciaf",
+    "expediente": "0036/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-07-18",
+    "hora_suceso": "08:28",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "BOÑAR",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "regional",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "especial",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "El día 18 de julio de 2016 a las 08:28 horas, en la estación de Boñar (León) de la línea 790 La\nAsunción Universidad-Aranguren de la Red de Ancho Métrico (RAM) de Adif, se produce un conato de\ncolisión entre la maniobra UT 2903 y el tren de cercanías 71490, ambos pertenecientes al Servicio\nPúblico de la Cornisa Cantábrica y Ancho Métrico de la empresa ferroviaria Renfe Viajeros. La\nmaniobra UT 2903 efectuando el movimiento de vía 2 a vía 1 rebasa el límite de maniobras, quedando\nademás detenida e inmovilizada por avería en plena vía, una vez sobrepasada la señal de entrada de la\nestación de Boñar por el lado de La Losilla. Estando establecido el bloqueo telefónico entre Cistierna y\nBoñar, el tren 71490 al salir del apeadero de La Losilla observa la presencia en la vía de la Ut 2903\nprocediendo a detener el tren, quedando enfrentados a una distancia de unos 370 metros.\nComo consecuencia del incidente no se produjeron daños materiales ni heridos.\nConclusión: El incidente se produjo por fallo humano del personal de conducción (jefe de\nmaquinistas) de la maniobra UT 2903, y más concretamente por una falta de atención en la\nconducción, que produjo el rebase indebido del límite de maniobras de la estación de Boñar por\naplicación tardía del freno, ocupando el cantón en el cual estaba establecido bloqueo telefónico para la\nllegada a Boñar del tren 71490.\nLa falta de atención del jefe de maquinistas fue debida al estar éste pendiente de las indicaciones de\nlos parámetros del motor que se indicaban en los relojes del pupitre de conducción, pues se\nencontraba realizando una prueba de rendimiento del motor para lo que necesitaba revolucionar el\nmismo.\nPara ello (revolucionar el motor), se debía superar y se superó en la maniobra el límite de velocidad\nestablecido para las mismas, que es de 10 km/h (art.20 del Preámbulo Común del RCT),\nsobrepasándose (46 Km/h) en más de tres veces dicho límite. (Ver Recomendación 36/2016-1)\nPor su parte, el jefe de circulación de Boñar autoriza ",
+      "factores_humanos": "Por parte de Renfe\nMaquinista de la maniobra del automotor UT 2903: jefe de maquinistas con matrícula 6986566.\nMaquinista del tren 71490: maquinista con matrícula 6997159.\nPor parte de Adif\nEl jefe de circulación de la estación de Boñar: Responsable de Circulación con matrícula 2995363.\n\n-El maquinista de la maniobra del vehículo UT 2903 es jefe de maquinistas y se encuentra habilitado\npara la conducción de vehículos infraestructura desde el 01.06.1990 y del vehículo desde el 20.11.2009, de conformidad con la\nnormativa legal y el estatuto entonces vigente de los Ferrocarriles de Vía Estrecha (FEVE).\nRealizó su último reciclaje formativo el 16.12.2015 y su último reconocimiento médico y psicotécnico el\n15.04.2016, conforme a la normativa vigente.\n-El maquinista del tren 71490 se encuentra habilitado para la conducción de vehículos desde el 09.12.1994, de conformidad con la normativa legal y el estatuto entonces vigente de los\nFerrocarriles de Vía Estrecha (FEVE).\nRealizó su último reciclaje formativo el 11.11.2014 y su último reconocimiento médico y psicotécnico el\n29.02.2016, conforme a la normativa vigente.\n-El jefe de circulación de Boñar\nposee habilitación como responsable de circulación de fecha\n06.05.2016, para el ámbito de la red de ancho métrico (RAM).\nRealizó s\n\nEl jefe de circulación de la estación de Boñar, y en base a su declaración cuando observó la desaparición\ndel automotor 2903 del circuito de vía [del cuadro del enclavamiento de la estación], esperó un momento\na ver si le llamaba el maquinista. Llama al maquinista por el teléfono móvil sin conseguir comunicar con\nél. Posteriormente lo intenta por la emisora sin establecer comunicación con el maquinista de la unidad\n\nJornada laboral del jefe de circulación de Boñar:\n- el día 18: 2 horas y 23 minutos,\n- el día 17: 7 horas,\n- el día 16: 7 horas.\nJornada laboral del jefe de maquinistas del automotor 2903:\n- el día 18: 1 hora y 23 minutos,\n- el día 17: descanso,\n- el día 16: descanso.\nJornada laboral del ",
+      "infraestructura": "Por parte de Renfe\nMaquinista de la maniobra del automotor UT 2903: jefe de maquinistas con matrícula 6986566.\nMaquinista del tren 71490: maquinista con matrícula 6997159.\nPor parte de Adif\nEl jefe de circulación de la estación de Boñar: Responsable de Circulación con matrícula 2995363.\n\nEl trazado discurre en vía única, no electrificada, ancho métrico con superestructura constituida por\ntraviesas de madera y carril UIC 54 en barra corta y balasto calizo.\nDispone de bloqueo telefónico (BT), señalización luminosa y ASFA. La regulación se encuentra ubicada\nen el puesto de mando de Bilbao.\nLa estación de Boñar consta de una vía principal (vía 1) y tres vías auxiliares (vía 2, 3 y 4). La vía 4 se\nencontraba dada de baja en el momento del suceso, la vía 3 no dispone de circuito de vía y termina en\nuna topera. En el lado Aranguren hay dispuesto un paso a nivel clase C enclavado en la estación.\n\nDE FOMENTO\nnº 0036/2016 ocurrido el 18.07.2016\nDE ACCIDENTES La estación está protegida por ambos lados con señales de entrada y avanzada. Dispone de\nenclavamiento eléctrico parcial con señales de entrada y avanzada, circuito de vía en las vías 1, 2 y de\nagujas hasta las señales de entrada, no existiendo circuitos de vía en plena vía. La instalación carece\nde registrador de eventos.\nL\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos) Tomo II de Adif-Circulación, la\nmedia semanal de circulaciones del tramo Boñar-Cistierna, tramo al que pertenece el punto kilométrico\ndonde suceden los hechos, es de 104 desglosándose en 15 de media distancia, 82 de cercanías y 7 de\nmercancías.\n\nComo consecuencia del incidente la vía quedó interceptada entre las 08:23 y las 08:45 horas.\nEl tren 71490 sufrió un retraso de 32 minutos, asimismo otros tres trenes de cercanías sufrieron\nretrasos de 30, 29 y 38 minutos, en total 129 minutos.\nSe suprimió parcialmente un tren regional que prosiguió la marcha como tren especial.\n\nManiobra unidad 2903\nRegistrador de seguridad\nDel análisis del re"
+    },
+    "conclusiones": "\n\nEl día 18 de julio de 2016 a las 08:28 horas, en la estación de Boñar (León) de la línea 790 La\nAsunción Universidad-Aranguren de la Red de Ancho Métrico (RAM) de Adif, se produce un conato de\ncolisión entre la maniobra UT 2903 y el tren de cercanías 71490 ambos pertenecientes al Servicio\nPúblico de la Cornisa Cantábrica y Ancho Métrico de la empresa ferroviaria Renfe Viajeros.\nSobre las 07:40 horas el jefe de maquinistas de la maniobra UT 2903 (material 2900) solicita al jefe de\ncirculación de \n\nLa UT 2903 se encontraba averiada por rotura del manguito del turbo y apartada en la vía 2 de Boñar\ndesde el día anterior del suceso.\nLa intención del jefe de maquinistas, el día del suceso, era realizar una prueba de motor a dicha\nunidad para ver si se encontraba operativa y poder trasladarla por sus propios medios a la base de\nmantenimiento de Cistierna.\nEl jefe de maquinistas solicitó al jefe de circulación de Boñar realizar maniobra para pasar de vía 2 a\nvía 1 por el lado de La Losilla, ya q\n\nrelacionados con las acciones de las personas implicadas o las condiciones del\nmaterial rodante o de las instalaciones técnicas\nEl incidente se produjo por fallo humano del personal de conducción (jefe de maquinistas) de la\nmaniobra UT 2903, y más concretamente por una falta de atención en la conducción, que produjo el\nrebase indebido del límite de maniobras de la estación de Boñar por aplicación tardía del freno,\nocupando el cantón en el cual estaba establecido bloqueo telefónico para la llegad",
+    "recomendaciones": [
+      {
+        "numero": "36/16-1",
+        "implementador": "Renfe Operadora",
+        "destinatarios": "",
+        "texto": "En los cursos de formación y reciclaje a\nmaquinistas, insistir en la necesidad de\ncumplir con las limitaciones de velocidad\nestablecidas\npara\nla\nrealización\nde\nmaniobras en estaciones.\nAgencia Estatal de\nSeguridad\nFerroviaria (AESF)"
+      },
+      {
+        "numero": "36/16-2",
+        "implementador": "Adif",
+        "destinatarios": "",
+        "texto": "En los cursos de formación y reciclaje\nde jefes de circulación, insistir en la\nnecesidad de conocer con precisión las\nmaniobras a realizar por el material\nmóvil a su cargo y no permitir aquellas\nque\npuedan\nprovocar\nsituaciones\nno\nseguras."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1.\nVíctimas mortales y heridos...........................................................................................................13"
+    },
+    "tags": [
+      "accidente",
+      "colisión",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "paso a nivel",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-171017160718ifsnciaf/fig00.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig01.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig02.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig03.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig04.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig05.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig06.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig07.jpx",
+      "data/images/2016/2016-171017160718ifsnciaf/fig08.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig09.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig10.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig11.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig12.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig13.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig14.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig15.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig16.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig17.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig18.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig19.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig20.jpx",
+      "data/images/2016/2016-171017160718ifsnciaf/fig21.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig22.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig23.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig24.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig25.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig26.jpx",
+      "data/images/2016/2016-171017160718ifsnciaf/fig27.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig28.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig29.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig30.jpx",
+      "data/images/2016/2016-171017160718ifsnciaf/fig31.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig32.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig33.jpx",
+      "data/images/2016/2016-171017160718ifsnciaf/fig34.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig35.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig36.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig37.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig38.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig39.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig40.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig41.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig42.png",
+      "data/images/2016/2016-171017160718ifsnciaf/fig43.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/171017160718ifsnciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "c9481b707868615baf4781dbfd119359",
+    "fecha_parseo": "2026-06-26T11:53:53.581995"
+  },
+  {
+    "id": "2016-190329-160909-if-ciaf",
+    "expediente": "0041/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Fallo de señalización",
+    "fecha_suceso": "2016-09-09",
+    "hora_suceso": "09:25",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "O PORRIÑO",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "nº",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Celta",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "llega",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarrilado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "por",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "explotado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "acababa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "no",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "iba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "continúa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circula",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "accidentado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "portugués",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tipo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "era",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Hora",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Tipo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Recorrido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "antes",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "contra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "resistió",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "regional",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "escogido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "similar",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "serían",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "recibe",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "prosigue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "es",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "recorre",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "según",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "queda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "llegue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasaría",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "al",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "ocupase",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarriló",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "formado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Alvia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "continuó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "lleva",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sigue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarrila",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "disponía",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "redujo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tendría",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "fuese",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "esté",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "supera",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "rebasa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "aparecía",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pequeño",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "adecuado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tardó",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "durante",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "el",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "entró",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "había",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "aún",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasar",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "hasta",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "MINISTERIO",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "CELTA",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "l “Tren \nCelta”: \nPrimero recibieron formación en idioma, hasta alcanzar un nivel B2 de español; después formación en \nreglamentación española, prácticas en cabina y en simulador en Santiago. Los formadores eran\n\nDE FOMENTO \nnº 0041/2016 ocurrido el 09.09.2016 \nACCIDENTES portugueses en las partes hechas en Portugal, y españoles en las prácticas en cabina y en el simulador. \nFueron aproximadamente cuatro meses.",
+      "factores_humanos": "Se recoge en la escala de servicio. Siempre que les toca venir a Vigo, vienen por la noche, duermen en \nVigo y al día siguiente por la mañana vuelven para Oporto. Los españoles hacen al contrario. Este viaje \nes hecho con una frecuencia de una vez por semana, o dos. \nAntes cambiaban en Valença: subía un maquinista español que los acompañaba hasta Vigo, pues no \ntenían la formación: el maquinista era el portugués, pero estaban acompañados por un español. Cuando \nse estableció el Tren Celta, se escogió dar formación para eliminar la parada técnica necesaria para \nsubir el maquinista español. La parada era de aproximadamente un minuto, el necesario para subir el \nmaquinista: no subían ni bajaban viajeros.\n\nSe conocían desde los cursos de formación de maquinistas, hace 22 años. Era un buen compañero, muy \nalegre y de buen carácter, se llevaba bien con todos. Era muy atento y profesional, con mucha \nexperiencia y formación, y le gustaba mucho su trabajo.",
+      "infraestructura": "En Porriño siempre van por la vía directa. En otras estaciones (como Redondela) es habitual ser pasados \npor una vía o por otra. En estos casos, el cambio de vía es comunicado por la señalización. Es normal \nser desviados a una vía u otra en estaciones en las que no hay parada (en Louredo-Valos hay cruces a \nveces), y la comunicación es hecha por las señales. Las señales son verde-amarillo y amarillo en la \nentrada, o cerrado. Esto es habitual en Redondela, pero en Porriño normalmente no. En Chapela, por \nla noche, es habitual tener que parar porque llegan dos trenes.\n\nDE FOMENTO \nnº 0041/2016 ocurrido el 09.09.2016 \nACCIDENTES 3.4 FUNCIONAMIENTO DE LAS INSTALACIONES TÉCNICAS Y DEL MATERIAL RODANTE \nFERROVIARIO \n3.4.1 Material Rodante \n3.4.1.1 Mantenimiento preventivo \nEl Plan de Mantenimiento para los automotores de la Serie 592 establece los siguientes tipos de \nintervención: \n \nCN (Control de Niveles) cada 3.500 km máximo \n \nIC (Intervención de Control) cada 10.000 km máximo \n \nIM1 (Intervención Mantenimiento Nivel 1) cada 39.000 km como máximo \n \nIM2 (Intervención Mantenimiento Nivel 2) cada 117.000 km como máximo \n \nIM3 (Intervención Mantenimiento Nivel 3) cada 350.000 km como máximo \n \nR (Reparación General) cada 650.000 km u ocho años \nLa entidad encargada de su mantenimiento es Renfe Fabricación y Mantenimiento. Las intervenciones de \nprimer nivel (hasta la IM1, inclusive) son realizadas en el taller de la empresa de mantenimiento de CP \n(EMEF) en Contumil (Oporto), en virtud de un acuerdo de colaboración entre ambas empresas. Las \ninte"
+    },
+    "conclusiones": "on los grafiados de otros días \nse deduce que la situación no fue diferente: después del tren 420 partieron de Vigo-Guixar el 280 y el 490, que \nsiempre iban detrás de él, y no se registra la presencia de otros trenes hasta bastante después de la hora en la que \nel 420 debería haberse adentrado en Portugal. \n\nDE FOMENTO \nnº 0041/2016 ocurrido el 09.09.2016 \nACCIDENTES primer coche, es posible que tanto maquinista como agente de acompañamiento hubiesen salido \ndespedidos por una de las ventanas de la parte frontal, en el momento de la colisión con el estribo del \npaso superior. \nPor otra parte, testimonios recabados de algunos de los pasajeros que viajaban en el primer coche indican \nque habían visto pasar al interventor hacia la parte delantera del tren. No obstante, estos testimonios no \nresultan concluyentes, pues los pasajeros entrevistados viajaban en el segundo y tercer compartimento \ndel coche. Se ha podido averiguar que en el primer compartimento (el más próximo a la cabina) viajaba \nun único pasajero, pero se trata de otro de los fallecidos en el accidente. \nPor lo tanto, no es posible determinar si en los momentos previos al accidente el interventor se encontraba \nen la cabina, en el vestíbulo entre la cabina y el primer compartimento de viajeros, en el primer \ncompartimento, o en el vestíbulo entre éste y el segundo compartimento. Además, tampoco existe ningún \nregistro de audio o vídeo sobre lo que sucedió en la cabina. \n3.7 OTROS SUCESOS ANTERIORES DE CARÁCTER SIMILAR \nConsta en los registros de Renfe otro suceso similar, ocurrido el 30 de julio de 2003: a las 9:36 el tren de \nviajeros 280, con el mismo itinerario establecido, entró en los cambios de entrada de O Porriño con exceso \nde velocidad (121 km/h). \nEn esta ocasión no se produjo descarrilamiento por el exceso de velocidad: el tren se mantuvo en la vía \n3, el freno de emergencia del ASFA actuó y el tren se detuvo, pero rebasando la señal 1S/3 (salida de la \nvía 3 dirección Guillarei), talonando e",
+    "recomendaciones": [],
+    "consecuencias": {
+      "victimas_mortales": 3,
+      "heridos": 13,
+      "total_victimas": 16,
+      "danos_materiales": "2.3.1 \nViajeros, personal y terceros .......................................................................................... 33"
+    },
+    "tags": [
+      "accidente",
+      "alud",
+      "caída de tierra",
+      "colisión",
+      "descarrilamiento",
+      "distraer",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "fatiga",
+      "formación",
+      "mantenimiento",
+      "paso a nivel",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-190329-160909-if-ciaf/fig00.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig01.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig02.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig03.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig04.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig05.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig06.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig07.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig08.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig09.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig10.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig11.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig12.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig13.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig14.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig15.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig16.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig17.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig18.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig19.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig20.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig21.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig22.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig23.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig24.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig25.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig26.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig27.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig28.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig29.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig30.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig31.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig32.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig33.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig34.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig35.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig36.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig37.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig38.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig39.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig40.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig41.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig42.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig43.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig44.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig45.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig46.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig47.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig48.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig49.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig50.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig51.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig52.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig53.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig54.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig55.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig56.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig57.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig58.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig59.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig60.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig61.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig62.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig63.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig64.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig65.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig66.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig67.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig68.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig69.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig70.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig71.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig72.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig73.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig74.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig75.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig76.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig77.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig78.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig79.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig80.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig81.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig82.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig83.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig84.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig85.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig86.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig87.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig88.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig89.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig90.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig91.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig92.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig93.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig94.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig95.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig96.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig97.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig98.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig99.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig100.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig101.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig102.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig103.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig104.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig105.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig106.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig107.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig108.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig109.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig110.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig111.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig112.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig113.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig114.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig115.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig116.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig117.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig118.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig119.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig120.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig121.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig122.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig123.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig124.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig125.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig126.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig127.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig128.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig129.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig130.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig131.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig132.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig133.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig134.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig135.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig136.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig137.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig138.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig139.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig140.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig141.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig142.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig143.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig144.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig145.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig146.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig147.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig148.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig149.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig150.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig151.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig152.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig153.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig154.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig155.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig156.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig157.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig158.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig159.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig160.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig161.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig162.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig163.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig164.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig165.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig166.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig167.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig168.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig169.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig170.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig171.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig172.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig173.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig174.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig175.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig176.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig177.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig178.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig179.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig180.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig181.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig182.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig183.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig184.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig185.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig186.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig187.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig188.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig189.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig190.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig191.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig192.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig193.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig194.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig195.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig196.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig197.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig198.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig199.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig200.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig201.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig202.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig203.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig204.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig205.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig206.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig207.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig208.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig209.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig210.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig211.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig212.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig213.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig214.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig215.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig216.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig217.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig218.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig219.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig220.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig221.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig222.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig223.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig224.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig225.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig226.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig227.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig228.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig229.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig230.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig231.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig232.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig233.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig234.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig235.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig236.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig237.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig238.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig239.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig240.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig241.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig242.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig243.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig244.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig245.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig246.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig247.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig248.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig249.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig250.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig251.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig252.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig253.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig254.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig255.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig256.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig257.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig258.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig259.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig260.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig261.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig262.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig263.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig264.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig265.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig266.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig267.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig268.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig269.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig270.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig271.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig272.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig273.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig274.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig275.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig276.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig277.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig278.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig279.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig280.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig281.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig282.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig283.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig284.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig285.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig286.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig287.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig288.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig289.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig290.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig291.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig292.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig293.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig294.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig295.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig296.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig297.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig298.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig299.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig300.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig301.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig302.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig303.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig304.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig305.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig306.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig307.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig308.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig309.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig310.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig311.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig312.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig313.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig314.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig315.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig316.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig317.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig318.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig319.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig320.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig321.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig322.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig323.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig324.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig325.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig326.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig327.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig328.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig329.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig330.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig331.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig332.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig333.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig334.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig335.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig336.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig337.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig338.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig339.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig340.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig341.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig342.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig343.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig344.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig345.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig346.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig347.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig348.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig349.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig350.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig351.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig352.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig353.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig354.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig355.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig356.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig357.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig358.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig359.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig360.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig361.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig362.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig363.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig364.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig365.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig366.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig367.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig368.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig369.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig370.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig371.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig372.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig373.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig374.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig375.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig376.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig377.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig378.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig379.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig380.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig381.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig382.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig383.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig384.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig385.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig386.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig387.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig388.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig389.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig390.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig391.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig392.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig393.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig394.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig395.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig396.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig397.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig398.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig399.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig400.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig401.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig402.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig403.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig404.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig405.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig406.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig407.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig408.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig409.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig410.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig411.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig412.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig413.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig414.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig415.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig416.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig417.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig418.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig419.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig420.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig421.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig422.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig423.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig424.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig425.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig426.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig427.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig428.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig429.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig430.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig431.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig432.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig433.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig434.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig435.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig436.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig437.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig438.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig439.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig440.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig441.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig442.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig443.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig444.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig445.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig446.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig447.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig448.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig449.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig450.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig451.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig452.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig453.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig454.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig455.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig456.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig457.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig458.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig459.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig460.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig461.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig462.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig463.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig464.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig465.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig466.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig467.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig468.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig469.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig470.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig471.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig472.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig473.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig474.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig475.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig476.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig477.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig478.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig479.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig480.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig481.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig482.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig483.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig484.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig485.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig486.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig487.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig488.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig489.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig490.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig491.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig492.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig493.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig494.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig495.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig496.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig497.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig498.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig499.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig500.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig501.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig502.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig503.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig504.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig505.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig506.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig507.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig508.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig509.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig510.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig511.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig512.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig513.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig514.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig515.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig516.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig517.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig518.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig519.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig520.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig521.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig522.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig523.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig524.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig525.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig526.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig527.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig528.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig529.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig530.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig531.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig532.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig533.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig534.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig535.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig536.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig537.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig538.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig539.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig540.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig541.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig542.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig543.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig544.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig545.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig546.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig547.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig548.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig549.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig550.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig551.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig552.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig553.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig554.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig555.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig556.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig557.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig558.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig559.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig560.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig561.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig562.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig563.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig564.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig565.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig566.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig567.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig568.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig569.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig570.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig571.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig572.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig573.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig574.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig575.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig576.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig577.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig578.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig579.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig580.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig581.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig582.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig583.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig584.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig585.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig586.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig587.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig588.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig589.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig590.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig591.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig592.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig593.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig594.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig595.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig596.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig597.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig598.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig599.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig600.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig601.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig602.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig603.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig604.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig605.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig606.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig607.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig608.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig609.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig610.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig611.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig612.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig613.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig614.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig615.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig616.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig617.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig618.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig619.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig620.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig621.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig622.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig623.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig624.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig625.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig626.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig627.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig628.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig629.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig630.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig631.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig632.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig633.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig634.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig635.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig636.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig637.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig638.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig639.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig640.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig641.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig642.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig643.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig644.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig645.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig646.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig647.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig648.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig649.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig650.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig651.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig652.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig653.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig654.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig655.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig656.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig657.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig658.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig659.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig660.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig661.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig662.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig663.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig664.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig665.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig666.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig667.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig668.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig669.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig670.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig671.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig672.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig673.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig674.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig675.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig676.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig677.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig678.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig679.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig680.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig681.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig682.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig683.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig684.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig685.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig686.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig687.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig688.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig689.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig690.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig691.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig692.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig693.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig694.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig695.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig696.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig697.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig698.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig699.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig700.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig701.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig702.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig703.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig704.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig705.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig706.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig707.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig708.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig709.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig710.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig711.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig712.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig713.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig714.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig715.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig716.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig717.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig718.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig719.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig720.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig721.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig722.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig723.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig724.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig725.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig726.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig727.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig728.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig729.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig730.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig731.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig732.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig733.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig734.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig735.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig736.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig737.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig738.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig739.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig740.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig741.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig742.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig743.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig744.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig745.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig746.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig747.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig748.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig749.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig750.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig751.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig752.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig753.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig754.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig755.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig756.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig757.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig758.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig759.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig760.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig761.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig762.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig763.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig764.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig765.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig766.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig767.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig768.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig769.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig770.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig771.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig772.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig773.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig774.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig775.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig776.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig777.png",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig778.jpeg",
+      "data/images/2016/2016-190329-160909-if-ciaf/fig779.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/190329-160909-if-ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "c28a38d80bd426773c978b387c0e0a5a",
+    "fecha_parseo": "2026-06-26T11:53:58.120151"
+  },
+  {
+    "id": "2016-180525160930ifsn_ciaf",
+    "expediente": "0043/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Descarrilamiento",
+    "fecha_suceso": "2016-09-30",
+    "hora_suceso": "21:26",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarrilado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Alvia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "excepto",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circuló",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "en",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "taller",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "PL294",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "auscultador",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "iba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "una",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "no",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "medidos",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "descarriló",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Mercancías",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.",
+      "factores_humanos": "Por parte de Renfe \nEl maquinista del tren 665, matrícula 8907024. \nPor parte de Adif \nEl jefe de circulación, jefe del CTC en el puesto de mando de Oviedo, matrícula 9748468.\n\nLos procedimientos se encuentran clasificados de la siguiente manera: \n- \nProcedimientos Generales: \nSon documentos que describen la forma de desarrollar ciertas actividades generales del SGSC, \nindicando responsabilidades, quién, cómo y cuándo se deben realizar. \n- \nProcedimientos Específicos: \nSon documentos que describen la forma de desarrollar ciertas actividades del SGSC, indicando \nresponsabilidades, quién, cómo y cuándo se deben realizar. \n- \nProcedimientos Operativos: \nSon documentos que describen la forma de desarrollar ciertas actividades del SGSC, específicas de las \nÁreas de actividad (Dirección General o Dirección), indicando responsabilidades, quién, cómo y cuándo \nse deben realizar. Estos documentos derivan de alguna de las actividades descritas en los \nProcedimientos Generales o Procedimientos Específicos y se elaboran por las Áreas de actividad de \nADIF a las que apliquen. \nDe interés en la investigación del presente suceso son los procedimientos del SGSC relativos a \n\n\nSe detallan seguidamente los procedimientos que, integrados en el Sistema de Gestión de la Seguridad \nde ADIF, pueden ser de más interés en la investigación de este suceso. \n\nDE FOMENTO \nnº 0043/2016 ocurrido el 30.09.2016 \nDE ACCIDENTES \nProcedimiento Operativo SGSC-PO-24.00.08 “Vigilancia del estado de la infraestructura y la vía”, de \njunio de 2015 \nEste procedimiento tiene por objeto definir la actividad de vigilancia del estado de la infraestructura y \nla superestructura de la vía para líneas de la RFIG de Red Convencional gestionadas por ADIF con \nvelocidades menores o iguales a 220 km/h. \nEs de aplicación a todos los trabajos de vigilancia de la vía que se realicen a pie o en cabina y en lo \nrelativo a las prospecciones y mediciones realizadas a mano. \nDefine las actividades destinadas a la vigilancia d",
+      "infraestructura": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.\n\nPor parte de Renfe \nEl maquinista del tren 665, matrícula 8907024. \nPor parte de Adif \nEl jefe de circulación, jefe del CTC en el puesto de mando de Oviedo, matrícula 9748468.\n\nEl suceso ocurrió dentro del túnel nº15 denominado “Canto del Estillero” de la línea 130 Gijón Sanz \nCrespo-Venta de Baños. Es una línea de vía única, ancho ibérico (1668 mm), electrificada a corriente \ncontinua (3,3 Kv), dispone de Bloqueo Automático de vía Única (B.A.U.) y Control de Tráfico \nCentralizado (C.T.C.) desde el Puesto de Mando de Oviedo. La línea está dotada del sistema ASFA y \nradiotelefonía en modalidad de explotación A (tren tierra), y es del tipo A-2. \nEl túnel nº 15 se encuentra ubicado entre las estaciones de Busdongo, que cuenta con enclavamiento \nelectrónico ALSTOM y la estación de Pajares, dotada de enclavamiento eléctrico también ALSTOM. \nAmbas estaciones disponen de mando local, aunque en el momento del suceso se encontraban en \nmando centralizado desde el CTC de Oviedo. \nEl suceso ocurrió dentro del túnel nº15 (Canto del Estillero) cuya boca sur (lado Busdongo) se \nencuentra en el p.k. 59+407 y la boca norte (lado Pajares) en el p.k. 59+648, según el sentido d\n\nComo consecuencia del accidente, la circulación en la vía quedó interrumpida totalmente entre las \nestaciones de Busdongo y Pajares durante 23 horas y 47 minutos: desde las 21:26 horas del \n30/09/2016 hasta las 21:13 horas del 1/10/2016, en que se restablece la circulación con una \nlimitación temporal (LTV) de 30 km/h, entre el p.k 58+950 y el p.k 59+720. \nSe vieron afectados 12 trenes: el tren 665 accidentado y se suprimieron 11 trenes (10 de viajeros y \nun mercancías). Los 200 viajeros del tren 4381 (suprimido en Busdongo) fueron transbordados por \ncarretera desde Busdongo a Gijón Sanz Crespo.\n\nLos equipos de seguridad del tren (freno, ASFA, etc) funcionaron correctamente. \nRegistrador de seguridad "
+    },
+    "conclusiones": "\n\nEl día 30 de septiembre de 2016 a las 21:26 horas, en plena vía (p.k. 59+505) y dentro del túnel \nnº15 (denominado Canto del Estillero) en el municipio de Lena (Asturias) en el trayecto entre las \nestaciones de Busdongo y Pajares, de la línea 130 Gijón Sanz Crespo-Venta de Baños, el tren Alvia \n(compuesto por material de la serie S-130 de Talgo-Bombardier rama 130043 formada por dos \ncabezas motrices y 11 coches) de viajeros de larga distancia 665 de la empresa ferroviaria Renfe \nViajeros proced\n\nLos sistemas de seguridad del tren 665 funcionaron correctamente. \nEl tren no superaba la velocidad máxima permitida cuando se produjo el descarrilamiento. \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. \nEl maquinista, al percatarse del descarrilamiento hizo uso del freno de urgencia. \n\nDE FOMENTO \nnº 0043/2016 ocurrido el 30.09.2016 \nDE ACCIDENTES \nLos valores de los parámetros de rodadura del tren m\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por fallo de la infraestructura, debido a la rotura previa del carril izquierdo \n(según el sentido de circulación del tren), debido a un defecto de fabricación del carril. \nComo factor coadyuvante se considera la situación de corrosión por las condiciones dentro del túnel y \nal tráfico pesado que circula por la línea, que produjeron fenómenos d",
+    "recomendaciones": [
+      {
+        "numero": "43/16-1",
+        "implementador": "Adif",
+        "destinatarios": "",
+        "texto": "Adoptar las medidas necesarias a nivel \nprocedimental, técnico y de equipos tanto \nhumanos como materiales, con el objeto \nde conocer, al realizar las auscultaciones \nultrasónicas de carril, incluyendo los \naparatos de vía, el estado interno de los \nmismos y detectar de manera eficaz los \ndefectos que puedan desembocar en una \nrotura posterior del carril. \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF)"
+      },
+      {
+        "numero": "43/16-2",
+        "implementador": "Adif",
+        "destinatarios": "",
+        "texto": "Adecuar \nel \ncontenido \nde \nlos \nprocedimientos \noperativos \nSGSC-PO-\n24.00.08 “Vigilancia del estado de la \ninfraestructura y la vía” y SGSC-PO-\n24.00.09 “Auscultación de vía en red \nconvencional” y de las normas NAV \nN.A.V. \n7-4-0.1. \n“Inspección \nde \nvía. \nCriterios de vigilancia de la vía” y la \nN.A.V. \n7-4-1.1. \n“Inspección \nde \nvía. \nOperaciones \nde \nvigilancia \nen \nlos \nrecorridos a pie”, de manera que no se \nproduzcan discrepancias entre unos y \notras."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. \nVíctimas mortales y heridos ...........................................................................................................14"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "descarrilamiento",
+      "factor humano",
+      "fatal",
+      "fatiga",
+      "formación",
+      "inundación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig00.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig01.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig02.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig03.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig04.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig05.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig06.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig07.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig08.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig09.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig10.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig11.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig12.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig13.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig14.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig15.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig16.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig17.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig18.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig19.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig20.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig21.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig22.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig23.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig24.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig25.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig26.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig27.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig28.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig29.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig30.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig31.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig32.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig33.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig34.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig35.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig36.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig37.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig38.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig39.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig40.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig41.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig42.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig43.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig44.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig45.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig46.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig47.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig48.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig49.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig50.jpeg",
+      "data/images/2016/2016-180525160930ifsn_ciaf/fig51.jpeg"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/180525160930ifsn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "400faef09f8735328e2d36867e0c7234",
+    "fecha_parseo": "2026-06-26T11:53:54.428839"
+  },
+  {
+    "id": "2016-180322161104ifsn_ciaf",
+    "expediente": "0056/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-11-04",
+    "hora_suceso": "20:45",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "CHESTE",
+      "provincia": "Valencia",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "para",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "reinicia",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "queda",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circulaba",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "es",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "estuvo",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Actuación",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "disponía",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "del",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "accidentado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "Lugar",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "detenido",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "fue",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "El día 04 de noviembre de 2016 a las 20:45 horas, el tren de cercanías 24443, procedente de Valencia \nNord y destino Buñol de la empresa ferroviaria Renfe Viajeros, se detiene entre las señales R2 y E2 de \nla estación de Cheste (Valencia), perteneciente a la línea 0310 Aranjuez a Valencia Font de Sant Lluís, al \npercatarse el maquinista de la existencia de un incendio en el coche de cola del tren. Con éste detenido \nel maquinista hace uso de los extintores del tren para sofocar el incendio y, al no conseguirlo, llama al \npuesto de mando para solicitar la presencia de los bomberos. \nComo consecuencia del accidente ninguno de los nueve viajeros resultó herido. \nConclusión: El accidente se produjo por fallo técnico del material rodante, siendo la presunta causa \ninicial la pérdida de un tornillo de sujeción de una brida que fijaba un tubo de alimentación lo que dio \nlugar a la pérdida de gasóleo en el motor M2, que sufrió el incendio. \nPropuesta de recomendaciones: \nDestinatario \nImplementador final \nNúmero \nRecomendación \nAgencia \nEstatal de \nSeguridad \nFerroviaria \nRenfe Viajeros \n56/16-1 \nInsistir en la formación de maquinistas en la \nnecesidad de comunicar al centro de gestión \ncorrespondiente cualquier anomalía detectada en \nel material, en cumplimiento del procedimiento \nRV-SGS-PE-SPG-14. \nAgencia \nEstatal de \nSeguridad \nFerroviaria \nRenfe Viajeros \n56/16-2 \nProfundizar en el análisis de las anomalías que \nprovocan pérdidas de combustible en este tipo de \nmaterial rodante (592) con el fin de adoptar \nmedidas adicionales (a las ya tomadas en 2012) \nque minimicen su número.",
+      "factores_humanos": "Por parte de Renfe Viajeros \nMaquinista del tren 24443 con matrícula 9710369.\n\nEl puesto de mando suspendió las circulaciones entre las estaciones de Cheste y Chiva, a las 21:21 \nhoras, procediendo a detener y apartar a las circulaciones que se dirigían hacia este trayecto. \nEl Jefe del CTC, el Regulador PM y el Técnico de Regulación se pusieron en contacto con los \ndepartamentos afectados activando los protocolos al efecto. \n\nA \nDE FOMENTO \nnº 0056/2016 ocurrido el 04.11.2016 \nDE ACCIDENTES \n\nEl tren 24548 queda detenido desde las 20:53 horas en la vía 1 de la estación de Chiva. El tren 24445 \nqueda detenido a las 22:12 horas en la vía 2 de la estación de Cheste. \nA las 22:49 horas quedó apartado el tren accidentado, con ayuda del tren 24445, y se procedió a \nrestablecer la circulación en condiciones normales.\n\nJornada laboral del maquinista del tren 24443: \n- el día 4: 7 horas y 11 minutos (3 horas y 21 minutos de conducción) \n- el día 3: descanso \n- el día 2: 7 horas y 2 minutos (59 minutos de conducción) \nAl maquinista no se le practica prueba de alcoholemia ni de detección de drogas.\n\nLos procedimientos que forman el SGS de Renfe Viajeros son: \n• \n21 Procedimientos Generales \n• \n18 Procedimientos Específicos \nLos 21 Procedimientos Generales desarrollan los procesos relativos a la seguridad y en ellos se \nestablecen las directrices, metodologías, modos de actuación y responsabilidades. \nDe los 18 Procedimientos Específicos, dos son relativos a la Gestión de los Riesgos de Naturaleza Técnica \ny Humana, desarrollan el contenido del Procedimiento General para la Gestión de los Riesgos, \nestableciendo la forma concreta de proceder o el modo de ejecutar actividades y acciones específicas.\n\nEl procedimiento que, integrando el SGS de Renfe Viajeros, puede ser de aplicación directa en la \ninvestigación de este suceso, es el “Procedimiento Específico de actuaciones a realizar al inicio y \nfinalización de los servicios de conducción. RV-SGS-PE-SPG-14 de fecha 05 de enero ",
+      "infraestructura": "Por parte de Renfe Viajeros \nMaquinista del tren 24443 con matrícula 9710369.\n\nLa estación de Cheste está situada en el PK 59+395 de la línea 310 de Aranjuez a Valencia - La Font de \nSant Lluís, provincia de Valencia. \nEl tramo de vía donde se ubica la estación es de vía única con BAU (Bloqueo Automático de Vía Única) y \nCTC (Control de Tráfico Centralizado) asignado al Puesto de Mando de Valencia. En el momento del \naccidente la estación de Cheste y sus colaterales se encontraban todas en mando central, gobernadas \npor el Jefe del CTC y sin personal de circulación de servicio. \nLa estación dispone de dos vías y, según el sentido de circulación del tren, la alineación de vía entre la \nseñal R2 (PK. 59+155) y la señal E2 (PK. 58+802) es en curva a derecha. (El tren queda detenido en \nPK. 58+934). \nSegún el cuadro de velocidades máximas, la velocidad máxima permitida por la infraestructura a su \npaso por el lugar del suceso es de 105 km/h por vía general, sin que exista ninguna limitación de \nvelocidad temporal o permanente en este tramo.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos) Tomo II de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Buñol, -V. Sant Isidre, tramo al que pertenece el punto \nkilométrico donde suceden los hechos, es de 373. \nEstas circulaciones se desglosan en: 42 de media distancia, 330 de cercanías y 1 de servicio.\n\nEl día 3/11/2016, anterior al del suceso, un maquinista del automotor 592.302 en el libro reparaciones \nrealizó la siguiente anotación: \"El motor 1 del c/502 está todo mojado de gasoil por la parte exterior del \nmotor y sale humo a veces\". \n\nPosteriormente al suceso, el personal de mantenimiento de Renfe Operadora verifica que el motor 1 del \nc/502 está en perfecto estado y no se corresponde con la anotación del libro del maquinista, por lo que \nésta debe corresponder al motor 2 del mismo coche, que es el que se incendia. \n\nA \nDE FOMENTO \nnº 0056/2016 ocurrido el 04.11.2016 \nDE ACCIDENTES\n\nLas ins"
+    },
+    "conclusiones": "\n\nLos hechos tuvieron lugar el día 4 de noviembre de 2016 a las \n20:45 horas en la estación de Cheste en la línea 310 de Aranjuez \na Valencia - La Font de Sant Lluís, provincia de Valencia. \nEl tren de cercanías 24443 de la empresa ferroviaria Renfe \nViajeros, procedente de Valencia Nord y destino Buñol, circula \ncon normalidad en su aproximación a la estación de Cheste. En \nésta, con un minuto de retraso sobre el horario previsto, realiza \nsu parada comercial a las 20:44:00 horas. \nTras 34 segund\n\nEl personal de conducción cumple la normativa vigente en cuanto a título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. Asimismo, la jornada laboral y los tiempos de conducción y \ndescanso cumplen con la normativa vigente. \nLos equipos de seguridad del material rodante funcionaron de modo correcto. \nLa velocidad del tren fue en todo momento inferior a la máxima permitida. \nDe la dotación de extintores del tren (seis) sólo se usaron por el maquinista tres. De los que uno no \n\n\nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \nEl accidente se produjo por fallo técnico del material rodante, siendo la presunta causa inicial la pérdida \nde un tornillo de sujeción de una brida que fijaba un tubo de alimentación lo que dio lugar a la pérdida \nde gasóleo en el motor M2, que sufrió el incendio. \n\nA \nDE FOMENTO \nnº 0056/2016 ocurrido el 04.11.2016 \nDE ACCIDENTES",
+    "recomendaciones": [
+      {
+        "numero": "56/16-1",
+        "implementador": "Destinatario \nImplementador final \nNúmero \nRecomendación \nAgencia \nEstatal de \nSeguridad \nFerroviaria \nRenfe Viajeros",
+        "destinatarios": "",
+        "texto": "Insistir en la formación de maquinistas en la \nnecesidad de comunicar al centro de gestión \ncorrespondiente cualquier anomalía detectada en \nel material, en cumplimiento del procedimiento \nRV-SGS-PE-SPG-14. \nAgencia \nEstatal de \nSeguridad \nFerroviaria \nRenfe Viajeros \n56/16-2 \nProfundizar en el análisis de las anomalías que \nprovocan pérdidas de combustible en este tipo de \nmaterial rodante (592) con el fin de adoptar \nmedidas adicionales (a las ya tomadas en 2012) \nque minimicen su número."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. \nVíctimas mortales y heridos ...........................................................................................................10"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "formación",
+      "incendio",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig00.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig01.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig02.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig03.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig04.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig05.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig06.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig07.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig08.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig09.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig10.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig11.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig12.jpeg",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig13.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig14.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig15.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig16.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig17.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig18.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig19.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig20.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig21.png",
+      "data/images/2016/2016-180322161104ifsn_ciaf/fig22.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/180322161104ifsn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "6d267af8edaa345bdfeea7522a967b89",
+    "fecha_parseo": "2026-06-26T11:53:54.151250"
+  },
+  {
+    "id": "2016-180718-161104-if-sn_ciaf",
+    "expediente": "0051/2016",
+    "tipo": "accidente",
+    "tipo_suceso": "Otro",
+    "fecha_suceso": "2016-11-04",
+    "hora_suceso": "21:36",
+    "year": 2016,
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "trenes": [
+      {
+        "id_tren": "ocupando",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "que",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "de",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "se",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "rebasa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "tierra",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "coge",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "está",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "circula",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "pasa",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "afectado",
+        "descripcion": ""
+      },
+      {
+        "id_tren": "sin",
+        "descripcion": ""
+      }
+    ],
+    "entidades": [
+      "Adif",
+      "RENFE",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "gravedad": "fatal",
+    "analisis": {
+      "resumen": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.",
+      "factores_humanos": "Por parte del administrador de infraestructuras, ADIF: \nEl jefe del CTC Barcelona, que se identifica como matrícula 8002321 \nEl jefe de circulación de L’ Hospitalet de Llobregat, que se identifica como matrícula 7786049 \nPor parte del operador, RENFE VIAJEROS: \nMaquinista de tren 25779, que se identifica como matrícula 9732389. \nMaquinista de tren 25752, que se identifica como matrícula 6837256. \n\nDE FOMENTO \nnº 0051/2016 ocurrido el 04.11.2016 \nACCIDENTES 18.07.18 -\n\nPersonal perteneciente al Administrador de Infraestructuras Ferroviarias, ADIF. \n- El jefe del CTC del Puesto de Mando de Barcelona, que se identifica como matrícula 8002321. Está en \nposesión de habilitación como responsable de circulación desde el 26.11.2009. Superó curso de \nreciclaje el 17.11.2015. Recibió formación para adaptación al RCF concluida el 17.11.17. \nHa resultado APTO en los reconocimientos de aptitud psicofísica practicados con fecha 24.02.2014, \nen vigor en la fecha del accidente, y adicional con motivo del mismo practicado con fecha 14.11.2016. \nSu próxima revisión psicofísica será con fecha 12.03.2019. \nEn el seguimiento normal su actividad profesional relativo a incidentes, se comprueba que no está \nrelacionado con ningún suceso hasta la fecha del accidente que se investiga. \nEl jefe del CTC del Puesto de Mando de Barcelona cumple los requisitos exigidos en la Orden \nFOM/2520/2006, de 27 de julio así como en la Orden FOM/2872/2010, de 5 de noviembre. \nPersonal pert\n\n- A las 21:36 horas, el maquinista de tren 25752 llama al agente de circulación de la estación de L’ \nHospitalet de Llobregat por modalidad C, y le comunica que está entrando a vía 4. El agente de \ncirculación le ordena detenerse inmediatamente y comunica la situación al jefe del CTC de Barcelona. \n- A las 21:37 horas, el jefe del CTC se pone en contacto con el agente de circulación y le pregunta si \nestá en comunicación con el maquinista del tren 25752, y ordenarle que pase al canal correspondiente \nde la modalidad A. ",
+      "infraestructura": "eral los \nadministradores de infraestructuras ferroviarias deberán disponer de una autorización de seguridad.\n\nPor parte del administrador de infraestructuras, ADIF: \nEl jefe del CTC Barcelona, que se identifica como matrícula 8002321 \nEl jefe de circulación de L’ Hospitalet de Llobregat, que se identifica como matrícula 7786049 \nPor parte del operador, RENFE VIAJEROS: \nMaquinista de tren 25779, que se identifica como matrícula 9732389. \nMaquinista de tren 25752, que se identifica como matrícula 6837256. \n\nDE FOMENTO \nnº 0051/2016 ocurrido el 04.11.2016 \nACCIDENTES 18.07.18 -\n\nTren de viajeros de cercanías 25752, propiedad de RENFE VIAJEROS, formado por material \nautopropulsado 465242, UIC nº 927164652426, tipo 120A (velocidad máxima de 120 km/hora) según \nLibro Horario 204 de 17 de Octubre de 2016. Estaba compuesto por 5 vehículos, 12 ejes, 98 metros de \nlongitud y 237 Tm de peso. \nTren de viajeros de cercanías 25779, propiedad de RENFE VIAJEROS, formado por los autopropulsados \n464211 y 464210, Tipo 120A según Libro Horario 204 de 17 de Octubre de 2016. Estaba compuesto por \n8 vehículos, 20 ejes, 160 metros de longitud y 352 Tm de peso.\n\nLa estación de L’ Hospitalet de Llobregat, se encuentra situada en el pk 095+106 de la línea 220 de Lleida \nPirineus – L’ Hospitalet de Llobregat. \nEl lugar donde se produce el accidente, está situado en un tramo de vía doble electrificada en la que la \ncirculación se realiza al amparo de Bloqueo Automático Banalizado con CTC (BAB con CTC) regulado desde \nel Puesto de Mando de Barcelona. El día del accidente, la estación se encontraba en mando central desde \nel CTC instalado en dicho Puesto de Mando \nEl control de señales y aparatos de vía se realiza mediante un enclavamiento electrónico tipo «Ebilock \n950», de tecnología «Bombardier Transportation». \nEn el sentido par, Barcelona Sants a L´ Hospitalet de Llobregat, la circulación por vía general, vía II, se \nencuentra protegida por las siguientes señales: \nSeñal E’1 avanzada insta"
+    },
+    "conclusiones": "4.1. DESCRIPCIÓN DEFINITIVA DE LOS ACONTECIMIENTOS \nEl accidente tiene lugar el día 4 de noviembre de 2016 a las 21:36 horas, en la estación de L’ Hospitalet \nde Llobregat, pk 95+106 de la línea 220 Lleida Pirineus a L’ Hospitalet de Llobregat, cuando el tren 25752 \nprocedente de Calella que circula por vía II, rebasa la señal de entrada E1 en indicación de parada, \ndespués de estar detenido ante ella, entra en la estación sin itinerario establecido, rebasa la señal de \nretroceso R1 también en indicación de parada y colisiona lateralmente con el tren 25779 que ha salido \nde vía 3 con itinerario establecido y destino Mataró y se encuentra detenido, por orden expresa de jefe \ndel CTC, en la travesía T47. \nEn el transcurso de la secuencia de eventos que dieron lugar al accidente la estación se encontraba \ntelemandada desde el CTC de Barcelona. \nInicialmente el Jefe del CTC había ordenado el establecimiento de un itinerario de rebase autorizado de \nla señal de entrada E1, a la vía 17 para tren 25752 que se encontraba detenido ante dicha señal en \nindicación de parada. \nDebido a que debía efectuar previamente la salida de tren 25779 de vía 3 al ser anterior por horario, el \njefe del CTC manda inmediatamente –antes de que el itinerario se haya establecido - su anulación con el \ncomando DAI (disolución artificial de itinerario) repetidas veces (hasta cinco veces). \nDurante el tiempo que transcurre entre la orden de establecimiento del itinerario y su disolución, se pone \nde manifiesto el comportamiento incorrecto del enclavamiento electrónico que da lugar a que la señal E1 \nde entrada a la estación y la señal de retroceso R1 permanezcan en indicación de parada con un único \ndestello blanco, de duración la del propio destello. Esta circunstancia induce al maquinista del tren 25752 \na error en la percepción de la señal de entrada provocando su rebase indebido y entrada en la estación \nsin itinerario establecido. \nEl enclavamiento no ha llegado a reconocer la apertura momentá",
+    "recomendaciones": [
+      {
+        "numero": "",
+        "implementador": "",
+        "destinatarios": "",
+        "texto": "conducción, \nsobre actuación de RENFE VIAJEROS en la investigación de accidentes e incidentes \nEl programa, que se aplicará al personal implicado en infracciones reglamentarias causantes de accidentes \no de incidentes graves repetitivos, consta de las siguientes fases: \n- Relevo del servicio. \n- Controles alcoholemia / psicotrópicos. \n- Constitución del equipo de apoyo. \n- Entrevista, con el equipo de apoyo. \n- Reciclaje: Consta de las siguientes actividades: \n- Curso individual de 16 horas, como mínimo, quedando a criterio del equipo de apoyo impartir, además, \nun módulo complementario teórico/práctico en el simulador de conducción, de 8 horas de duración. \n- Tutela de inicio de la actividad laboral en su puesto de trabajo, bajo la supervisión de un mando \nintermedio de conducción, el cual mediante el seguimiento de la actividad diaria y acompañamientos, \nal menos, en tres ocasiones durante un período de 30 días. \n- Dictamen sobre la valoración y aptitud del trabajador al cabo de 40 días del inicio de la actividad laboral \nemitido por el equipo de apoyo con las recomendaciones que se estimen oportunas, de cara a la fase \nsiguiente. \n\nDE FOMENTO \nnº 0051/2016 ocurrido el 04.11.2016 \nACCIDENTES 18.07.18 - - Seguimiento. Al cabo de 60 días del inicio de la actividad laboral, se realizará una nueva valoración \npara comprobar que se mantienen los parámetros identificados por el equipo de apoyo, cerrándose \nasí el proceso de tutela. \nSi en alguna de las etapas anteriores de reciclaje, tutela y seguimiento la valoración fuese contraria al \npase a la siguiente etapa, el equipo de apoyo determinará las medidas complementarias de refuerzo \npertinentes."
+      }
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "total_victimas": 0,
+      "danos_materiales": "2.3.1. Víctimas mortales y heridos ................................................................................................ 19"
+    },
+    "tags": [
+      "accidente",
+      "caída de tierra",
+      "colisión",
+      "descarrilamiento",
+      "factor humano",
+      "factor organizativo",
+      "fatal",
+      "fatiga",
+      "formación",
+      "mantenimiento",
+      "obras en cercanías",
+      "procedimiento",
+      "señalización"
+    ],
+    "imagenes": [
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig00.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig01.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig02.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig03.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig04.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig05.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig06.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig07.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig08.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig09.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig10.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig11.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig12.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig13.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig14.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig15.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig16.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig17.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig18.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig19.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig20.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig21.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig22.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig23.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig24.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig25.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig26.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig27.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig28.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig29.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig30.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig31.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig32.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig33.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig34.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig35.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig36.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig37.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig38.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig39.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig40.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig41.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig42.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig43.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig44.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig45.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig46.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig47.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig48.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig49.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig50.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig51.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig52.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig53.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig54.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig55.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig56.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig57.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig58.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig59.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig60.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig61.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig62.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig63.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig64.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig65.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig66.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig67.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig68.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig69.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig70.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig71.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig72.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig73.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig74.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig75.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig76.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig77.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig78.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig79.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig80.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig81.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig82.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig83.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig84.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig85.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig86.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig87.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig88.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig89.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig90.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig91.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig92.jpeg",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig93.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig94.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig95.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig96.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig97.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig98.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig99.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig100.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig101.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig102.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig103.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig104.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig105.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig106.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig107.png",
+      "data/images/2016/2016-180718-161104-if-sn_ciaf/fig108.png"
+    ],
+    "enlaces": {
+      "pdf_original": "pdfs/2016/180718-161104-if-sn_ciaf.pdf",
+      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+    },
+    "formato_normativo": "RD 623/2014",
+    "hash_pdf": "eb3091ce806628e0791d9e9c0c34ec9f",
+    "fecha_parseo": "2026-06-26T11:53:55.225457"
+  }
+]

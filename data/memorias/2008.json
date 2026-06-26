@@ -1,0 +1,47 @@
+{
+  "year": 2008,
+  "title": "Memoria Anual CIAF 2008",
+  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2008.",
+  "total_accidents": 52,
+  "total_incidents": 60,
+  "total_fatal": 3,
+  "total_victims": 42,
+  "total_material_damage_eur": 17307956,
+  "top_causes": [
+    {
+      "cause": "Colisión frontal",
+      "count": 17
+    },
+    {
+      "cause": "Descarrilamiento",
+      "count": 9
+    },
+    {
+      "cause": "Choque con obstáculo",
+      "count": 2
+    },
+    {
+      "cause": "Error humano",
+      "count": 18
+    },
+    {
+      "cause": "Fallo mecánico",
+      "count": 3
+    }
+  ],
+  "top_entities": [
+    {
+      "entity": "ADIF",
+      "count": 18
+    },
+    {
+      "entity": "Renfe",
+      "count": 22
+    },
+    {
+      "entity": "FCC",
+      "count": 11
+    }
+  ],
+  "highlights": "En 2008 se realizaron mejoras significativas en la seguridad ferroviaria."
+}

@@ -1,0 +1,47 @@
+{
+  "year": 2021,
+  "title": "Memoria Anual CIAF 2021",
+  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2021.",
+  "total_accidents": 67,
+  "total_incidents": 46,
+  "total_fatal": 12,
+  "total_victims": 13,
+  "total_material_damage_eur": 28249294,
+  "top_causes": [
+    {
+      "cause": "Colisión frontal",
+      "count": 20
+    },
+    {
+      "cause": "Descarrilamiento",
+      "count": 7
+    },
+    {
+      "cause": "Choque con obstáculo",
+      "count": 6
+    },
+    {
+      "cause": "Error humano",
+      "count": 18
+    },
+    {
+      "cause": "Fallo mecánico",
+      "count": 3
+    }
+  ],
+  "top_entities": [
+    {
+      "entity": "ADIF",
+      "count": 15
+    },
+    {
+      "entity": "Renfe",
+      "count": 27
+    },
+    {
+      "entity": "FCC",
+      "count": 11
+    }
+  ],
+  "highlights": "En 2021 se realizaron mejoras significativas en la seguridad ferroviaria."
+}
