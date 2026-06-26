@@ -864,7 +864,11 @@ function renderDashboard() {
     const fatal = filteredReports.filter(r => r.severity === 'fatal').length;
     const material = filteredReports.filter(r => r.material_damage).length;
     const yearsSet = new Set(filteredReports.map(r => r.year).filter(Boolean));
-    const entitiesSet = new Set(filteredReports.map(r => r.entity).filter(Boolean));
+    const entitiesSet = new Set();
+    filteredReports.forEach(r => {
+        if (r.entities && r.entities.length > 0) r.entities.forEach(e => entitiesSet.add(e));
+        else if (r.entity) entitiesSet.add(r.entity);
+    });
 
     document.getElementById('kpiTotal').textContent = total.toLocaleString('es-ES');
     document.getElementById('kpiVictims').textContent = victims.toLocaleString('es-ES');
