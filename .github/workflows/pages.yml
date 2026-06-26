@@ -27,10 +27,19 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Prepare deployment
+        run: |
+          mkdir -p deploy/data deploy/frontend
+          cp -r frontend/* deploy/frontend/
+          cp -r data/reports data/memorias data/train-tracks.geojson data/index.json data/relations.json deploy/data/
+          cp frontend/index.html deploy/index.html
+          cp frontend/css deploy/css -r
+          cp frontend/js deploy/js -r 2>/dev/null || true
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: 'deploy/'
 
       - name: Deploy to GitHub Pages
         id: deployment

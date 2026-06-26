@@ -355,12 +355,12 @@ function setupSearch() {
 // ===== LOAD DATA =====
 async function loadData() {
     try {
-        const indexResp = await fetch('../data/index.json');
+        const indexResp = await fetch('data/index.json');
         const indexData = await indexResp.json();
         const years = indexData.years_available || Object.keys(indexData.stats?.por_anio || {}).map(Number);
         for (const year of years) {
             try {
-                const resp = await fetch(`../data/reports/${year}.json`);
+                const resp = await fetch(`data/reports/${year}.json`);
                 if (resp.ok) {
                     const yearData = await resp.json();
                     // Map parser fields to frontend fields
@@ -455,7 +455,7 @@ function updateMapMarkers() {
 
 async function loadTrainTracks() {
     try {
-        const resp = await fetch('../data/train-tracks.geojson');
+        const resp = await fetch('data/train-tracks.geojson');
         if (!resp.ok) throw new Error('GeoJSON no encontrado');
         const data = await resp.json();
         
@@ -606,7 +606,7 @@ async function renderMemorias() {
     async function showMemoria(year) {
         if (!memoriaCache[year]) {
             try {
-                const resp = await fetch(`../data/memorias/${year}.json`);
+                const resp = await fetch(`data/memorias/${year}.json`);
                 if (resp.ok) memoriaCache[year] = await resp.json();
             } catch (e) { /* ignore */ }
         }
