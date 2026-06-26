@@ -1029,7 +1029,7 @@ function showDetailPanel(reportIdx) {
     const r = allReports[reportIdx];
     if (!r) return;
 
-    document.getElementById('detailTitle').textContent = `Informe ${r.expediente || r.id}`;
+    document.getElementById('detailTitle').textContent = r.titulo || `Informe ${r.expediente || r.id}`;
     document.getElementById('detailId').textContent = `ID: ${r.id}`;
 
     const body = document.getElementById('detailBody');
@@ -1040,7 +1040,7 @@ function showDetailPanel(reportIdx) {
     if (r.recommendations && r.recommendations.length > 0) {
         const recs = r.recommendations.map(rec => {
             if (typeof rec === 'string') return rec;
-            if (rec.texto) return (rec.numero ? `<strong>${rec.numero}:</strong> ` : '') + rec.texto;
+            if (rec.texto) return (rec.numero ? `<strong>${rec.numero}:</strong> ` : '') + escapeHtml(rec.texto);
             if (rec.text) return rec.text;
             return JSON.stringify(rec);
         }).filter(Boolean);
@@ -1053,7 +1053,7 @@ function showDetailPanel(reportIdx) {
     let conclusionsHtml = '<div class="detail-empty">No hay conclusiones disponibles.</div>';
     if (r.conclusions) {
         if (Array.isArray(r.conclusions) && r.conclusions.length > 0) {
-            const cons = r.conclusions.map(c => typeof c === 'string' ? c : (c.texto || c.text || JSON.stringify(c))).filter(Boolean);
+            const cons = r.conclusions.map(c => typeof c === 'string' ? escapeHtml(c) : escapeHtml(c.texto || c.text || JSON.stringify(c))).filter(Boolean);
             if (cons.length > 0) {
                 conclusionsHtml = `<ol class="detail-list conclusions">${cons.map(c => `<li>${truncateText(c, 500)}</li>`).join('')}</ol>`;
             }
@@ -1418,8 +1418,8 @@ function escapeHtml(text) {
 
 function truncateText(text, maxLen) {
     if (!text) return '';
-    if (text.length <= maxLen) return escapeHtml(text);
-    return escapeHtml(text.substring(0, maxLen)) + '…';
+    if (text.length <= maxLen) return text;
+    return text.substring(0, maxLen) + '…';
 }
 
 // ===== KEYBOARD SHORTCUTS =====
