@@ -27,20 +27,8 @@
       "resumen": "El día 25 de enero de 2016 a las 23:29 horas, en la estación de Elx Parc (Alicante) perteneciente a la\nlínea 336 El Reguerón a Alacant Terminal, el tren de mantenimiento de infraestructura EM485 formado\npor dos máquinas de vía (perfiladora 997130103051 y bateadora 997130345025) rebasa indebidamente\nla señal de entrada E1 y de retroceso R1, que se encontraban en indicación de parada, produciéndose\nun conato de colisión por alcance con el tren de viajeros 10171 de la empresa ferroviaria  Renfe\nVia",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1.\nDatos .................................................................................................................................................... 5\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 7\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1.\nPersonal ferroviario implicado ..........................................................."
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
-      "Causas  directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción del tren EM485 [compuesto por \nun agente de infraestructura, en funciones de maquinista con título de conducción A y por un operador \nde maquinaria de infraestructura].",
-      "Más concretamente por una falta de atención, dando lugar al rebase \nindebido de la señal de entrada E1 y de la de retroceso R1, que se encontraban ambas en indicación de \nparada, y al consecuente incumplimiento reglamentario.",
-      "4.3.2. Causas  subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna \n4.3.3.",
-      "Causas  relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n \n170331-160125-IF-CIAF.doc \n \n \n \n4.3.4.",
-      "Observaciones adicionales \nEl jefe del CTC no facilita el boletín de circulación y frenado al maquinista [agente de infraestructura, \nen funciones de maquinista con título de conducción A] contemplado en el artículo 529 del RGC y el \ntelefonema con los datos del tren contemplado en el artículo  305.2, sino que se lo facilita al conductor \n[operador de maquinaria de infraestructura] de la perfiladora.",
-      "El maquinista [agente de infraestructura, en funciones de maquinista con título de conducción A], es \nquien tiene la responsabilidad de ejercer la dirección de la marcha del tren EM485, y debe comunicar al \njefe del CTC que no dispone del boletín de circulación y frenado.",
-      "Él también debía recibir el telefonema \ncon los datos del tren y no el  conductor [operador de maquinaria de infraestructura] de la perfiladora."
-    ],
-    "recomendaciones": [
-      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \n \n \n \nConsiderando adecuadas las medidas adoptadas, por \nAdif, consistentes en: \n Aplicación \ndel \nProcedimiento \nde \nSuspensión, \nRevocación y Recuperación de Títulos Habilitantes. \nNo se establecen recomendaciones.    \n \n \n \n \nMadrid, 31 de marzo de 2017"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "incidente",
       "colisión",
@@ -60,25 +48,7 @@
       "2016-0014/2016",
       "2016-0036/2016",
       "2016-0027/2016"
-    ],
-    "date": "2016-01-25",
-    "station": "ELX PARC",
-    "province": "ALICANTE",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
-      "Causas  directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción del tren EM485 [compuesto por \nun agente de infraestructura, en funciones de maquinista con título de conducción A y por un operador \nde maquinaria de infraestructura].",
-      "Más concretamente por una falta de atención, dando lugar al rebase \nindebido de la señal de entrada E1 y de la de retroceso R1, que se encontraban ambas en indicación de \nparada, y al consecuente incumplimiento reglamentario.",
-      "4.3.2. Causas  subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna \n4.3.3.",
-      "Causas  relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n \n170331-160125-IF-CIAF.doc \n \n \n \n4.3.4.",
-      "Observaciones adicionales \nEl jefe del CTC no facilita el boletín de circulación y frenado al maquinista [agente de infraestructura, \nen funciones de maquinista con título de conducción A] contemplado en el artículo 529 del RGC y el \ntelefonema con los datos del tren contemplado en el artículo  305.2, sino que se lo facilita al conductor \n[operador de maquinaria de infraestructura] de la perfiladora.",
-      "El maquinista [agente de infraestructura, en funciones de maquinista con título de conducción A], es \nquien tiene la responsabilidad de ejercer la dirección de la marcha del tren EM485, y debe comunicar al \njefe del CTC que no dispone del boletín de circulación y frenado.",
-      "Él también debía recibir el telefonema \ncon los datos del tren y no el  conductor [operador de maquinaria de infraestructura] de la perfiladora."
-    ],
-    "recommendations": [
-      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \n \n \n \nConsiderando adecuadas las medidas adoptadas, por \nAdif, consistentes en: \n Aplicación \ndel \nProcedimiento \nde \nSuspensión, \nRevocación y Recuperación de Títulos Habilitantes. \nNo se establecen recomendaciones.    \n \n \n \n \nMadrid, 31 de marzo de 2017"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0012/2016",
@@ -148,22 +118,7 @@
       "2016-0021/2016",
       "2016-0056/2016",
       "2016-0043/2016"
-    ],
-    "date": "2016-03-15",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por fallo de la infraestructura, al producirse el desmoronamiento parcial de la \ntrinchera, ocasionando la ocupación de la caja de la vía por tierras y especialmente una roca de \ngrandes dimensiones que provocaron el descarrilamiento del tren por arrollamiento de obstáculo (las \npiedras de la trinchera).",
-      "Como factor coadyuvante se consideran los episodios de fuertes lluvias que tuvieron lugar en la zona \nlos días anteriores.",
-      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn las labores de vigilancia y mantenimiento no se pudo advertir la situación del estado de la trinchera.",
-      "El \ntramo \ndonde \nocurre \nel \ndesmoronamiento \nno \nestaba \nprotegido \ncon \ngunitado.",
-      "(Recomendación 12/16-1) \n4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
-      "MINISTERIO \nDE FOMENTO \nSUB \n170720-160315-IF-CIAF.doc"
-    ],
-    "recommendations": [
-      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n12/16-1 \nAnalizar la posibilidad de estabilizar toda \nla trinchera mediante la aplicación del \nsistema que se considere adecuado.",
-      "Madrid, 20 de julio de 2017"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0014/2016",
@@ -194,20 +149,7 @@
       "resumen": "El día 16 de marzo de 2016, a las 08:37 horas en la estación de Torrejón de Ardoz (Madrid) de la\nlínea 200 Madrid Chamartín a Barcelona Estación de Francia, se produce un conato de colisión\nentre el tren CGX44, de la empresa ferroviaria Continental Rail, y el tren de mercancías CGX89, de\nla empresa ferroviaria Acciona Rail Services, cuando éste último rebasa indebidamente la señal de\nsalida S1/3 de la estación que se encontraba en indicación de parada.\nComo consecuencia del incidente no se produ",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ................................................................................................................... 5\n2.1. SUCESO ................................................................................................................................................................. 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación y composición de equipo de investigación. ...................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO .......................................................................................................................... 8\n2.2.1. Personal ferroviario "
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción de tren CGX89, más \nconcretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida S1/3 que \nse encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
-      "Como causas coadyuvantes se apuntan la limitada experiencia del maquinista y también la posible \nfatiga, al llevar de servicio 11 horas 37 minutos en el momento el rebase, siendo de conducción 4 \nhoras y 26 minutos.",
-      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
-      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
-      "4.3.4. Observaciones adicionales \nSi bien se ha podido constatar la existencia dentro del SGS de Acciona Rail Services de un \nprocedimiento relativo a la gestión y control de los títulos habilitantes del personal ferroviario \n(PROC02_03), en éste no se recoge unos criterios generales que establezcan las diferentes acciones a \naplicar para la recuperación de las habilitaciones tras su suspensión por un fallo humano y en función \nde la gravedad de éste.",
-      "El objeto es conseguir un tratamiento uniforme en el proceso de reciclaje para \nla reincorporación, en su caso, del trabajador a su puesto de trabajo.",
-      "(Ver recomendación 14/2016-1). Asimismo, y tras una recomendación emitida por la CIAF en el  del suceso 28/2015, la \nAESF elaboró y publicó en noviembre de 2016 (con posterioridad a este suceso) la Recomendación \nTécnica 4/2016 sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario \ntras sucesos por fallo humano.",
-      "En dicha recomendación se establecen, entre otros aspectos,  los criterios para la suspensión de los \ntítulos habilitantes del personal ferroviario, que ya incluye el haber estado involucrado en un accidente \no incidente con indicios de infracción reglamentaria.",
-      "También recoge los procedimientos  para la \nrecuperación de dichos títulos, en función de programas de recuperación individualizados que \ncontemplan diferentes acciones según el caso.",
-      "Esta recomendación es una directriz para que las \nempresas dispongan dentro de sus SGS de los procedimientos pertinentes.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n170720-160316-IF-CIAF.doc"
-    ],
+    "conclusiones": [],
     "recomendaciones": [
       {
         "numero": "14/2016-1",
@@ -238,30 +180,7 @@
       "2016-0004/2016",
       "2016-0036/2016",
       "2016-0027/2016"
-    ],
-    "date": "2016-03-16",
-    "station": "TORREJÓN DE ARDOZ",
-    "province": "MADRID",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción de tren CGX89, más \nconcretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida S1/3 que \nse encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
-      "Como causas coadyuvantes se apuntan la limitada experiencia del maquinista y también la posible \nfatiga, al llevar de servicio 11 horas 37 minutos en el momento el rebase, siendo de conducción 4 \nhoras y 26 minutos.",
-      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
-      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
-      "4.3.4. Observaciones adicionales \nSi bien se ha podido constatar la existencia dentro del SGS de Acciona Rail Services de un \nprocedimiento relativo a la gestión y control de los títulos habilitantes del personal ferroviario \n(PROC02_03), en éste no se recoge unos criterios generales que establezcan las diferentes acciones a \naplicar para la recuperación de las habilitaciones tras su suspensión por un fallo humano y en función \nde la gravedad de éste.",
-      "El objeto es conseguir un tratamiento uniforme en el proceso de reciclaje para \nla reincorporación, en su caso, del trabajador a su puesto de trabajo.",
-      "(Ver recomendación 14/2016-1). Asimismo, y tras una recomendación emitida por la CIAF en el  del suceso 28/2015, la \nAESF elaboró y publicó en noviembre de 2016 (con posterioridad a este suceso) la Recomendación \nTécnica 4/2016 sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario \ntras sucesos por fallo humano.",
-      "En dicha recomendación se establecen, entre otros aspectos,  los criterios para la suspensión de los \ntítulos habilitantes del personal ferroviario, que ya incluye el haber estado involucrado en un accidente \no incidente con indicios de infracción reglamentaria.",
-      "También recoge los procedimientos  para la \nrecuperación de dichos títulos, en función de programas de recuperación individualizados que \ncontemplan diferentes acciones según el caso.",
-      "Esta recomendación es una directriz para que las \nempresas dispongan dentro de sus SGS de los procedimientos pertinentes.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n170720-160316-IF-CIAF.doc"
-    ],
-    "recommendations": [
-      "Destinatario  \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nAcciona Rail \nServices \n14/2016-1 \nQue se incluya en el SGS, mediante el \nprocedimiento PROC 02-03 o uno nuevo,  unos \ncriterios generales para la recuperación de los \ntítulos habilitantes suspendidos o revocados tras \nun fallo humano y en función de la gravedad de \néste, \nteniéndose \npara \nello \nen \ncuenta \nlo \nestablecido en la “Recomendación Técnica 4/2016 \nde la AESF sobre las actuaciones en relación con \nlos títulos habilitantes del personal ferroviario tras \nsucesos con fallo humano”.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n170720-160316-IF-CIAF.doc \n \n \n \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \n14/2016-2 \nQue se realice una evaluación a  la empresa ARS \nen lo referente al tratamiento que viene \nrealizando a su personal de conducción tras \nsucesos que inciden en la seguridad de la \ncirculación ferroviaria.",
-      "Madrid, 20 de julio de 2017"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0010/2016",
@@ -311,11 +230,7 @@
       "actuación de envergadura para la mejora",
       "Madrid, 19 de septiembre de 2017"
     ],
-    "recomendaciones": [
-      "Destinatario \nImplementador final Número \nRecomendación \nAGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nADMINISTRADOR \nDE \nINFRAESTRUCTURAS \nFERROVIARIAS (ADIF) \n10/2016 - 1 \nDado el elevado tráfico de mercancías en \nel tramo unido a la accidentalidad que \nsoporta, \nse \ndebe \nreconsiderar \nuna \nactuación de envergadura en la zona, \ntendente \na \nla \nrenovación \nde \nlas \ncaracterísticas \nde \nla \ninfraestructura \n(drenaje) y superestructura que permitan \nla circulación segura.",
-      "AGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nADMINISTRADOR \nDE \nINFRAESTRUCTURAS \nFERROVIARIAS (ADIF) \n10/2016 - 2 \nCumplimiento riguroso en la línea 210, y \nprincipalmente en el tramo Flix-Reus, de \nlo establecido en el SGS en lo referente a \nla periodicidad de las auscultaciones de \nvía y de las visitas de vigilancia a pie y en \ncabina, actuando en consecuencia, y al \nmenos hasta que no se proceda a una \nactuación de envergadura para la mejora \ndel tramo.",
-      "Madrid, 19 de septiembre de 2017"
-    ],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "descarrilamiento",
@@ -336,16 +251,7 @@
       "2016-0056/2016",
       "2016-0043/2016",
       "2016-0051/2016"
-    ],
-    "date": "2016-01-23",
-    "station": "ASCÓ",
-    "province": "TARRAGONA",
-    "recommendations": [
-      "Destinatario \nImplementador final Número \nRecomendación \nAGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nADMINISTRADOR \nDE \nINFRAESTRUCTURAS \nFERROVIARIAS (ADIF) \n10/2016 - 1 \nDado el elevado tráfico de mercancías en \nel tramo unido a la accidentalidad que \nsoporta, \nse \ndebe \nreconsiderar \nuna \nactuación de envergadura en la zona, \ntendente \na \nla \nrenovación \nde \nlas \ncaracterísticas \nde \nla \ninfraestructura \n(drenaje) y superestructura que permitan \nla circulación segura.",
-      "AGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nADMINISTRADOR \nDE \nINFRAESTRUCTURAS \nFERROVIARIAS (ADIF) \n10/2016 - 2 \nCumplimiento riguroso en la línea 210, y \nprincipalmente en el tramo Flix-Reus, de \nlo establecido en el SGS en lo referente a \nla periodicidad de las auscultaciones de \nvía y de las visitas de vigilancia a pie y en \ncabina, actuando en consecuencia, y al \nmenos hasta que no se proceda a una \nactuación de envergadura para la mejora \ndel tramo.",
-      "Madrid, 19 de septiembre de 2017"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0021/2016",
@@ -443,30 +349,7 @@
       "2016-0056/2016",
       "2016-0043/2016",
       "2016-0051/2016"
-    ],
-    "date": "2016-04-17",
-    "station": "HERNANI",
-    "province": "GUIPÚZCOA",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se\nconcluye que:\n4.3.1.",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con\nlas acciones de las personas implicadas o las condiciones del material rodante o de las\ninstalaciones técnicas\nEl accidente se produjo por fallo de las instalaciones de seguridad y más concretamente del circuito\nde vía CVA4, al no detectar éste la presencia del último vagón del tren 82692 estacionado sobre él y\nrebasando el piquete de las vías 2-4.",
-      "La no ocupación eléctrica del mencionado circuito permitió que\nel enclavamiento estableciera un nuevo itinerario aún estando en realidad ocupado uno de sus\ncircuitos de vía.",
-      "Como factor coadyuvante, el jefe del CTC no comprobó que la vía 4 tiene una longitud menor a la del\ntren.",
-      "De haberse cerciorado de esta circunstancia no hubiera previsto su estacionamiento en ella.",
-      "Por\notro lado, el jefe del CTC incumple el artículo 315 del RGC, al no comprobar de forma fehaciente la\nliberación del circuito de vía CVA4, máxime al tratarse de una vía de poco uso.",
-      "(Ver Recomendación\n21/2016-1). A\nMINISTERIO\nDE FOMENTO\nSUB\n171017-160417-IF-SN-CIAF.doc\n\n4.3.2.",
-      "Causas\nsubyacentes\nrelacionadas\ncon\nlas\ncualificaciones\ndel\npersonal\nferroviario\ny\nel\nmantenimiento del material rodante o de la infraestructura ferroviaria\nLos carriles de la vía 4 desde su inicio en la aguja 6, que corresponden al circuito de vía CVA4,\npresentaban signos de fuerte oxidación, por ser una vía poco utilizada y no haber sido objeto de\nlimpieza y/o especial atención con anterioridad, lo que provocó la falta de shuntado en dicho circuito.",
-      "Esta circunstancia puede darse en otros desvíos existentes en la red ferroviaria, sin tener constancia\nque se hayan realizado revisiones a la fecha de este in"
-    ],
-    "recommendations": [
-      "Destinatario\nImplementa\ndor final\nNúmero\nRecomendación\nAgencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-1\nEn\nlos\ncursos\nde\nreciclaje\nimpartidos\nal\npersonal que interviene en la circulación,\ninsistir en la necesidad de verificar de forma\nfehaciente\nla\nliberación\nde\nlos\ncircuitos\neléctricos existentes en vías poco utilizadas.",
-      "Insistir también en verificar la longitud de las\nvías de estacionamiento y la de los trenes al\nser estacionados en éstas.",
-      "Agencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-2\nEstablecer un plan de inspección del óxido\nexistente en los desvíos de la red ferroviaria\nque\ndan\nacceso\ndesde\nvía\ngeneral\na\ndesviadas, comprobando donde sea necesario\nel correcto shuntado de los circuitos de vía,\nprocediendo en su caso a su limpieza con el\nfin\nde\nrestablecer\nlas\ncondiciones\nque\npermitan circular con seguridad.",
-      "A\nMINISTERIO\nDE FOMENTO\nSUB\n171017-160417-IF-SN-CIAF.doc\n\nAgencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-3\nDentro del SGS de Adif, que se incluya en el\nProcedimiento “Vigilancia del estado de la\ninfraestructura y vía (SGSC-PO-24.00.08)” el\nexceso de óxido en la vía (principalmente en\nlos\ndesvíos\nde\nvías\ngenerales\ny\nvías\nsecundarias incluidas en el enclavamiento)\ncomo un elemento más a revisar y tratar en\nsu\ncaso,\ncon\nel\nfin\nde\nimpedir\nposibles\ndefectos de shuntado.",
-      "Agencia Estatal\nde Seguridad\nFerroviaria (AESF)\nAdif\n21/2016-4\nDentro del SGS de Adif, que se incluya un\nprocedimiento\npara\nla\nvigilancia\ny\nmantenimiento de los circuitos de vía que\npermita\nla\ndetección\nde\nproblemas\nde\nasuntado, tanto en la situación de circuito\nlibre\ncomo\nocupado\n(con\ntren\nshunt\naplicado).",
-      "Madrid. 17 de octubre de 2017"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0036/2016",
@@ -552,19 +435,7 @@
       "2016-0014/2016",
       "2016-0027/2016",
       "2016-0043/2016"
-    ],
-    "date": "2016-07-18",
-    "station": "BOÑAR (LEÓN)",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se\nconcluye que:\n4.3.1.",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes\nrelacionados con las acciones de las personas implicadas o las condiciones del\nmaterial rodante o de las instalaciones técnicas\nEl incidente se produjo por fallo humano del personal de conducción (jefe de maquinistas) de la\nmaniobra UT 2903, y más concretamente por una falta de atención en la conducción, que produjo el\nrebase indebido del límite de maniobras de la estación de Boñar por aplicación tardía del freno,\nocupando el cantón en el cual estaba establecido bloqueo telefónico para la llegada a Boñar del tren"
-    ],
-    "recommendations": [
-      "Destinatario\nImplementador\nfinal\nNúmero\nRecomendación\nAgencia Estatal de\nSeguridad\nFerroviaria (AESF)\nRenfe Operadora\n36/16-1\nEn los cursos de formación y reciclaje a\nmaquinistas, insistir en la necesidad de\ncumplir con las limitaciones de velocidad\nestablecidas\npara\nla\nrealización\nde\nmaniobras en estaciones.",
-      "Agencia Estatal de\nSeguridad\nFerroviaria (AESF)\nAdif\n36/16-2\nEn los cursos de formación y reciclaje\nde jefes de circulación, insistir en la\nnecesidad de conocer con precisión las\nmaniobras a realizar por el material\nmóvil a su cargo y no permitir aquellas\nque\npuedan\nprovocar\nsituaciones\nno\nseguras.",
-      "Madrid, 17 de octubre de 2017"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0027/2016",
@@ -630,11 +501,7 @@
       "2016-0014/2016",
       "2016-0036/2016",
       "2016-0051/2016"
-    ],
-    "date": "2016-05-28",
-    "station": "VILANOVA I LA GELTRÚ",
-    "province": "BARCELONA",
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0056/2016",
@@ -665,14 +532,7 @@
       "resumen": "El día 04 de noviembre de 2016 a las 20:45 horas, el tren de cercanías 24443, procedente de Valencia\nNord y destino Buñol de la empresa ferroviaria Renfe Viajeros, se detiene entre las señales R2 y E2 de\nla estación de Cheste (Valencia), perteneciente a la línea 0310 Aranjuez a Valencia Font de Sant Lluís, al\npercatarse el maquinista de la existencia de un incendio en el coche de cola del tren. Con éste detenido\nel maquinista hace uso de los extintores del tren para sofocar el incendio y, al no ",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 7\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado"
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
-      "Causas  directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \nEl accidente se produjo por fallo técnico del material rodante, siendo la presunta causa inicial la pérdida \nde un tornillo de sujeción de una brida que fijaba un tubo de alimentación lo que dio lugar a la pérdida \nde gasóleo en el motor M2, que sufrió el incendio.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n \n180322-161104-IF_CIAF.doc \n \n \n \n4.3.2.",
-      "Causas  subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nComo causa subyacente se indica el hecho de haber existido varios sucesos relacionados con incendio o \npérdidas de gasoil en este tipo de material, principalmente ocurridos en la zona de Levante, sin que \nhasta el momento se hayan tomado acciones totalmente eficaces que resuelvan este tipo de averías.",
-      "(Recomendación 56/16-2) \n4.3.3. Causas  relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNo se puede constatar que se diera aviso a la empresa responsable del mantenimiento de la anomalía \ndetectada el día anterior (pérdida de gasóleo), y que provocó el suceso, incumpliéndose lo establecido \nen el procedimiento RV-SGS-PE-SPG-14.",
-      "(Recomendación 56/16-1) \n \n4.3.4. Observaciones adicionales \nLa anomalía detectada el día anterior (pérdida de gasóleo) por un maquinista fue anotada en el libro de \nreparaciones de forma errónea, al confundirse dicho maquinista de motor."
-    ],
+    "conclusiones": [],
     "recomendaciones": [
       {
         "numero": "56/16-1",
@@ -706,19 +566,7 @@
       "2016-0021/2016",
       "2016-0043/2016",
       "2016-0051/2016"
-    ],
-    "date": "2016-11-04",
-    "station": "CHESTE",
-    "province": "VALENCIA",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
-      "Causas  directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \nEl accidente se produjo por fallo técnico del material rodante, siendo la presunta causa inicial la pérdida \nde un tornillo de sujeción de una brida que fijaba un tubo de alimentación lo que dio lugar a la pérdida \nde gasóleo en el motor M2, que sufrió el incendio.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n \n180322-161104-IF_CIAF.doc \n \n \n \n4.3.2.",
-      "Causas  subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nComo causa subyacente se indica el hecho de haber existido varios sucesos relacionados con incendio o \npérdidas de gasoil en este tipo de material, principalmente ocurridos en la zona de Levante, sin que \nhasta el momento se hayan tomado acciones totalmente eficaces que resuelvan este tipo de averías.",
-      "(Recomendación 56/16-2) \n4.3.3. Causas  relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNo se puede constatar que se diera aviso a la empresa responsable del mantenimiento de la anomalía \ndetectada el día anterior (pérdida de gasóleo), y que provocó el suceso, incumpliéndose lo establecido \nen el procedimiento RV-SGS-PE-SPG-14.",
-      "(Recomendación 56/16-1) \n \n4.3.4. Observaciones adicionales \nLa anomalía detectada el día anterior (pérdida de gasóleo) por un maquinista fue anotada en el libro de \nreparaciones de forma errónea, al confundirse dicho maquinista de motor."
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0043/2016",
@@ -730,7 +578,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2016-09-30",
     "ubicacion": {
-      "estacion": "Busdongo el tren taller de León y en la estación",
+      "estacion": "Busdongo",
       "provincia": "León",
       "lat": 42.5981,
       "lng": -5.5667
@@ -795,24 +643,7 @@
       "2016-0021/2016",
       "2016-0036/2016",
       "2016-0056/2016"
-    ],
-    "date": "2016-09-30",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se \nconcluye que: \n4.3.1.",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por fallo de la infraestructura, debido a la rotura previa del carril izquierdo \n(según el sentido de circulación del tren), debido a un defecto de fabricación del carril.",
-      "Como factor coadyuvante se considera la situación de corrosión por las condiciones dentro del túnel y \nal tráfico pesado que circula por la línea, que produjeron fenómenos de fatiga en el carril ocasionando \nuna fisura longitudinal entre la cabeza y el alma que fue progresando hasta llegar a la rotura del \nmismo.",
-      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn las labores de vigilancia (a pie y en cabina) llevadas a cabo conforme al procedimiento operativo \nSGSC-PO-24.00.08  no se detectaron las anomalías presentes en el carril que desembocaron en la \nrotura del mismo.",
-      "Asimismo, en la auscultación ultrasónica de la vía realizada conforme a lo \n\n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n180525-160930-IF-SN_CIAF.doc \n \n \n \nestablecido en el procedimiento operativo SGSC-PO-24.00.09, no se detectó la anomalía en el estado \ninterno del carril que ocasionó la rotura del mismo.",
-      "4.3.3. Causas raíces relacionadas con las condiciones del marco normativo y la aplicación \ndel sistema de gestión de la seguridad \nEl procedimiento operativo SGSC-PO-24.00.09 de junio de 2015 “Auscultación de vía en Red \nConvencional” determina la manera de realizar las auscultaciones ultrasón"
-    ],
-    "recommendations": [
-      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n43/16-1 \nAdoptar las medidas necesarias a nivel \nprocedimental, técnico y de equipos tanto \nhumanos como materiales, con el objeto \nde conocer, al realizar las auscultaciones \nultrasónicas de carril, incluyendo los \naparatos de vía, el estado interno de los \nmismos y detectar de manera eficaz los \ndefectos que puedan desembocar en una \nrotura posterior del carril.",
-      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n43/16-2 \nAdecuar \nel \ncontenido \nde \nlos \nprocedimientos \noperativos \nSGSC-PO-\n24.00.08 “Vigilancia del estado de la \ninfraestructura y la vía” y SGSC-PO-\n24.00.09 “Auscultación de vía en red \nconvencional” y de las normas  NAV \nN.A.V.",
-      "7-4-0.1. “Inspección \nde \nvía. Criterios de vigilancia de la vía” y la \nN.A.V.",
-      "7-4-1.1. “Inspección \nde \nvía. Operaciones \nde \nvigilancia \nen \nlos \nrecorridos a pie”, de manera que no se \nproduzcan discrepancias entre unos y \notras.",
-      "Madrid, 25 de mayo de 2018"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0051/2016",
@@ -888,11 +719,7 @@
       "2016-0021/2016",
       "2016-0027/2016",
       "2016-0056/2016"
-    ],
-    "date": "2016-11-04",
-    "station": "L’ HOSPITALET DE LLOBREGAT",
-    "province": "BARCELONA",
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2016-0041/2016",
@@ -924,14 +751,7 @@
       "descripcion": ""
     },
     "conclusiones": [],
-    "recomendaciones": [
-      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nCP / RENFE \nVIAJEROS \n41/2016 - 1 \nEn los procesos de formación se deberá \nhacer especial hincapié en las actuaciones  \nante situaciones distintas de las habituales, \nasí como a las diferencias entre los sistemas \nde señalización y de ayuda a la conducción \nde España y Portugal.",
-      "Estas acciones \nformativas deben ser tanto teóricas como \nprácticas, incluyendo recorridos en la línea y \nsituaciones no habituales, con objeto de \nreducir el riesgo de creación de rutinas.",
-      "AGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nCP / RENFE \nVIAJEROS \n41/2016 - 2 \nRENFE y CP deberán considerar, desde el \npunto \nde \nvista \nde \nla \nseguridad, \nla \nconveniencia de que los maquinistas del \n“Tren Celta” presten el servicio con mayor \nfrecuencia, con objeto de afianzar su \nconocimiento de las circunstancias de \nconducción por la línea.",
-      "También debe \nevaluarse la conveniencia de que realicen \nrecorridos \nacompañados \ncon \nmayor \nfrecuencia.",
-      "AGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nCP / RENFE \nVIAJEROS \n41/2016 - 3 \nRENFE y CP deberán revisar los Estudios de \nSeguridad para la evaluación de riesgos \noperacionales del servicio del “Tren Celta”, \npara incorporar los hallazgos y enseñanzas \nderivadas de la investigación de este \naccidente, analizando especialmente los \naspectos relacionados con el factor humano \nen la conducción y considerando el nuevo \nmarco normativo.",
-      "AGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nAESF \n41/2016 - 4 \nEstablecer \ne \nimpulsar \nguías \ny \nrecomendaciones que definan y detallen a \nlas empresas operadoras (RENFE/CP) la \nforma de proceder en los análisis de riesgos \noperacionales, para la determinación de las \nactuaciones (mitigaciones) necesarias a \nrealizar para la aceptación del riesgo en la \nconducción de trenes por diferentes países, \nprestando \nespecial \natención \nal \nfactor \nhumano y a la incorporación de los hallazgos \ny en"
-    ],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "paso a nivel",
@@ -956,16 +776,6 @@
       "2016-0021/2016",
       "2016-0056/2016",
       "2016-0043/2016"
-    ],
-    "date": "2016-09-09",
-    "recommendations": [
-      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nCP / RENFE \nVIAJEROS \n41/2016 - 1 \nEn los procesos de formación se deberá \nhacer especial hincapié en las actuaciones  \nante situaciones distintas de las habituales, \nasí como a las diferencias entre los sistemas \nde señalización y de ayuda a la conducción \nde España y Portugal.",
-      "Estas acciones \nformativas deben ser tanto teóricas como \nprácticas, incluyendo recorridos en la línea y \nsituaciones no habituales, con objeto de \nreducir el riesgo de creación de rutinas.",
-      "AGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nCP / RENFE \nVIAJEROS \n41/2016 - 2 \nRENFE y CP deberán considerar, desde el \npunto \nde \nvista \nde \nla \nseguridad, \nla \nconveniencia de que los maquinistas del \n“Tren Celta” presten el servicio con mayor \nfrecuencia, con objeto de afianzar su \nconocimiento de las circunstancias de \nconducción por la línea.",
-      "También debe \nevaluarse la conveniencia de que realicen \nrecorridos \nacompañados \ncon \nmayor \nfrecuencia.",
-      "AGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nCP / RENFE \nVIAJEROS \n41/2016 - 3 \nRENFE y CP deberán revisar los Estudios de \nSeguridad para la evaluación de riesgos \noperacionales del servicio del “Tren Celta”, \npara incorporar los hallazgos y enseñanzas \nderivadas de la investigación de este \naccidente, analizando especialmente los \naspectos relacionados con el factor humano \nen la conducción y considerando el nuevo \nmarco normativo.",
-      "AGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nAESF \n41/2016 - 4 \nEstablecer \ne \nimpulsar \nguías \ny \nrecomendaciones que definan y detallen a \nlas empresas operadoras (RENFE/CP) la \nforma de proceder en los análisis de riesgos \noperacionales, para la determinación de las \nactuaciones (mitigaciones) necesarias a \nrealizar para la aceptación del riesgo en la \nconducción de trenes por diferentes países, \nprestando \nespecial \natención \nal \nfactor \nhumano y a la incorporación de los hallazgos \ny en"
-    ],
-    "severity": "fatal"
+    ]
   }
 ]

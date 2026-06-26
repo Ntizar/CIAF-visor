@@ -9,7 +9,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2024-12-13",
     "ubicacion": {
-      "estacion": "León Clasificación (León) el 13 de diciembre de",
+      "estacion": "León Clasificación",
       "provincia": "León",
       "lat": 42.5981,
       "lng": -5.5667
@@ -78,14 +78,7 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2024/2024-122-1213-if.pdf"
     },
-    "similares": [],
-    "date": "2024-12-13",
-    "station": "León Clasificación",
-    "province": "León",
-    "conclusions": [
-      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 8 Árbol causal del suceso \nFactor causal"
-    ],
-    "severity": "leve"
+    "similares": []
   },
   {
     "id": "2024-64/2024",
@@ -191,13 +184,7 @@
     },
     "similares": [
       "2024-0055/2017"
-    ],
-    "date": "2024-06-25",
-    "station": "Cuenca-Fernando Zób",
-    "conclusions": [
-      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 6 Árbol causal del suceso \nFactores causales"
-    ],
-    "severity": "grave"
+    ]
   },
   {
     "id": "2024-0055/2017",
@@ -308,13 +295,6 @@
     },
     "similares": [
       "2024-64/2024"
-    ],
-    "date": "2024-10-29",
-    "station": "Álora",
-    "province": "Málaga",
-    "conclusions": [
-      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 10 Árbol causal del suceso \nFactor causal"
-    ],
-    "severity": "fatal"
+    ]
   }
 ]

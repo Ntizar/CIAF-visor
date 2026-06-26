@@ -9,7 +9,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2007-12-18",
     "ubicacion": {
-      "estacion": "Guillarei en condiciones normales a la circulación",
+      "estacion": "Guillarei",
       "provincia": "León",
       "lat": 42.0705,
       "lng": -8.6368
@@ -27,13 +27,8 @@
       "resumen": "El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P.K.\n165,160 se produce el arrollamiento de una persona por vagoneta de electrificación de Mantenimiento\nde Infraestructura de Adif. La víctima resultó herida de gravedad falleciendo posteriormente en el\nhospital.\nConclusión: el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no\nhabilitado para ello cuando se acercaba el tren.\nRecomendaciones: No se establecen recomendacione",
       "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n18.12.07./ 14:10\nLugar:\nP.K. 165,160, plena vía, entre las estaciones de Louredo Valos y\nRedondela\nLínea:\n810 Monforte de Lemos-Vigo (Red Ferroviaria de Interés General\nadministrada por Adif)\nTrayecto:\nGuillarei-Redondela\nProvincia:\n\nPontevedra\nLa vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; tren GY259, a su paso\npor el P.K. 165,160, de la línea 810 Monforte de Lemos-Vigo; arrolla a una persona que cruzaba las\nvías, de izquierda a derecha (sentido de la marcha del tren) por un lugar no autorizado para ello. El\nmaquinista, viendo que una persona cruzaba al paso del tren, hace sonar la bocina repetidamente y\nacciona el freno sin evitar arrollar a la víctima que quedó herida, tendida fuera del gálibo de la vía, en\nel lado derecho sentido de la marcha del tren.\nLa víctima, aún con vida, es atendida primero por el maquinista y el personal de servicio de la\nvagoneta para posteriormente, a las 14:20 horas, ser evacuada al hospital donde hora"
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que:",
-      "el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no \nhabilitado para ello cuando se acercaba el tren."
-    ],
-    "recomendaciones": [
-      "No se establecen recomendaciones. \n \n \n \n \n \n \nMadrid, 23 de mayo de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0062/2007 \nOCURRIDO EL DÍA 18.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n23 de mayo de 2008, analizado el expediente del accidente 62/2007, acaecido en plena vía, \nentre las estaciones de Louredo Valos y Redondela el 18/12/2007, se aprueba como definitivo el \ninforme particular presentado por el técnico investigador, entendiendo que la recomendación \ndeberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria \nde Interés General y la subsiguiente planificación de actuaciones a nivel global. \n \n \n \n \nMadrid, 23 de mayo de 2008"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "paso a nivel",
@@ -52,16 +47,7 @@
       "2007-063/2007",
       "2007-064/2007",
       "2007-065/2007"
-    ],
-    "date": "2007-12-18",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que:",
-      "el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no \nhabilitado para ello cuando se acercaba el tren."
-    ],
-    "recommendations": [
-      "No se establecen recomendaciones. \n \n \n \n \n \n \nMadrid, 23 de mayo de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0062/2007 \nOCURRIDO EL DÍA 18.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n23 de mayo de 2008, analizado el expediente del accidente 62/2007, acaecido en plena vía, \nentre las estaciones de Louredo Valos y Redondela el 18/12/2007, se aprueba como definitivo el \ninforme particular presentado por el técnico investigador, entendiendo que la recomendación \ndeberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria \nde Interés General y la subsiguiente planificación de actuaciones a nivel global. \n \n \n \n \nMadrid, 23 de mayo de 2008"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2007-063/2007",
@@ -113,10 +99,7 @@
       "remodelación de la Estación de Salou, con el fin de adecuar ésta a las necesidades que conlleva",
       "el nuevo trazado ferroviario de conexión del corredor mediterráneo con la Línea de Alta"
     ],
-    "recomendaciones": [
-      "Se recomienda:",
-      "Constatado por el agente territorial, adscrito al equipo investigador, que se ha reparado el \nvallado, se recomienda su mantenimiento. \n \n \n \n \nMadrid, 29 de abril de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0063/2007 \nOCURRIDO EL DÍA 21.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 29 de abril \nde 2008, analizado el expediente del accidente 63/2007, acaecido en la estación de Salou el \n21/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador, \naceptando como razonable la recomendación que figura en el mismo:  \nConstatado por el agente territorial, adscrito al equipo investigador, que se ha reparado el vallado, \nse recomienda su mantenimiento. \n \n \n \n \nMadrid, 29 de abril de 2008"
-    ],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "arrollamiento",
@@ -136,17 +119,7 @@
       "2007-0062/2007",
       "2007-064/2007",
       "2007-065/2007"
-    ],
-    "date": "2007-12-21",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la investigación \nconcluye que:",
-      "El accidente tuvo su origen en el cruce de las vías por la víctima – sin hacer caso a las \nindicaciones de atención que figuran en el andén- en el momento en que el tren citado llegaba a la \nestación."
-    ],
-    "recommendations": [
-      "Se recomienda:",
-      "Constatado por el agente territorial, adscrito al equipo investigador, que se ha reparado el \nvallado, se recomienda su mantenimiento. \n \n \n \n \nMadrid, 29 de abril de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0063/2007 \nOCURRIDO EL DÍA 21.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 29 de abril \nde 2008, analizado el expediente del accidente 63/2007, acaecido en la estación de Salou el \n21/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador, \naceptando como razonable la recomendación que figura en el mismo:  \nConstatado por el agente territorial, adscrito al equipo investigador, que se ha reparado el vallado, \nse recomienda su mantenimiento. \n \n \n \n \nMadrid, 29 de abril de 2008"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2007-064/2007",
@@ -176,14 +149,8 @@
       "resumen": "El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763, de la empresa\nferroviaria Renfe Operadora, circulando entre las estaciones de Vallecas Industrial y El Pozo, golpea a\nuna persona a la altura del kilómetro 5,200 de la línea 930 Madrid- San Fernando de Henares,\nperteneciente a la Red Ferroviaria de Interés General administrada por Adif. La víctima, que resultó\nfallecida por el impacto, caminaba por la vía junto a otra persona que resultó ilesa.\nConclusión: el accident",
       "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n24.12.07./ 20:16\nLugar:\n\nP.K. 5,200; cerca del apeadero de El Pozo\nLínea:\n930 Madrid- San Fernando de Henares\nTrayecto:\nVallecas industrial- Madrid\nProvincia:\n\nMadrid\nEl tren de cercanías 21763, circulando por vía impar, a su paso por el P.K. 5,200; de la línea 930\nMadrid- San Fernando de Henares; arrolla a un joven que, en compañía de otro, caminaba por las\nvías. El maquinista, viendo que dos personas transitan por la vía, hace sonar el silbato y acciona el\nfreno de emergencia sin poder evitar golpear a una de ellas, expulsándola fuera de la vía.\nEl maquinista, una vez detenido el tren, comunica el suceso al Puesto de Mando de Chamartín\ndesde donde se activan los protocolos de actuación para accidentes y se avisa a los servicios de\nemergencia, Seguridad Corporativa y Servicios Internos de Adif y Renfe Operadora.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel mismo "
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que:",
-      "El accidente tuvo su origen en el tránsito indebido de la víctima por la vía."
-    ],
-    "recomendaciones": [
-      "Se recomienda:",
-      "Dadas las características del accidente, no se establecen recomendaciones. \n \n \n \n \nMadrid, 23 de mayo de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0064/2007 \nOCURRIDO EL DÍA 24.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n23 de mayo de 2008, analizado el expediente del accidente 64/2007, acaecido en plena vía, \ncerca del apeadero de El Pozo, el 24/12/2007, se aprueba como definitivo el informe particular \npresentado por el técnico investigador, entendiendo que la recomendación deberá ser un \ninventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés \nGeneral y la subsiguiente planificación de actuaciones a nivel global. \n \n \n \n \nMadrid, 23 de mayo de 2008"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "arrollamiento",
@@ -200,17 +167,7 @@
       "2007-0062/2007",
       "2007-063/2007",
       "2007-065/2007"
-    ],
-    "date": "2007-12-24",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que:",
-      "El accidente tuvo su origen en el tránsito indebido de la víctima por la vía."
-    ],
-    "recommendations": [
-      "Se recomienda:",
-      "Dadas las características del accidente, no se establecen recomendaciones. \n \n \n \n \nMadrid, 23 de mayo de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0064/2007 \nOCURRIDO EL DÍA 24.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n23 de mayo de 2008, analizado el expediente del accidente 64/2007, acaecido en plena vía, \ncerca del apeadero de El Pozo, el 24/12/2007, se aprueba como definitivo el informe particular \npresentado por el técnico investigador, entendiendo que la recomendación deberá ser un \ninventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés \nGeneral y la subsiguiente planificación de actuaciones a nivel global. \n \n \n \n \nMadrid, 23 de mayo de 2008"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2007-065/2007",
@@ -262,10 +219,7 @@
       "determina en el Reglamento General de Circulación.",
       "De la prueba de alcoholemia, se constata que el maquinista se encontraba apto para el"
     ],
-    "recomendaciones": [
-      "Se recomienda:",
-      "Potenciar la señalización de advertencia, instando al uso de los pasos habilitados para el \ncruce de las vías, en todos los andenes de estaciones y apeaderos sin perjuicio de que el viajero deba \nadoptar las precauciones necesarias al cruzar una vía de ferrocarril.  \n \n \n \n \nMadrid, 29 de abril de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0065/2007 \nOCURRIDO EL DÍA 29.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 29 de abril \nde 2008, analizado el expediente del accidente 65/2007, acaecido en el apeadero de Abaroa el \n29/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador, \naceptando como razonable la recomendación que figura en el mismo: \n \nPotenciar la señalización de advertencia, instando al uso de los pasos habilitados para el cruce de las \nvías en todos los andenes de estaciones y apeaderos, sin perjuicio de que el viajero deba adoptar las \nprecauciones necesarias al cruzar una vía de ferrocarril. \n \n \n \n \nMadrid, 29 de abril de 2008"
-    ],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "arrollamiento",
@@ -284,16 +238,6 @@
       "2007-0062/2007",
       "2007-063/2007",
       "2007-064/2007"
-    ],
-    "date": "2007-12-29",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la investigación \nconcluye que:",
-      "El accidente tuvo su origen cuando la víctima cruza por la vía, en un lugar no autorizado, al paso \ndel tren nº 50565."
-    ],
-    "recommendations": [
-      "Se recomienda:",
-      "Potenciar la señalización de advertencia, instando al uso de los pasos habilitados para el \ncruce de las vías, en todos los andenes de estaciones y apeaderos sin perjuicio de que el viajero deba \nadoptar las precauciones necesarias al cruzar una vía de ferrocarril.  \n \n \n \n \nMadrid, 29 de abril de 2008. \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0065/2007 \nOCURRIDO EL DÍA 29.12.2007 \n\n \n \n \n \n \n \n\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 29 de abril \nde 2008, analizado el expediente del accidente 65/2007, acaecido en el apeadero de Abaroa el \n29/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador, \naceptando como razonable la recomendación que figura en el mismo: \n \nPotenciar la señalización de advertencia, instando al uso de los pasos habilitados para el cruce de las \nvías en todos los andenes de estaciones y apeaderos, sin perjuicio de que el viajero deba adoptar las \nprecauciones necesarias al cruzar una vía de ferrocarril. \n \n \n \n \nMadrid, 29 de abril de 2008"
-    ],
-    "severity": "fatal"
+    ]
   }
 ]

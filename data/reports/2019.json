@@ -48,11 +48,7 @@
     "similares": [
       "2019-12/2019",
       "2019-12/2019"
-    ],
-    "date": "2019-12-09",
-    "station": "CORNELLÁ",
-    "province": "BARCELONA",
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2019-12/2019",
@@ -82,9 +78,7 @@
       "resumen": "",
       "descripcion": ""
     },
-    "conclusiones": [
-      "5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES \n5.1.1 Deliberación \nDel estudio de la información del suceso disponible, y tras las investigaciones e indagaciones llevadas \na cabo por el equipo de investigación, se concluye:"
-    ],
+    "conclusiones": [],
     "recomendaciones": [],
     "tags": [
       "incidente",
@@ -101,19 +95,13 @@
     },
     "similares": [
       "2019-0063/2019"
-    ],
-    "date": "2019-04-20",
-    "station": "Mataró (Barcelona), ocurrido",
-    "conclusions": [
-      "5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES \n5.1.1 Deliberación \nDel estudio de la información del suceso disponible, y tras las investigaciones e indagaciones llevadas \na cabo por el equipo de investigación, se concluye:"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2019-12/2019",
     "year": 2019,
     "expediente": "12/2019",
-    "titulo": "Accidente ferroviario ocurrido en el antiguo apeadero de Castellgalí (Barcelona), el 8 de febrero de 2019",
+    "titulo": "210624-190208-if-sn_ciaf",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "fatal",
@@ -137,19 +125,8 @@
       "resumen": "",
       "descripcion": ""
     },
-    "conclusiones": [
-      "4.3.1\nCausas directas e inmediatas del suceso."
-    ],
-    "recomendaciones": [
-      "Destinatario\nImplementa\ndor final\nNúmero\nRecomendación\nAESF\nADIF\n12/2019 - 1\n1.1 Reforzar la formación práctica de los Responsables de Circulación en\nestaciones sobre el adecuado manejo de los cuadros de mando local.",
-      "1.2 Reforzar la formación práctica de los Responsables de Circulación en\nestaciones sobre el procedimiento reglamentario de expedición de trenes\ndesde vías sin señal de salida y en situaciones de anormalidad (en\ncumplimiento de la Recomendación Técnica de la AESF RT 2/2019).",
-      "AESF\nADIF\n12/2019 - 2\nInsistir, en la formación y reciclaje del personal de circulación, en el\ncumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18\ndel SGS de Adif).",
-      "AESF\nADIF\n12/2019 - 3\nEstudiar la posible revisión de la norma NAR nº6/18 para especificar los\nprotocolos, relaciones y criterios de actuación para la información entre\nresponsables de circulación.",
-      "AESF\nRENFE\nVIAJEROS Y\nOTRAS\nEE.FF. 12/2019 - 4\nReforzar la formación del personal de conducción en los procedimientos\nreglamentarios a seguir en situaciones excepcionales como circulaciones\na contravía o al ser expedidos de vías sin señal de salida, de forma tanto\nteórica como práctica.",
-      "AESF\nADIF\n12/2019 - 5\nEstudiar la posibilidad de modificar las instalaciones de la estación de\nManresa para dotar de señal de salida a todas las vías de circulación.",
-      "Asimismo, revisar si la situación de falta de señal de salida se presenta\nen otras estaciones término de cercanías y de paso de otros tráficos, así\ncomo en estaciones de transición de vía única a vía doble y viceversa y\nadoptar las medidas pertinentes.",
-      "Comisión de Investigación de Accidentes Ferroviarios"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "colisión",
@@ -168,21 +145,6 @@
     },
     "similares": [
       "2019-0063/2019"
-    ],
-    "date": "2019-02-08",
-    "conclusions": [
-      "4.3.1\nCausas directas e inmediatas del suceso."
-    ],
-    "recommendations": [
-      "Destinatario\nImplementa\ndor final\nNúmero\nRecomendación\nAESF\nADIF\n12/2019 - 1\n1.1 Reforzar la formación práctica de los Responsables de Circulación en\nestaciones sobre el adecuado manejo de los cuadros de mando local.",
-      "1.2 Reforzar la formación práctica de los Responsables de Circulación en\nestaciones sobre el procedimiento reglamentario de expedición de trenes\ndesde vías sin señal de salida y en situaciones de anormalidad (en\ncumplimiento de la Recomendación Técnica de la AESF RT 2/2019).",
-      "AESF\nADIF\n12/2019 - 2\nInsistir, en la formación y reciclaje del personal de circulación, en el\ncumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18\ndel SGS de Adif).",
-      "AESF\nADIF\n12/2019 - 3\nEstudiar la posible revisión de la norma NAR nº6/18 para especificar los\nprotocolos, relaciones y criterios de actuación para la información entre\nresponsables de circulación.",
-      "AESF\nRENFE\nVIAJEROS Y\nOTRAS\nEE.FF. 12/2019 - 4\nReforzar la formación del personal de conducción en los procedimientos\nreglamentarios a seguir en situaciones excepcionales como circulaciones\na contravía o al ser expedidos de vías sin señal de salida, de forma tanto\nteórica como práctica.",
-      "AESF\nADIF\n12/2019 - 5\nEstudiar la posibilidad de modificar las instalaciones de la estación de\nManresa para dotar de señal de salida a todas las vías de circulación.",
-      "Asimismo, revisar si la situación de falta de señal de salida se presenta\nen otras estaciones término de cercanías y de paso de otros tráficos, así\ncomo en estaciones de transición de vía única a vía doble y viceversa y\nadoptar las medidas pertinentes.",
-      "Comisión de Investigación de Accidentes Ferroviarios"
-    ],
-    "severity": "fatal"
+    ]
   }
 ]

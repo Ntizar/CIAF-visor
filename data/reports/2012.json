@@ -72,16 +72,7 @@
       "2012-0074/2012",
       "2012-0035/2012",
       "2012-0005/2012"
-    ],
-    "date": "2012-01-12",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase indebido por el tren de viajeros 1301 de la señal de salida \nS1/2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de \nconducción."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nFeve \n04/12-1 \nInsistir en el cumplimiento de la normativa al personal de \nconducción, especialmente el artículo 2.27.00 Capítulo II \n“Circulación de Trenes” del RCT.",
-      "Madrid, 25 de septiembre de 2012"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0041/2012",
@@ -93,7 +84,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2012-06-01",
     "ubicacion": {
-      "estacion": "Pradell descarrila el 2º eje del penúltimo",
+      "estacion": "Pradell de Cascante",
       "provincia": "Barcelona",
       "lat": null,
       "lng": null
@@ -160,16 +151,7 @@
       "2012-0064/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ],
-    "date": "2012-06-01",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el fallo de la infraestructura, principalmente por una incorrecta \ndisposición de un cupón de vía existente en dicha zona."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nAdif \n41/12-1 \nEn base al documento Manual del Sistema de Gestión de \nSeguridad en la Circulación de la Dirección General de \nOperaciones e Ingeniería de Adif, realizar una auditoría \nde las actuaciones de mantenimiento correctivo de \ninfraestructura realizadas en el área de Tarragona, con \nobjeto de verificar la correcta aplicación de la normativa \nal respecto.",
-      "Madrid, 28 de mayo de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0047/2012",
@@ -221,10 +203,7 @@
       "El descarrilamiento se produce por fallo en el sistema de cambio de ancho de la rueda izquierda del",
       "noveno eje, correspondiente al primer eje del primer bogie del tercer coche de la composición, según"
     ],
-    "recomendaciones": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 28 de mayo de 2013"
-    ],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "descarrilamiento",
@@ -245,17 +224,7 @@
       "2012-0064/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ],
-    "date": "2012-07-01",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl descarrilamiento se produce por fallo en el sistema de cambio de ancho de la rueda izquierda del \nnoveno eje, correspondiente al primer eje del primer bogie del tercer coche de la composición, según \nel sentido de la marcha, debido a la rotura de los tornillos de fijación del soporte de la palanca del \ndispositivo de seguridad.",
-      "Esta rotura es la causa de que la palanca quede suelta, por lo que en la \noperación de cambio de ancho no actúa y no se produce el desencerrojamiento y consecuentemente \nno se produce el cambio de ancho, quedando la rueda enclavada en ancho UIC."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 28 de mayo de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0061/2012",
@@ -360,21 +329,7 @@
       "2012-0064/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ],
-    "date": "2012-09-06",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el fallo del material móvil por la rotura de la mangueta derecha del \nsegundo eje del vagón que ocupaba el decimocuarto lugar de la composición, según el sentido de la \nmarcha, como consecuencia de un aumento de la temperatura en la caja de grasa debido al \nagarrotamiento del rodamiento de apoyo del extremo de dicho eje, habiéndose superado el plazo \nlímite de mantenimiento; junto con un fallo del detector de ejes calientes (DEC) de Casetas que asignó \nerróneamente la alarma de caldeo a otro tren."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nTransfesa \n61/12-1 \nPoner al día la documentación del mantenimiento de \nvagones porta automóviles tipo Leks de transporte \npeninsular de Transfesa, haciendo coincidir la duración \ndel ciclo de mantenimiento de los ejes con la operación \nde mantenimiento tipo R de los vagones.",
-      "Adif \n61/12-2 \nEstablecer de acuerdo con Transfesa el plan de \nadaptación e implantación de los ejes tipo 65 a los \nvagones tipo Leks de ejes tipo 66, realizando el \nseguimiento de su implantación así como de su resultado.",
-      "Adif  \n61/12-3 \nEstudiar la viabilidad de incorporar a la hoja de material \nde los trenes el número de ejes por cada vagón de forma \nque sea fácilmente identificable el vagón al que \ncorresponde un eje con indicios de caldeo.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n \n \n \n\nAdif  \n61/12-4 \nRealizar un reciclaje formativo en materia de gestión de \nalarmas de caldeo de ejes calientes al personal del \npuesto de mando de Miranda implicado en la gestión de \nla alarma de caldeo que nos ocupa en este informe.",
-      "Adif \n61/12-5 \nRevisar la operativa de funcionamiento de los DECs \ninstalados en la RFIG con el fin de evitar una posible \nasignación errónea del número de tren.",
-      "Dirección General de \nFerrocarriles (DGF) \n61/12-6 \nSe reitera la recomendación nº 1 del expediente \n51/2012: \nEstudiar \nla \nconveniencia \nde \nrealizar \nmodificaciones en la normativa existente sobre la gestión \nde las alarmas que se producen en los equipo de \ndetectores de ejes clientes.",
-      "Madrid, 30 de julio de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0074/2012",
@@ -461,19 +416,7 @@
       "2012-0034/2012",
       "2012-0035/2012",
       "2012-0005/2012"
-    ],
-    "date": "2012-12-06",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como el informe particular de Feve, el técnico responsable de la \ninvestigación concluye que: \nEl incidente tuvo su origen en el fallo del material por la ineficacia de los sistemas de freno, tanto del \nneumático como del de estacionamiento."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nRenfe Operadora \n(servicios de ancho \nmétrico – SAM) \n74/12-1 \nEstudio del funcionamiento del sistema del freno de \nestacionamiento de esta serie de vehículos, y de otras \nseries con sistema similar.",
-      "Evaluación de su modificación \ny del cambio de la consistencia de mantenimiento.",
-      "Renfe Operadora \n(servicios de ancho \nmétrico – SAM) \n74/12-2 \nRealizar una auditoría sobre el cumplimiento de los ciclos \nde mantenimiento de los vehículos adscritos a los \nServicios de Ancho Métrico (SAM).",
-      "Adif (red de ancho \nmétrico - RAM) \n74/12-3 \nDisponer las medidas necesarias para garantizar la \nseguridad ante el riesgo de deriva de material móvil en \nlas estaciones con características similares a las de \nLaviana (inicio o fin de recorrido y/o pendiente en la zona \nde estacionamiento en sentido hacia la vía general).",
-      "Madrid, 17 de septiembre de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0064/2012",
@@ -552,19 +495,7 @@
       "2012-0061/2012",
       "2012-0074/2012",
       "2012-0010/2012"
-    ],
-    "date": "2012-10-08",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el fallo del material por la rotura del segundo eje (motor) del primer \nbogie según el sentido de la marcha.",
-      "La rotura se produce a partir de una fisura antigua superficial \nprovocada por haber estado el eje en contacto esporádico con algún elemento eléctrico, que produjo \nuna serie de arcos eléctricos.",
-      "Descartado el posible contacto con un cable del propio vehículo, la \nhipótesis más fiable es que la fisura fuera causada por el contacto del eje con un equipo de soldadura.",
-      "Esta fisura inicial fue progresando por mecanismos de fatiga hasta provocar la rotura catastrófica del \ncuerpo del eje."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nDirección General de \nFerrocarriles (DGF) \n64/12-1 \nConsiderando adecuadas las medidas adoptadas, se \nrecomienda analizar la viabilidad de extenderlas a \nvehículos con circunstancias similares.",
-      "Madrid, 25 de junio de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0010/2012",
@@ -647,17 +578,7 @@
       "2012-0061/2012",
       "2012-0064/2012",
       "2012-0022/2012"
-    ],
-    "date": "2012-02-09",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en un fallo humano del personal de conducción, por incumplimiento de las \nórdenes dadas por las señales y no prestar la debida atención durante la conducción."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nAdif  \n10/12-1 \nEstudiar la posibilidad de instalar balizas ASFA con fondo \nfijo L7 (control de velocidad) en vías con topera y un \nelevado número de entradas de trenes de viajeros.",
-      "Adif  \n10/12-2 \nEstudiar la posibilidad de instalar toperas que absorban y \namortigüen el impacto de los trenes en aquellas vías en \nlas que un alto número de trenes de viajeros finalicen su \nrecorrido.",
-      "Madrid, 27 de noviembre de 2012"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0034/2012",
@@ -726,13 +647,7 @@
     "similares": [
       "2012-0074/2012",
       "2012-0028/2012"
-    ],
-    "date": "2012-05-09",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren de viajeros 6803 de la señal de salida \nS1/1L, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal \nde conducción.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n."
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0035/2012",
@@ -761,13 +676,8 @@
       "resumen": "El día 11 de mayo de 2012, a las 20:34 horas, en plena vía, entre la estación de Xubia y el apeadero\nde Ferrerías de la línea 11 Ferrol – Gijón, el tren de viajeros de cercanías 1903 de Feve colisiona\ncontra un árbol de grandes dimensiones, caído en la vía como consecuencia de las fuertes ráfagas de\nviento y por tener las raíces y parte del tronco podridos, produciéndose el descarrilamiento y posterior\nvuelco del tren.\nComo consecuencia de la colisión y posterior descarrilamiento no se producen ",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..........."
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la colisión del tren 1903 con un obstáculo –un pino de grandes \ndimensiones- caído y que ocupaba el gálibo de la vía.",
-      "A\nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
-    ],
-    "recomendaciones": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas existentes y las \nadoptadas, no se establecen recomendaciones. \n \n \n \n \nMadrid, 29 de enero de 2013"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "arrollamiento",
@@ -787,16 +697,7 @@
       "2012-0004/2012",
       "2012-0074/2012",
       "2012-0005/2012"
-    ],
-    "date": "2012-05-11",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la colisión del tren 1903 con un obstáculo –un pino de grandes \ndimensiones- caído y que ocupaba el gálibo de la vía.",
-      "A\nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas existentes y las \nadoptadas, no se establecen recomendaciones. \n \n \n \n \nMadrid, 29 de enero de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0022/2012",
@@ -881,17 +782,7 @@
       "2012-0061/2012",
       "2012-0010/2012",
       "2012-0007/2012"
-    ],
-    "date": "2012-03-12",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen por fallo humano del personal de circulación, al establecer un itinerario de \npaso por la vía 2 para el tren 222 cuando se estaban realizando trabajos en esa misma vía, y del \nencargado de los trabajos, al no tomar las medidas de seguridad pertinentes."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nAdif \n22/12-1 \nTransmitir, tanto a los responsables de la circulación de \ntrenes como a los responsables de los trabajos en vía, la \nnecesidad de aplicar estrictamente los artículos del RGC \nque los contemplan.",
-      "Adif  \n22/12-2 \nEstablecer un programa de prevención del fallo humano \nen las materias relacionadas con los trabajos en vía, \ndestinado al personal de circulación (incluido el puesto de \nmando) y al personal de infraestructura (propio y \nexterno).",
-      "Madrid, 26 de febrero de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0005/2012",
@@ -972,19 +863,7 @@
       "2012-0004/2012",
       "2012-0074/2012",
       "2012-0035/2012"
-    ],
-    "date": "2012-01-15",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el fallo técnico de la infraestructura al existir, en la zona donde \ndescarrila el tren, una alineación y nivelación de vía deficientes, así como baches considerables y \ncontaminación del balasto.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nFeve \n05/12-1 \nRestablecer en el tramo donde se ha producido el \naccidente los valores de los parámetros geométricos de \nvía acordes a los de la norma NFI vía 001 para conseguir \nuna circulación segura de los trenes.",
-      "Feve \n05/12-2 \nAnalizar la viabilidad de proceder al saneo y mejora de la \nsuperestructura de la vía en la zona del descarrilamiento, \ncon el fin de evitar deformaciones prematuras.",
-      "Feve \n05/12-3 \nCuando se realicen labores de auscultación de vía y se \ndetecten zonas con valores de parámetros fuera de \ntolerancia, siendo ésta significativa, actuar de una forma \ninmediata sobre dichas zonas del trazado realizando \nlabores de mantenimiento.",
-      "Madrid, 22 de octubre de 2012"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0045/2012",
@@ -1014,13 +893,8 @@
       "resumen": "El día 15 de junio de 2012, a las 07:17 horas, en la estación de Arévalo, de la línea 100 Madrid -\nHendaya se produce el conato de colisión por alcance entre los trenes de mercancías 82202 y 90602\nde la empresa ferroviaria Renfe Operadora, al circular ambos por el mismo cantón estando establecido\nbloqueo telefónico supletorio por estar realizándose trabajos en las instalaciones de seguridad.\nConclusión: El incidente tuvo su origen en un fallo humano del personal de conducción del tren\n90602, al ",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n \n \n \n\nEl incidente tuvo su origen en un fallo humano del personal de conducción del tren 90602, al reanudar \nla marcha sin haber recibido la orden de marcha (marche el tren), incumpliendo el artículo 432 del \nRGC."
-    ],
-    "recomendaciones": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 29 de abril de 2013"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "incidente",
       "colisión",
@@ -1039,16 +913,7 @@
       "2012-0076/2012",
       "2012-0040/2012",
       "2012-0030/2012"
-    ],
-    "date": "2012-06-15",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n \n \n \n\nEl incidente tuvo su origen en un fallo humano del personal de conducción del tren 90602, al reanudar \nla marcha sin haber recibido la orden de marcha (marche el tren), incumpliendo el artículo 432 del \nRGC."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 29 de abril de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0028/2012",
@@ -1110,17 +975,7 @@
     "similares": [
       "2012-0074/2012",
       "2012-0034/2012"
-    ],
-    "date": "2012-04-18",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren de mercancías 9860 de la señal de salida \nS2/2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de \nconducción.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUB \n \nIF-180412-261212-TI"
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nFeve \n28/12-1 \nAnalizar la viabilidad de establecer un procedimiento \nsistemático para el seguimiento y evaluación del \ncumplimiento de las velocidades máximas por parte del \npersonal de conducción.",
-      "Madrid, 26 de diciembre de 2012"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0007/2012",
@@ -1203,17 +1058,7 @@
       "2012-0061/2012",
       "2012-0064/2012",
       "2012-0010/2012"
-    ],
-    "date": "2012-01-19",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en un fallo humano del personal de conducción, al no cumplimentarse la \nmarcha a la vista en la forma que reglamentariamente está establecida."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nRenfe Operadora \n07/12-1 \nAnalizar la viabilidad de prohibir el establecimiento de la \nvelocidad prefijada cuando se circule con marcha a la \nvista.",
-      "Adif \n07/12-2 \nAnalizar la viabilidad de que en aquellas señales \navanzadas que tengan la condición de permisivas se \ncambien a absolutas en los casos con circunstancias \nsimilares a las de este suceso.",
-      "Madrid, 27 de noviembre de 2012"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0051/2012",
@@ -1225,7 +1070,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2012-07-19",
     "ubicacion": {
-      "estacion": "Montoro los 17 vagones de cabeza a las 08:07 horas",
+      "estacion": "Montoro",
       "provincia": "Cádiz",
       "lat": 38.0167,
       "lng": -4.3833
@@ -1300,21 +1145,7 @@
       "2012-0061/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ],
-    "date": "2012-07-19",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl descarrilamiento se produce por un fallo técnico del material, al romperse la mangueta izquierda del \nprimer eje del decimoctavo vagón de la composición, en el sentido de la marcha, como consecuencia \nde un sobrecalentamiento de la caja de grasa, junto con una gestión de la incidencia no del todo \nadecuada por el personal de circulación.",
-      "Como causa coadyuvante se destaca la circulación del tren descarrilado fuera del canal asignado del \ntren tierra.",
-      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nRenfe Operadora \n51/12-1 \nEstablecer una normativa específica de actuación en el \ncaso de entrada a reparar un eje montado sin el tapón de \ncierre \nde \nla \ncaja \nde \ngrasa, \nespecificando \nlas \ncomprobaciones y mediciones a realizar en rodamientos y \neje; junto con una ficha de inspección a rellenar  de las \noperaciones realizadas, a la vista de los resultados.",
-      "Esta \nnormativa podría estar incorporada a la actual  Norma \nTécnica de Mantenimiento de Ejes Montados.",
-      "Renfe Operadora \n51/12-2 \nInsistir al personal de conducción en los cursos de \nreciclaje sobre la conveniencia de verificar que la \nmodalidad y canal del tren tierra con la que circula son \nlos asignados.",
-      "Dirección General de \nFerrocarriles (DGF) \n51/12-3 \nSe reitera la recomendación nº 4 realizada en el \nexpediente 63/2010: Estudiar la conveniencia de realizar \nmodificaciones en la normativa existente sobre la gestión \nde las alarmas que se producen en los equipos de \ndetectores de ejes calientes.",
-      "Madrid, 28 de mayo de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0050/2012",
@@ -1398,18 +1229,7 @@
       "2012-0061/2012",
       "2012-0064/2012",
       "2012-0010/2012"
-    ],
-    "date": "2012-06-21",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl descarrilamiento se produce por fallo en el sistema de cambio de ancho de ejes en la rueda \nizquierda del octavo eje de la composición, en el sentido de la marcha, debido a que el mecanismo de \nenclavamiento del cambio de ancho de la rueda no funcionó adecuadamente, como consecuencia de \nfalta de engrase."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nRenfe Operadora \n50/12-1 \nDefinir en las instrucciones de mantenimiento cómo se debe \nrealizar la operación de engrase de los pitones de \nenclavamiento a fin de que sea efectiva.",
-      "Para garantizar la operación por parte del mantenedor se \nformará a los operarios que la van a realizar y se efectuarán \ncomprobaciones aleatorias de su adecuada ejecución.",
-      "Renfe Operadora \n50/12-2 \nSolicitar al tecnólogo el estudio de la aplicación de otros tipos de \nmateriales al pitón y al casquillo que disminuyan el desgaste y \nlas necesidades de engrase.",
-      "Madrid, 26 de marzo de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0076/2012",
@@ -1439,13 +1259,8 @@
       "resumen": "El día 21 de diciembre de 2012, a las 11:15 horas, en la línea 600 Valencia – Estació del Nord a Sant\nVicenç de Calders, a la entrada de la estación Valencia-Font de Sant Lluis el tren de viajeros 1112\nrebasa indebidamente la señal E2B, que se encontraba en indicación de parada. Se produce una\nsituación de conato de colisión con el tren 10596 que le precedía, al circular ambos trenes de Renfe\nOperadora por el mismo cantón de bloqueo.\nConclusión: El incidente tuvo su origen en el rebase indebido ",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ................................................................................................................ 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ................................................................................................"
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido del tren de viajeros 1112 de la señal de entrada E2B, \nen indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción."
-    ],
-    "recomendaciones": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 25 de junio de 2013"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "incidente",
       "colisión",
@@ -1464,16 +1279,7 @@
       "2012-0045/2012",
       "2012-0040/2012",
       "2012-0030/2012"
-    ],
-    "date": "2012-12-21",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido del tren de viajeros 1112 de la señal de entrada E2B, \nen indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 25 de junio de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0040/2012",
@@ -1503,9 +1309,7 @@
       "resumen": "El día 23 de mayo de 2012, a las 21:20 horas, el tren 13946 tiene establecido itinerario de entrada a\nvía desviada (vía 3) de la estación de Tocón- Montefrío (Granada), de la línea 426 Granada a Fuente\nde Piedra de vía única, para permitir el cruce con el tren de viajeros 175, que circula en sentido\ncontrario. El tren 13946 no cumplimenta correctamente la indicación de la señal de avanzada, en\nanuncio de precaución, entrando en la estación (por vía desviada) a excesiva velocidad, talonando la\nag",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO...................................................................................................... 3\n2.1.\nSUCESO ............................................................................................................................................................ 3\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 11\n2.4.\nCIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 11\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................11\n3.1.\nRESUMEN DE LAS DECLARACIONES .............................................................................................................."
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el incumplimiento por parte del personal de conducción de la orden \ndada por la señal de avanzada de la estación de Tocón – Montefrío, en indicación de anuncio de \nprecaución."
-    ],
+    "conclusiones": [],
     "recomendaciones": [
       {
         "numero": "40/12-1",
@@ -1532,17 +1336,7 @@
       "2012-0045/2012",
       "2012-0076/2012",
       "2012-0030/2012"
-    ],
-    "date": "2012-05-23",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el incumplimiento por parte del personal de conducción de la orden \ndada por la señal de avanzada de la estación de Tocón – Montefrío, en indicación de anuncio de \nprecaución."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nAdif \n40/12-1 \nAnalizar la viabilidad de dotar a las señales mecánicas de \ndicha estación de balizas ASFA con el fin de paliar riesgos \nen la circulación.",
-      "Ver, en tal caso, la aplicación de esta \nmedida a otras dependencias similares.",
-      "Madrid, 26 de febrero de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0077/2012",
@@ -1573,11 +1367,7 @@
       "resumen": "El día 24 de diciembre de 2012, a las 01:00 horas, se produce el descarrilamiento del tren de\nmercancías 97161 de la empresa ferroviaria Activa Rail, en la estación de Lezama (Álava) de la línea\n700 de Intermodal Abando Indalecio Prieto a Casetas. Descarrila el primer eje del primer bogie del\nsegundo vagón de la composición en el sentido de la marcha, produciéndose el corte de la\ncomposición, quedando por un lado la locomotora y el primer vagón y por otro el resto de la\ncomposición.\nConclusión: ",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 6\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 7\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Activa Rail, el técnico \nresponsable de la investigación concluye que: \n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n \n \n \n\nEl descarrilamiento se produce por fallo de la infraestructura.",
-      "En la zona del descarrilamiento se \nverificaron peraltes y alabeos fuera de tolerancia de forma significativa, debido a una mala calidad de \nvía unido a intensas lluvias.",
-      "También pudo colaborar la altura de pestaña de las ruedas del vagón \ndescarrilado, que habían sido torneadas 12 días antes, por lo que ésta era la mínima permitida."
-    ],
+    "conclusiones": [],
     "recomendaciones": [
       {
         "numero": "77/12-1",
@@ -1604,18 +1394,7 @@
       "2012-0061/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ],
-    "date": "2012-12-24",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Activa Rail, el técnico \nresponsable de la investigación concluye que: \n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n \n \n \n\nEl descarrilamiento se produce por fallo de la infraestructura.",
-      "En la zona del descarrilamiento se \nverificaron peraltes y alabeos fuera de tolerancia de forma significativa, debido a una mala calidad de \nvía unido a intensas lluvias.",
-      "También pudo colaborar la altura de pestaña de las ruedas del vagón \ndescarrilado, que habían sido torneadas 12 días antes, por lo que ésta era la mínima permitida."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nAdif \n77/12-1 \nIntensificar la vigilancia de la vía en la zona del \naccidente hasta la ejecución de las obras proyectadas.",
-      "Madrid, 30 de julio de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0030/2012",
@@ -1668,10 +1447,7 @@
       "25 m de ésta, aún disponiendo de buena visibilidad. Es por ello que la rebasa, incumpliéndose el",
       "artículo 217 del RGC, al no detenerse ante la señal que ordena parada."
     ],
-    "recomendaciones": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 29 de enero de 2013"
-    ],
+    "recomendaciones": [],
     "tags": [
       "incidente",
       "colisión",
@@ -1692,16 +1468,7 @@
       "2012-0045/2012",
       "2012-0076/2012",
       "2012-0040/2012"
-    ],
-    "date": "2012-04-26",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Logitren, el técnico \nresponsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren de mercancías 99561 de la señal de salida \nS1/3, en indicación de parada, por incumplimiento de la orden dada por la señal al personal de \nconducción."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 29 de enero de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0053/2012",
@@ -1731,13 +1498,8 @@
       "resumen": "El día 26 de julio de 2012, a las 14:15 horas, en la estación de Atocha-Cercanías (Madrid) de la línea\n900 Madrid – Chamartín / Madrid – Atocha Cercanías, el tren de larga distancia 4141 es autorizado\nindebidamente a rebasar la señal S1/4C no encontrándose dispuesto el itinerario a recorrer, y tras\nrebasar la señal y talonar la travesía T10b, se produce conato de colisión con el tren de cercanías\n21232 detenido ante la señal de entrada E2-2.\nConclusión: El incidente tuvo su origen en el fallo hu",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..........."
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el fallo humano de la agente de circulación, al entregar indebidamente \nel boletín de autorización de rebase de la señal de salida S1/4C al tren 4141, sin estar el itinerario \ncorrectamente establecido y sin autorización del jefe de circulación."
-    ],
-    "recomendaciones": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 30 de julio de 2013"
-    ],
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "incidente",
       "colisión",
@@ -1758,16 +1520,7 @@
       "2012-0045/2012",
       "2012-0076/2012",
       "2012-0040/2012"
-    ],
-    "date": "2012-07-26",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el fallo humano de la agente de circulación, al entregar indebidamente \nel boletín de autorización de rebase de la señal de salida S1/4C al tren 4141, sin estar el itinerario \ncorrectamente establecido y sin autorización del jefe de circulación."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
-      "Madrid, 30 de julio de 2013"
-    ],
-    "severity": "fatal"
+    ]
   },
   {
     "id": "2012-0071/2012",
@@ -1797,9 +1550,7 @@
       "resumen": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la\nempresa ferroviaria Renfe Operadora, en el paso a nivel clase A del PK 257+758 de la línea 522\nManzanares - Ciudad Real, entre las estaciones de Miguelturra y Pozuelo de Calatrava (Ciudad Real),\narrolla a un vehículo de carretera que cruzaba el paso a nivel.\nConclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de\ncarretera, que cruza por el paso a nive",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 10\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ........................................................................................................"
     },
-    "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que \ncruza por el paso a nivel cuando pasaba el tren 18081."
-    ],
+    "conclusiones": [],
     "recomendaciones": [
       {
         "numero": "71/12-1",
@@ -1833,16 +1584,6 @@
       "2012-0061/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ],
-    "date": "2012-10-29",
-    "conclusions": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que \ncruza por el paso a nivel cuando pasaba el tren 18081."
-    ],
-    "recommendations": [
-      "Destinatario final \nNúmero \nRecomendación \nDirección General de \nFerrocarriles (DGF) \n71/12-1 \nA la mayor brevedad posible, solicitar al titular del \ncamino (Ayuntamiento de Miguelturra), el valor actual \nde la intensidad media diaria (IMD) de vehículos.",
-      "Dirección General de \nFerrocarriles (DGF) \n71/12-2 \nConocido el valor actual de la IMD, proceder a adecuar \npor quien corresponda las características del paso a lo \nestablecido en la OM de 2 de agosto de 2001 sobre \nsupresión y protección de pasos a nivel.",
-      "Madrid, 29 de enero de 2013"
-    ],
-    "severity": "fatal"
+    ]
   }
 ]
