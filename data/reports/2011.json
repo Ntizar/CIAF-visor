@@ -80,7 +80,18 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-03-07",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren de viajeros 212 de la señal avanzada E’2 \nde la de entrada, en indicación de parada, por incumplimiento de las órdenes dadas por la señal al \npersonal de conducción del tren.",
+      "Como factor coadyuvante hay que mencionar el funcionamiento \nanómalo del sistema ASFA."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n15/11-1 \nVigilancia del comportamiento de la baliza ASFA de pie de \nseñal de la 2268 (anterior a la avanzada E’2 de Flaçá) con \nobjeto de detectar funcionamientos anómalos de la \nmisma.",
+      "Renfe Operadora \n15/11-2 \nSeguimiento del comportamiento del equipo ASFA \nembarcado en el tren 212, con el objeto de detectar si su \nfuncionamiento es correcto.",
+      "Madrid, 29 de mayo de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0044/2011",
@@ -143,7 +154,21 @@
       "2011-0007/2011",
       "2011-0025/2011",
       "2011-0028/2011"
-    ]
+    ],
+    "date": "2011-07-13",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Logitren, el técnico \nresponsable de la investigación concluye que: \nEn el accidente se dieron una confluencia de hechos que ocasionaron el remonte y posterior \ndescarrilamiento de la rueda derecha del primer eje del vagón que ocupaba la novena posición.",
+      "Por un \nlado el estado de la vía que presentaba fuertes alabeos y baches.",
+      "Por otro lado hay indicios de una \ninadecuada estiba de la carga.",
+      "Además se daban unas condiciones en el trazado de la vía nada \nfavorables, como son un radio de 300 metros y una rampa de 21,5 milésimas.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nBen Trade Cables \nIbérica S.A.",
+      "44/11-1 \nCumplir estrictamente la “Instrucción Técnica de Carga \nde Contenedores” elaborada por la propia Ben Trade \nCables Ibérica S.A.",
+      "Madrid, 25 de septiembre de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0049/2011",
@@ -195,7 +220,10 @@
       "tutor) y posterior reincorporación al servicio una vez superadas las pruebas y previo informe favorable",
       "De forma complementaria, Renfe Operadora también ha emprendido diversas acciones orientadas a la"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 29 de mayo de 2012"
+    ],
     "tags": [
       "accidente",
       "paso a nivel",
@@ -218,7 +246,17 @@
       "2011-0051/2011",
       "2011-0063/2011",
       "2011-0007/2011"
-    ]
+    ],
+    "date": "2011-10-26",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl descarrilamiento tuvo su origen en el retroceso no autorizado del tren 25736, sobre la aguja nº1, \nantes talonada tras el rebase indebido de la señal de salida S2/1, en indicación de parada, por \nincumplimiento de la órdenes dadas por las señales al personal de conducción \n4.4.",
+      "OBSERVACIONES ADICIONALES \nSin tener relación directa con los hechos, se destaca que el tren 25736 circula con exceso de velocidad \n(a 38 km/h) por la limitación temporal de velocidad (a 30 km/h) existente antes de la estación de Sant \nPol de Mar, entre las señales de avanzada y entrada por su lado norte, incumpliendo la Consigna serie \nB nº 10 (Trayecto Arenys de Mar – Maçanet - Massanes)."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 29 de mayo de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0051/2011",
@@ -270,7 +308,10 @@
       "(que incluye paso por simulador, reciclaje formativo y acompañamiento en cabina por tutor) y",
       "posterior reincorporación al servicio, una vez superadas las pruebas y previo informe favorable del"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 29 de mayo de 2012"
+    ],
     "tags": [
       "incidente",
       "colisión",
@@ -289,7 +330,16 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-11-05",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren 37537 (material vacío de tren 874) de la \nseñal 1107, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de \nconducción."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 29 de mayo de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0063/2011",
@@ -368,7 +418,16 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0007/2011"
-    ]
+    ],
+    "date": "2011-12-27",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl descarrilamiento se produce por fallo en el sistema de cambio de ancho de la rueda derecha del \nsegundo eje del primer bogie en el segundo coche de la composición, en el sentido de la marcha, \ndebido a que el mecanismo del sistema de bloqueo/desbloqueo del cambio de la rueda mencionada se \nencontraba suelto, porque los tornillos que sujetan el citado mecanismo se habían desenroscado, \ndesapareciendo uno de ellos y estando el otro fuera de su alojamiento."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nRenfe Operadora \n63/11-1 \nEstablecer una especial vigilancia del mecanismo del \nbloqueo/desbloqueo del cambio de ancho de los ejes \nBRAVA hasta que se efectúe la modificación prevista de \nsu sujeción (soldadura).",
+      "Madrid, 25 de septiembre de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0026/2011",
@@ -443,7 +502,21 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2011/IF010611310112CIAF.pdf"
     },
-    "similares": []
+    "similares": [],
+    "date": "2011-06-01",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl incidente se produce por el incumplimiento normativo del personal ferroviario.",
+      "Por una parte, del \nmaquinista y del especialista de estaciones al no realizar correctamente el frenado del tren y el \nposterior corte del material, dando origen al deslizamiento.",
+      "Por otra parte, de la jefa de circulación al \nno modificar la posición de las agujas originando que el corte deslizado acceda a la vía general.",
+      "IF-010611-310112-CIAF \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nA \nMINISTERIO \nDE FOMENTO"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nFeve \n26/11-1 \nInsistir en el cumplimiento de la normativa a todo el \npersonal implicado en la circulación de los trenes, en lo \nreferente a la realización de operaciones de enganche y \ndesenganche.",
+      "Feve \n26/11-2 \nAnalizar la conveniencia de colocar, en la estación de \nTrasona y en otras estaciones de características similares, \nindicadores de rasante que señalicen la pendiente \nexistente en la vía.",
+      "Feve \n26/11-3 \nDadas las características de la estación de Trasona  \n(elevadas pendientes, realización de maniobras para \nmercancías y fluido tráfico de cercanías), y según lo \nestipulado en el artículo 6/12/00 del RCT, analizar la \nconveniencia de documentar mediante consigna la \nrealización de maniobras en esta estación.",
+      "Madrid, 31 de enero de 2012 \nIF-010611-310112-CIAF"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0007/2011",
@@ -527,7 +600,17 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "date": "2011-01-04",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl descarrilamiento se produce por fallo en los dispositivos de cambio de ancho de la rueda \ndescarrilada, perteneciente al segundo eje del primer bogie en el sentido de la marcha, debido a \ndefectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de \nbloqueo del cambio de ancho."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nRenfe Operadora \n07/11-1 \nModificar el sistema de sujeción de los tornillos soporte \ndel mecanismo de bloqueo del cambio de ancho de los \nejes BRAVA añadiendo una “chapa tope” a las unidades \nde la flota S121 que a fecha de este informe aún no \nhayan sido modificadas.",
+      "CAF \n07/11-2 \nEstudiar, diseñar e implantar un sistema que asegure la \nsujeción de los tornillos soporte del mecanismo de \nbloqueo del cambio de ancho del eje BRAVA en los ejes \nde nueva fabricación.",
+      "Madrid, 20 de septiembre de 2011 \n \n \nChapa tope"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0025/2011",
@@ -610,7 +693,19 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "date": "2011-04-05",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase indebido por el tren 91103 de la señal de salida S1/1 de la \nestación de Rubí, en indicación de parada, por incumplimiento de las órdenes dadas por la señal al \npersonal de conducción del tren.",
+      "Como consecuencia del rebase el tren accede al cambiador de hilo \nCH6 que no estaba dispuesto en ancho UIC, perdiéndose la continuidad en el carril izquierdo (en el \nsentido de la marcha del tren), provocando el descarrilamiento.",
+      "A \nMINISTERIO \nDE FOMENTO \nSECRETARÍA DE ESTADO \nDE \nPLANIFICACIÓN \nE \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nTRANSPORTES"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n25/10-1 \nEstudiar la posibilidad de mejorar la visibilidad de la señal \nde salida S1/1 de la estación de Rubí.",
+      "Adif \n25/10-2 \nEstudiar la posibilidad de incluir, en el programa de \nexplotación del enclavamiento de la estación de Rubí, \ncondiciones en los cambiadores de hilo y demás aparatos \nde vía de forma que, en el establecimiento de los \nitinerarios, se tenga en cuenta la orientación de estos \naparatos de vía, cuando estén a continuación de una \nseñal y puedan verse afectados por un posible rebase de \nla misma.",
+      "Madrid, 28 de febrero de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0028/2011",
@@ -689,7 +784,19 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-06-10",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen al simultanear los trabajos que afectaban al cruce subterráneo de la \nplataforma de la vía con la circulación de trenes, incumpliéndose las condiciones de seguridad \nestipuladas en la autorización de ejecución de dichos trabajos.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n28/11-1 \nEn todas las autorizaciones de obras, que contengan \nprescripciones particulares referentes a actuaciones que, \nde alguna manera, pudieran afectar a la segura \ncirculación de los trenes, incluir un apartado que con \ntoda \nclaridad \nestablezca \nque \nlas \nprescripciones \nparticulares sean tratadas en la reunión inicial de \ncoordinación de seguridad y salud (la cual se realiza \nantes del comienzo de las obras).",
+      "En dicha reunión, los representantes en la misma por \nparte del administrador de la infraestructura leerán las \nprescripciones particulares contenidas en la autorización \ny serán tratadas por los asistentes, de manera que se \npueda aclarar su alcance y las posibles dudas que \nsuscitaran dichas prescripciones.",
+      "Todos los asistentes a \nla reunión, y especialmente los representantes de la \nparte ejecutora de la obra (dirección de obra, jefatura \nde obra, etc.), deberán darse por enterados y así se \nhará constar en el acta de la citada reunión, la cual será \nfirmada por todos los asistentes.",
+      "Madrid, 29 de mayo de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0043/2011",
@@ -719,8 +826,13 @@
       "resumen": "El día 11 de julio de 2011, a las 11:53 horas, en el PK 11+800 de la línea 204 Bif. Canfranc - Canfranc,\nen el trayecto entre Jaca y Canfranc, se produce el descarrilamiento del tren de mercancías 54583 de\nla empresa ferroviaria Renfe Operadora. El tren, compuesto de 14 vagones cargados con maíz,\ndescarrila en el interior del túnel Nº 6 “el Caracol”, circulando descarrilado aproximadamente un\nkilómetro hasta su detención en el exterior del túnel, quedando toda la composición fuera de él.\nEl tren",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................"
     },
-    "conclusiones": [],
-    "recomendaciones": [],
+    "conclusiones": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el fallo de la infraestructura, como consecuencia de un mal estado \ngeneral de todos los elementos que conforman la misma (traviesas, desgaste excesivo de carriles, \ndeterioro en la clavazón y contaminación del balasto), dando lugar a valores fuera de tolerancia tanto \nde peraltes como de alabeos y sobreanchos y estrechamientos alternados en la vía."
+    ],
+    "recomendaciones": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 27 de marzo de 2012"
+    ],
     "tags": [
       "accidente",
       "descarrilamiento",
@@ -740,7 +852,16 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-07-11",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el fallo de la infraestructura, como consecuencia de un mal estado \ngeneral de todos los elementos que conforman la misma (traviesas, desgaste excesivo de carriles, \ndeterioro en la clavazón y contaminación del balasto), dando lugar a valores fuera de tolerancia tanto \nde peraltes como de alabeos y sobreanchos y estrechamientos alternados en la vía."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 27 de marzo de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0047/2011",
@@ -826,7 +947,19 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "date": "2011-10-12",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen cuando un fallo técnico de las instalaciones no fue debidamente gestionado \npor el personal afectado; en primer lugar por el jefe de circulación, al autorizar un rebase sobre un \nitinerario inexistente, y en segundo lugar por el personal de conducción, al transitar por un tramo de \nvía por el que existía interrupción total para el material rodante que él conducía.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nDirección General de \nFerrocarriles (DGF) \n47/11-1 \nSe reitera la recomendación hecha en el expediente \n24/11: Establecer pautas de actuación claras y lógicas \npara el personal de circulación y conducción, en los casos \nde rebases de señal con orden de comprobación de los \naparatos de vía, adaptando la normativa a las nuevas \ntecnologías.",
+      "Dirección General de \nFerrocarriles (DGF) \n47/11-2 \nSe reitera la recomendación hecha en el expediente \n24/11: Analizar la viabilidad de reforzar los contenidos de \nlos programas de formación para la obtención del título \nde conducción y reciclajes en lo referente a los \nconocimientos \ntécnicos \nsobre \naparatos \nde vía \ny \nespecialmente de los desvíos, cuando coinciden en un \nenclavamiento diferentes anchos.",
+      "Adif \n47/11-3 \nEvaluar la conveniencia de intensificar la formación de los \njefes de circulación que gestionan líneas dotadas de \ntercer carril, en lo relativo al conocimiento de las \ninstalaciones que tienen a su cargo y en el cumplimiento \ndel Aviso nº 43 de la Dirección de Seguridad en la \nCirculación (DSC) de Adif.",
+      "Madrid, 26 de junio de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0062/2011",
@@ -878,7 +1011,10 @@
       "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
       "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 26 de junio de 2012"
+    ],
     "tags": [
       "accidente",
       "colisión",
@@ -899,7 +1035,16 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-12-15",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en un fallo técnico del material, al desprenderse en plena vía el barrón \nsoporte del captador ASFA del automotor 592069 del tren 24403, produciendo el descarrilamiento del \ntren 24406 que circulaba a continuación."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 26 de junio de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0003/2011",
@@ -973,7 +1118,16 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-01-16",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación \nconcluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que \ncruza por el paso a nivel cuando pasaba el tren 13943."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nDirección General de \nInfraestructuras \nFerroviarias (DGIF) \n03/11-1 \nAdecuar el paso a nivel a lo establecido en la OM de \n2/8/2001: bien dotándolo de protección clase B, por ser \nsu momento de circulación superior a 1.000; o bien \nproceder a su supresión promoviendo su concentración al \npaso a nivel del PK 86+900, por estar ambos situados a \nmenos de 1.000 metros de distancia.",
+      "Madrid, 20 de septiembre de 2011"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-12/2011",
@@ -1025,7 +1179,11 @@
       "Los equipos de seguridad del tren funcionaron correctamente.",
       "La velocidad del tren era inferior a la máxima permitida."
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsideradas adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 25 de octubre de 2011 \n \n \nVista sentido Barcelona.",
+      "Malla antidesprendimientos en \nel PK 323+300. (Fuente: CIAF)"
+    ],
     "tags": [
       "accidente",
       "colisión",
@@ -1046,7 +1204,17 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "date": "2011-03-16",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la colisión del tren 25267 con obstáculos –tierras y rocas- existentes en \nel gálibo de la vía y procedentes de un desprendimiento."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsideradas adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "Madrid, 25 de octubre de 2011 \n \n \nVista sentido Barcelona.",
+      "Malla antidesprendimientos en \nel PK 323+300. (Fuente: CIAF)"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0023/2011",
@@ -1076,7 +1244,11 @@
       "resumen": "El día 16 de mayo de 2011, a las 19:03 horas, en la estación de Los Gavilanes (Madrid) de la línea\n10 Madrid-Puerta de Atocha a Sevilla-Santa Justa de alta velocidad, se produce un conato de colisión\nentre los trenes de viajeros 5180 y 8182, ambos de la empresa ferroviaria Renfe Operadora, cuando el\nprimero rebasa indebidamente la señal de entrada E022, situada en el PK 12+379, que se encontraba\nordenando parada.\nConclusión: El incidente tuvo su origen en el rebase indebido por el tren de alta v",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren de alta velocidad 5180 de la señal de \nentrada E022, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal \nde conducción.",
+      "Como factor coadyuvante hay que mencionar el no funcionamiento del sistema de \nbloqueo automático (LZB), ni del ASFA Digital.",
+      "A \nMINISTERIO \nDE FOMENTO \nSECRETARÍA DE ESTADO \nDE \nPLANIFICACIÓN \nE \nINFRAESTRUCTRURAS \n \nSECRETARÍA GENERAL DE \nTRANSPORTES"
+    ],
     "recomendaciones": [
       {
         "numero": "23/11-1",
@@ -1104,7 +1276,18 @@
       "2011-0028/2011",
       "2011-0062/2011",
       "2011-0061/2011"
-    ]
+    ],
+    "date": "2011-05-16",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren de alta velocidad 5180 de la señal de \nentrada E022, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal \nde conducción.",
+      "Como factor coadyuvante hay que mencionar el no funcionamiento del sistema de \nbloqueo automático (LZB), ni del ASFA Digital.",
+      "A \nMINISTERIO \nDE FOMENTO \nSECRETARÍA DE ESTADO \nDE \nPLANIFICACIÓN \nE \nINFRAESTRUCTRURAS \n \nSECRETARÍA GENERAL DE \nTRANSPORTES"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif y Renfe \nOperadora \n23/11-1 \nImplantar \nlas \nmedidas \nnecesarias \npara \nque \nlas \ncomunicaciones con el personal de conducción en cabina  \nse realicen de forma reglamentaria, con el fin de evitar \nposibles distracciones, especialmente cuando se circula \nen condiciones degradadas.",
+      "Madrid, 28 de febrero de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0061/2011",
@@ -1181,7 +1364,21 @@
       "2011-0028/2011",
       "2011-0062/2011",
       "2011-0023/2011"
-    ]
+    ],
+    "date": "2011-12-19",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en un fallo humano, al conexionarse de forma incorrecta entre sí los \nconectores que reciben y transmiten la información de los motores de las agujas nº 9 y nº 27 al \nmódulo de mando de agujas del enclavamiento, de forma que la comprobación y el mando del cambio \n9 en el enclavamiento son los correspondientes en campo al cambio 27 y viceversa.",
+      "Lo anterior permitió que itinerarios correctamente establecidos en el CTC fueran discordantes en el \nterreno.",
+      "Como causa subyacente se apunta el no realizar pruebas de concordancia en el terreno una vez \nfinalizados los trabajos.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n  \n \n \n\nComo causa coadyuvante se apunta la ausencia de etiquetas en los conectores, la falta de una \nconexión individualizada y de una longitud de cable distinta para cada conector.",
+      "4.4. OBSERVACIONES ADICIONALES \nComo deficiencias adicionales que no guardan relación directa con las causas del suceso se destacan \nlas siguientes: \n-Los trabajos que se llevaron a cabo no se realizaron conforme a lo establecido en el Artículo 271 \ndel RGC, pues las comunicaciones entre el CTC y el encargado de trabajos fueron verbales, sin \ntelefonemas.",
+      "-El Puesto de Mando de Madrid Chamartín con los primeros trenes afectados no avisa a Seguridad \nen la Circulación."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n61/11-1 \nQue se extienda a los encargados de trabajos del resto \nde la red la sesión de formación y reciclaje impartida al \nencargado de Chamartín.",
+      "Madrid, 24 de julio de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0036/2011",
@@ -1260,7 +1457,19 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-07-20",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen al estar el operario dentro del gálibo de la vía en el momento en que \npasaba el tren 17016, por incumplirse lo establecido en la normativa reglamentaria para este tipo de \ntrabajos.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n36/11-1 \nEl acta semanal de trabajos deberá recoger las \nactividades concretas a ejecutar y la maquinaria prevista \na emplear, así como los accesos de ésta.",
+      "Adif \n36/11-2 \nAnalizar la viabilidad de incrementar las visitas de \ninspección a trabajos en vía por el personal con \nresponsabilidad en la seguridad.",
+      "Adif \n36/11-3 \nEn las acciones formativas a los encargados de trabajos \nincidir en los aspectos reglamentarios sobre trabajos en \nvía.",
+      "Madrid, 26 de junio de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0017/2011",
@@ -1348,7 +1557,18 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "date": "2011-04-23",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente se produce por la rotura del último eje de la composición en el sentido de la marcha, \nprovocado por la existencia en la zona de tracción del eje motor de una fisura, muy posiblemente \nproducida por un arco eléctrico, generado por mal funcionamiento de la toma de tierra."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero\u0001 \nRecomendación \nIncorporar al plan de mantenimiento del material 440-\nRenfe Operadora \n17/11-1 \n470 el nuevo procedimiento de inspección de las tomas \nde tierra y de la zona de contacto del eje.",
+      "Analizar qué otro tipo de material móvil es susceptible de \nsufrir un deterioro en sus ejes por un mal funcionamiento \nRenfe Operadora \n17/11-2 \n+ \nde las tomas de tierra, incorporando a su plan de \nmantenimiento medidas similares.",
+      "Estudiar la inclusión en el plan de mantenimiento del \nRenfe Operadora \n17/11-3 \nmaterial 440-470 la inspección por ultrasonidos en alguna \nintervención intermedia entre las R (reparación general).",
+      "Madrid, 27 de diciembre de 2011 \nVTG?ii ~mi.ó\" \nFdo.: Vicente Rallo Gulnot \nIF-23ü411-271211-CIAF \nPago 15 de 15"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0031/2011",
@@ -1426,7 +1646,17 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-05-24",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente fue debido a un fallo de la infraestructura, como consecuencia de la falta de balasto en la \nzona del descarrilamiento, debido a una incompleta ejecución de los trabajos de mantenimiento \nprevistos, que posibilitó al paso de las circulaciones el desplazamiento de la vía, produciéndose una \ndesalineación en ésta y el consiguiente descarrilamiento.",
+      "Así mismo, el encargado de los trabajos entrega la vía al jefe del CTC en condiciones normales, sin \nadvertir sobre la anomalía."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nDirección General de \nFerrocarriles (DGF) \n31/11-1 \nAnte la dispersión normativa, evaluar la conveniencia de \nredactar una norma sobre condiciones para la entrega de \nla vía tras la realización de trabajos en la misma, tanto si \nésta se produce en condiciones normales como \ndegradadas.",
+      "Madrid, 27 de marzo de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0040/2011",
@@ -1456,7 +1686,9 @@
       "resumen": "El día 28 de agosto de 2011, a las 21:27 horas, en la estación de Granollers - Centre, el tren de\nviajeros de cercanías 28480 de la empresa ferroviaria Renfe Operadora rebasa indebidamente la señal\nde salida S2/7-9, situada en el PK 134+932 de la línea 270 Bifurcación Sagrera - Cerbere, arrollando\nposteriormente el calce de protección C-23 y descarrilando de los dos bogies del primer coche de la\ncomposición.\nConclusión: El accidente tuvo su origen en el rebase indebido por el tren de viajeros 28",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n \n \n \n\nEl accidente tuvo su origen en el rebase indebido por el tren de viajeros 28480 de la señal de salida \nS2/7-9, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de \nconducción."
+    ],
     "recomendaciones": [
       {
         "numero": "40/11-1",
@@ -1484,7 +1716,16 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "date": "2011-08-27",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n \n \n \n\nEl accidente tuvo su origen en el rebase indebido por el tren de viajeros 28480 de la señal de salida \nS2/7-9, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de \nconducción."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n40/11-1 \nAnalizar la viabilidad de incluir en el enclavamiento de la \nestación de Granollers – Centre la vía 7 y los itinerarios \ndesde ésta y hacia ella con el tratamiento de vía de \ncirculación.",
+      "Madrid, 24 de julio de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0050/2011",
@@ -1543,7 +1784,17 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2011/IF271011240712CIAF.pdf"
     },
-    "similares": []
+    "similares": [],
+    "date": "2011-10-27",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase indebido por el tren de viajeros 6803 de la señal de salida \nS1/1L, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal \nde conducción.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nFeve \n50/11-1 \nEn la formación impartida al personal de conducción \nincidir en las actitudes y comportamientos que son fuente \nde riesgos para la circulación, insistiendo en el estricto \ncumplimiento del Reglamento de Circulación de Trenes y \nde Señales de Feve.",
+      "Madrid, 24 de julio de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0018/2011",
@@ -1595,7 +1846,10 @@
       "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
       "técnico responsable de la investigación concluye que:"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario final \nNúmero \nRecomendación \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "+ \nMadrid, 27 de diciembre de 2011 \nVO BO Presidente de la ComiSión \ndo.: Edmundo Parras Martínez \nFdo.: Vicente Rallo GliInot \n+ \nIF-28ü411-271211-CIAF"
+    ],
     "tags": [
       "accidente",
       "colisión",
@@ -1615,7 +1869,16 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "date": "2011-04-28",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen por incumplimiento de las órdenes dadas por las señales al personal de \nconducción, al no cumplimentarse reglamentariamente la marcha a la vista."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nConsiderando adecuadas las medidas adoptadas, no se \nestablecen recomendaciones.",
+      "+ \nMadrid, 27 de diciembre de 2011 \nVO BO Presidente de la ComiSión \ndo.: Edmundo Parras Martínez \nFdo.: Vicente Rallo GliInot \n+ \nIF-28ü411-271211-CIAF"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0024/2011",
@@ -1691,7 +1954,18 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-05-30",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en un fallo técnico de las instalaciones, al no funcionar adecuadamente el \ndesvío S1 CAL 2.",
+      "A\nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nDirección General de \nFerrocarriles (DGF) \n24/11-1 \nEstablecer pautas de actuación claras y lógicas para el \npersonal de circulación y conducción, en los casos de \nrebases de señal con orden de comprobación de los \naparatos de vía, adaptando la normativa a las nuevas \ntecnologías (alta velocidad).",
+      "Dirección General de \nFerrocarriles (DGF) \n24/11-2 \nAnalizar la viabilidad de reforzar los contenidos de los \nprogramas de formación para la obtención del título de \nconducción en lo referente a los conocimientos técnicos \nsobre aparatos de vía de alta velocidad y especialmente \nde los desvíos.",
+      "Madrid, 27 de marzo de 2012"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2011-0032/2011",
@@ -1765,6 +2039,15 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "date": "2011-06-30",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el fallo técnico de la infraestructura, como consecuencia de encontrarse \nen mal estado las traviesas de madera, la clavazón y el balasto."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n32/11-1 \nAnalizar la viabilidad de sustituir todo el tramo de \ntraviesas de madera por otras de hormigón o, en su \ndefecto, reemplazar las que presenten mal estado por \notras del mismo material.",
+      "Madrid, 24 de abril de 2012"
+    ],
+    "severity": "fatal"
   }
 ]

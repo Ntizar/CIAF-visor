@@ -85,6 +85,14 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2025/2025-41-0522-if.pdf"
     },
-    "similares": []
+    "similares": [],
+    "date": "2025-05-22",
+    "station": "Cortes de Navarra",
+    "province": "Navarra",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nA la vista del análisis conjunto de los datos disponibles y de la documentación aportada, se identifican \nlos siguientes factores relevantes en relación con los dos sucesos analizados:  \n \nFigura 6 Árbol causal del suceso (fuente: CIAF).",
+      "Factores causales"
+    ],
+    "severity": "grave"
   }
 ]

@@ -3,7 +3,7 @@
     "id": "2022-108/2022",
     "year": 2022,
     "expediente": "108/2022",
-    "titulo": "108-221105-if-sn_ciafv2",
+    "titulo": "Incidente operacional ocurrido el día 5/11/2022 en la Estación de Torelló (Barcelona).",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
     "gravedad": "leve",
@@ -78,13 +78,35 @@
       "2022-70/2022",
       "2022-107/2022",
       "2022-46/2022"
-    ]
+    ],
+    "date": "2022-11-05",
+    "station": "Torelló (Barcelona)",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nDel análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura, \nel telemando y las instalaciones, salvo en lo que respecta al corte de tensión, se comportaron \ncorrectamente.",
+      "En relación con este último se puede extraer los siguientes resultados: \n1.- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los \ntrenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción \nhasta su completa detención.",
+      "2.- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su \nllegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que \nel tren 78350 debía pararse ante la señal E2.",
+      "3.- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación \nde Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha \nestación.",
+      "4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se \nprecisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al \nrespecto.",
+      "Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que \npara el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición \nintermedia anterior a dicha señal.",
+      "5.- La recuperación de la tensión se produjo en primer lugar por el tren 78350.",
+      "Pero al persistir el \nproblema de corte de tensión en el tramo Torelló – Manlleu se decidió que entrase en primer lugar a \nla vía 2 para que finalizase allí su recorrido.",
+      "6.- Para ello, se procedió a disolver el itinerario de entrada a la vía 2 establecido para el tren 78355 y, \ntranscurrido el tiempo del diferímetro de proximidad, establecer un nuevo itinerario de entrada para \nel tren 78350 a esa misma vía.",
+      "7.- Recuperada la tensión por el tren 78355, el RC del CTC comunicó al maquinista que avanzase hasta \nla señal de entrada, lo que fue interpretado por el maquinista como la próxima señal (señal de salida) \npor lo que se produce el conflicto.",
+      "8.- Detectada por el personal del PM la ocupación del circuito de vía de entrada a la estación de \nTorelló por el tren 78355 al considerar que podría tratarse de un rebase de señal, ordenó \ninmediatamente la detención del tren 78350 hasta aclarar lo sucedido.",
+      "108/2022"
+    ],
+    "recommendations": [
+      "Se establecen 2 recomendaciones, teniendo todas como destinatario la AESF y como implementador \nfinal, según los casos, la propia AESF, ADIF o las EEFF:",
+      "Extender la aplicación con carácter general de las prescripciones establecidas en el \nReglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad \nde los enclavamientos.",
+      "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de \nconducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, \ntal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de \nreanudar la marcha. \n \n \n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n8"
+    ],
+    "severity": "leve"
   },
   {
     "id": "2022-48/2022",
     "year": 2022,
     "expediente": "48/2022",
-    "titulo": "2022-48-0612-if",
+    "titulo": "Colisión frontal de trenes ocurrida el día 12 de junio de 2022 en Bifurcación Vila-seca (Tarragona)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "grave",
@@ -163,13 +185,18 @@
       "2022-70/2022",
       "2022-107/2022",
       "2022-46/2022"
-    ]
+    ],
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \n \nFigura 18 Árbol causal del suceso.",
+      "Factores causales"
+    ],
+    "severity": "grave"
   },
   {
     "id": "2022-70/2022",
     "year": 2022,
     "expediente": "70/2022",
-    "titulo": "230316-220815-if_ciaf",
+    "titulo": "Incidente operacional con riesgo de colisión ocurrido el 15 de agosto de 2022 en la estación de Manresa (Barcelona).",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "leve",
@@ -193,7 +220,9 @@
       "resumen": "",
       "descripcion": ""
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nCausales:"
+    ],
     "recomendaciones": [],
     "tags": [
       "accidente",
@@ -214,13 +243,19 @@
       "2022-48/2022",
       "2022-107/2022",
       "2022-46/2022"
-    ]
+    ],
+    "date": "2022-08-15",
+    "station": "Manresa (Barcelona)",
+    "conclusions": [
+      "5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nCausales:"
+    ],
+    "severity": "leve"
   },
   {
     "id": "2022-107/2022",
     "year": 2022,
     "expediente": "107/2022",
-    "titulo": "230622-221213-if-sn_ciaf",
+    "titulo": "Colisión entre trenes por alcance el 13 de diciembre de 2022 entre las estaciones de Els Guiamets y Mora La Nova.",
     "tipo": "avería",
     "tipo_suceso": "avería",
     "gravedad": "leve",
@@ -246,7 +281,9 @@
       "resumen": "",
       "descripcion": ""
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nCausales:"
+    ],
     "recomendaciones": [],
     "tags": [
       "avería",
@@ -266,13 +303,18 @@
       "2022-48/2022",
       "2022-70/2022",
       "2022-46/2022"
-    ]
+    ],
+    "date": "2022-12-13",
+    "conclusions": [
+      "5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nCausales:"
+    ],
+    "severity": "grave"
   },
   {
     "id": "2022-46/2022",
     "year": 2022,
     "expediente": "46/2022",
-    "titulo": "46-220601-if-sn_ciafv2",
+    "titulo": "Incidente Operacional - Retroceso no autorizado ocurrido el día 1 de junio de 2022 en el apeadero de El Papiol (Barcelona).",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
     "gravedad": "leve",
@@ -369,6 +411,28 @@
       "2022-48/2022",
       "2022-70/2022",
       "2022-107/2022"
-    ]
+    ],
+    "date": "2022-06-01",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nA continuación, se presenta el árbol causal empleado en el análisis del suceso, para la determinación \nde los factores causales y los factores contribuyentes identificados durante la investigación del \nretroceso no autorizado en el apeadero de El Papiol.",
+      "Los distintos factores se desarrollan detalladamente en párrafos siguientes de este apartado; para la \ndeterminación de los factores contribuyentes se han considerado los factores causales en las distintas \nfases temporales de este incidente.",
+      "En primer lugar, se han tenido en cuenta los días y momentos \ninmediatamente previos al incidente; en segundo lugar, se tienen en cuenta los factores identificados \nen el momento concreto de inicio de la marcha en el apeadero de El Papiol en sentido Molins de Rei; \ny en último lugar, se tienen en cuenta los factores contribuyentes al suceso durante el lapso temporal \nen el que se produjo el movimiento no autorizado.",
+      "Para la correcta comprensión de cómo los factores contribuyentes se relacionan de forma \nconcatenada, se han nombrado con letras y números.",
+      "En el árbol causal presentado en la figura 13 se \nhan marcado en color azul los factores causales, en color naranja los factores contribuyentes y en \ncolor verde los factores contribuyentes sistémicos.",
+      "Se destaca que uno de los factores contribuyentes más relevante y presente en varias fases del suceso \nfue el desvío del foco atencional.",
+      "La confusión del apeadero de El Papiol con la estación de \nCastellbisbal estuvo relacionada con que, durante las maniobras de rotación, M-77721 tenía puesta \nsu atención en un dispositivo electrónico, entre otros factores.",
+      "Además, el desvío del foco atencional \npersistió en los instantes previos al reinicio de la marcha, ya que se produjo la confusión de la señal \npermisiva E´4 con una señal absoluta de estación, se realizó la rotación en plena vía y se reanudó la \nmarcha por una vía impar.",
+      "Como resumen de los factores contribuyentes sistémicos identificados y relacionados con varios \nfactores contribuyentes, se destacan los relativos a la formación del personal de conducción, tanto \nen la apreciación del riesgo como en aspectos técnicos de la operatividad de los servicios; así como \nla ausencia de procedimientos que garanticen la aptitud del personal tras largos periodos de \ninactividad laboral y de pruebas en los RM de habilitación y de renovación que garanticen la aptitud \npisco-física del personal de conducción.",
+      "Otros factores sistémicos identificados se relacionan con los \nmecanismos de transmisión de la información al personal de conducción, así como con los \nprocedimientos de comunicación para dar el tren dispuesto en estaciones de elevado tráfico.",
+      "Comisión de Investigación de Accidentes Ferroviarios"
+    ],
+    "recommendations": [
+      "Destinatario \nImplementa\ndor final \nNúmero \nRecomendación \nAESF \nEEFF \n046/2022-01 \nImplementar procedimientos de reincorporación \nprogresiva y adaptación a los puestos de trabajo para \nel personal de conducción tras periodos largos de \ninactividad laboral.",
+      "Tener en cuenta, para ello, posibles acciones \nformativas adicionales y la revisión de los SGS en \nrelación con los reciclajes sobre la infraestructura tras \nlargos periodos de inactividad laboral.",
+      "AESF \nAESF \ny \nCMH \n046/2022-02 \nProseguir y completar el desarrollo de una nueva \nherramienta de evaluación psicológica, revisando el \ncontenido y los criterios de las pruebas psicológicas y \nprocedimiento de los RM realizados al personal de \nconducción, tanto en la fase de acceso (habilitación) \ncomo de reciclaje (renovación), y en todos aquellos \nreconocimientos adicionales que se realicen tras \nperiodos de baja prolongada, adecuándolos a los \nmotivos de la baja, con el fin de detectar \ncircunstancias o situaciones incompatibles con la \nactividad de conducción.",
+      "Actualizar sistemáticamente \nel contenido de dichas pruebas, aprovechando el \nretorno de experiencia y garantizándose la aplicación \nrigurosa de la ley de protección de datos y anonimato \nde la información tratada.",
+      "46/2022"
+    ],
+    "severity": "leve"
   }
 ]

@@ -88,7 +88,25 @@
       "2021-08/2021",
       "2021-64/2021",
       "2021-71/2021"
-    ]
+    ],
+    "date": "2021-02-05",
+    "station": "Blanes",
+    "province": "Girona",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nResumen del análisis  \nEl análisis de este suceso ha puesto de manifiesto que los RC del CTC no tienen completamente \nasumido que la información mostrada en el videográfico, monitores y software del CTC no tiene el \nnivel de seguridad exigido para decidir actuaciones de seguridad en caso de anormalidad, a diferencia \nde las instalaciones de los sistemas de bloqueos y enclavamientos que cuentan con mayores niveles \nde seguridad.",
+      "La información visualizada en los monitores del CTC, tanto si aparece ocupado un \ncircuito de vía o un cantón de bloqueo, como si esta ocupación no aparece, no es suficiente para \ndeterminar la ocupación real ni las actuaciones en caso de no funcionar el bloqueo o la señal de salida \nde la estación, por lo que es imprescindible realizar las comprobaciones necesarias, aplicando \nprocedimientos reglamentarios, para localizar todos los trenes, maniobras o trabajos que pudieran \nser incompatibles.",
+      "Así, cualquier ocupación visualizada en el videográfico, aunque no tenga número de tren asociado, \ndebería ser interpretada, en primer lugar, como si se tratase de un tren.",
+      "Para poderse interpretar de \notro modo, se deberían realizar todas las comprobaciones previas necesarias.",
+      "Es por ello que se hace \nnecesario el establecimiento de procedimientos específicos.",
+      "En el caso particular de los cantones de bloqueo BLA entre estaciones con CTC, cuando éstos son \ngestionados por un único RC, éste dispone en su puesto de una información global de la situación de \nlos trenes, ya que la controla de forma íntegra.",
+      "Sin embargo, en los cantones entre bandas de \nregulación colaterales, como sólo gestiona directamente uno de los lados, la coordinación entre los \nRC del CTC es fundamental.",
+      "Este análisis ha puesto de relieve, según se desprende de las \ndeclaraciones de los RC, que durante la gestión de situaciones degradadas los conflictos entre \ncirculaciones pueden ser habituales, no existiendo un"
+    ],
+    "recommendations": [
+      "Se establecen 5 recomendaciones. Todas como destinatario a la AESF, 4 como implementador final a \nADIF sobre procedimientos específicos en situaciones no habituales del BLA (1), (2) sobre la formación \na los RC en sistemas videográficos (2), sobre la definición de protocolos adicionales en la cadena de \nmando de los PM (3) y sobre la necesidad de reportar las pérdidas de número de tren en los \nvideográficos (4); y una como destinatarios conjuntos finales a ADIF y a las EEFF sobre el \nestablecimiento de un canal y su procedimiento  específico  de interlocución entre ambas (5).",
+      "09/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n7"
+    ],
+    "severity": "leve"
   },
   {
     "id": "2021-2/2020",
@@ -173,13 +191,30 @@
     "similares": [
       "2021-64/2021",
       "2021-402/2013"
-    ]
+    ],
+    "date": "2021-07-02",
+    "station": "Novelda",
+    "province": "Alicante",
+    "conclusions": [
+      "5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "El personal ferroviario involucrado cumple la normativa vigente (título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico) y actuó correctamente.",
+      "Tanto el material rodante como la infraestructura funcionaron de manera correcta.",
+      "Los sistemas de control, mando y señalización y comunicaciones también funcionaron \ncorrectamente.",
+      "El paso estaba en buenas condiciones y había sido revisado recientemente, en base al SGS de \nAdif.",
+      "El automóvil accidentado llegó por la calle Rafael Altamira (paralela a la vía), y al llegar a Camí de \nCastella (inmediatamente antes del paso a nivel), a baja velocidad, giró a la izquierda para \nincorporarse, sin reducir velocidad ni detenerse.",
+      "En ese momento el paso a nivel estaba cerrado, con las semibarreras bajadas y la señalización \nluminosa activada. Además había otro vehículo detenido ante la semibarrera.",
+      "En su giro para incorporarse a Camí de Castella (de más de 90°) el automóvil accidentado \ndescribió una trayectoria tal que pasó por el hueco que deja la semibarrera bajada (carril \nizquierdo de Camí de Castella), invadiendo el paso a nivel.",
+      "El maquinista del tren había adecuado la marcha a las condiciones impuestas por la señalización \ny el paso a nivel protegido.",
+      "Al ver que el coche invadía el paso a nivel, el maquinista del tren inició una frenada de \nemergencia, si bien no pudo evitar la colisión, al haber sucedido la invasión y su reacción en un \ntiempo muy limitado, de apenas dos segundos.",
+      "Los testimonios indican, además, que en el último instante el automóvil accidentado aumentó su \nvelocidad, justo antes de ser arrollado por el tren. \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se \nconcluye lo siguiente: \nCausas directas e inmediatas del suceso: \nComo causa directa del accidente se considera el fallo humano del conductor del coche accidentado, \nque ha"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2021-08/2021",
     "year": 2021,
     "expediente": "08/2021",
-    "titulo": "220526-210129-if-sn-en_ciaf",
+    "titulo": "Incidente operacional ocurrido en el apeadero de L’Énova- Manuel (Valencia), el 29 de enero de 2021.",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
     "gravedad": "leve",
@@ -221,13 +256,15 @@
     },
     "similares": [
       "2021-09/2021"
-    ]
+    ],
+    "date": "2021-01-29",
+    "severity": "leve"
   },
   {
     "id": "2021-64/2021",
     "year": 2021,
     "expediente": "64/2021",
-    "titulo": "220630-210811-if-sn_ciaf",
+    "titulo": "Fallo de cargamento en el p.k. 161 de la línea 200 en Medinaceli (Soria), el día 11/08/2021",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "leve",
@@ -303,13 +340,38 @@
       "2021-2/2020",
       "2021-71/2021",
       "2021-402/2013"
-    ]
+    ],
+    "date": "2021-08-11",
+    "station": "Medinaceli",
+    "province": "Soria",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nResumen del análisis  \nNo se han detectado comportamientos anómalos ni en la infraestructura, ni en las instalaciones, ni \nen las actuaciones del maquinista, por lo que del análisis realizado sobre este suceso se pueden \nextraer los siguientes resultados: \n1.- Las condiciones climáticas el día 11/09/2021 a las 22:15h, en el lugar del suceso eran de tormenta \ncon abundante aparato eléctrico y fuertes rachas de viento acompañadas de importantes \nprecipitaciones.",
+      "La estación meteorológica de Arcos de Jalón llega a registrar rachas de viento de \nhasta 86 km/h.",
+      "2.- El lugar del suceso se encuentra entre los p.k.",
+      "161+300 y 161+500 de la vía 2 entre las estaciones \nde Torralba y Medinaceli, de la línea 200 de Madrid Chamartín a Barcelona França.",
+      "En esta zona, la \nvía discurre de oeste a este sobre un terraplén de unos 5 m de altura de forma prácticamente \nperpendicular a un valle en orientación norte-sur, lo que posibilita el efecto tubo de las rachas de \nviento generadas por la tormenta y, a consecuencia de la orografía del lugar, que su dirección fuese \nperpendicular a la trayectoria del tren.",
+      "Asimismo, el terraplén existente pudo favorecer la aparición \nde componentes verticales en la dirección del viento que ayudaron al levantamiento de los \ncontenedores una vez estos habían iniciado el vuelco.",
+      "3.- El tren 90666 de LCR que sufrió la descomposición de cargamento, circulaba con 31 vagones \ncargados con 33 contenedores tipo HC de 40 pies vacíos con 2,895 m de altura y 4 t de peso.",
+      "Todos \nlos vagones afectados pertenecían a la serie internacional Kglps y eran propiedad de la empresa \nRAXELL RAIL estando alquilados por LCR.",
+      "4.- Los vagones Kglps disponen de esquineros como medio de sujeción de los contenedores al vagón, \ncon unas holguras máximas entre esquinero y contenedor de 62 mm de ancho y 58 mm de largo, no \nexistiendo otras medidas adicionales de sujeción, por lo que los contenedores no estaban asegurados \nante el riesgo de vuelco por fuertes rachas de viento.",
+      "5.- Durante el proceso de transformación no se retiró el piso de madera de los vagones plataformas, \nlo que pudo contribuir, una vez iniciado el vuelco de los contenedores, a generar una fuerza \nascendente sobre los contenedores que favorecía su levantamiento.",
+      "64/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n33 \n \n \n6.- El transporte de los contenedores HC sobre vagones Kglps requiere de una ATE que en este caso \nparticular había sido tramitada erróneamente para las series Lgs y Sgs para unas holguras de 10 mm.",
+      "Figura 15: Esquema del step del suceso. Figura 16: Árbol causal del suceso.",
+      "Comisión de Investigación de Accidentes Ferroviarios"
+    ],
+    "recommendations": [
+      "Se establecen 3 recomendaciones, teniendo todas como destinatario la AESF.",
+      "Dos de ellas tienen \ncomo implementador final a todas las EF de transporte de mercancías, para que se tenga en cuenta \nque los esquineros no aseguran la carga frente al vuelco por componentes de viento lateral, y se \ngarantice que los procedimientos concretos de cada tipo de cargamento llegan a los ROC, o en su \ncaso quién decida la EF, con objeto de comprobar que se cumplen los requisitos de seguridad del \ncargamento.",
+      "La tercera tiene a la propia AESF como implementador final, para que en los \nprocedimientos de transformación de material ferroviario se incluya, de algún modo, en los análisis \nde riesgos, las posibles condiciones de la operación, y para que se supervise, dentro de los \nexpedientes de modificación de material ferroviario, que se contemplan todos los riesgos de \noperación, y en su caso, a quién son exportados los que queden sin mitigar .",
+      "64/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n7"
+    ],
+    "severity": "leve"
   },
   {
     "id": "2021-71/2021",
     "year": 2021,
     "expediente": "71/2021",
-    "titulo": "220721-210906-if-sn_ciaf",
+    "titulo": "Descarrilamiento ocurrido el 6 de septiembre de 2021 en la estación de Prat de Llobregat.",
     "tipo": "avería",
     "tipo_suceso": "avería",
     "gravedad": "leve",
@@ -333,7 +395,9 @@
       "resumen": "",
       "descripcion": ""
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nCausales:"
+    ],
     "recomendaciones": [],
     "tags": [
       "avería",
@@ -352,13 +416,19 @@
     "similares": [
       "2021-09/2021",
       "2021-64/2021"
-    ]
+    ],
+    "date": "2021-09-06",
+    "station": "Prat de Llobregat",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nCausales:"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2021-402/2013",
     "year": 2021,
     "expediente": "402/2013",
-    "titulo": "221220-210503-if_ciaf",
+    "titulo": "Descarrilamiento de tren ocurrido el día 03/05/2021 en Bif. Galicia en las inmediaciones de la estación de León",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "leve",
@@ -449,6 +519,26 @@
     "similares": [
       "2021-2/2020",
       "2021-64/2021"
-    ]
+    ],
+    "date": "2021-05-03",
+    "station": "León",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nResumen del análisis  \nDel análisis realizado sobre este suceso se pueden concluir que el material rodante, la infraestructura, \nel control de la circulación, y las instalaciones, salvo el desvío D2, se comportaron correctamente.",
+      "En \nrelación con este último se pueden extraer los siguientes resultados:   \n1.- En la actuación de junio de 2020, en la que se llevó a cabo la sustitución del desvío de ancho ibérico \nD4T por el escape mixto D4-D2, quedaría instalada una brida tipo C en el espadín de ancho ibérico \ndel corazón obtuso del desvío D4 que quedaría visible en el carril.",
+      "Posteriormente, en julio de 2020, \ndebido a las fallos de comprobación, después de haber sido analizado conjuntamente por los \nresponsables de los subsistemas tanto de infraestructura como de CMS y bajo la dirección de obra, \nse procedió al desmontaje de los tirantes de comprobación del desvío D4 colocando una brida de tipo \nsándwich en el cerrojo del motor 4 alojada en el extremo de la traviesa cajón que sustituiría a la brida \ntipo C previamente colocada que fue retirada, manteniéndose el tirante de tracción del motor.",
+      "2.- La solución adoptada para solventar los problemas de comprobación en el desvío D4 de desmontar \nlas timonerías no fue considerada como una modificación que requería de una documentación en el \nproyecto por lo que éste no fue objeto de una actualización ni de la evaluación de riesgos ni de la \ndocumentación donde se reflejaran las diferencias existentes entre la actuación proyectada y la \nrealmente ejecutada.",
+      "3.- En la actuación de 2021, de conexión lógica del escape D4-D2 al enclavamiento, los mismos \nproblemas de fallos de comprobación detectados un año antes en el desvío D4 se volvieron a \nreproducir en el desvío D2.",
+      "Dada la necesidad de poner en servicio el escape para las circulaciones y \nel conocimiento previo de la actuación de 2020 se decidió llevar a cabo en el desvío D2 la misma \nsolución implem"
+    ],
+    "recommendations": [
+      "Se establecen 6 recomendaciones, teniendo todas como destinatario la AESF y como implementador \nfinal tanto a ADIF como a ADIF-AV, para:  \n\n \n 38/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n7 \n \n \n \nEstablecer programas y actuaciones que garanticen la formación y experiencia del personal \ninterno y externo de ADIF encargado de la gestión y mantenimiento de elementos de \ninfraestructura complejos o novedosos con carácter previo a su puesta en servicio o en \ncualquier otro caso previo a la puesta en funcionamiento, especialmente en el caso de \ndesvíos mixtos.",
+      " \nEstablecer los mecanismos internos adecuados para garantizar que se aplica el \nprocedimiento ADIF-PE-101-003-010-SC-312 de manera que no se lleve a cabo ninguna \nactuación cuyo riesgo no haya sido previamente analizado.",
+      " \nEstudiar la conveniencia de establecer en el procedimiento ADIF-PE-101-003-010-SC-312 una \nactividad específica en la que se documenten y se recojan, en la evaluación de riesgos, los \nnuevos peligros detectados, para que éstos puedan ser incorporados al registro final de \npeligros (específico y general), quedando controlados y de manera que quede una referencia \npara posteriores actuaciones semejantes.",
+      " \nEstablecer acreditaciones que garanticen que los responsables técnicos nombrados según el \nprocedimiento ADIF-IT-301-001-007-SC-524 realmente poseen conocimientos y experiencia \nen las áreas específicas de su responsabilidad.",
+      " \nEstudiar la incorporación de métodos que verifiquen que los requisitos técnicos exigidos en \nlos PCAP y en los PPTP a los contratistas sean asimismo exigidos a los subcontratistas en las \náreas de su competencia.",
+      " \nAsegurar la elaboración y actualización de la normativa técnica referida a desvíos de manera \nque se contemplen los aspectos técnicos de los desvíos de ancho mixto, en particular, en lo \nrelativo a su montaje y mantenimiento, así como a la correcta colocación de los distintos tipos \nde dispositivos de embridado autorizados por ADIF.",
+      "Comisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n8"
+    ],
+    "severity": "grave"
   }
 ]

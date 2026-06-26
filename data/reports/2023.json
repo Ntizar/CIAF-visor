@@ -101,7 +101,11 @@
     },
     "similares": [
       "2023-114/2023"
-    ]
+    ],
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \n \nFigura 18 Árbol causal del suceso \nFactores causales"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2023-43/2023",
@@ -194,7 +198,12 @@
     },
     "similares": [
       "2023-114/2023"
-    ]
+    ],
+    "date": "2023-05-18",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 5 Árbol causal del suceso \nFactores causales"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2023-114/2023",
@@ -279,6 +288,13 @@
     "similares": [
       "2023-11/2023",
       "2023-43/2023"
-    ]
+    ],
+    "date": "2023-11-26",
+    "station": "Atocha-Cercanías",
+    "province": "Madrid",
+    "conclusions": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n  \nFigura 10 Árbol causal del suceso \nFactor causal"
+    ],
+    "severity": "leve"
   }
 ]

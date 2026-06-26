@@ -73,7 +73,17 @@
       "2014-0037/2014",
       "2014-0042/2014",
       "2014-0053/2014"
-    ]
+    ],
+    "date": "2014-07-02",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente se produce por fallo de la infraestructura, y más concretamente por la deformación de la \nvía al paso del tren, debido a la insuficiencia del sistema de drenaje para recoger, evacuar y restituir la \nescorrentía de las lluvias torrenciales, localizadas e imprevistas caídas en la zona del suceso, \nproduciéndose la acumulación y corrientes de agua capaces de arrastrar el balasto de la vía I en donde \nconfluían, de forma ortogonal y con velocidad (por desnivel), las aguas de escorrentía de los márgenes \nde la vía y de su plataforma."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif Alta Velocidad \n34/14-1 \nEstablecer un plan de vigilancia hasta la finalización de la \ntotalidad de las obras del “Proyecto de Emergencia de \nobras de refuerzo de la infraestructura de drenaje y \nrestitución de la superestructura ferroviaria entre los \nPP.KK.",
+      "367+200 y 370+100 de la línea Bifurcación \nAlbacete-Alicante”.",
+      "Madrid, 24 de marzo de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0026/2014",
@@ -103,7 +113,11 @@
       "resumen": "El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria\nComsa Rail Transport, procedente de Valença do Minho (Portugal) y con destino A Coruña San Diego,\ncompuesto por una locomotora y 13 vagones (plataformas PMMC) que circulaban vacíos, descarriló en\nel PK 17+896 de la línea 824 Redondela de Galicia a Santiago de Compostela, al pasar por el cambio\nnº 6 en la Bifurcación Arcade descarrilando el segundo bogie del séptimo vagón y el primer bogie del\nvagón",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Comsa Rail, el técnico \nresponsable de la investigación concluye que: \nSe desconoce la causa del descarrilamiento.",
+      "La hipótesis más probable es la suma de factores cuyo \nefecto sinérgico sobre la dinámica del vehículo produjo su descarrilamiento.",
+      "MINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n.doc"
+    ],
     "recomendaciones": [
       {
         "numero": "26/14-1",
@@ -130,7 +144,21 @@
       "2014-0041/2014",
       "2014-0052/2014",
       "2014-0051/2014"
-    ]
+    ],
+    "date": "2014-04-15",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Comsa Rail, el técnico \nresponsable de la investigación concluye que: \nSe desconoce la causa del descarrilamiento.",
+      "La hipótesis más probable es la suma de factores cuyo \nefecto sinérgico sobre la dinámica del vehículo produjo su descarrilamiento.",
+      "MINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n.doc"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \n26/14-1 \nConsiderando adecuadas las medidas adoptadas por Takargo \ny GMF y consistentes en:  \n− Modificación de los planes de mantenimiento introduciendo \nuna operación a los 18 meses en la que se comprueban los \nvalores de los parámetros de rodadura.",
+      "Además se \nimplanta el uso de la plantilla de visitador en las \ninspecciones VS.",
+      "− Revisión de los valores de los parámetros de rodadura de \ntodos los vagones de la misma serie.",
+      "se trasladan a la AESF para que analice la conveniencia de \nimplantar \nmedidas \nsimilares \nen \notras \nempresas \nmantenedoras.",
+      "Madrid, 28 de abril de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0037/2014",
@@ -182,7 +210,11 @@
       "de medidas para paliar éste, como son: control de alcoholemia, retirada del servicio, reconocimiento",
       "psicofísico y programa individualizado de reciclaje (que en este caso incluyó paso por simulador,"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas por Renfe \nOperadora, consistentes en:",
+      "Aplicación al maquinista de la Circular Operativa nº \n1 de Presidencia.",
+      "Otras acciones orientadas a la mejora de la gestión \ndel riesgo por fallo humano en la conducción. \nno se establecen recomendaciones. \n \n \nMadrid, 28 de abril de 2015"
+    ],
     "tags": [
       "incidente",
       "colisión",
@@ -200,7 +232,17 @@
       "2014-0042/2014",
       "2014-0053/2014",
       "2014-0061/2014"
-    ]
+    ],
+    "date": "2014-07-10",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente se produce por fallo humano del personal de conducción del tren de mercancías BAX80 \ny más concretamente por un error de percepción de la indicación de la señal, debido posiblemente a \nuna falta de atención en la conducción, teniendo como consecuencia el incumplimiento de la orden \ndada por la señal S2/1B y el rebase indebido de ésta, incumpliéndose los artículos 217.1 y 320.4 del \nReglamento General de Circulación."
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \n \n \nConsiderando adecuadas las medidas adoptadas por Renfe \nOperadora, consistentes en:",
+      "Aplicación al maquinista de la Circular Operativa nº \n1 de Presidencia.",
+      "Otras acciones orientadas a la mejora de la gestión \ndel riesgo por fallo humano en la conducción. \nno se establecen recomendaciones. \n \n \nMadrid, 28 de abril de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0036/2014",
@@ -286,7 +328,19 @@
       "2014-0041/2014",
       "2014-0052/2014",
       "2014-0051/2014"
-    ]
+    ],
+    "date": "2014-07-11",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente se produjo por la invasión del gálibo de la vía por la víctima, al cruzar por el paso entre \nandenes sin percatarse de la llegada del tren.",
+      "MINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \n.doc"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad Ferroviaria \n(AESF) \n36/14-1 \nIniciar las gestiones encaminadas a la sustitución del \nactual paso entre andenes de la estación por un paso a \ndistinto nivel.",
+      "Agencia Estatal de \nSeguridad Ferroviaria \n(AESF) \n36/14-2 \nMientras se mantenga el actual paso entre andenes, \ngestionar el refuerzo de la señalización del mismo, \ncolocando carteles que recuerden a los peatones la \nnecesidad de mirar y cerciorarse de que no se aproxima \nningún tren.",
+      "Agencia Estatal de \nSeguridad Ferroviaria \n(AESF) \n36/14-3 \nImpulsar la actividad del grupo de trabajo sobre la \naccidentabilidad en estaciones de la AESF.",
+      "Madrid, 25 de mayo de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0044/2014",
@@ -375,7 +429,27 @@
       "2014-0041/2014",
       "2014-0052/2014",
       "2014-0051/2014"
-    ]
+    ],
+    "date": "2014-08-31",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl descarrilamiento se produce por fallo del material móvil, concretamente del sistema de cambio de \nancho de la rueda derecha del último eje de la composición, en el sentido de la marcha del tren, que \nno realiza la traslación axial para el cambio de ancho debido al agarrotamiento del sistema cónico \ndentado, generado por la degradación de la grasa al estar contaminada por encontrarse la junta \n(rascador) desgastada, no siendo totalmente estanca.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn las últimas revisiones realizadas conforme al plan de mantenimiento (y en el último cambio de \nruedas) no se detectó deterioro en la junta (rascador), por lo que no fue sustituida.",
+      "MINISTERIO \nDE FOMENTO \nSUB \n150803-140831-IF-CIAF.doc \n \n \n\nAsimismo, la prueba de medición de esfuerzos de traslación realizada en una revisión V1 anterior al \nsuceso dio resultados de esfuerzos de traslación superiores a los admisibles, no siendo detectados por \nel personal mantenedor.",
+      "Tampoco hay registros de las dos V1 inmediatamente anteriores al suceso.",
+      "De haberlos, posiblemente se hubiera detectado esta deficiencia con anterioridad al suceso.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nRenfe Operadora \n(entidad \nencargada del \nmantenimiento) \n44/14-1 \nIncluir en el plan de mantenimiento la \nsustitución \nsistemática \nde \nla \njunta \n(rascador) en los ciclos operativos GVG \n(1.200.000 kilómetros) y superiores.",
+      "Dicha \nsustitución también se llevará a cabo en \naquellas operaciones donde se realice el \ndesmontaje del sistema de acoplamiento.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nRenfe Operadora \n(entidad \nencargada del \nmantenimiento) \n44/14-2 \nSeguimiento de las investigaciones relativas \na la modificación de los rascadores y nuevo \ndentado del sistema de cambio de ancho.",
+      "Plan de implantación del resultado de las \nmismas.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nRenfe Operadora \n(entidad \nencargada del \nmantenimiento) \n44/14-3 \nTerminar \nde \nimplantar \ntodas \nlas \nmodificaciones en la realización de la \noperación de medición de fuerzas de \ntraslación \nen \nel \ncambio \nde \nancho \nestablecidas en el punto 5 del .",
+      "Modificar la documentación de \nmantenimiento correspondiente.",
+      "Madrid, 14 de julio de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0041/2014",
@@ -458,7 +532,20 @@
       "2014-0044/2014",
       "2014-0052/2014",
       "2014-0053/2014"
-    ]
+    ],
+    "date": "2014-08-06",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por fallo del material rodante, al producirse un sobrecalentamiento en uno de \nlos conectores del conmutador del sistema Q1 de la locomotora, generándose arcos eléctricos como \nconsecuencia de un defecto en el apriete de dicho conector.",
+      "Como factor coadyuvante se apunta que los detectores de incendio instalados en la locomotora se ubican \nen una posición que no fue capaz de detectar el inicio del incendio, dando lugar a que éste progresase.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn ninguna intervención de mantenimiento se comprueba el estado de apriete de los conectores del \nconmutador del sistema Q1.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
+      "MINISTERIO \nDE FOMENTO \nSUB \n150922-140806-IF-CIAF"
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nRenfe Operadora \n(entidad \nencargada del \nmantenimiento) \n41/14-1 \nReconsiderar el plan de mantenimiento de \nlas \nlocomotoras"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0052/2014",
@@ -540,7 +627,19 @@
       "2014-0044/2014",
       "2014-0041/2014",
       "2014-0051/2014"
-    ]
+    ],
+    "date": "2014-09-26",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produce por fallo humano del personal de conducción de la locomotora aislada, y más \nconcretamente por un incumplimiento reglamentario del artículo 141.1 del RGC por parte del personal \nde conducción, al no cumplimentarse adecuadamente la orden de “marcha a la vista”.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nTransfesa Rail \n52/14-1 \nInsistir en los cursos de reciclaje del \npersonal \nde \nconducción \nen \nel \ncumplimiento de las condiciones de \ncirculación con “marcha a la vista”.",
+      "Madrid, 22 de septiembre de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0042/2014",
@@ -620,7 +719,27 @@
       "2014-0037/2014",
       "2014-0053/2014",
       "2014-0005/2014"
-    ]
+    ],
+    "date": "2014-08-11",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ntécnico responsable de la investigación concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl suceso se produjo por fallo humano del encargado de los trabajos, al devolver al CTC la vía 1 del \napartadero de Pancorbo cuando aún continuaban trabajando operarios en la aguja 5.",
+      "Ello vino \n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n151022-140811-IF-CIAF \n \n \n\nmotivado al considerar el encargado de trabajos que los operarios que se encontraban en la aguja 5 \nno estaban bajo su responsabilidad y además que el trabajo de éstos no afectaba a la vía 1, debido a \nque el encargado de trabajos desconocía el alcance del punto 223 del acta semanal de trabajos.",
+      "Como factor coadyuvante se apunta el hecho de que el equipo de trabajo de la aguja nº 5 tampoco \ncolocó los útiles de cortocircuitado ni las señales portátiles de parada, lo que hubiera detenido el tren, \nincumpliéndose el artículo 343 del RGC.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nEn el punto 223 del acta semanal de trabajos se relacionan una serie de actividades de diferente \níndole de forma muy general sin indicar claramente las ubicaciones de las operaciones y el alcance de \nlas mismas.",
+      "Además la modalidad de trabajo contemplada es del tipo EC, lo que implicaría la no \nafección de los trabajos a la zona de agujas.",
+      "Es por ello que; si bien Adif dispone de una guía de referencia para la confección de actas semanales \nde trabajos, en la que se especifica las consideraciones generales y comunes de dichas actas; en este \ncaso no se cumplimentó de forma adecuada.",
+      "Por otro lado la Consigna ATO nº 38 - CTO nº 63 refleja las operaciones de forma muy general incluso \nen el punto 2.3.1.",
+      "“Montaje nuevo desvío y escape 1/3, labores a realizar el 11 de agosto de 2014” no \nqueda reflejado que se van a realizar trabajos en la aguja 7.",
+      "Señalar también que en el apartado 3 de \nla Consigna “Condiciones de Circulación” contempla que las agujas deberán estar orientadas a vía \ndirecta en todo momento."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAdif \n42/14-1 \nRealizar \nuna \ncampaña \nde \ncontrol \nespecífica para comprobar la correcta \ncumplimentación de las actas semanales \nde trabajo en el área operativa (gerencia) \ndel ámbito de Pancorbo (Burgos).",
+      "AESF \nAdif \n42/14-2 \nRealizar \nuna \ncampaña \nde \ncontrol \nespecífica para comprobar el adecuado \nconocimiento de la normativa a aplicar \npor parte de los encargados de trabajo en \nel área operativa (gerencia) del ámbito de \nPancorbo (Burgos).",
+      "Madrid, 22 de octubre de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0053/2014",
@@ -699,7 +818,21 @@
       "2014-0037/2014",
       "2014-0041/2014",
       "2014-0042/2014"
-    ]
+    ],
+    "date": "2014-09-26",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n151022-140926-IF-CIAF \n \n \n\n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produce por fallo humano del personal de conducción del material vacío (maniobra UT \n470012), y más concretamente por un error en la percepción de la indicación de la señal S1/14 -que \nen todo momento indicó parada y el maquinista manifiesta verla en “rebase autorizado”-, dando lugar \nal rebase de la misma  y al consecuente incumplimiento reglamentario.",
+      "Como causa coadyuvante se apunta la  falta de claridad y consecuentemente mal entendimiento entre \nel responsable de circulación y el maquinista del  material vacío.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
+      "4.3.4. Observaciones adicionales \nEl responsable de circulación y el maquinista del material vacío (maniobra UT470120) actuaron \nincorrectamente en los momentos posteriores al rebase: el primero al ordenar el retroceso sin  \nhaberse comprobado el estado de los cambios y el segundo por acceder a ello."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAESF \n53/14-1 \nConsiderando adecuadas las medidas \nadoptadas en este suceso se recomienda: \nQue se analice conjuntamente por el Adif \ny las empresas ferroviarias la existencia \nen otros puntos de la red de señales que \npresenten una situación similar a la del \npresente suceso (dificultad de percepción \nde su indicación por deslumbramiento) \nadoptando las medidas necesarias.",
+      "Madrid, 22 de octubre de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0051/2014",
@@ -778,7 +911,22 @@
       "2014-0044/2014",
       "2014-0041/2014",
       "2014-0052/2014"
-    ]
+    ],
+    "date": "2014-09-02",
+    "station": "UNQUERA (CANTABRIA) Y",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por la existencia de defectos en la geometría de la vía, concretamente alabeos, \nocasionados por un drenaje insuficiente de la plataforma.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn la zona del accidente estaba establecida una LTV a 30 km/h por deformación de la vía por \ninestabilidad de la plataforma.",
+      "Las labores de mantenimiento no fueron suficientes para restablecer las \ncondiciones adecuadas de circulación que llevase a la supresión de la LTV.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif (RAM) \n51/14-1 \nImpulsar \nla \nejecución \ndel \nproyecto \n“Segunda intervención en refuerzo de \nasentamientos Colombres” con el objeto \nde restablecer las condiciones normales \nde circulación.",
+      "Mientras tanto se deberá mantener la \npertinente \nLTV \ny \nlas \nvisitas \nde \ninspección al tramo.",
+      "Madrid, 24 de noviembre de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0060/2014",
@@ -875,7 +1023,27 @@
       "2014-0044/2014",
       "2014-0041/2014",
       "2014-0052/2014"
-    ]
+    ],
+    "date": "2014-11-09",
+    "station": "CALAÑAS",
+    "province": "HUELVA",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, \naccediendo al paso a nivel cuando se aproximaba el tren 17907.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nEl paso a nivel no disponía de señalización fija en el camino, incumpliéndose lo dispuesto en la Orden \nFOM de 2 de agosto de 2001.",
+      "4.4. OBSERVACIONES ADICIONALES \n4.4.1. Deficiencias detectadas durante la investigación que no guardan relación con las \nconclusiones sobre las causas \nEl artículo 12.2 de la Orden FOM de 2 de agosto de 2001 “Aplicación de la protección de clase B”, dice: \n“Cuando el momento de circulación AxT del paso a nivel [con protección clase A] presenta un valor \nsuperior a 100 e inferior a 1000 y su distancia de visibilidad real sea inferior a la distancia de visibilidad \n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n151124-141109-IF-CIAF.doc \n \n \n\ntécnica”, se aplicará a dicho paso la protección clase B (siempre que la velocidad máxima de \ncirculación del tren sea superior a 40 km/h).",
+      "No obstante, se da la circunstancia de que pasos a nivel con protección clase A y un AxT inferior a 100 \npueden tener distancias de visibilidad reales inferiores a la distancia de visibilidad técnica.",
+      "Así pues, debería considerarse la modificación del citado artículo 12.2, de manera que en su redacción \nse incluyera la aplicación de la protección clase B a todos los pasos clase A en los que las distancias de \nvisibilidad reales fueran inferiores a las distancias de visibilidad técnica en alguno de sus cuadrantes.",
+      "De esta forma se garantizaría que en los pasos a nivel clase A restantes la distancia de visibilidad real, \nen los cuatro cuadrantes, sea siempre superior a la distancia de visibilidad técnica."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAyuntamiento de \nCalañas \n60/14-1 \nAdecuar la señalización de los caminos \nde acceso al paso a nivel situado en el \nPK 130+742 de la línea 512 Zafra – \nHuelva Cargas, a lo dispuesto en el \nartículo 9.2 de la Orden FOM de 2 de \nagosto de 2001, por la que se desarrolla \nel artículo 235 del Reglamento de la Ley \nde \nOrdenación \nde \nlos \nTransportes \nTerrestres, en materia de supresión y \nprotección de pasos a nivel.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n60/14-2 \nAnalizar la posibilidad de supresión del \npaso a nivel situado en el PK 130+742 de \nla línea 512 Zafra – Huelva Cargas, \naprovechando la existencia de un paso \nsuperior de carretera en las inmediaciones.",
+      "MINISTERIO \nDE FOMENTO \nSUB \n151124-141109-IF-CIAF.doc \n \n \n\nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \n60/14-3 \nEstudiar la posibilidad de modificar la \nnormativa actual; en concreto el artículo \n12 de la Orden FOM de 2 de agosto de \n2001, por la que se desarrolla el artículo \n235 del Reglamento de la Ley de \nOrdenación de los Transportes Terrestres, \nen materia de supresión y protección de \npasos a nivel; de manera que se dote de \nprotección clase B a todos los pasos que \ndispongan de protección clase A y en los \nque la distancia de visibilidad real sea \ninferior a la distancia de visibilidad técnica \nen \nalguno \nde \nsus \ncuadrantes, \nindependientemente \ndel \nvalor \ndel \nmomento de circulación AxT.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \n60/14-4 \nEstudiar la posibilidad de preparar un plan \nde actuación para la conversión de pasos \nclase A en clase B de forma que, en \nfunción del ries"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0061/2014",
@@ -955,7 +1123,19 @@
       "2014-0036/2014",
       "2014-0044/2014",
       "2014-0041/2014"
-    ]
+    ],
+    "date": "2014-11-18",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por el fallo de la infraestructura, concretamente la vía se abrió al paso el tren, \npor encontrarse en estado deficiente sus sujeciones y traviesas.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn la zona del accidente estaba establecida una limitación temporal de velocidad a 10 km/h desde el \naño 2010 debido al estado de la vía.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n61/14-1 \nImpulsar \nla \nrealización \nde \nun \nmantenimiento, tanto preventivo como \ncorrectivo, con el objeto de conservar la \nvía EV de Tarragona Clasificación en \ncondiciones que permitan circular con \nseguridad.",
+      "Madrid, 24 de noviembre de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0064/2014",
@@ -991,7 +1171,9 @@
       "No se establecen recomendaciones",
       "Madrid, 28 de junio de 2016"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \n \n \n \nNo se establecen recomendaciones \n \nMadrid, 28 de junio de 2016"
+    ],
     "tags": [
       "accidente",
       "descarrilamiento",
@@ -1012,7 +1194,19 @@
       "2014-0044/2014",
       "2014-0041/2014",
       "2014-0052/2014"
-    ]
+    ],
+    "date": "2014-10-11",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nLa hipótesis más probable de la causa última del descarrilamiento es la suma de diferentes factores \nque por sí solos no se les puede considerar como “causa última” pero por un efecto sinérgico sobre la \ndinámica del vehículo pueden llegar a producir el descarrilamiento.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUB \n160628-141011-IF-CIAF"
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \n \n \n \nNo se establecen recomendaciones \n \nMadrid, 28 de junio de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2014-0005/2014",
@@ -1092,6 +1286,16 @@
       "2014-0044/2014",
       "2014-0041/2014",
       "2014-0052/2014"
-    ]
+    ],
+    "date": "2014-01-23",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente se produce por fallo humano del personal de circulación (jefe del CTC de Miranda de Ebro) \nal realizar una operación de circulación incorrecta.",
+      "Por equivocación éste bloqueó la vía I entre Calzada \nde Bureba y Briviesca en lugar de la vía II, que era la realmente concedida por telefonema al encargado \nde trabajos.",
+      "MINISTERIO \nDE FOMENTO \nSUBSECRETARÍA"
+    ],
+    "recommendations": [
+      "Destinatario final \nNúmero \nRecomendación \nAdif \n05/14-1 \nSe reitera la recomendación 43/13-1: “Incluir dentro de la \nnormativa de aplicación a los trabajos descritos en este \ninforme, en especial en la Consigna C Experimental nº 58, \nel uso obligatorio de protecciones mediante útiles de \ncortocircuitado (en líneas con circuitos de vía eléctricos) y \nseñales (en líneas sin circuitos de vía eléctricos).” \n \n \nMadrid, 27 de enero de 2015"
+    ],
+    "severity": "fatal"
   }
 ]

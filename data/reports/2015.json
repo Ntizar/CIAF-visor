@@ -48,7 +48,11 @@
       "4 acompañamientos en cabina durante los primeros 30 días de reincorporación al trabajo.",
       "4 análisis de registros de velocidad durante los primeros 30 días de reincorporación al trabajo."
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \n \n \n \nConsiderando adecuadas las medidas \nadoptadas consistentes en: \nPor Adif:",
+      "Retirar el foco blanco de la señal EB5. \nPor Renfe Viajeros",
+      "Aplicación al maquinista de la Carta \nCircular Operativa nº1 de Presidencia. \nNo se establecen recomendaciones. \n \nMadrid, 22 de diciembre de 2015"
+    ],
     "tags": [
       "incidente",
       "colisión",
@@ -68,7 +72,23 @@
       "2015-0012/2015",
       "2015-0028/2015",
       "2015-0052/2015"
-    ]
+    ],
+    "date": "2015-02-17",
+    "station": "MADRID CHAMARTÍN",
+    "province": "MADRID",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produce por fallo humano del personal de conducción de la maniobra para tren 21428 \n(material vacío de cercanías UTs 907174461505 y 907174461596), y más concretamente por un error \nen la percepción de la indicación de la señal EB5 - que en todo momento indicó parada y el maquinista \nmanifiesta verla en “rebase autorizado” - dando lugar al rebase de la misma y al consecuente \nincumplimiento reglamentario.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nCon el vehículo detenido delante de la señal EB5, en momentos puntuales, el efecto del reflejo de la \nluz solar puede inducir a error de percepción del foco blanco de la señal a los maquinistas.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
+      "MINISTERIO \nDE FOMENTO \nSUB \n151222-150217-IF-CIAF.doc"
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \n \n \n \nConsiderando adecuadas las medidas \nadoptadas consistentes en: \nPor Adif:",
+      "Retirar el foco blanco de la señal EB5. \nPor Renfe Viajeros",
+      "Aplicación al maquinista de la Carta \nCircular Operativa nº1 de Presidencia. \nNo se establecen recomendaciones. \n \nMadrid, 22 de diciembre de 2015"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0005/2015",
@@ -157,7 +177,30 @@
       "2015-0010/2015",
       "2015-0028/2015",
       "2015-0052/2015"
-    ]
+    ],
+    "date": "2015-01-12",
+    "station": "BARCELONA MARINA",
+    "province": "BARCELONA",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se \nconcluye que: \n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n160223-150112-IF-CIAF.doc \n \n \n\n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente tuvo su origen en el fallo humano del personal de conducción del tren 25780, más \nconcretamente por una falta de atención, dando lugar al rebase indebido de la señal 3646 en \nindicación de parada.",
+      "Como factor coadyuvante se puede considerar el incumplimiento normativo del maquinista al reiniciar la \nmarcha sin haberse puesto en contacto con el puesto de mando para notificar el rebase de la señal 3646.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEl personal de conducción tenía 13 días de antigüedad en el servicio que prestaba.",
+      "La señal 3646 no dispone de baliza previa por carecer de la distancia suficiente para su \nemplazamiento, según se indica en el AVISO nº 34.",
+      "(Ver recomendación 05/15-1). 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna.",
+      "4.4. OBSERVACIONES ADICIONALES \nEl sistema de gestión de la seguridad (SGS) de Renfe Viajeros no dispone de un procedimiento reglado \nque posibilite la trazabilidad de la formación práctica que se imparte para las habilitaciones de \ninfraestructura del personal de conducción.",
+      "Como consecuencia de ello, no se ha podido constatar \nfehacientemente que, en su periodo de formación práctica, el maquinista implicado circulara \nacompañado, al menos una vez, por el tramo en el que se produjo el incidente.",
+      "Con la entrada en \nvigor (desde el 28 de enero de 2016) de la Resolución de 23 de diciembre de 2015 de la AESF, es \npreceptivo para ello el que se realicen tres trayectos completos de ida y vuelta, según se establece en \nsu Anejo 5.",
+      "(Ver recomendación 05/15-2)."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n05/15-1 \nEstudiar la posibilidad de cambiar de \nposición la señal 3646 para mejorar su \nvisibilidad y dotarla, en su caso, de \nbaliza previa.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \n05/15-2 \nQue \nse \nrequiera \na \nlas \nempresas \nferroviarias y a los administradores de \ninfraestructura que en sus sistemas de \ngestión de la seguridad (SGS) incluyan un \nprocedimiento por el que se posibilite la \ntrazabilidad de las actuaciones formativas, \nen especial las de naturaleza práctica.",
+      "En \ndicho \nprocedimiento \ndeberían \nconcretarse los modelos de actividad a \nestablecer por los distintos responsables \npara \ncada \nuna \nde \nlas \nactividades \nformativas.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \n05/15-3 \nQue \nse \nconcrete \na \nlas \nempresas \nferroviarias y a los administradores de \ninfraestructura un plazo máximo en el \nque las disposiciones contenidas en la \nResolución de 23 de diciembre de 2015 \nde la AESF (BOE 27/01/2016) deben \nestar incorporadas en sus sistemas de \ngestión de la seguridad (SGS) y ser, por \nello, plenamente operativas.",
+      "Madrid, 23 de febrero de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0023/2015",
@@ -241,7 +284,22 @@
       "2015-0015/2015",
       "2015-0017/2015",
       "2015-0046/2015"
-    ]
+    ],
+    "date": "2015-03-31",
+    "station": "MEDINA D",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n160223-150331-IF-CIAF.doc \n \n \n\n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por el fallo de la infraestructura en la zona del accidente, y más concretamente \npor la existencia en la vía de defectos de alabeo fuera de tolerancia.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nEl Procedimiento Específico ADIF-PE-301-001-Vía 03 “Inspección de la infraestructura de vía” no \ncontempla la inspección de la geometría del escape 8/14."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n23/15-1 \nModificar el Procedimiento Específico \nADIF-PE-301-001-VÍA-03 “Inspección de \nla infraestructura y vía” para incorporar el \ncontrol de la geometría de los escapes.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n23/15-2 \nHacer un plan de inspección de la \ngeometría de los escapes situados en las \nvías generales.",
+      "Ante la existencia de \ndeficiencias de seguridad, actuar con el \nobjeto de restablecer las condiciones que \npermitan circular con seguridad.",
+      "Madrid, 23 de febrero de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0010/2015",
@@ -324,7 +382,23 @@
       "2015-0012/2015",
       "2015-0015/2015",
       "2015-0017/2015"
-    ]
+    ],
+    "date": "2015-02-13",
+    "station": "BARCELONA ESTACIÓ DE FRANÇA",
+    "province": "BARCELONA",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por el fallo técnico de la infraestructura de vía en la zona del accidente, \nprincipalmente por la existencia de sobreanchos y deficiencias en las sujeciones del carril.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNo se realizaron labores de mantenimiento en la zona de andenes de la vía 3 de la estación para paliar \nlos defectos detectados en las inspecciones llevadas a cabo.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nEl SGS de Adif dispone para el tratamiento y gestión de las No Conformidades (NC) de un \nprocedimiento general de aplicación a todas las actividades de Adif, considerándose de complicada \naplicación en lo relativo al mantenimiento de infraestructura.",
+      "(Ver recomendaciones 10/15.1 y 10/15.2)"
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n10/15-1 \nQue se revise y/o complemente el \nprocedimiento general PG-104-003-003 \n“No Conformidades, Acciones Correctivas, \nPreventivas y de Mejora” para que se \ndetalle y concrete el  tratamiento y \ngestión \nde \nlas \nno \nconformidades \ndetectadas en la inspección y vigilancia \nde la infraestructura por el personal de \nmantenimiento, con el fin de mejorar la \noperativa de dicho procedimiento y \nasegurar su cumplimiento.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n10/15-2 \nUna vez revisado y/o complementado el \nprocedimiento general PG-104-003-003 \n“No Conformidades, Acciones Correctivas, \nPreventivas y de Mejora” según lo \ndispuesto en la Recomendación 10/15-1, \ncomprobar \nque \nla \nsistemática \nes \noperativa y asegurar que es conocida por \nel personal involucrado.",
+      "Madrid, 31 de mayo de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0012/2015",
@@ -409,7 +483,22 @@
       "2015-0010/2015",
       "2015-0015/2015",
       "2015-0028/2015"
-    ]
+    ],
+    "date": "2015-03-04",
+    "station": "PUERTO DE NAVACERRADA Y",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por en el fallo técnico de la infraestructura, al encontrarse en mal estado las \ntraviesas de madera y las sujeciones, lo que provocó la existencia de sobreanchos y la apertura de la \nvía al paso del tren.",
+      "(Ver recomendación 12/15-1) \n4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEl mantenimiento en la zona del descarrilamiento era deficitario.",
+      "Las traviesas estaban en mal estado, \nlas sujeciones del carril sueltas y fuera de su alojamiento y por otro lado estaba contaminado.",
+      "Se incumplió el procedimiento específico ADIF -301-001-VíA-03, en lo referente a las visitas a pie a \nefectuar durante el año 2014, efectuándose sólo una de las dos indicadas en el procedimiento.",
+      "(Ver recomendación 12/15-2). 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n12/15-1 \nSe \ninsiste \nen \nla \naplicación \nde \nla \nrecomendación 32/11-1 de la CIAF: \n“Analizar la viabilidad de sustituir todo el \ntramo de traviesas de madera por otras \nde hormigón o, en su defecto, reemplazar \nlas que presentan mal estado por otras \ndel mismo material” llevando a cabo la \nejecución del “Proyecto de sustitución de \ntraviesas de madera por hormigón en el \ntramo de 4 kilómetros” \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n12/15-2 \nCumplir la periodicidad y calidad de las \nvisitas a pie establecidas para esta línea y \nreconsiderar \nlas \ncondiciones \nde \ncirculación de la misma en función de las \nfichas de control y las no conformidades \nque resulten, gestionando éstas.",
+      "Madrid, 31 de mayo de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0015/2015",
@@ -510,7 +599,30 @@
       "2015-0012/2015",
       "2015-0017/2015",
       "2015-0046/2015"
-    ]
+    ],
+    "date": "2015-03-18",
+    "station": "ABOÑO",
+    "province": "ASTURIAS",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n160531-150318-IF-CIAF \n \n \n\n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por el fallo humano del operador de vehículo de maniobras (que es también \nresponsable de circulación del turno de tarde) que pone en marcha la locomotora y abandona la \ncabina de conducción sin tomar las medidas de seguridad necesarias para evitar el movimiento \nincontrolado de la locomotora.",
+      "Se incumple el artículo 607 apartado 3, del Reglamento General de \nCirculación al no tener asegurada su inmovilidad la locomotora.",
+      "Como causas coadyuvantes se apuntan el estar inutilizado el dispositivo de hombre muerto y el \ninadecuado funcionamiento del freno de estacionamiento.",
+      "(Ver recomendación 15/15-6) \n4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEl plan de mantenimiento de la locomotora no se ha cumplido adecuadamente, al superarse los plazos \nestablecidos entre revisiones.",
+      "(Ver recomendaciones 15/15-3 y 15/15-5) \n4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nLa Autoridad Portuaria de Gijón no dispone del Sistema de Gestión de la Seguridad, de acuerdo con la \ndisposición adicional tercera del RD 810/2007 por el que se aprueba el Reglamento sobre seguridad en \nla circulación de la Red de Interés General.",
+      "(Ver recomendación 15/15-1). 4.4. OBSERVACIONES ADICIONALES \nEl responsable de circulación del turno de tarde, si bien dispone del título de operador de maniobras, \nno dispone del preceptivo documento de la Autoridad Portuaria que lo autoriza a ello, no obstante  \nrealizó los cursos requeridos por esta autoridad (Ver recomendación 15/15-4).",
+      "No existe ningún dispositivo en la infraestructura que evite el acceso no autorizado desde las \ninstalaciones de Aboño a la red ferroviaria de Adif (Ver recomendación 15/15-2)."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAutoridad \nPortuaria de Gijón \n(APG)  \n15/15-1 \nQue la AESF requiera a la APG que \nelabore un Sistema de Gestión de la \nSeguridad, según se establece en la \ndisposición adicional tercera del RD \n810/2007 por el que se aprueba el \nReglamento \nsobre \nseguridad \nen \nla \ncirculación de la Red Ferroviaria de \nInterés General.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAutoridad \nPortuaria de Gijón \n(APG)  \n15/15-2 \nAnalizar \nla \nviabilidad \nde \nimplantar \nmedidas que impidan que movimientos \nno controlados de material rodante \n(deriva) procedentes del Puerto de Gijón \nlleguen al punto de conexión física de \néste con las instalaciones de Adif.",
+      "MINISTERIO \nDE FOMENTO \nSUB \n160531-150318-IF-CIAF \n \n \n\nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAutoridad \nPortuaria de Gijón \n(APG)  \n15/15-3 \nControlar el cumplimiento del plan de \nmantenimiento del material rodante que \ncircule por sus instalaciones.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAutoridad \nPortuaria de Gijón \n(APG) \n15/15-4 \nHabilitar conforme al Convenio Adif-APG a \nlos responsables de circulación que \nactúan en la conexión del puerto con la \nRFIG administrada por Adif.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nUTE APG Rail \n15/15-5 \nAsegurar el cumplimiento de los ciclos de \nlas intervenciones de mantenimiento del \nmaterial móvil de su propiedad.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria (AESF) \nUTE APG Rail \n15/15-6 \nVerificar periódicamente por personal \nresponsable de las empresas de la UTE \nAPG Rail la no anulación del dispositivo \n“Hombre Muerto” en el material móvil de \nsu propiedad.",
+      "Madrid, 31 de mayo de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0028/2015",
@@ -594,7 +706,25 @@
       "2015-0005/2015",
       "2015-0012/2015",
       "2015-0052/2015"
-    ]
+    ],
+    "date": "2015-05-22",
+    "station": "VICÁLVARO",
+    "province": "MADRID",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con \nlas acciones de las personas implicadas o las condiciones del material rodante o de las \ninstalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción de la locomotora aislada VK1053, \nmás concretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida \nB107-3 que se encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
+      "Como causa coadyuvante se apunta que el maquinista no tuvo en cuenta la diferencia de aceleración \nentre una locomotora aislada y un tren de mercancías cargado.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de \ngestión de la seguridad \nNo se ha podido constatar que en los cursos de reciclaje a maquinistas se insista sobre el diferente \ncomportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas \ncircunstancias en las que éste puede circular.",
+      "(Ver Recomendación 28/2015-1) \n4.3.4. Observaciones adicionales \nNo se ha podido constatar la existencia dentro del SGS de Continental Rail de un procedimiento que \nestablezca unos criterios generales para la suspensión, revocación y recuperación  de las habilitaciones \ntras un fallo humano en función de la gravedad de éste.",
+      "(Ver Recomendación 28/2015-2)"
+    ],
+    "recommendations": [
+      "Destinatario  \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nContinental Rail \n28/2015-1 \nQue en los cursos de reciclaje a maquinistas \nse insista sobre el diferente comportamiento \ndel material móvil en lo relativo a su \naceleración \ny \nfrenado \nen \nlas \ndistintas \ncircunstancias en las que éste puede circular.",
+      "Agencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nContinental Rail \n28/2015-2 \nQue se elabore e incluya dentro del SGS de \nContinental \nRail \nun \nprocedimiento \nque \nestablezca unos criterios generales para la \nsuspensión, revocación y recuperación  de las  \nhabilitaciones, tras un fallo humano en \nfunción de la gravedad de éste.",
+      "Madrid, 28 de junio de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0052/2015",
@@ -684,7 +814,28 @@
       "2015-0011/2015",
       "2015-0005/2015",
       "2015-0028/2015"
-    ]
+    ],
+    "date": "2015-10-22",
+    "station": "RÍO HUERVA",
+    "province": "ZARAGOZA",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \nInvestigador Responsable concluye que: \n4.3.1.",
+      "Causas  directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción del tren de mercancías 99563, \nmás concretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida \nS1/3 que se encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
+      "Como causas coadyuvantes se apuntan la escasa experiencia del maquinista y no haber circulado con \nanterioridad por la vía de apartado de Río Huerva.",
+      "También se puede señalar la existencia de posible \nfatiga al llevar de servicio 10 horas 34 minutos en el momento el rebase, siendo de conducción 8 horas \ny 14 minutos.",
+      "4.3.2. Causas  subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
+      "4.3.3. Causas  relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nSe apunta que el maquinista había superado el tiempo máximo de conducción continuada.",
+      "(Ver \nRecomendación 52/2015-1). 4.3.4. Observaciones adicionales \nNo se ha podido constatar la existencia dentro del SGS de Continental Rail de un procedimiento que \nestablezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los \nmaquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para \nreajustar los tiempos de conducción e impedir su incumplimiento.",
+      "(Ver Recomendación 52/2015-1). Asimismo, no se ha podido constatar la inclusión en el SGS del contenido de las Recomendaciones \nTécnicas 7/2014 de la Dirección General de Ferrocarriles sobre procedimientos de control de los \ntiempos máximos de conducción.",
+      "(Ver Recomendación 28/2015-2)."
+    ],
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria(AESF) \nContinental Rail \n52/2015-1 \nQue se elabore e incluya dentro del SGS \nde Continental Rail un procedimiento que \nestablezca las medidas necesarias para \nverificar el cumplimiento de las jornadas \nde trabajo de los maquinistas en función \nde los servicios grafiados de trenes y, en \ncaso \nde \nsituación \ndegradada, \npara \nreajustar los tiempos de conducción e \nimpedir su incumplimiento.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUB \n160927-151022-IF-CIAF.doc \n \n \n \nAgencia Estatal de \nSeguridad \nFerroviaria(AESF) \nContinental Rail \n52/2015-2 \nIncorporar al SGS de Continental Rail las \nRecomendaciones Técnicas 7/2014 de la \nDirección General de Ferrocarriles sobre \nprocedimientos de control de los tiempos \nmáximos de conducción.",
+      "Agencia Estatal de \nSeguridad \nFerroviaria(AESF) \nContinental Rail \n52/2015-3 \nSe reitera la recomendación de la CIAF \n28/15-2: Que se elabore e incluya dentro \ndel \nSGS \nde \nContinental \nRail \nun \nprocedimiento \nque \nestablezca \nunos \ncriterios generales para la suspensión, \nrevocación \ny \nrecuperación \n \nde \nlas  \nhabilitaciones tras un fallo humano, en \nfunción de la gravedad de éste.",
+      "Madrid, 27 de septiembre de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0017/2015",
@@ -716,8 +867,16 @@
       "resumen": "El día 9 de febrero de 2015 a las 08:58 horas, en la estación de A Susana de la línea 822 (Zamora-A\nCoruña), se produjo el arrollamiento de obstáculo (topera vía 2) y posterior descarrilamiento de la\nmaniobra  para formación del tren 60222 de la empresa ferroviaria Renfe Mercancías. Dicha maniobra\ncompuesta por catorce vagones y dos locomotoras inició, por orden del auxiliar de operaciones del\ntren (habilitado como auxiliar de circulación), movimiento “empujando” desde la vía 4 hacia la vía\ngene",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1.\nDatos .................................................................................................................................................... 5\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1.\nPersonal ferroviario implicado ..........................................................."
     },
-    "conclusiones": [],
-    "recomendaciones": [],
+    "conclusiones": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \n El accidente se produjo por fallo humano, del auxiliar de operaciones del tren, al no establecer \ncorrectamente el itinerario de la maniobra y no comprobar la correcta disposición de la posición de las \nagujas del mismo, antes de haber ordenado el movimiento de “empujar” a la maniobra.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna \n\n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n160927-150209-IF-CIAF.doc \n \n \n \n4.3.3.",
+      "Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna."
+    ],
+    "recomendaciones": [
+      "En vista de las medidas adoptadas, consistentes en suspender la habilitación del auxiliar de circulación y \nsu devolución tras superar un curso de reciclaje teórico-práctico y prueba psicofísica, no se \nestablecen recomendaciones.",
+      "Madrid, 27 de septiembre de 2016"
+    ],
     "tags": [
       "accidente",
       "arrollamiento",
@@ -738,7 +897,20 @@
       "2015-0012/2015",
       "2015-0015/2015",
       "2015-0046/2015"
-    ]
+    ],
+    "date": "2015-02-09",
+    "station": "A SUSANA (A CORUÑA)",
+    "conclusions": [
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el \ninvestigador responsable concluye que: \n4.3.1.",
+      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \n El accidente se produjo por fallo humano, del auxiliar de operaciones del tren, al no establecer \ncorrectamente el itinerario de la maniobra y no comprobar la correcta disposición de la posición de las \nagujas del mismo, antes de haber ordenado el movimiento de “empujar” a la maniobra.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna \n\n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUB \n160927-150209-IF-CIAF.doc \n \n \n \n4.3.3.",
+      "Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna."
+    ],
+    "recommendations": [
+      "En vista de las medidas adoptadas, consistentes en suspender la habilitación del auxiliar de circulación y \nsu devolución tras superar un curso de reciclaje teórico-práctico y prueba psicofísica, no se \nestablecen recomendaciones.",
+      "Madrid, 27 de septiembre de 2016"
+    ],
+    "severity": "fatal"
   },
   {
     "id": "2015-0046/2015",
@@ -790,7 +962,12 @@
       "Continental Rail un procedimiento que",
       "establezca unos criterios generales para la"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Destinatario \nImplementador final Número \nRecomendación \nAGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nCONTINENTAL RAIL \n46/2015 - 1 \nEn las acciones de formación y reciclaje al \npersonal de conducción incidir en la \nobligación de conducir, siempre que sea \nposible, en la cabina de cabeza cuando se \nrealizan maniobras, con el fin de conseguir \nuna mayor percepción de la operación.",
+      "AGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nCONTINENTAL RAIL \n46/2015 - 2 \nEn las acciones de formación y reciclaje al \npersonal de conducción incidir en la \nimportancia de transmitir al responsable \nde circulación, la información de un \nsuceso por los cauces normativamente \nestablecidos y en el menor tiempo \nposible.",
+      "AGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nCONTINENTAL RAIL \n46/2015 - 3 \nSe reitera la recomendación de la CIAF \n28/15-2: Que se elabore e incluya dentro \ndel Sistema de Gestión de la Seguridad de \nContinental Rail un procedimiento que \nestablezca unos criterios generales para la \nsuspensión, revocación y recuperación de \nlas habilitaciones tras un fallo humano, en \nfunción de la gravedad de éste, con el fin \nde conseguir un tratamiento uniforme en \nel \nproceso \nde \nreciclaje \npara \nla \nincorporación del trabajador a su puesto \nde trabajo tras una incidencia de este tipo.",
+      "(Ver recomendación 49/2015.3) \nMadrid, 28 de junio de 2017"
+    ],
     "tags": [
       "accidente",
       "paso a nivel",
@@ -812,6 +989,16 @@
       "2015-0012/2015",
       "2015-0015/2015",
       "2015-0017/2015"
-    ]
+    ],
+    "date": "2015-10-05",
+    "station": "TARDIENTA",
+    "province": "HUESCA",
+    "recommendations": [
+      "Destinatario \nImplementador final Número \nRecomendación \nAGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nCONTINENTAL RAIL \n46/2015 - 1 \nEn las acciones de formación y reciclaje al \npersonal de conducción incidir en la \nobligación de conducir, siempre que sea \nposible, en la cabina de cabeza cuando se \nrealizan maniobras, con el fin de conseguir \nuna mayor percepción de la operación.",
+      "AGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nCONTINENTAL RAIL \n46/2015 - 2 \nEn las acciones de formación y reciclaje al \npersonal de conducción incidir en la \nimportancia de transmitir al responsable \nde circulación, la información de un \nsuceso por los cauces normativamente \nestablecidos y en el menor tiempo \nposible.",
+      "AGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nCONTINENTAL RAIL \n46/2015 - 3 \nSe reitera la recomendación de la CIAF \n28/15-2: Que se elabore e incluya dentro \ndel Sistema de Gestión de la Seguridad de \nContinental Rail un procedimiento que \nestablezca unos criterios generales para la \nsuspensión, revocación y recuperación de \nlas habilitaciones tras un fallo humano, en \nfunción de la gravedad de éste, con el fin \nde conseguir un tratamiento uniforme en \nel \nproceso \nde \nreciclaje \npara \nla \nincorporación del trabajador a su puesto \nde trabajo tras una incidencia de este tipo.",
+      "(Ver recomendación 49/2015.3) \nMadrid, 28 de junio de 2017"
+    ],
+    "severity": "fatal"
   }
 ]

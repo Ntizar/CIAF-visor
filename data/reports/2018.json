@@ -62,7 +62,9 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2018/200421-180701-if-sn_ciaf_.pdf"
     },
-    "similares": []
+    "similares": [],
+    "date": "2018-07-01",
+    "severity": "fatal"
   },
   {
     "id": "2018-0046/2018",
@@ -141,6 +143,14 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2018/200723-181120-if-sn_ciaf.pdf"
     },
-    "similares": []
+    "similares": [],
+    "date": "2018-11-20",
+    "recommendations": [
+      "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia \nEstatal \nde \nSeguridad \nFerroviaria \n(AESF) \nAdministrador de \nInfraestructuras \nFerroviarias (ADIF) \n46/2018-1 \nRevisar la ficha II Actuaciones frente a temporales \nde lluvia del Manual de Prevención y Gestión de \nIncidencias (anexo II al Plan de Contingencias) \ndadas las discrepancias de las predicciones con \notras fuentes de datos meteorológicos y su \ninadecuación ante el hecho acontecido, y los \nprocedimientos del Sistema de Gestión de la \nSeguridad de Adif (SGS) relativos a la inspección y \nmantenimiento de la infraestructura, dada la falta \nde \nrespuesta \nante \nlos \nhechos \nconstatados \n(introducción en el trasdós del muro de agua \nprocedente de la escorrentía en superficie).",
+      "Agencia \nEstatal \nde \nSeguridad \nFerroviaria \n(AESF) \nAdministrador de \nInfraestructuras \nFerroviarias (ADIF) \n46/2018-2 Revisar la aplicación de la ley del Sector Ferroviario \n(en su caso la Ley de Policía de Ferrocarriles y \nlegislación posterior que la sustituye) respecto a la \nautorización de obras, mantenimiento, control, \nvigilancia e inspección del terreno adyacente a la \nvía férrea (zona de dominio público ferroviario y \nzona de protección) de la carretera C-58, su cruce \ncon el ferrocarril y su infraestructura.",
+      "Agencia \nEstatal \nde \nSeguridad \nFerroviaria \n(AESF) \nAdministrador de \nInfraestructuras \nFerroviarias (ADIF) \n46/2018-3 Identificación \nde \nlos \nmuros \nde \nsimilares \ncaracterísticas que tengan agentes externos \n(otras infraestructuras o vertidos de aguas), como \nel de este caso, que puedan llegar a comprometer \nsu estabilidad.",
+      "A \nMINISTERIO \nDE FOMENTO \nSUB \n \n200623-181120-IP_CIAF.doc \n \n \n \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia \nEstatal \nde \nSeguridad \nFerroviaria \n(AESF) \nAdministrador"
+    ],
+    "severity": "fatal"
   }
 ]
