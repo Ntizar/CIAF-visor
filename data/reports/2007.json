@@ -8,10 +8,10 @@
     "hora_suceso": "14:20",
     "year": 2007,
     "ubicacion": {
-      "estacion": "Guillarei en condiciones normales a la circulación",
+      "estacion": "Guillarei",
       "provincia": "Pontevedra",
-      "lat": null,
-      "lng": null
+      "lat": 42.0705,
+      "lng": -8.6368
     },
     "trenes": [
       {
@@ -32,8 +32,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "leve",
@@ -76,7 +75,7 @@
     },
     "formato_normativo": "Pre-RD 810/2007",
     "hash_pdf": "d000984cf115973fda7e933408c9ebc8",
-    "fecha_parseo": "2026-06-26T11:53:18.972133"
+    "fecha_parseo": "2026-06-26T12:46:40.157383"
   },
   {
     "id": "2007-ID211207290408CIAF",
@@ -89,8 +88,8 @@
     "ubicacion": {
       "estacion": "Salou",
       "provincia": "Valencia",
-      "lat": null,
-      "lng": null
+      "lat": 41.0768,
+      "lng": 1.144
     },
     "trenes": [
       {
@@ -123,8 +122,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "leve",
@@ -166,7 +164,7 @@
     },
     "formato_normativo": "Pre-RD 810/2007",
     "hash_pdf": "1526479a0f035018a379e0871f768d52",
-    "fecha_parseo": "2026-06-26T11:53:19.254529"
+    "fecha_parseo": "2026-06-26T12:46:40.435311"
   },
   {
     "id": "2007-ID241207230508CIAF",
@@ -179,8 +177,8 @@
     "ubicacion": {
       "estacion": "El Pozo",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 37.9833,
+      "lng": -1.1333
     },
     "trenes": [
       {
@@ -201,8 +199,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "leve",
@@ -244,7 +241,7 @@
     },
     "formato_normativo": "Pre-RD 810/2007",
     "hash_pdf": "280f92ada5c961d3cbb6fa76dfd190ed",
-    "fecha_parseo": "2026-06-26T11:53:19.493003"
+    "fecha_parseo": "2026-06-26T12:46:40.723183"
   },
   {
     "id": "2007-ID291207290408CIAF",
@@ -257,8 +254,8 @@
     "ubicacion": {
       "estacion": "Apeadero de Abaroa-San Miguel",
       "provincia": "Vizcaya",
-      "lat": null,
-      "lng": null
+      "lat": 42.85,
+      "lng": -1.7167
     },
     "trenes": [
       {
@@ -287,8 +284,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "leve",
@@ -329,6 +325,6 @@
     },
     "formato_normativo": "Pre-RD 810/2007",
     "hash_pdf": "23a332053b52831d098dde0051ac2211",
-    "fecha_parseo": "2026-06-26T11:53:19.717728"
+    "fecha_parseo": "2026-06-26T12:46:41.002165"
   }
 ]

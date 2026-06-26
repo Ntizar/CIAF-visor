@@ -10,8 +10,8 @@
     "ubicacion": {
       "estacion": "Cortes de Navarra",
       "provincia": "Navarra",
-      "lat": null,
-      "lng": null
+      "lat": 42.1667,
+      "lng": -1.6667
     },
     "trenes": [
       {
@@ -136,8 +136,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF AV",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -203,6 +202,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "b3f3ce26eedca00a702df0305ddaea87",
-    "fecha_parseo": "2026-06-26T11:54:09.956690"
+    "fecha_parseo": "2026-06-26T12:47:36.444999"
   }
 ]

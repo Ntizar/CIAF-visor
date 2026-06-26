@@ -10,8 +10,8 @@
     "ubicacion": {
       "estacion": "Cuenca-Fernando",
       "provincia": "Cuenca",
-      "lat": null,
-      "lng": null
+      "lat": 40.0335,
+      "lng": -2.1431
     },
     "trenes": [
       {
@@ -100,8 +100,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF AV",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -161,7 +160,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "c22d633b8f8702a612c2535f4c86ad76",
-    "fecha_parseo": "2026-06-26T11:54:09.468860"
+    "fecha_parseo": "2026-06-26T12:47:35.733309"
   },
   {
     "id": "2024-260526-241029-if-sf_ciaf",
@@ -244,8 +243,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF AV",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -321,7 +319,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "8965706cfb2e1b897e98ed2c5da3b336",
-    "fecha_parseo": "2026-06-26T11:54:09.726044"
+    "fecha_parseo": "2026-06-26T12:47:36.113653"
   },
   {
     "id": "2024-2024-122-1213-if",
@@ -334,8 +332,8 @@
     "ubicacion": {
       "estacion": "León Clasificación",
       "provincia": "León",
-      "lat": null,
-      "lng": null
+      "lat": 42.5981,
+      "lng": -5.5667
     },
     "trenes": [
       {
@@ -356,8 +354,8 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
+      "Logitren",
       "Renfe Mercancías"
     ],
     "gravedad": "leve",
@@ -411,6 +409,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "0f1fefea02aaf9f955105a5ac5567def",
-    "fecha_parseo": "2026-06-26T11:54:09.249038"
+    "fecha_parseo": "2026-06-26T12:47:35.437868"
   }
 ]

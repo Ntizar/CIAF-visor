@@ -10,8 +10,8 @@
     "ubicacion": {
       "estacion": "BARCELONA MARINA",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.3923,
+      "lng": 2.1948
     },
     "trenes": [
       {
@@ -68,8 +68,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -155,7 +154,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "5a5ec8393dde2ef7c59c2c16468f781a",
-    "fecha_parseo": "2026-06-26T11:53:50.753394"
+    "fecha_parseo": "2026-06-26T12:47:13.794994"
   },
   {
     "id": "2015-160927150209IFCIAF",
@@ -168,8 +167,8 @@
     "ubicacion": {
       "estacion": "A SUSANA",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 43.33,
+      "lng": -3.81
     },
     "trenes": [
       {
@@ -202,10 +201,10 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Mercancías",
-      "Renfe Operadora"
+      "ADIF",
+      "COMSA Rail Transport",
+      "Logitren",
+      "Renfe Mercancías"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -278,7 +277,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "f1eee6d59e32f646c39c710e4da5b012",
-    "fecha_parseo": "2026-06-26T11:53:52.286748"
+    "fecha_parseo": "2026-06-26T12:47:16.299800"
   },
   {
     "id": "2015-160531150213IFCIAF",
@@ -357,8 +356,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF AV",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -452,7 +450,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "507ee01ac15f9359bfd850c4308defa2",
-    "fecha_parseo": "2026-06-26T11:53:51.273839"
+    "fecha_parseo": "2026-06-26T12:47:14.838694"
   },
   {
     "id": "2015-151222150217IFCIAF",
@@ -465,8 +463,8 @@
     "ubicacion": {
       "estacion": "MADRID CHAMARTÍN",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.4726,
+      "lng": -3.6825
     },
     "trenes": [
       {
@@ -475,8 +473,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -576,7 +573,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "a1852e0a9de3514e1355990e211976f8",
-    "fecha_parseo": "2026-06-26T11:53:50.592413"
+    "fecha_parseo": "2026-06-26T12:47:13.500586"
   },
   {
     "id": "2015-160531150304IFCIAF",
@@ -587,10 +584,10 @@
     "hora_suceso": "19:17",
     "year": 2015,
     "ubicacion": {
-      "estacion": "PUERTO DE NAVACERRADA Y EL APEADERO DE COLLADO ALBO",
+      "estacion": "PUERTO DE NAVACERRADA Y EL",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.8333,
+      "lng": -4.0167
     },
     "trenes": [
       {
@@ -651,8 +648,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -746,7 +742,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "4aeec9d2f7c7b3d25cf771e3f7a16946",
-    "fecha_parseo": "2026-06-26T11:53:51.553170"
+    "fecha_parseo": "2026-06-26T12:47:15.229590"
   },
   {
     "id": "2015-160531150318IFCIAF",
@@ -759,8 +755,8 @@
     "ubicacion": {
       "estacion": "ABOÑO",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 43.5833,
+      "lng": -5.75
     },
     "trenes": [
       {
@@ -777,10 +773,10 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Mercancías",
-      "Renfe Operadora"
+      "ADIF",
+      "Continental Rail",
+      "Logitren",
+      "Renfe Mercancías"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -881,7 +877,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "f16e64099d06c0e18dfb222b1a05b397",
-    "fecha_parseo": "2026-06-26T11:53:51.803644"
+    "fecha_parseo": "2026-06-26T12:47:15.600570"
   },
   {
     "id": "2015-160223150331IFCIAF",
@@ -894,8 +890,8 @@
     "ubicacion": {
       "estacion": "MEDINA DEL CAMPO",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.3083,
+      "lng": -4.8333
     },
     "trenes": [
       {
@@ -940,7 +936,7 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "Continental Rail"
     ],
     "gravedad": "fatal",
@@ -1045,7 +1041,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "e3388ce998261f245201356558e767c0",
-    "fecha_parseo": "2026-06-26T11:53:50.932084"
+    "fecha_parseo": "2026-06-26T12:47:14.107073"
   },
   {
     "id": "2015-160628150522IFCIAF",
@@ -1058,8 +1054,8 @@
     "ubicacion": {
       "estacion": "VICÁLVARO",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.4121,
+      "lng": -3.5712
     },
     "trenes": [
       {
@@ -1096,7 +1092,7 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "Continental Rail",
       "Tracción Rail"
     ],
@@ -1159,7 +1155,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "0dd321e1b36358ba2bd467e67d5b40f6",
-    "fecha_parseo": "2026-06-26T11:53:51.992348"
+    "fecha_parseo": "2026-06-26T12:47:15.880060"
   },
   {
     "id": "2015-170627151005ifciafsn",
@@ -1172,8 +1168,8 @@
     "ubicacion": {
       "estacion": "TARDIENTA",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 42.0833,
+      "lng": -0.5333
     },
     "trenes": [
       {
@@ -1278,8 +1274,8 @@
       }
     ],
     "entidades": [
+      "ADIF",
       "Continental Rail",
-      "LOGIRAIL",
       "Logitren",
       "RENFE"
     ],
@@ -1385,7 +1381,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "8df6e9e102f381ebd7b3321f654871db",
-    "fecha_parseo": "2026-06-26T11:53:52.583346"
+    "fecha_parseo": "2026-06-26T12:47:16.626319"
   },
   {
     "id": "2015-160927-151022-if-ciaf",
@@ -1398,8 +1394,8 @@
     "ubicacion": {
       "estacion": "RÍO HUERVA",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.6333,
+      "lng": -0.9333
     },
     "trenes": [
       {
@@ -1464,7 +1460,7 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "Continental Rail",
       "Transfesa Rail"
     ],
@@ -1537,6 +1533,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "589ef779ca8edcc2cdb66ffe3cbbc7d4",
-    "fecha_parseo": "2026-06-26T11:53:52.173345"
+    "fecha_parseo": "2026-06-26T12:47:16.139022"
   }
 ]

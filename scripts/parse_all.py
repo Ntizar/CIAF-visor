@@ -57,6 +57,17 @@ GEOCODE_RETRIES = 2
 GEOCODE_DELAY = 1.1  # segundos entre peticiones a Nominatim
 GEOCODE_ENABLED = True  # Se puede desactivar con --no-geocode
 
+# Coordenadas locales de estaciones (sin necesidad de Nominatim)
+STATION_COORDS: dict = {}
+try:
+    _coords_path = BASE_DIR / "data" / "station-coords.json"
+    if _coords_path.exists():
+        with open(_coords_path, encoding='utf-8') as _f:
+            STATION_COORDS = json.load(_f)
+        log.info(f"Cargadas {len(STATION_COORDS)} estaciones con coordenadas locales")
+except Exception:
+    pass
+
 # Herramientas del sistema (poppler-utils)
 PDFTEXT_BIN = "/usr/bin/pdftotext"
 PDFIMAGES_BIN = "/usr/bin/pdfimages"
@@ -202,14 +213,68 @@ def extract_images_from_pdf(pdf_path: Path, report_id: str, year: int) -> list[s
 _geo_cache: dict[str, tuple[Optional[float], Optional[float]]] = {}
 
 
+def _normalize_station_name(name: str) -> str:
+    """Normaliza nombre de estación para matching contra station-coords.json."""
+    import unicodedata
+    n = name.strip().upper()
+    # Quitar tildes
+    n = ''.join(c for c in unicodedata.normalize('NFD', n) if unicodedata.category(c) != 'Mn')
+    # Quitar guiones/espacios extra
+    n = re.sub(r'[\s\-]+', ' ', n).strip()
+    return n
+
+
+def _lookup_local_coords(station_name: str, province: str = "") -> tuple:
+    """Busca coordenadas en station-coords.json con fuzzy matching."""
+    if not STATION_COORDS:
+        return None, None
+    
+    norm = _normalize_station_name(station_name)
+    
+    # 1. Match exacto
+    for key, coords in STATION_COORDS.items():
+        if _normalize_station_name(key) == norm:
+            return coords['lat'], coords['lng']
+    
+    # 2. Match sin espacios (GRANOLLERS-CENTRE → GRANOLLERS CENTRE)
+    norm_nospace = norm.replace(' ', '')
+    for key, coords in STATION_COORDS.items():
+        if _normalize_station_name(key).replace(' ', '') == norm_nospace:
+            return coords['lat'], coords['lng']
+    
+    # 3. Match parcial: la estación empieza o termina con la clave
+    for key, coords in STATION_COORDS.items():
+        kn = _normalize_station_name(key)
+        if kn.startswith(norm) or norm.startswith(kn):
+            return coords['lat'], coords['lng']
+        # "MADRID CHAMARTÍN" vs "CHAMARTÍN"
+        if len(norm) > 4 and kn in norm:
+            return coords['lat'], coords['lng']
+        if len(kn) > 4 and norm in kn:
+            return coords['lat'], coords['lng']
+    
+    return None, None
+
+
 def geocode_station(station_name: str, province: str = "") -> tuple[Optional[float], Optional[float]]:
-    """Geocodifica una estación de tren usando Nominatim."""
+    """Geocodifica una estación de tren. Primero local, luego Nominatim."""
     if not station_name:
         return None, None
     
     cache_key = f"{station_name}|{province}".lower().strip()
     if cache_key in _geo_cache:
         return _geo_cache[cache_key]
+    
+    # 1. Lookup local (instantáneo, sin API)
+    lat, lng = _lookup_local_coords(station_name, province)
+    if lat is not None:
+        _geo_cache[cache_key] = (lat, lng)
+        return lat, lng
+    
+    # 2. Nominatim (solo si no encontrado localmente y habilitado)
+    if not GEOCODE_ENABLED:
+        _geo_cache[cache_key] = (None, None)
+        return None, None
     
     import urllib.request
     import urllib.parse as _urlparse
@@ -227,10 +292,7 @@ def geocode_station(station_name: str, province: str = "") -> tuple[Optional[flo
     for query in queries:
         try:
             params = _urlparse.urlencode({
-                'q': query,
-                'format': 'json',
-                'limit': 5,
-                'countrycodes': 'es',
+                'q': query, 'format': 'json', 'limit': 5, 'countrycodes': 'es',
             })
             url = f"{NOMINATIM_URL}?{params}"
             req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
@@ -252,7 +314,6 @@ def geocode_station(station_name: str, province: str = "") -> tuple[Optional[flo
                         break
                 if not best:
                     best = data[0]
-                
                 lat = float(best['lat'])
                 lng = float(best['lon'])
                 _geo_cache[cache_key] = (lat, lng)
@@ -383,28 +444,73 @@ def extract_hora_suceso(text: str) -> str:
 
 
 def extract_estacion(text: str) -> str:
-    """Extrae nombre de estación o ubicación."""
+    """Extrae nombre de estación o ubicación limpio."""
+    MAX_STATION_LEN = 35
+
+    # Stop phrases/words that mark the end of a station name
+    # Order matters: longer patterns first
+    _STOP = (
+        r'procedente\s+de|con\s+destino|que\s+cubr[íi]a|en\s+condiciones'
+        r'|desde\s+donde|donde\s+no|donde\s+se|donde\s+hab[íi]a'
+        r'|observa\s+que|en\s+la\s+que|en\s+el\s+que|en\s+la\s+cual'
+        r'|en\s+el\s+cual|que\s+realiz[óa]|que\s+prest[óa]|que\s+circul'
+        r'|con\s+ocasi[oó]n|como\s+consecuencia|a\s+causa\s+de'
+        r'|sin\s+prescri|en\s+traz|en\s+zona|en\s+el\s+interior'
+        r'|donde\s+en|donde\s+se\s+encontr|donde\s+produ|donde\s+ten'
+        r'|en\s+su\s+tramo|del\s+trazado|del\s+carril|en\s+sentido'
+        r'|que\s+afect[óa]|con\s+motivo|en\s+punto|en\s+el\s+punto'
+    )
+
+    # Boundary: sentence-ending or structural markers
+    _BOUND = r'(?:[.,;:!?]|\s+(?:' + _STOP + r')|\s*\n|\s*\(|\s*$)'
+
     patterns = [
         # RD 623/2014: "en la estación de X"
-        r'(?:en\s+la\s+)?estaci[oó]n\s+de\s+([A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]+?)(?:\s*\(|\.\s|\,\s|\n)',
+        r'(?:en\s+la\s+)?estaci[oó]n\s+de\s+([A-ZÁÉÍÓÚÑa-záéíóúñ][A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]*?)' + _BOUND,
         # RD 810/2007: "Lugar: Estación de X"
-        r'[Ll]ugar:\s*(?:[Ee]stación\s+de\s+)?([A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]+?)(?:\s*,|\.\s|\n)',
+        r'[Ll]ugar:\s*(?:[Ee]stación\s+de\s+)?([A-ZÁÉÍÓÚÑa-záéíóúñ][A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]*?)' + _BOUND,
         # Pre-RD: "Apeadero de X" or "Estación de X"
-        r'(?:Apeadero|Estación| apeadero| estación)\s+de\s+([A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]+?)(?:\s*,|\.\s|\n)',
+        r'(?:Apeadero|Estación| apeadero| estación)\s+de\s+([A-ZÁÉÍÓÚÑa-záéíóúñ][A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]*?)' + _BOUND,
         # "EN LA ESTACIÓN DE X"
-        r'(?:EN\s+LA\s+)?ESTACI[ÓO]N\s+DE\s+([A-ZÁÉÍÓÚÑ\s\-]+?)(?:\s*\(|\.\s|\n)',
+        r'(?:EN\s+LA\s+)?ESTACI[ÓO]N\s+DE\s+([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s\-]*?)' + _BOUND,
         # "estación de X (PK"
-        r'estaci[oó]n\s+de\s+([A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]+?)\s*\(?\s*[Pp]\.?[Kk]',
+        r'estaci[oó]n\s+de\s+([A-ZÁÉÍÓÚÑa-záéíóúñ][A-ZÁÉÍÓÚÑa-záéíóúñ\s\-]+?)\s*\(?\s*[Pp]\.?[Kk]',
     ]
+
+    # Trailing words to strip (prepositions, conjunctions, articles, etc.)
+    _TRAIL = re.compile(
+        r'\s+(?:de|del|en|el|la|los|las|al|a|con|por|para|desde|hasta|sobre'
+        r'|donde|observa|procedente|condiciones|sentido|trazado|tramo'
+        r'|interior|prescrita|punto|motivo|consecuencia|afect|produ|cubr'
+        r'|prest|realiz|circul|encontr|tenía|había|se)\s*$',
+        re.IGNORECASE
+    )
+
     for pat in patterns:
         m = re.search(pat, text[:10000], re.IGNORECASE)
         if m:
             est = m.group(1).strip()
-            # Limpiar
+            # Normalise whitespace
             est = re.sub(r'\s+', ' ', est).strip()
-            est = re.sub(r'[\(\)].*', '', est).strip()
-            est = est.strip('.,;:')
-            if 3 < len(est) < 80:
+            # Remove trailing parens content and punctuation
+            est = re.sub(r'\(.*', '', est).strip()
+            est = est.strip('.,;:!?')
+            # Strip trailing prepositions / conjunctions
+            for _ in range(3):  # repeat a few times for nested cases
+                new_est = _TRAIL.sub('', est).strip('.,;:!?')
+                if new_est == est:
+                    break
+                est = new_est
+            # Enforce max length
+            if len(est) > MAX_STATION_LEN:
+                # Try to cut at a word boundary
+                cut = est[:MAX_STATION_LEN].rfind(' ')
+                if cut > 10:
+                    est = est[:cut].strip()
+                else:
+                    est = est[:MAX_STATION_LEN].strip()
+            # Final validation: must be 3+ chars, must start with a letter
+            if len(est) >= 3 and est[0].isalpha():
                 return est
     return ""
 
@@ -482,15 +588,13 @@ def extract_trenes(text: str) -> list[dict]:
 
 
 def extract_entidades(text: str) -> list[str]:
-    """Extrae entidades ferroviarias mencionadas."""
+    """Extrae entidades ferroviarias mencionadas con normalización precisa."""
     entidades = set()
-    entidades_lower = set()
 
     known = [
-        "Renfe", "ADIF", "Adif", "FCC", "Ferrocarriles de la Generalitat",
-        "FGC", "TRAP", "EuskoTren", "Euskotren", "FEVE", "RENFE",
-        "Renfe Viajeros", "Renfe Operadora", "Renfe Mercancías",
-        "Medina del Campo", "Sevillana de Electricidad",
+        "Renfe Viajeros", "Renfe Mercancías", "Renfe Operadora",
+        "ADIF AV", "ADIF", "FCC", "Ferrocarriles de la Generalitat",
+        "FGC", "TRAP", "Euskotren", "FEVE",
         "Administrador de Infraestructuras Ferroviarias",
         "Agencia Estatal de Seguridad Ferroviaria",
         "Metro de Madrid", "Metro de Barcelona",
@@ -498,62 +602,100 @@ def extract_entidades(text: str) -> list[str]:
     ]
 
     text_lower = text.lower()
-    for ent in known:
-        if ent.lower() in text_lower:
-            entidades.add(ent)
-            entidades_lower.add(ent.lower())
 
-    # Buscar empresas mencionadas con "empresa ferroviaria"
-    emp_pattern = r'empresa\s+ferroviaria\s+([A-ZÁÉÍÓÚÑ][a-zA-Záéíóúñ\s]+?)(?:\s*,|\s*\.|\s+con\s|\s+y\s|\s+que\s|\s+dispone|\s+tenía|\s+estaba|\s+formado|\s+procedente)'
+    # Detectar variantes específicas (orden importa: más específico primero)
+    renfe_variants = [
+        (r'renfe\s+viajeros', 'Renfe Viajeros'),
+        (r'renfe\s+mercanc', 'Renfe Mercancías'),
+        (r'renfe\s+operadora', 'Renfe Operadora'),
+        (r'renfe\s+media\s+distancia', 'Renfe Media Distancia'),
+        (r'renfe', 'RENFE'),
+    ]
+    adif_variants = [
+        (r'adif\s+av\b', 'ADIF AV'),
+        (r'adif\s+alta\s+velocidad', 'ADIF AV'),
+        (r'adif\s+construcc', 'ADIF Construcciones'),
+        (r'adif', 'ADIF'),
+    ]
+    other_variants = [
+        (r'ferrocarriles?\s+de\s+la\s+generalitat', 'FGC'),
+        (r'euskotren', 'Euskotren'),
+        (r'feve\b', 'FEVE'),
+        (r'continental\s+rail', 'Continental Rail'),
+        (r'low\s+cost\s+rail', 'Low Cost Rail'),
+        (r'transfesa', 'Transfesa Rail'),
+        (r'comsa\s+rail', 'COMSA Rail Transport'),
+        (r'tracci[oó]n\s+rail', 'Tracción Rail'),
+        (r'logitren|logirail', 'Logitren'),
+        (r'captrain', 'CAPTRAIN'),
+        (r'activa\s+rail', 'Activa Rail'),
+        (r'flota\s+bus', 'Flota Bus'),
+        (r'metro\s+de\s+madrid', 'Metro de Madrid'),
+        (r'metro\s+de\s+barcelona', 'Metro de Barcelona'),
+        (r'tmb\b', 'TMB'),
+        (r'fgv\b', 'FGV'),
+        (r'tram\b', 'TRAM'),
+        (r'sevillana\s+de\s+electricidad', 'Sevillana de Electricidad'),
+    ]
+
+    # Buscar variantes (orden: más específico primero)
+    for pattern, name in renfe_variants:
+        if re.search(pattern, text_lower):
+            entidades.add(name)
+            break  # Solo la más específica
+
+    for pattern, name in adif_variants:
+        if re.search(pattern, text_lower):
+            entidades.add(name)
+            break
+
+    for pattern, name in other_variants:
+        if re.search(pattern, text_lower):
+            entidades.add(name)
+
+    # Buscar "empresa ferroviaria X" con límite de palabras
+    emp_pattern = r'empresa\s+ferroviaria\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+(?:\s+[A-Za-záéíóúñ]{2,}){0,3})'
     for m in re.finditer(emp_pattern, text):
-        emp = m.group(1).strip()[:50]
-        if emp.lower() not in entidades_lower and len(emp) > 3:
-            entidades.add(emp)
-    
-    # Normalizar entidades: eliminar duplicados y limpiar
-    normalized = set()
+        emp = m.group(1).strip()
+        if len(emp) > 3 and len(emp) < 50:
+            emp_lower = emp.lower()
+            if not any(emp_lower in e.lower() or e.lower() in emp_lower for e in entidades):
+                entidades.add(emp)
+
+    # Limpiar: quitar saltos de línea, texto extra, y limitar a 30 chars
+    cleaned = set()
+    trash_suffixes = [
+        'que había', 'que cubría', 'que procedía', 'que realizaba',
+        'debían cruzarse', 'hacía su', 'se encuentra', 'dispone de',
+        'procedente de', 'procedió en', 'realizaba el', 'cubría el',
+        'operaba el', 'prestaba el', 'ejecutaba el',
+    ]
     for ent in entidades:
-        # Eliminar saltos de línea y espacios múltiples
-        clean = re.sub(r'\s+', ' ', ent).strip()
-        # Eliminar si es demasiado largo (es una frase completa)
-        if len(clean) > 40:
-            continue
-        normalized.add(clean)
-    
-    # Unificar variantes
+        c = re.sub(r'\s+', ' ', ent).strip()
+        c = c.split('\n')[0].strip()
+        for suffix in trash_suffixes:
+            if c.lower().endswith(suffix):
+                c = c[:-len(suffix)].strip()
+        if len(c) > 30:
+            c = c[:30].rsplit(' ', 1)[0]
+        if len(c) > 3:
+            cleaned.add(c)
+
+    # Fusionar variantes case-insensitive (RENFE/Renfe → RENFE)
+    FINAL_MAP = {
+        'renfe': 'RENFE',
+        'renfe viajeros': 'Renfe Viajeros',
+        'renfe mercancías': 'Renfe Mercancías',
+        'renfe operadora': 'Renfe Operadora',
+    }
     result = set()
-    for ent in normalized:
-        # Unificar Renfe variants
-        if 'renfe' in ent.lower():
-            if 'viajeros' in ent.lower():
-                result.add('Renfe Viajeros')
-            elif 'mercanc' in ent.lower():
-                result.add('Renfe Mercancías')
-            elif 'operadora' in ent.lower():
-                result.add('Renfe Operadora')
-            else:
-                result.add('RENFE')
-        elif 'continental' in ent.lower():
-            result.add('Continental Rail')
-        elif 'low cost' in ent.lower():
-            result.add('Low Cost Rail')
-        elif 'transfesa' in ent.lower():
-            result.add('Transfesa Rail')
-        elif 'comsa' in ent.lower():
-            result.add('COMSA Rail Transport')
-        elif 'tracción' in ent.lower() or 'traccion' in ent.lower():
-            result.add('Tracción Rail')
-        elif 'logitren' in ent.lower() or 'logirail' in ent.lower():
-            result.add('Logitren')
-        elif 'captrain' in ent.lower():
-            result.add('CAPTRAIN')
-        elif 'activa' in ent.lower():
-            result.add('Activa Rail')
-        elif 'transitia' in ent.lower():
-            result.add('Transitia Rail')
+    for c in cleaned:
+        cl = c.lower().strip()
+        if cl in FINAL_MAP:
+            result.add(FINAL_MAP[cl])
         else:
-            result.add(clean)
-    
+            result.add(c)
+
     return sorted(result)
 
 
@@ -972,9 +1114,9 @@ def parse_report(pdf_path: Path, year: int) -> Optional[dict]:
     trenes = extract_trenes(cleaned)
     entidades = extract_entidades(cleaned)
 
-    # Geocodificación
+    # Geocodificación (local siempre, Nominatim solo si habilitado)
     lat, lng = None, None
-    if estacion and GEOCODE_ENABLED:
+    if estacion:
         lat, lng = geocode_station(estacion, provincia)
 
     # Secciones de análisis

@@ -10,8 +10,8 @@
     "ubicacion": {
       "estacion": "Manresa",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.7257,
+      "lng": 1.8269
     },
     "trenes": [
       {
@@ -104,8 +104,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -170,7 +169,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "2817e165616b004d9eac0a0827052d24",
-    "fecha_parseo": "2026-06-26T11:54:07.534329"
+    "fecha_parseo": "2026-06-26T12:47:33.264484"
   },
   {
     "id": "2022-46-220601-if-sn_ciafv2",
@@ -183,8 +182,8 @@
     "ubicacion": {
       "estacion": "Molins de Rei",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.4138,
+      "lng": 2.0143
     },
     "trenes": [
       {
@@ -293,10 +292,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Mercancías",
-      "Renfe Operadora",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -361,7 +357,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "91c483afb97c7ea715d9b539d9f8bbd3",
-    "fecha_parseo": "2026-06-26T11:54:08.253340"
+    "fecha_parseo": "2026-06-26T12:47:34.025026"
   },
   {
     "id": "2022-2022-48-0612-if",
@@ -372,10 +368,10 @@
     "hora_suceso": "22:34",
     "year": 2022,
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Francia",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 43.262,
+      "lng": -2.925
     },
     "trenes": [
       {
@@ -436,8 +432,8 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
+      "CAPTRAIN",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -503,7 +499,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "5048294076b0c70997355e76179fdce0",
-    "fecha_parseo": "2026-06-26T11:54:07.277877"
+    "fecha_parseo": "2026-06-26T12:47:33.009776"
   },
   {
     "id": "2022-108-221105-if-sn_ciafv2",
@@ -516,8 +512,8 @@
     "ubicacion": {
       "estacion": "Torelló",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.8167,
+      "lng": 2.2667
     },
     "trenes": [
       {
@@ -590,8 +586,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -646,7 +641,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "85df1a199075e46453ce791cb704c808",
-    "fecha_parseo": "2026-06-26T11:54:07.068158"
+    "fecha_parseo": "2026-06-26T12:47:32.795589"
   },
   {
     "id": "2022-230622-221213-if-sn_ciaf",
@@ -657,10 +652,10 @@
     "hora_suceso": "",
     "year": 2022,
     "ubicacion": {
-      "estacion": "Els Guiamets en",
+      "estacion": "Els Guiamets",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.0833,
+      "lng": 0.75
     },
     "trenes": [
       {
@@ -749,10 +744,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Mercancías",
-      "Renfe Operadora",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -820,6 +812,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "d3c9543dbd9efd0e36be470b392098cd",
-    "fecha_parseo": "2026-06-26T11:54:07.730376"
+    "fecha_parseo": "2026-06-26T12:47:33.460907"
   }
 ]

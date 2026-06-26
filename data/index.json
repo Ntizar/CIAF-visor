@@ -34,26 +34,26 @@
     "leve"
   ],
   "entities": [
+    "ADIF",
+    "ADIF AV",
+    "Acciona Rail Services",
     "Activa Rail",
-    "Adif",
-    "Administrador de Infraestructuras Ferroviarias",
+    "CAPTRAIN",
     "COMSA Rail Transport",
     "Continental Rail",
     "FEVE",
-    "LOGIRAIL",
     "Logitren",
     "Low Cost Rail",
     "RENFE",
     "Renfe Mercancías",
     "Renfe Operadora",
     "Renfe Viajeros",
-    "Renfe Viajeros colisionó",
     "TRAM",
     "Tracción Rail",
     "Transfesa Rail",
     "Transitia Rail"
   ],
-  "fecha_generacion": "2026-06-26T11:54:09.996948",
+  "fecha_generacion": "2026-06-26T12:47:36.504249",
   "estadisticas_por_anio": {
     "2007": {
       "total": 4,

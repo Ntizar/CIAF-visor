@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CIAF - Centro de Información de Accidentes Ferroviarios</title>
-    <link rel="stylesheet" href="css/kaizen.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
@@ -17,131 +16,333 @@
             --kz-rojo: #CB1823;
             --kz-azul-medio: #3463AC;
             --kz-azul-claro: #6B96CF;
+            --kz-naranja: #e65100;
+            --kz-bg: #f5f7fa;
+            --kz-white: #ffffff;
+            --kz-border: #e0e0e0;
+            --kz-text: #333333;
+            --kz-text-muted: #666666;
+            --kz-text-light: #999999;
+            --kz-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: var(--kz-font, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif); background: #f5f7fa; color: #333; }
-        .app-header { background: var(--kz-azul); color: white; padding: 0.75rem 1.5rem; display: flex; align-items: center; justify-content: space-between; height: 56px; }
-        .app-header h1 { font-size: 1.1rem; font-weight: 600; }
-        .app-header .subtitle { font-size: 0.8rem; opacity: 0.8; }
-        .tabs-bar { display: flex; background: white; border-bottom: 2px solid #e0e0e0; padding: 0 1rem; }
-        .tabs-bar .tab { padding: 0.75rem 1.25rem; cursor: pointer; border-bottom: 3px solid transparent; font-size: 0.9rem; color: #666; transition: all 0.2s; }
+        body { font-family: var(--kz-font); background: var(--kz-bg); color: var(--kz-text); }
+
+        /* ===== HEADER ===== */
+        .app-header {
+            background: linear-gradient(135deg, var(--kz-azul) 0%, #0f2d5a 100%);
+            color: white; padding: 0.6rem 1.5rem;
+            display: flex; align-items: center; justify-content: space-between; height: 54px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15); position: relative; z-index: 100;
+        }
+        .app-header h1 { font-size: 1.05rem; font-weight: 600; }
+        .app-header .subtitle { font-size: 0.75rem; opacity: 0.8; }
+
+        /* ===== TABS ===== */
+        .tabs-bar { display: flex; background: white; border-bottom: 2px solid var(--kz-border); padding: 0 1rem; }
+        .tabs-bar .tab {
+            padding: 0.7rem 1.2rem; cursor: pointer; border-bottom: 3px solid transparent;
+            font-size: 0.88rem; color: var(--kz-text-muted); transition: all 0.2s; user-select: none;
+        }
         .tabs-bar .tab:hover { color: var(--kz-azul); background: #f0f4f8; }
         .tabs-bar .tab.active { color: var(--kz-azul); border-bottom-color: var(--kz-azul); font-weight: 600; }
-        .main-layout { display: flex; height: calc(100vh - 100px); }
-        .sidebar { width: 280px; background: white; border-right: 1px solid #e0e0e0; overflow-y: auto; padding: 1rem; flex-shrink: 0; }
-        .sidebar h3 { font-size: 0.8rem; text-transform: uppercase; color: var(--kz-azul); margin: 1rem 0 0.5rem; letter-spacing: 0.5px; border-bottom: 1px solid var(--kz-azul-claro); padding-bottom: 0.25rem; }
+
+        /* ===== LAYOUT ===== */
+        .main-layout { display: flex; height: calc(100vh - 98px); }
+        .sidebar {
+            width: 270px; background: white; border-right: 1px solid var(--kz-border);
+            overflow-y: auto; padding: 1rem; flex-shrink: 0;
+        }
+        .sidebar h3 {
+            font-size: 0.75rem; text-transform: uppercase; color: var(--kz-azul);
+            margin: 1rem 0 0.5rem; letter-spacing: 0.5px; border-bottom: 1px solid var(--kz-azul-claro); padding-bottom: 0.25rem;
+        }
         .sidebar h3:first-child { margin-top: 0; }
-        .sidebar label { display: block; font-size: 0.85rem; margin-bottom: 0.3rem; color: #555; }
-        .sidebar select, .sidebar input[type="number"], .sidebar input[type="range"] { width: 100%; padding: 0.4rem; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85rem; margin-bottom: 0.5rem; }
-        .sidebar input[type="range"] { padding: 0; }
-        .sidebar .range-values { display: flex; justify-content: space-between; font-size: 0.75rem; color: #888; }
+        .sidebar label { display: block; font-size: 0.82rem; margin-bottom: 0.25rem; color: #555; }
+        .sidebar select, .sidebar input[type="number"] {
+            width: 100%; padding: 0.4rem; border: 1px solid #ccc; border-radius: 4px;
+            font-size: 0.83rem; margin-bottom: 0.5rem; background: white;
+        }
+        .sidebar input[type="range"] { width: 100%; padding: 0; }
+        .sidebar .range-values { display: flex; justify-content: space-between; font-size: 0.73rem; color: #888; }
         .sidebar .filter-count { font-size: 0.75rem; color: var(--kz-azul-medio); margin-top: 0.5rem; }
-        .sidebar .btn-reset { background: var(--kz-rojo); color: white; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.8rem; margin-top: 0.5rem; width: 100%; }
-        .sidebar .btn-reset:hover { opacity: 0.9; }
-        .content { flex: 1; overflow: hidden; }
+        .sidebar .btn-reset {
+            background: var(--kz-rojo); color: white; border: none; padding: 0.5rem 1rem;
+            border-radius: 4px; cursor: pointer; font-size: 0.8rem; margin-top: 0.5rem; width: 100%;
+        }
+        .sidebar .btn-reset:hover { opacity: 0.85; }
+
+        .content { flex: 1; overflow: hidden; position: relative; }
         .tab-content { display: none; height: 100%; overflow-y: auto; }
         .tab-content.active { display: block; }
+
+        /* ===== MAP ===== */
         #map { width: 100%; height: 100%; }
-        .dashboard-grid { padding: 1.5rem; }
-        .kpi-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
-        .kpi-card { background: white; padding: 1.25rem; border-left: 4px solid var(--kz-azul); }
+        .popup-content h4 { color: var(--kz-azul); margin-bottom: 0.4rem; font-size: 0.95rem; }
+        .popup-content p { margin: 0.2rem 0; font-size: 0.82rem; line-height: 1.4; }
+        .popup-content .detail-label { font-weight: 600; color: #555; }
+        .popup-content .popup-link {
+            display: inline-block; margin-top: 0.5rem; padding: 0.3rem 0.6rem;
+            background: var(--kz-azul); color: white; text-decoration: none;
+            border-radius: 3px; font-size: 0.78rem; font-weight: 500;
+        }
+        .popup-content .popup-link:hover { background: var(--kz-azul-medio); }
+        .popup-content .popup-entities { font-style: italic; }
+
+        /* ===== MAP LEGEND ===== */
+        .map-legend {
+            position: absolute; bottom: 30px; left: 15px; z-index: 1000;
+            background: white; padding: 10px 14px; border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 0.78rem; line-height: 1.6;
+        }
+        .map-legend h4 { font-size: 0.75rem; margin-bottom: 4px; color: var(--kz-azul); text-transform: uppercase; }
+        .legend-item { display: flex; align-items: center; gap: 6px; }
+        .legend-dot { width: 10px; height: 10px; border-radius: 50%; border: 1.5px solid white; box-shadow: 0 0 2px rgba(0,0,0,0.3); flex-shrink: 0; }
+
+        /* ===== DASHBOARD ===== */
+        .dashboard-grid { padding: 1.25rem; }
+        .kpi-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.8rem; margin-bottom: 1.25rem; }
+        .kpi-card {
+            background: white; padding: 1rem 1.2rem; border-left: 4px solid var(--kz-azul);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06); transition: transform 0.15s;
+        }
+        .kpi-card:hover { transform: translateY(-1px); }
         .kpi-card.rojo { border-left-color: var(--kz-rojo); }
         .kpi-card.medio { border-left-color: var(--kz-azul-medio); }
         .kpi-card.claro { border-left-color: var(--kz-azul-claro); }
-        .kpi-card .value { font-size: 2rem; font-weight: 700; color: var(--kz-azul); }
+        .kpi-card.naranja { border-left-color: var(--kz-naranja); }
+        .kpi-card .value { font-size: 1.8rem; font-weight: 700; color: var(--kz-azul); }
         .kpi-card.rojo .value { color: var(--kz-rojo); }
         .kpi-card.medio .value { color: var(--kz-azul-medio); }
         .kpi-card.claro .value { color: var(--kz-azul-claro); }
-        .kpi-card .label { font-size: 0.8rem; color: #666; text-transform: uppercase; letter-spacing: 0.5px; }
-        .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem; }
-        .chart-card { background: white; padding: 1rem; }
-        .chart-card h3 { font-size: 0.9rem; color: var(--kz-azul); margin-bottom: 0.75rem; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.5rem; }
+        .kpi-card.naranja .value { color: var(--kz-naranja); }
+        .kpi-card .label { font-size: 0.75rem; color: #666; text-transform: uppercase; letter-spacing: 0.5px; }
+
+        .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; margin-bottom: 1.25rem; }
+        .chart-card {
+            background: white; padding: 1rem; box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+        }
+        .chart-card h3 {
+            font-size: 0.88rem; color: var(--kz-azul); margin-bottom: 0.7rem;
+            border-bottom: 1px solid #eee; padding-bottom: 0.4rem;
+        }
         .chart-card canvas { width: 100% !important; max-height: 300px; }
-        .reports-table-wrapper { padding: 1.5rem; }
-        .search-bar { display: flex; gap: 0.75rem; margin-bottom: 1rem; align-items: center; }
-        .search-bar input { flex: 1; padding: 0.5rem 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 0.9rem; }
-        .search-bar .result-count { font-size: 0.8rem; color: #888; }
-        table.reports-table { width: 100%; border-collapse: collapse; background: white; font-size: 0.85rem; }
-        table.reports-table th { background: var(--kz-azul); color: white; padding: 0.6rem 0.75rem; text-align: left; font-weight: 500; position: sticky; top: 0; cursor: pointer; }
+
+        /* ===== INFORMES TABLE ===== */
+        .reports-table-wrapper { padding: 1.25rem; }
+        .search-bar { display: flex; gap: 0.75rem; margin-bottom: 0.75rem; align-items: center; }
+        .search-bar input {
+            flex: 1; padding: 0.5rem 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 0.88rem;
+        }
+        .search-bar .result-count { font-size: 0.78rem; color: #888; white-space: nowrap; }
+        table.reports-table { width: 100%; border-collapse: collapse; background: white; font-size: 0.83rem; }
+        table.reports-table th {
+            background: var(--kz-azul); color: white; padding: 0.55rem 0.7rem; text-align: left;
+            font-weight: 500; position: sticky; top: 0; cursor: pointer; white-space: nowrap; z-index: 2;
+        }
         table.reports-table th:hover { background: var(--kz-azul-medio); }
-        table.reports-table td { padding: 0.5rem 0.75rem; border-bottom: 1px solid #eee; }
-        table.reports-table tr:hover { background: #f0f4f8; }
-        .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 3px; font-size: 0.75rem; font-weight: 500; }
+        table.reports-table td { padding: 0.45rem 0.7rem; border-bottom: 1px solid #eee; }
+        table.reports-table tr { cursor: pointer; transition: background 0.15s; }
+        table.reports-table tbody tr:hover { background: #e8f0fe; }
+        table.reports-table tbody tr.selected { background: #d0e2ff; }
+
+        /* ===== BADGES ===== */
+        .badge { display: inline-block; padding: 0.12rem 0.45rem; border-radius: 3px; font-size: 0.72rem; font-weight: 500; }
         .badge-accidente { background: #fee; color: var(--kz-rojo); }
-        .badge-incidente { background: #fff3e0; color: #e65100; }
+        .badge-incidente { background: #fff3e0; color: var(--kz-naranja); }
         .badge-averia { background: #e3f2fd; color: var(--kz-azul); }
         .badge-leve { background: #e8f5e9; color: #2e7d32; }
         .badge-grave { background: #fff3e0; color: #e65100; }
         .badge-muy-grave { background: #fce4ec; color: #c62828; }
         .badge-fatal { background: #c62828; color: white; }
-        .memorias-content { padding: 1.5rem; }
-        .memorias-content h2 { color: var(--kz-azul); margin-bottom: 1rem; border-bottom: 2px solid var(--kz-azul); padding-bottom: 0.5rem; }
-        .year-selector { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
-        .year-btn { padding: 0.4rem 0.8rem; border: 1px solid #ccc; background: white; cursor: pointer; border-radius: 4px; font-size: 0.85rem; }
+
+        /* ===== DETAIL PANEL (slide-in) ===== */
+        .detail-panel-overlay {
+            display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.35); z-index: 2000; animation: fadeIn 0.2s ease;
+        }
+        .detail-panel-overlay.open { display: block; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        @keyframes slideIn { from { transform: translateX(100%); } to { transform: translateX(0); } }
+
+        .detail-panel {
+            position: fixed; top: 0; right: 0; bottom: 0; width: 560px; max-width: 95vw;
+            background: white; z-index: 2001; box-shadow: -4px 0 20px rgba(0,0,0,0.2);
+            overflow-y: auto; animation: slideIn 0.3s ease;
+        }
+        .detail-panel-header {
+            background: var(--kz-azul); color: white; padding: 1rem 1.25rem;
+            display: flex; align-items: flex-start; justify-content: space-between; position: sticky; top: 0; z-index: 10;
+        }
+        .detail-panel-header h2 { font-size: 1rem; font-weight: 600; margin: 0; }
+        .detail-panel-header .detail-id { font-size: 0.8rem; opacity: 0.85; margin-top: 0.2rem; }
+        .detail-panel-close {
+            background: rgba(255,255,255,0.15); border: none; color: white; font-size: 1.3rem;
+            cursor: pointer; width: 32px; height: 32px; border-radius: 4px; display: flex;
+            align-items: center; justify-content: center; flex-shrink: 0; transition: background 0.15s;
+        }
+        .detail-panel-close:hover { background: rgba(255,255,255,0.3); }
+
+        .detail-panel-body { padding: 1.25rem; }
+        .detail-section { margin-bottom: 1.25rem; }
+        .detail-section h3 {
+            font-size: 0.82rem; text-transform: uppercase; color: var(--kz-azul); margin-bottom: 0.5rem;
+            letter-spacing: 0.5px; border-bottom: 2px solid var(--kz-azul-claro); padding-bottom: 0.3rem;
+        }
+        .detail-info-grid {
+            display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem 1rem;
+        }
+        .detail-info-item { font-size: 0.83rem; }
+        .detail-info-item .di-label { font-weight: 600; color: #555; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.3px; }
+        .detail-info-item .di-value { color: var(--kz-text); margin-top: 0.1rem; }
+
+        .detail-resumen {
+            background: #f0f4f8; padding: 0.75rem; border-radius: 4px; font-size: 0.83rem;
+            line-height: 1.5; color: #444; max-height: 150px; overflow-y: auto;
+        }
+
+        .detail-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+        .detail-tag {
+            background: #e8f0fe; color: var(--kz-azul); padding: 0.2rem 0.5rem;
+            border-radius: 3px; font-size: 0.73rem; font-weight: 500;
+        }
+
+        .detail-list { list-style: none; padding: 0; }
+        .detail-list li {
+            padding: 0.5rem 0.75rem; border-bottom: 1px solid #f0f0f0; font-size: 0.82rem;
+            line-height: 1.4; position: relative; padding-left: 1.5rem;
+        }
+        .detail-list li::before {
+            content: ''; position: absolute; left: 0.4rem; top: 0.75rem;
+            width: 6px; height: 6px; border-radius: 50%; background: var(--kz-azul-medio);
+        }
+        .detail-list.recommendations li::before { background: var(--kz-rojo); }
+        .detail-list.conclusions li::before { background: var(--kz-azul); }
+
+        .detail-empty { color: #999; font-style: italic; font-size: 0.82rem; padding: 0.5rem 0; }
+
+        .detail-link-btn {
+            display: inline-flex; align-items: center; gap: 0.4rem;
+            background: var(--kz-azul); color: white; text-decoration: none;
+            padding: 0.5rem 1rem; border-radius: 4px; font-size: 0.85rem; font-weight: 500;
+            transition: background 0.15s;
+        }
+        .detail-link-btn:hover { background: var(--kz-azul-medio); }
+
+        /* ===== MEMORIAS ===== */
+        .memorias-content { padding: 1.25rem; }
+        .memorias-content h2 {
+            color: var(--kz-azul); margin-bottom: 1rem; border-bottom: 2px solid var(--kz-azul); padding-bottom: 0.5rem;
+        }
+        .year-selector { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.25rem; }
+        .year-btn {
+            padding: 0.35rem 0.75rem; border: 1px solid #ccc; background: white;
+            cursor: pointer; border-radius: 4px; font-size: 0.83rem; transition: all 0.15s;
+        }
+        .year-btn:hover { border-color: var(--kz-azul); color: var(--kz-azul); }
         .year-btn.active { background: var(--kz-azul); color: white; border-color: var(--kz-azul); }
-        .memoria-detail { background: white; padding: 1.5rem; }
+        .memoria-detail { background: white; padding: 1.25rem; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
         .memoria-detail h3 { color: var(--kz-azul); margin-bottom: 0.5rem; }
-        .memoria-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin: 1rem 0; }
-        .memoria-stat { text-align: center; padding: 0.75rem; background: #f5f7fa; }
-        .memoria-stat .num { font-size: 1.5rem; font-weight: 700; color: var(--kz-azul); }
-        .memoria-stat .lbl { font-size: 0.75rem; color: #666; }
+        .memoria-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.8rem; margin: 1rem 0; }
+        .memoria-stat { text-align: center; padding: 0.7rem; background: #f5f7fa; border-radius: 4px; }
+        .memoria-stat .num { font-size: 1.4rem; font-weight: 700; color: var(--kz-azul); }
+        .memoria-stat .lbl { font-size: 0.72rem; color: #666; }
+        .memoria-ciaf-btn {
+            display: inline-flex; align-items: center; gap: 0.4rem;
+            background: var(--kz-rojo); color: white; text-decoration: none;
+            padding: 0.5rem 1rem; border-radius: 4px; font-size: 0.83rem; font-weight: 500;
+            margin-top: 0.75rem; transition: opacity 0.15s; border: none; cursor: pointer;
+        }
+        .memoria-ciaf-btn:hover { opacity: 0.85; }
         .comparison-table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
-        .comparison-table th, .comparison-table td { padding: 0.5rem; border: 1px solid #ddd; text-align: right; font-size: 0.85rem; }
+        .comparison-table th, .comparison-table td { padding: 0.45rem; border: 1px solid #ddd; text-align: right; font-size: 0.82rem; }
         .comparison-table th { background: #f0f4f8; text-align: left; }
         .comparison-table th.year-col { text-align: center; background: var(--kz-azul); color: white; }
-        .normativa-content { padding: 1.5rem; }
-        .normativa-content h2 { color: var(--kz-azul); margin-bottom: 1rem; border-bottom: 2px solid var(--kz-azul); padding-bottom: 0.5rem; }
+
+        /* ===== NORMATIVA ===== */
+        .normativa-content { padding: 1.25rem; }
+        .normativa-content h2 {
+            color: var(--kz-azul); margin-bottom: 1rem; border-bottom: 2px solid var(--kz-azul); padding-bottom: 0.5rem;
+        }
         .normativa-list { list-style: none; }
-        .normativa-item { background: white; padding: 1rem 1.25rem; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
+        .normativa-item {
+            background: white; padding: 0.9rem 1.1rem; border-bottom: 1px solid #eee;
+            display: flex; justify-content: space-between; align-items: center; transition: background 0.15s;
+        }
         .normativa-item:hover { background: #f0f4f8; }
         .normativa-item .doc-title { font-weight: 600; color: var(--kz-azul); }
-        .normativa-item .doc-desc { font-size: 0.85rem; color: #666; margin-top: 0.25rem; }
-        .normativa-item .doc-date { font-size: 0.8rem; color: #999; }
-        .loading-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255,255,255,0.9); display: flex; align-items: center; justify-content: center; z-index: 9999; }
+        .normativa-item .doc-desc { font-size: 0.82rem; color: #666; margin-top: 0.2rem; }
+        .normativa-item .doc-date { font-size: 0.78rem; color: #999; }
+
+        /* ===== FOOTER ===== */
+        .app-footer {
+            background: white; border-top: 1px solid var(--kz-border); padding: 0.5rem 1.5rem;
+            text-align: center; font-size: 0.75rem; color: var(--kz-text-muted);
+        }
+        .app-footer a { color: var(--kz-azul); text-decoration: none; }
+        .app-footer a:hover { text-decoration: underline; }
+
+        /* ===== LOADING ===== */
+        .loading-overlay {
+            position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(255,255,255,0.92); display: flex; align-items: center; justify-content: center; z-index: 9999;
+        }
         .loading-overlay.hidden { display: none; }
-        .spinner { width: 40px; height: 40px; border: 4px solid #e0e0e0; border-top: 4px solid var(--kz-azul); border-radius: 50%; animation: spin 1s linear infinite; }
+        .spinner {
+            width: 40px; height: 40px; border: 4px solid #e0e0e0; border-top: 4px solid var(--kz-azul);
+            border-radius: 50%; animation: spin 0.8s linear infinite;
+        }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-        .popup-content h4 { color: var(--kz-azul); margin-bottom: 0.5rem; }
-        .popup-content p { margin: 0.25rem 0; font-size: 0.85rem; }
-        .popup-content .detail-label { font-weight: 600; }
+
+        /* ===== RESPONSIVE ===== */
+        @media (max-width: 1024px) {
+            .sidebar { width: 220px; }
+        }
         @media (max-width: 900px) {
             .sidebar { display: none; }
             .chart-row { grid-template-columns: 1fr; }
             .kpi-row { grid-template-columns: repeat(2, 1fr); }
+            .detail-panel { width: 100vw; }
         }
         @media (max-width: 600px) {
             .kpi-row { grid-template-columns: 1fr; }
             .tabs-bar { overflow-x: auto; }
-            .tabs-bar .tab { white-space: nowrap; font-size: 0.8rem; padding: 0.6rem 0.8rem; }
+            .tabs-bar .tab { white-space: nowrap; font-size: 0.8rem; padding: 0.55rem 0.7rem; }
+            .detail-info-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
 <body>
 
+<!-- Loading overlay -->
 <div class="loading-overlay" id="loadingOverlay">
     <div style="text-align:center">
         <div class="spinner"></div>
-        <p style="margin-top:1rem;color:var(--kz-azul)">Cargando datos...</p>
+        <p style="margin-top:1rem;color:var(--kz-azul);font-size:0.9rem">Cargando datos de seguridad ferroviaria...</p>
     </div>
 </div>
 
-<div class="app-header">
+<!-- Header -->
+<header class="app-header">
     <div>
-        <h1>🚂 CIAF - Centro de Información de Accidentes Ferroviarios</h1>
+        <h1>🚂 CIAF — Centro de Información de Accidentes Ferroviarios</h1>
         <div class="subtitle">Visualización interactiva de datos de seguridad ferroviaria en España</div>
     </div>
-</div>
+</header>
 
-<div class="tabs-bar" id="tabsBar">
+<!-- Tabs -->
+<nav class="tabs-bar" id="tabsBar">
     <div class="tab active" data-tab="mapa">🗺️ Mapa</div>
     <div class="tab" data-tab="dashboard">📊 Dashboard</div>
     <div class="tab" data-tab="informes">📋 Informes</div>
     <div class="tab" data-tab="memorias">📖 Memorias</div>
     <div class="tab" data-tab="normativa">⚖️ Normativa</div>
-</div>
+</nav>
 
+<!-- Main -->
 <div class="main-layout">
-    <div class="sidebar" id="sidebar">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
         <h3>Filtros</h3>
         <label>Año desde</label>
         <input type="range" id="yearMin" min="2007" max="2025" value="2007">
@@ -153,58 +354,74 @@
         <h3>Tipo</h3>
         <select id="filterType">
             <option value="">Todos</option>
-            <option value="accidente">Accidente</option>
-            <option value="incidente">Incidente</option>
-            <option value="avería">Avería</option>
         </select>
 
         <h3>Gravedad</h3>
         <select id="filterSeverity">
             <option value="">Todas</option>
-            <option value="leve">Leve</option>
-            <option value="grave">Grave</option>
-            <option value="muy grave">Muy Grave</option>
-            <option value="fatal">Fatal</option>
         </select>
 
         <h3>Entidad</h3>
         <select id="filterEntity">
             <option value="">Todas</option>
-            <option value="ADIF">ADIF</option>
-            <option value="Renfe">Renfe</option>
-            <option value="FCC">FCC</option>
-            <option value="Ferrocarriles">Ferrocarriles</option>
-            <option value="Otros">Otros</option>
         </select>
 
-        <div class="filter-count" id="filterCount">Mostrando todos los informes</div>
-        <button class="btn-reset" onclick="resetFilters()">Restablecer filtros</button>
-    </div>
+        <h3>Provincia</h3>
+        <select id="filterProvince">
+            <option value="">Todas</option>
+        </select>
 
-    <div class="content">
+        <div class="filter-count" id="filterCount">Cargando...</div>
+        <button class="btn-reset" onclick="resetFilters()">Restablecer filtros</button>
+    </aside>
+
+    <!-- Content -->
+    <main class="content">
+        <!-- MAP TAB -->
         <div class="tab-content active" id="tab-mapa">
             <div id="map"></div>
+            <div class="map-legend">
+                <h4>Leyenda</h4>
+                <div class="legend-item"><span class="legend-dot" style="background:#CB1823"></span> Accidente</div>
+                <div class="legend-item"><span class="legend-dot" style="background:#e65100"></span> Incidente</div>
+                <div class="legend-item"><span class="legend-dot" style="background:#3463AC"></span> Avería</div>
+            </div>
         </div>
+
+        <!-- DASHBOARD TAB -->
         <div class="tab-content" id="tab-dashboard">
             <div class="dashboard-grid">
-                <div class="kpi-row">
+                <div class="kpi-row" id="kpiRow">
                     <div class="kpi-card">
                         <div class="value" id="kpiTotal">-</div>
                         <div class="label">Total Informes</div>
                     </div>
                     <div class="kpi-card rojo">
                         <div class="value" id="kpiVictims">-</div>
-                        <div class="label">Total Víctimas</div>
+                        <div class="label">Total Víctimas Fatales</div>
                     </div>
                     <div class="kpi-card medio">
+                        <div class="value" id="kpiHeridos">-</div>
+                        <div class="label">Heridos</div>
+                    </div>
+                    <div class="kpi-card claro">
                         <div class="value" id="kpiFatal">-</div>
                         <div class="label">Accidentes Fatales</div>
                     </div>
-                    <div class="kpi-card claro">
+                    <div class="kpi-card naranja">
                         <div class="value" id="kpiMaterial">-</div>
                         <div class="label">Daños Materiales</div>
                     </div>
+                    <div class="kpi-card">
+                        <div class="value" id="kpiYears">-</div>
+                        <div class="label">Años Cubiertos</div>
+                    </div>
+                    <div class="kpi-card medio">
+                        <div class="value" id="kpiEntities">-</div>
+                        <div class="label">Entidades Involucradas</div>
+                    </div>
                 </div>
+
                 <div class="chart-row">
                     <div class="chart-card">
                         <h3>Evolución Anual de Informes</h3>
@@ -221,30 +438,43 @@
                         <canvas id="chartSeverity"></canvas>
                     </div>
                     <div class="chart-card">
-                        <h3>Top 10 Ciudades</h3>
+                        <h3>Top 10 Ciudades / Estaciones</h3>
                         <canvas id="chartCities"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Top Entidades Involucradas</h3>
+                        <canvas id="chartEntities"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Distribución por Provincia</h3>
+                        <canvas id="chartProvinces"></canvas>
                     </div>
                 </div>
             </div>
         </div>
+
+        <!-- INFORMES TAB -->
         <div class="tab-content" id="tab-informes">
             <div class="reports-table-wrapper">
                 <div class="search-bar">
-                    <input type="text" id="searchInput" placeholder="Buscar por ID, ciudad, causa o entidad...">
+                    <input type="text" id="searchInput" placeholder="Buscar por expediente, ciudad, entidad, causa...">
                     <span class="result-count" id="resultCount"></span>
                 </div>
-                <div style="overflow-x:auto; max-height: calc(100vh - 200px); overflow-y:auto;">
+                <div style="overflow-x:auto; max-height: calc(100vh - 180px); overflow-y:auto;">
                     <table class="reports-table">
                         <thead>
                             <tr>
-                                <th data-sort="id">ID</th>
+                                <th data-sort="expediente">Expediente</th>
                                 <th data-sort="date">Fecha</th>
                                 <th data-sort="type">Tipo</th>
                                 <th data-sort="severity">Gravedad</th>
-                                <th data-sort="city">Ciudad</th>
+                                <th data-sort="city">Estación / Ciudad</th>
+                                <th data-sort="province">Provincia</th>
                                 <th data-sort="entity">Entidad</th>
-                                <th data-sort="cause">Causa</th>
                                 <th data-sort="victims">Víctimas</th>
+                                <th data-sort="injured">Heridos</th>
                             </tr>
                         </thead>
                         <tbody id="reportsTableBody"></tbody>
@@ -252,21 +482,46 @@
                 </div>
             </div>
         </div>
+
+        <!-- MEMORIAS TAB -->
         <div class="tab-content" id="tab-memorias">
             <div class="memorias-content">
-                <h2>Memorias Anuales</h2>
+                <h2>📖 Memorias Anuales del CIAF</h2>
+                <p style="margin-bottom:1rem;color:#666;font-size:0.88rem">
+                    Resumen estadístico de los sucesos investigados por año. Para el informe completo, consulte la fuente oficial.
+                </p>
                 <div class="year-selector" id="memoriaYearSelector"></div>
                 <div id="memoriaDetail"></div>
             </div>
         </div>
+
+        <!-- NORMATIVA TAB -->
         <div class="tab-content" id="tab-normativa">
             <div class="normativa-content">
-                <h2>Normativa Ferroviaria</h2>
+                <h2>⚖️ Normativa Ferroviaria</h2>
                 <ul class="normativa-list" id="normativaList"></ul>
             </div>
         </div>
-    </div>
+    </main>
 </div>
+
+<!-- Detail Panel (slide-in from right) -->
+<div class="detail-panel-overlay" id="detailPanelOverlay" onclick="closeDetailPanel()"></div>
+<div class="detail-panel" id="detailPanel" style="display:none">
+    <div class="detail-panel-header">
+        <div>
+            <h2 id="detailTitle">Detalle del Informe</h2>
+            <div class="detail-id" id="detailId"></div>
+        </div>
+        <button class="detail-panel-close" onclick="closeDetailPanel()" title="Cerrar">&times;</button>
+    </div>
+    <div class="detail-panel-body" id="detailBody"></div>
+</div>
+
+<!-- Footer -->
+<footer class="app-footer">
+    Hecho con ❤️ por <strong>David Antizar</strong> — Datos: <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener">CIAF / Ministerio de Transportes</a>
+</footer>
 
 <script>
 // ===== GLOBAL STATE =====
@@ -277,11 +532,13 @@ let map, markersLayer, trainTracksLayer;
 // ===== INIT =====
 async function init() {
     setupTabs();
+    await loadData();
+    populateFilters();
     setupFilters();
     setupSearch();
-    await loadData();
     initMap();
     renderDashboard();
+    renderTable();
     renderMemorias();
     renderNormativa();
     document.getElementById('loadingOverlay').classList.add('hidden');
@@ -300,6 +557,109 @@ function setupTabs() {
     });
 }
 
+// ===== LOAD DATA =====
+async function loadData() {
+    try {
+        const indexResp = await fetch('data/index.json');
+        const indexData = await indexResp.json();
+        const years = indexData.years_available || [];
+
+        for (const year of years) {
+            try {
+                const resp = await fetch(`data/reports/${year}.json`);
+                if (!resp.ok) continue;
+                const yearData = await resp.json();
+                const mapped = yearData.map(r => ({
+                    id: r.id,
+                    year: r.year,
+                    type: r.tipo || 'desconocido',
+                    severity: r.gravedad || 'desconocido',
+                    date: r.fecha_suceso || '',
+                    city: r.ubicacion?.estacion || r.ubicacion?.provincia || '',
+                    province: r.ubicacion?.provincia || '',
+                    entity: (r.entidades && r.entidades[0]) || '',
+                    cause: (r.tags && r.tags[0]) || '',
+                    description: r.analisis?.resumen || '',
+                    lat: r.ubicacion?.lat,
+                    lng: r.ubicacion?.lng,
+                    victims: r.consecuencias?.victimas_mortales || 0,
+                    injured: r.consecuencias?.heridos || 0,
+                    material_damage: typeof r.consecuencias?.danos_materiales === 'boolean'
+                        ? r.consecuencias.danos_materiales
+                        : (r.consecuencias?.danos_materiales ? true : false),
+                    tags: r.tags || [],
+                    recommendations: r.recomendaciones || [],
+                    conclusions: r.conclusiones || [],
+                    entities: r.entidades || [],
+                    station: r.ubicacion?.estacion || '',
+                    province_full: r.ubicacion?.provincia || '',
+                    expediente: r.expediente || '',
+                    tipo_suceso: r.tipo_suceso || '',
+                    enlaces: r.enlaces || {},
+                    // keep raw for detail panel
+                    _raw: r
+                }));
+                allReports = allReports.concat(mapped);
+            } catch (e) { console.warn(`No se pudieron cargar datos de ${year}`); }
+        }
+    } catch (e) {
+        console.error('Error cargando index.json:', e);
+    }
+    filteredReports = [...allReports];
+}
+
+// ===== POPULATE FILTERS DYNAMICALLY =====
+function populateFilters() {
+    // Type
+    const types = [...new Set(allReports.map(r => r.type).filter(Boolean))].sort();
+    const filterType = document.getElementById('filterType');
+    types.forEach(t => {
+        const opt = document.createElement('option');
+        opt.value = t; opt.textContent = t.charAt(0).toUpperCase() + t.slice(1);
+        filterType.appendChild(opt);
+    });
+
+    // Severity
+    const severities = [...new Set(allReports.map(r => r.severity).filter(Boolean))].sort();
+    const filterSeverity = document.getElementById('filterSeverity');
+    severities.forEach(s => {
+        const opt = document.createElement('option');
+        opt.value = s; opt.textContent = s.charAt(0).toUpperCase() + s.slice(1);
+        filterSeverity.appendChild(opt);
+    });
+
+    // Entity (dynamic from data)
+    const entities = [...new Set(allReports.map(r => r.entity).filter(Boolean))].sort();
+    const filterEntity = document.getElementById('filterEntity');
+    entities.forEach(e => {
+        const opt = document.createElement('option');
+        opt.value = e; opt.textContent = e;
+        filterEntity.appendChild(opt);
+    });
+
+    // Province (dynamic from data)
+    const provinces = [...new Set(allReports.map(r => r.province_full || r.province).filter(Boolean))].sort();
+    const filterProvince = document.getElementById('filterProvince');
+    provinces.forEach(p => {
+        const opt = document.createElement('option');
+        opt.value = p; opt.textContent = p;
+        filterProvince.appendChild(opt);
+    });
+
+    // Update year range based on data
+    const years = allReports.map(r => r.year).filter(Boolean);
+    if (years.length > 0) {
+        const minY = Math.min(...years);
+        const maxY = Math.max(...years);
+        const yearMinEl = document.getElementById('yearMin');
+        const yearMaxEl = document.getElementById('yearMax');
+        yearMinEl.min = minY; yearMinEl.max = maxY; yearMinEl.value = minY;
+        yearMaxEl.min = minY; yearMaxEl.max = maxY; yearMaxEl.value = maxY;
+        document.getElementById('yearMinVal').textContent = minY;
+        document.getElementById('yearMaxVal').textContent = maxY;
+    }
+}
+
 // ===== FILTERS =====
 function setupFilters() {
     const yearMin = document.getElementById('yearMin');
@@ -309,16 +669,21 @@ function setupFilters() {
     document.getElementById('filterType').addEventListener('change', applyFilters);
     document.getElementById('filterSeverity').addEventListener('change', applyFilters);
     document.getElementById('filterEntity').addEventListener('change', applyFilters);
+    document.getElementById('filterProvince').addEventListener('change', applyFilters);
 }
 
 function resetFilters() {
-    document.getElementById('yearMin').value = 2007;
-    document.getElementById('yearMax').value = 2025;
-    document.getElementById('yearMinVal').textContent = '2007';
-    document.getElementById('yearMaxVal').textContent = '2025';
+    const years = allReports.map(r => r.year).filter(Boolean);
+    const minY = years.length ? Math.min(...years) : 2007;
+    const maxY = years.length ? Math.max(...years) : 2025;
+    document.getElementById('yearMin').value = minY;
+    document.getElementById('yearMax').value = maxY;
+    document.getElementById('yearMinVal').textContent = minY;
+    document.getElementById('yearMaxVal').textContent = maxY;
     document.getElementById('filterType').value = '';
     document.getElementById('filterSeverity').value = '';
     document.getElementById('filterEntity').value = '';
+    document.getElementById('filterProvince').value = '';
     document.getElementById('searchInput').value = '';
     applyFilters();
 }
@@ -329,6 +694,7 @@ function applyFilters() {
     const type = document.getElementById('filterType').value;
     const severity = document.getElementById('filterSeverity').value;
     const entity = document.getElementById('filterEntity').value;
+    const province = document.getElementById('filterProvince').value;
     const search = document.getElementById('searchInput').value.toLowerCase();
 
     filteredReports = allReports.filter(r => {
@@ -336,69 +702,24 @@ function applyFilters() {
         if (type && r.type !== type) return false;
         if (severity && r.severity !== severity) return false;
         if (entity && r.entity !== entity) return false;
-        if (search && !`${r.id} ${r.city} ${r.cause} ${r.entity} ${r.description}`.toLowerCase().includes(search)) return false;
+        if (province && r.province_full !== province) return false;
+        if (search) {
+            const haystack = `${r.id} ${r.expediente} ${r.city} ${r.province} ${r.cause} ${r.entity} ${r.description} ${(r.tags||[]).join(' ')}`.toLowerCase();
+            if (!haystack.includes(search)) return false;
+        }
         return true;
     });
 
     document.getElementById('filterCount').textContent = `Mostrando ${filteredReports.length} de ${allReports.length} informes`;
     document.getElementById('resultCount').textContent = `${filteredReports.length} resultados`;
     updateMapMarkers();
-    renderTable();
     renderDashboard();
+    renderTable();
 }
 
 // ===== SEARCH =====
 function setupSearch() {
     document.getElementById('searchInput').addEventListener('input', applyFilters);
-}
-
-// ===== LOAD DATA =====
-async function loadData() {
-    try {
-        const indexResp = await fetch('data/index.json');
-        const indexData = await indexResp.json();
-        const years = indexData.years_available || Object.keys(indexData.stats?.por_anio || {}).map(Number);
-        for (const year of years) {
-            try {
-                const resp = await fetch(`data/reports/${year}.json`);
-                if (resp.ok) {
-                    const yearData = await resp.json();
-                    // Map parser fields to frontend fields
-                    const mapped = yearData.map(r => ({
-                        id: r.id,
-                        year: r.year,
-                        type: r.tipo || 'desconocido',
-                        severity: r.gravedad || 'leve',
-                        date: r.fecha_suceso || '',
-                        city: r.ubicacion?.estacion || r.ubicacion?.provincia || '',
-                        province: r.ubicacion?.provincia || '',
-                        entity: (r.entidades && r.entidades[0]) || '',
-                        cause: (r.tags && r.tags[0]) || '',
-                        description: r.analisis?.resumen || '',
-                        lat: r.ubicacion?.lat,
-                        lng: r.ubicacion?.lng,
-                        victims: r.consecuencias?.victimas_mortales || 0,
-                        injured: r.consecuencias?.heridos || 0,
-                        material_damage: r.consecuencias?.danos_materiales === true,
-                        tags: r.tags || [],
-                        recommendations: r.recomendaciones?.length || 0,
-                        conclusions: r.conclusiones?.length || 0,
-                        entities: r.entidades || [],
-                        station: r.ubicacion?.estacion || '',
-                        expediente: r.expediente || '',
-                        tipo_suceso: r.tipo_suceso || '',
-                        enlaces: r.enlaces || {}
-                    }));
-                    allReports = allReports.concat(mapped);
-                }
-            } catch (e) { console.warn(`No se pudieron cargar datos de ${year}`); }
-        }
-    } catch (e) {
-        console.error('Error cargando index.json:', e);
-    }
-    filteredReports = [...allReports];
-    document.getElementById('filterCount').textContent = `Mostrando ${filteredReports.length} de ${allReports.length} informes`;
-    document.getElementById('resultCount').textContent = `${filteredReports.length} resultados`;
 }
 
 // ===== MAP =====
@@ -424,30 +745,43 @@ function initMap() {
     updateMapMarkers();
 }
 
+function getMarkerColor(type) {
+    switch (type) {
+        case 'accidente': return '#CB1823';
+        case 'incidente': return '#e65100';
+        case 'avería': return '#3463AC';
+        default: return '#888888';
+    }
+}
+
 function updateMapMarkers() {
     markersLayer.clearLayers();
     filteredReports.forEach(r => {
         if (r.lat && r.lng) {
-            const color = r.type === 'accidente' ? '#CB1823' : r.type === 'incidente' ? '#e65100' : '#3463AC';
+            const color = getMarkerColor(r.type);
             const icon = L.divIcon({
                 className: '',
                 html: `<div style="width:12px;height:12px;background:${color};border-radius:50%;border:2px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.4)"></div>`,
                 iconSize: [12, 12], iconAnchor: [6, 6]
             });
             const marker = L.marker([r.lat, r.lng], { icon });
+            const entityList = r.entities.length > 0 ? r.entities.join(', ') : (r.entity || '—');
             marker.bindPopup(`
                 <div class="popup-content">
-                    <h4>${r.id}</h4>
-                    <p><span class="detail-label">Fecha:</span> ${r.date}</p>
-                    <p><span class="detail-label">Tipo:</span> <span class="badge badge-${r.type}">${r.type}</span></p>
-                    <p><span class="detail-label">Gravedad:</span> <span class="badge badge-${r.severity.replace(' ','-')}">${r.severity}</span></p>
-                    <p><span class="detail-label">Ciudad:</span> ${r.city}</p>
-                    <p><span class="detail-label">Entidad:</span> ${r.entity}</p>
-                    <p><span class="detail-label">Causa:</span> ${r.cause}</p>
-                    <p><span class="detail-label">Víctimas:</span> ${r.victims}</p>
+                    <h4>${r.expediente || r.id}</h4>
+                    <p><span class="detail-label">Fecha:</span> ${r.date || '—'}</p>
+                    <p><span class="detail-label">Tipo:</span> <span class="badge badge-${r.type}">${r.type}</span> ${r.tipo_suceso ? '(' + r.tipo_suceso + ')' : ''}</p>
+                    <p><span class="detail-label">Gravedad:</span> <span class="badge badge-${(r.severity||'').replace(/ /g,'-')}">${r.severity || '—'}</span></p>
+                    <p><span class="detail-label">Estación:</span> ${r.station || r.city || '—'}</p>
+                    <p><span class="detail-label">Provincia:</span> ${r.province || '—'}</p>
+                    <p><span class="detail-label">Entidades:</span> <span class="popup-entities">${entityList}</span></p>
+                    ${r.victims > 0 ? `<p><span class="detail-label">Víctimas fatales:</span> ${r.victims}</p>` : ''}
+                    ${r.injured > 0 ? `<p><span class="detail-label">Heridos:</span> ${r.injured}</p>` : ''}
                     <p><span class="detail-label">Daños materiales:</span> ${r.material_damage ? 'Sí' : 'No'}</p>
+                    ${r.description ? `<p style="margin-top:0.4rem;font-size:0.78rem;color:#666;max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.description.substring(0, 150)}${r.description.length > 150 ? '…' : ''}</p>` : ''}
+                    <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="popup-link">Ver en CIAF →</a>
                 </div>
-            `);
+            `, { maxWidth: 350, className: '' });
             markersLayer.addLayer(marker);
         }
     });
@@ -458,24 +792,17 @@ async function loadTrainTracks() {
         const resp = await fetch('data/train-tracks.geojson');
         if (!resp.ok) throw new Error('GeoJSON no encontrado');
         const data = await resp.json();
-        
-        // Dibujar vías por tipo
         data.features.forEach(f => {
-            const coords = f.geometry.coordinates.map(c => [c[1], c[0]]); // [lat, lng]
+            const coords = f.geometry.coordinates.map(c => [c[1], c[0]]);
             if (coords.length < 2) return;
-            
             const props = f.properties || {};
             const color = props.color || '#3463AC';
             const weight = props.weight || 2;
-            const opacity = 0.6;
-            
-            L.polyline(coords, { color, weight, opacity }).addTo(trainTracksLayer);
+            L.polyline(coords, { color, weight, opacity: 0.6 }).addTo(trainTracksLayer);
         });
-        
         console.log(`Vías de tren cargadas: ${data.features.length} tramos`);
     } catch (e) {
         console.warn('Error cargando vías de tren:', e);
-        // Fallback: intentar Overpass API
         try {
             const query = `[out:json][timeout:30]; way["railway"="rail"](36.0,-9.5,44.0,3.5); out body; >; out skel qt;`;
             const resp = await fetch('https://overpass-api.de/api/interpreter', {
@@ -492,9 +819,7 @@ async function loadTrainTracks() {
                     L.polyline(coords, { color: '#CB1823', weight: 2, opacity: 0.6 }).addTo(trainTracksLayer);
                 }
             });
-        } catch (e2) {
-            console.warn('Fallback Overpass también falló:', e2);
-        }
+        } catch (e2) { console.warn('Fallback Overpass también falló:', e2); }
     }
 }
 
@@ -502,13 +827,19 @@ async function loadTrainTracks() {
 function renderDashboard() {
     const total = filteredReports.length;
     const victims = filteredReports.reduce((s, r) => s + (r.victims || 0), 0);
+    const heridos = filteredReports.reduce((s, r) => s + (r.injured || 0), 0);
     const fatal = filteredReports.filter(r => r.severity === 'fatal').length;
     const material = filteredReports.filter(r => r.material_damage).length;
+    const yearsSet = new Set(filteredReports.map(r => r.year).filter(Boolean));
+    const entitiesSet = new Set(filteredReports.map(r => r.entity).filter(Boolean));
 
     document.getElementById('kpiTotal').textContent = total.toLocaleString('es-ES');
     document.getElementById('kpiVictims').textContent = victims.toLocaleString('es-ES');
+    document.getElementById('kpiHeridos').textContent = heridos.toLocaleString('es-ES');
     document.getElementById('kpiFatal').textContent = fatal.toLocaleString('es-ES');
     document.getElementById('kpiMaterial').textContent = material.toLocaleString('es-ES');
+    document.getElementById('kpiYears').textContent = yearsSet.size;
+    document.getElementById('kpiEntities').textContent = entitiesSet.size;
 
     renderCharts();
 }
@@ -523,39 +854,54 @@ function renderCharts() {
     if (window._chartEvolution) window._chartEvolution.destroy();
     window._chartEvolution = new Chart(document.getElementById('chartEvolution'), {
         type: 'line',
-        data: { labels: yearLabels, datasets: [{ label: 'Informes', data: yearData, borderColor: '#1A4488', backgroundColor: 'rgba(26,68,136,0.1)', fill: true, tension: 0.3 }] },
+        data: {
+            labels: yearLabels,
+            datasets: [{
+                label: 'Informes', data: yearData,
+                borderColor: '#1A4488', backgroundColor: 'rgba(26,68,136,0.1)',
+                fill: true, tension: 0.3, pointRadius: 3, pointHoverRadius: 5
+            }]
+        },
         options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
     });
 
     // Type chart
     const types = {};
     filteredReports.forEach(r => { types[r.type] = (types[r.type] || 0) + 1; });
+    const typeColors = { accidente: '#CB1823', incidente: '#e65100', avería: '#3463AC' };
     if (window._chartType) window._chartType.destroy();
     window._chartType = new Chart(document.getElementById('chartType'), {
         type: 'doughnut',
         data: {
-            labels: Object.keys(types),
-            datasets: [{ data: Object.values(types), backgroundColor: ['#CB1823', '#e65100', '#3463AC'] }]
+            labels: Object.keys(types).map(t => t.charAt(0).toUpperCase() + t.slice(1)),
+            datasets: [{ data: Object.values(types), backgroundColor: Object.keys(types).map(t => typeColors[t] || '#999') }]
         },
-        options: { responsive: true }
+        options: { responsive: true, plugins: { legend: { position: 'bottom' } } }
     });
 
     // Severity chart
     const sev = {};
     filteredReports.forEach(r => { sev[r.severity] = (sev[r.severity] || 0) + 1; });
+    const sevColors = { leve: '#2e7d32', grave: '#e65100', 'muy grave': '#c62828', fatal: '#880e4f' };
     if (window._chartSeverity) window._chartSeverity.destroy();
     window._chartSeverity = new Chart(document.getElementById('chartSeverity'), {
         type: 'bar',
         data: {
-            labels: Object.keys(sev),
-            datasets: [{ label: 'Informes', data: Object.values(sev), backgroundColor: ['#2e7d32', '#e65100', '#c62828', '#880e4f'] }]
+            labels: Object.keys(sev).map(s => s.charAt(0).toUpperCase() + s.slice(1)),
+            datasets: [{
+                label: 'Informes', data: Object.values(sev),
+                backgroundColor: Object.keys(sev).map(s => sevColors[s] || '#999')
+            }]
         },
         options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
     });
 
     // Cities chart
     const cities = {};
-    filteredReports.forEach(r => { cities[r.city] = (cities[r.city] || 0) + 1; });
+    filteredReports.forEach(r => {
+        const c = r.city || r.station || 'Sin ubicación';
+        cities[c] = (cities[c] || 0) + 1;
+    });
     const topCities = Object.entries(cities).sort((a, b) => b[1] - a[1]).slice(0, 10);
     if (window._chartCities) window._chartCities.destroy();
     window._chartCities = new Chart(document.getElementById('chartCities'), {
@@ -566,31 +912,231 @@ function renderCharts() {
         },
         options: { indexAxis: 'y', responsive: true, plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true } } }
     });
+
+    // Entity breakdown chart
+    const entityCounts = {};
+    filteredReports.forEach(r => {
+        r.entities.forEach(e => {
+            entityCounts[e] = (entityCounts[e] || 0) + 1;
+        });
+    });
+    const topEntities = Object.entries(entityCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+    if (window._chartEntities) window._chartEntities.destroy();
+    if (topEntities.length > 0) {
+        window._chartEntities = new Chart(document.getElementById('chartEntities'), {
+            type: 'bar',
+            data: {
+                labels: topEntities.map(e => e[0]),
+                datasets: [{
+                    label: 'Menciones', data: topEntities.map(e => e[1]),
+                    backgroundColor: topEntities.map((_, i) => {
+                        const colors = ['#1A4488', '#3463AC', '#6B96CF', '#98B8DB', '#CB1823', '#e65100'];
+                        return colors[i % colors.length];
+                    })
+                }]
+            },
+            options: {
+                responsive: true, plugins: { legend: { display: false } },
+                scales: { y: { beginAtZero: true }, x: { ticks: { maxRotation: 45, minRotation: 30, font: { size: 10 } } } }
+            }
+        });
+    }
+
+    // Province breakdown chart
+    const provCounts = {};
+    filteredReports.forEach(r => {
+        const p = r.province_full || r.province || '';
+        if (p) provCounts[p] = (provCounts[p] || 0) + 1;
+    });
+    const topProvs = Object.entries(provCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+    if (window._chartProvinces) window._chartProvinces.destroy();
+    if (topProvs.length > 0) {
+        window._chartProvinces = new Chart(document.getElementById('chartProvinces'), {
+            type: 'bar',
+            data: {
+                labels: topProvs.map(p => p[0]),
+                datasets: [{
+                    label: 'Informes', data: topProvs.map(p => p[1]),
+                    backgroundColor: '#1A4488'
+                }]
+            },
+            options: {
+                responsive: true, plugins: { legend: { display: false } },
+                scales: { y: { beginAtZero: true }, x: { ticks: { maxRotation: 45, minRotation: 30, font: { size: 10 } } } }
+            }
+        });
+    }
 }
 
 // ===== TABLE =====
 function renderTable() {
     const tbody = document.getElementById('reportsTableBody');
     const sorted = [...filteredReports].sort((a, b) => (a.date || '').localeCompare(b.date || ''));
-    tbody.innerHTML = sorted.map(r => `
-        <tr>
-            <td>${r.id}</td>
-            <td>${r.date}</td>
+    tbody.innerHTML = sorted.map((r, idx) => `
+        <tr onclick="showDetailPanel(${allReports.indexOf(r)})" title="Click para ver detalles">
+            <td>${r.expediente || r.id}</td>
+            <td>${r.date || '—'}</td>
             <td><span class="badge badge-${r.type}">${r.type}</span></td>
-            <td><span class="badge badge-${r.severity.replace(' ','-')}">${r.severity}</span></td>
-            <td>${r.city}</td>
-            <td>${r.entity}</td>
-            <td>${r.cause}</td>
+            <td><span class="badge badge-${(r.severity||'').replace(/ /g,'-')}">${r.severity || '—'}</span></td>
+            <td>${r.city || r.station || '—'}</td>
+            <td>${r.province || '—'}</td>
+            <td>${r.entity || '—'}</td>
             <td style="text-align:center">${r.victims}</td>
+            <td style="text-align:center">${r.injured}</td>
         </tr>
     `).join('');
+}
+
+// ===== DETAIL PANEL =====
+function showDetailPanel(reportIdx) {
+    const r = allReports[reportIdx];
+    if (!r) return;
+
+    document.getElementById('detailTitle').textContent = `Informe ${r.expediente || r.id}`;
+    document.getElementById('detailId').textContent = `ID: ${r.id}`;
+
+    const body = document.getElementById('detailBody');
+    const entityList = r.entities.length > 0 ? r.entities.join(', ') : (r.entity || '—');
+
+    // Build recommendations HTML
+    let recsHtml = '<div class="detail-empty">No hay recomendaciones disponibles.</div>';
+    if (r.recommendations && r.recommendations.length > 0) {
+        const recs = r.recommendations.map(rec => {
+            if (typeof rec === 'string') return rec;
+            if (rec.texto) return (rec.numero ? `<strong>${rec.numero}:</strong> ` : '') + rec.texto;
+            if (rec.text) return rec.text;
+            return JSON.stringify(rec);
+        }).filter(Boolean);
+        if (recs.length > 0) {
+            recsHtml = `<ol class="detail-list recommendations">${recs.map(r => `<li>${truncateText(r, 500)}</li>`).join('')}</ol>`;
+        }
+    }
+
+    // Build conclusions HTML
+    let conclusionsHtml = '<div class="detail-empty">No hay conclusiones disponibles.</div>';
+    if (r.conclusions) {
+        if (Array.isArray(r.conclusions) && r.conclusions.length > 0) {
+            const cons = r.conclusions.map(c => typeof c === 'string' ? c : (c.texto || c.text || JSON.stringify(c))).filter(Boolean);
+            if (cons.length > 0) {
+                conclusionsHtml = `<ol class="detail-list conclusions">${cons.map(c => `<li>${truncateText(c, 500)}</li>`).join('')}</ol>`;
+            }
+        } else if (typeof r.conclusions === 'string' && r.conclusions.trim()) {
+            conclusionsHtml = `<div class="detail-resumen">${escapeHtml(r.conclusions)}</div>`;
+        }
+    }
+
+    // Tags
+    let tagsHtml = '';
+    if (r.tags && r.tags.length > 0) {
+        tagsHtml = `
+            <div class="detail-section">
+                <h3>Etiquetas / Causas</h3>
+                <div class="detail-tags">${r.tags.map(t => `<span class="detail-tag">${escapeHtml(t)}</span>`).join('')}</div>
+            </div>`;
+    }
+
+    // Resumen
+    let resumenHtml = '';
+    if (r.description && r.description.trim()) {
+        resumenHtml = `
+            <div class="detail-section">
+                <h3>Resumen del Análisis</h3>
+                <div class="detail-resumen">${escapeHtml(truncateText(r.description, 2000))}</div>
+            </div>`;
+    }
+
+    body.innerHTML = `
+        <div class="detail-section">
+            <h3>Información General</h3>
+            <div class="detail-info-grid">
+                <div class="detail-info-item">
+                    <div class="di-label">Expediente</div>
+                    <div class="di-value">${escapeHtml(r.expediente || '—')}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Fecha</div>
+                    <div class="di-value">${escapeHtml(r.date || '—')}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Tipo de Suceso</div>
+                    <div class="di-value"><span class="badge badge-${r.type}">${r.type}</span> ${r.tipo_suceso ? escapeHtml(r.tipo_suceso) : ''}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Gravedad</div>
+                    <div class="di-value"><span class="badge badge-${(r.severity||'').replace(/ /g,'-')}">${r.severity || '—'}</span></div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Estación</div>
+                    <div class="di-value">${escapeHtml(r.station || '—')}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Provincia</div>
+                    <div class="di-value">${escapeHtml(r.province || '—')}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Entidades</div>
+                    <div class="di-value">${escapeHtml(entityList)}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Año</div>
+                    <div class="di-value">${r.year || '—'}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Víctimas Fatales</div>
+                    <div class="di-value" style="color:${r.victims > 0 ? 'var(--kz-rojo)' : 'inherit'}; font-weight:${r.victims > 0 ? '700' : '400'}">${r.victims || 0}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Heridos</div>
+                    <div class="di-value" style="color:${r.injured > 0 ? 'var(--kz-naranja)' : 'inherit'}; font-weight:${r.injured > 0 ? '700' : '400'}">${r.injured || 0}</div>
+                </div>
+                <div class="detail-info-item">
+                    <div class="di-label">Daños Materiales</div>
+                    <div class="di-value">${r.material_damage ? 'Sí' : 'No'}</div>
+                </div>
+            </div>
+        </div>
+
+        ${resumenHtml}
+        ${tagsHtml}
+
+        <div class="detail-section">
+            <h3>Recomendaciones (${(r.recommendations || []).length})</h3>
+            ${recsHtml}
+        </div>
+
+        <div class="detail-section">
+            <h3>Conclusiones</h3>
+            ${conclusionsHtml}
+        </div>
+
+        <div class="detail-section">
+            <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="detail-link-btn">
+                📄 Ver informe original en CIAF →
+            </a>
+        </div>
+    `;
+
+    document.getElementById('detailPanelOverlay').classList.add('open');
+    document.getElementById('detailPanel').style.display = 'block';
+}
+
+function closeDetailPanel() {
+    document.getElementById('detailPanelOverlay').classList.remove('open');
+    document.getElementById('detailPanel').style.display = 'none';
 }
 
 // ===== MEMORIAS =====
 async function renderMemorias() {
     const selector = document.getElementById('memoriaYearSelector');
-    const years = [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007];
-    selector.innerHTML = years.map((y, i) => `<button class="year-btn${i===0?' active':''}" data-year="${y}">${y}</button>`).join('');
+    const availableYears = [...new Set(allReports.map(r => r.year).filter(Boolean))].sort((a, b) => b - a);
+    if (availableYears.length === 0) {
+        // fallback
+        availableYears.push(2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007);
+    }
+
+    selector.innerHTML = availableYears.map((y, i) =>
+        `<button class="year-btn${i === 0 ? ' active' : ''}" data-year="${y}">${y}</button>`
+    ).join('');
 
     let memoriaCache = {};
 
@@ -612,46 +1158,73 @@ async function renderMemorias() {
         }
         const detail = document.getElementById('memoriaDetail');
         const m = memoriaCache[year];
+
         if (!m) {
-            detail.innerHTML = `<div class="memoria-detail"><p>No hay datos disponibles para ${year}.</p></div>`;
+            detail.innerHTML = `
+                <div class="memoria-detail">
+                    <h3>Memoria ${year}</h3>
+                    <p>No hay datos disponibles para ${year}.</p>
+                    <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="memoria-ciaf-btn">
+                        📄 Ver memoria original en CIAF →
+                    </a>
+                </div>`;
             return;
         }
 
         let comparisonHtml = '';
-        if (year > 2007) {
-            const prevYear = year - 1;
+        if (parseInt(year) > 2007) {
+            const prevYear = parseInt(year) - 1;
             const pm = memoriaCache[prevYear];
             if (pm) {
+                const calcVariation = (curr, prev) => {
+                    if (!prev || prev === 0) return 'N/A';
+                    return ((curr - prev) / prev * 100).toFixed(1) + '%';
+                };
                 comparisonHtml = `
                 <h3 style="margin-top:1.5rem;color:var(--kz-azul)">Comparativa con año anterior</h3>
                 <table class="comparison-table">
-                    <thead><tr><th>Métrica</th><th class="year-col">${prevYear}</th><th class="year-col">${year}</th><th>Variación</th></tr></thead>
+                    <thead><tr>
+                        <th>Métrica</th>
+                        <th class="year-col">${prevYear}</th>
+                        <th class="year-col">${year}</th>
+                        <th>Variación</th>
+                    </tr></thead>
                     <tbody>
-                        <tr><td>Accidentes</td><td>${pm.total_accidents}</td><td>${m.total_accidents}</td><td>${((m.total_accidents-pm.total_accidents)/pm.total_accidents*100).toFixed(1)}%</td></tr>
-                        <tr><td>Víctimas</td><td>${pm.total_victims}</td><td>${m.total_victims}</td><td>${((m.total_victims-pm.total_victims)/pm.total_victims*100).toFixed(1)}%</td></tr>
-                        <tr><td>Fatales</td><td>${pm.total_fatal}</td><td>${m.total_fatal}</td><td>${((m.total_fatal-pm.total_fatal)/(pm.total_fatal||1)*100).toFixed(1)}%</td></tr>
+                        <tr><td>Accidentes</td><td>${pm.total_accidents}</td><td>${m.total_accidents}</td><td>${calcVariation(m.total_accidents, pm.total_accidents)}</td></tr>
+                        <tr><td>Incidentes</td><td>${pm.total_incidents || '—'}</td><td>${m.total_incidents || '—'}</td><td>${calcVariation(m.total_incidents || 0, pm.total_incidents || 0)}</td></tr>
+                        <tr><td>Fatales</td><td>${pm.total_fatal}</td><td>${m.total_fatal}</td><td>${calcVariation(m.total_fatal, pm.total_fatal)}</td></tr>
+                        <tr><td>Víctimas</td><td>${pm.total_victims}</td><td>${m.total_victims}</td><td>${calcVariation(m.total_victims, pm.total_victims)}</td></tr>
                     </tbody>
                 </table>`;
             }
         }
 
+        const materialDamage = m.total_material_damage_eur ? (m.total_material_damage_eur / 1000000).toFixed(1) + 'M€' : '—';
+
         detail.innerHTML = `
             <div class="memoria-detail">
-                <h3>${m.title}</h3>
-                <p>${m.summary}</p>
-                <div class="memoria-stats">
-                    <div class="memoria-stat"><div class="num">${m.total_accidents}</div><div class="lbl">Accidentes</div></div>
-                    <div class="memoria-stat"><div class="num">${m.total_incidents}</div><div class="lbl">Incidentes</div></div>
-                    <div class="memoria-stat"><div class="num">${m.total_fatal}</div><div class="lbl">Fatales</div></div>
-                    <div class="memoria-stat"><div class="num">${m.total_victims}</div><div class="lbl">Víctimas</div></div>
-                    <div class="memoria-stat"><div class="num">${(m.total_material_damage_eur/1000000).toFixed(1)}M€</div><div class="lbl">Daños materiales</div></div>
+                <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:0.5rem">
+                    <h3>${m.title || 'Memoria ' + year}</h3>
+                    <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="memoria-ciaf-btn">
+                        📄 Ver memoria original en CIAF →
+                    </a>
                 </div>
-                ${m.highlights ? `<p style="margin-top:1rem"><strong>Destacados:</strong> ${m.highlights}</p>` : ''}
+                <p>${m.summary || ''}</p>
+                <div class="memoria-stats">
+                    <div class="memoria-stat"><div class="num">${m.total_accidents || 0}</div><div class="lbl">Accidentes</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_incidents || 0}</div><div class="lbl">Incidentes</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_fatal || 0}</div><div class="lbl">Fatales</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_victims || 0}</div><div class="lbl">Víctimas</div></div>
+                    <div class="memoria-stat"><div class="num">${materialDamage}</div><div class="lbl">Daños materiales</div></div>
+                </div>
+                ${m.highlights ? `<p style="margin-top:1rem"><strong>Destacados:</strong> ${escapeHtml(m.highlights)}</p>` : ''}
                 ${comparisonHtml}
             </div>`;
     }
 
-    await showMemoria(2025);
+    if (availableYears.length > 0) {
+        await showMemoria(availableYears[0]);
+    }
 }
 
 // ===== NORMATIVA =====
@@ -687,28 +1260,51 @@ function renderNormativa() {
 
 // ===== SORT TABLE =====
 let sortCol = 'date', sortDir = -1;
-document.querySelectorAll('.reports-table th[data-sort]').forEach(th => {
-    th.addEventListener('click', () => {
-        const col = th.dataset.sort;
-        if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = -1; }
-        const sorted = [...filteredReports].sort((a, b) => {
-            let va = a[col], vb = b[col];
-            if (typeof va === 'number') return (va - vb) * sortDir;
-            return String(va || '').localeCompare(String(vb || '')) * sortDir;
-        });
-        const tbody = document.getElementById('reportsTableBody');
-        tbody.innerHTML = sorted.map(r => `
-            <tr>
-                <td>${r.id}</td><td>${r.date}</td>
-                <td><span class="badge badge-${r.type}">${r.type}</span></td>
-                <td><span class="badge badge-${r.severity.replace(' ','-')}">${r.severity}</span></td>
-                <td>${r.city}</td><td>${r.entity}</td><td>${r.cause}</td>
-                <td style="text-align:center">${r.victims}</td>
-            </tr>
-        `).join('');
+document.addEventListener('click', (e) => {
+    const th = e.target.closest('.reports-table th[data-sort]');
+    if (!th) return;
+    const col = th.dataset.sort;
+    if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = -1; }
+    const sorted = [...filteredReports].sort((a, b) => {
+        let va = a[col], vb = b[col];
+        if (typeof va === 'number') return (va - vb) * sortDir;
+        return String(va || '').localeCompare(String(vb || '')) * sortDir;
     });
+    const tbody = document.getElementById('reportsTableBody');
+    tbody.innerHTML = sorted.map(r => `
+        <tr onclick="showDetailPanel(${allReports.indexOf(r)})" title="Click para ver detalles">
+            <td>${r.expediente || r.id}</td>
+            <td>${r.date || '—'}</td>
+            <td><span class="badge badge-${r.type}">${r.type}</span></td>
+            <td><span class="badge badge-${(r.severity||'').replace(/ /g,'-')}">${r.severity || '—'}</span></td>
+            <td>${r.city || r.station || '—'}</td>
+            <td>${r.province || '—'}</td>
+            <td>${r.entity || '—'}</td>
+            <td style="text-align:center">${r.victims}</td>
+            <td style="text-align:center">${r.injured}</td>
+        </tr>
+    `).join('');
 });
 
+// ===== UTILITIES =====
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+}
+
+function truncateText(text, maxLen) {
+    if (!text) return '';
+    if (text.length <= maxLen) return escapeHtml(text);
+    return escapeHtml(text.substring(0, maxLen)) + '…';
+}
+
+// ===== KEYBOARD SHORTCUTS =====
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeDetailPanel();
+});
+
+// ===== START =====
 init();
 </script>
 </body>

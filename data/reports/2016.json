@@ -10,8 +10,8 @@
     "ubicacion": {
       "estacion": "ASCÓ",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.2167,
+      "lng": 0.5667
     },
     "trenes": [
       {
@@ -80,7 +80,7 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "RENFE",
       "Transfesa Rail"
     ],
@@ -200,7 +200,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "3d1df168a1b275125810a145b8bc3eee",
-    "fecha_parseo": "2026-06-26T11:53:53.221381"
+    "fecha_parseo": "2026-06-26T12:47:17.273838"
   },
   {
     "id": "2016-170331-160125-if-ciaf",
@@ -213,8 +213,8 @@
     "ubicacion": {
       "estacion": "ELX PARC",
       "provincia": "Alicante",
-      "lat": null,
-      "lng": null
+      "lat": 38.2667,
+      "lng": -0.6833
     },
     "trenes": [
       {
@@ -275,8 +275,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -365,7 +364,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "6b4c9d0cdebc66cd46f2da94278c2c5a",
-    "fecha_parseo": "2026-06-26T11:53:52.699080"
+    "fecha_parseo": "2026-06-26T12:47:16.750455"
   },
   {
     "id": "2016-170720160315ifciafsn",
@@ -444,9 +443,8 @@
       }
     ],
     "entidades": [
-      "RENFE",
-      "Renfe Viajeros",
-      "Renfe Viajeros colisionó"
+      "ADIF",
+      "Renfe Viajeros"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -524,7 +522,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "0ec62e53dfa92f278f6499d06ab15502",
-    "fecha_parseo": "2026-06-26T11:53:52.807377"
+    "fecha_parseo": "2026-06-26T12:47:16.859016"
   },
   {
     "id": "2016-170720160316ifciafsn",
@@ -537,8 +535,8 @@
     "ubicacion": {
       "estacion": "TORREJÓN DE ARDOZ",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.4556,
+      "lng": -3.4822
     },
     "trenes": [
       {
@@ -591,7 +589,8 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
+      "Acciona Rail Services",
       "Continental Rail"
     ],
     "gravedad": "fatal",
@@ -662,7 +661,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "fa432062aeabb17b4917a6e714d57287",
-    "fecha_parseo": "2026-06-26T11:53:52.943813"
+    "fecha_parseo": "2026-06-26T12:47:16.996366"
   },
   {
     "id": "2016-171017160417ifsnciaf",
@@ -675,8 +674,8 @@
     "ubicacion": {
       "estacion": "HERNANI",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 43.269,
+      "lng": -1.9745
     },
     "trenes": [
       {
@@ -733,10 +732,8 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Mercancías",
-      "Renfe Operadora",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -813,7 +810,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "6308ce23cdff9553aa8588e6223a110f",
-    "fecha_parseo": "2026-06-26T11:53:53.414759"
+    "fecha_parseo": "2026-06-26T12:47:17.460107"
   },
   {
     "id": "2016-180223160528ifsnciaf",
@@ -826,8 +823,8 @@
     "ubicacion": {
       "estacion": "VILANOVA I LA GELTRÚ",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.2193,
+      "lng": 1.7286
     },
     "trenes": [
       {
@@ -884,8 +881,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -986,7 +982,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "621bcbc068c00824377323fab952f98a",
-    "fecha_parseo": "2026-06-26T11:53:53.974506"
+    "fecha_parseo": "2026-06-26T12:47:17.891820"
   },
   {
     "id": "2016-171017160718ifsnciaf",
@@ -999,8 +995,8 @@
     "ubicacion": {
       "estacion": "BOÑAR",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 42.8667,
+      "lng": -5.3167
     },
     "trenes": [
       {
@@ -1029,9 +1025,8 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Operadora",
+      "ADIF",
+      "FEVE",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -1126,7 +1121,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "c9481b707868615baf4781dbfd119359",
-    "fecha_parseo": "2026-06-26T11:53:53.581995"
+    "fecha_parseo": "2026-06-26T12:47:17.626208"
   },
   {
     "id": "2016-190329-160909-if-ciaf",
@@ -1139,8 +1134,8 @@
     "ubicacion": {
       "estacion": "O PORRIÑO",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 42.1618,
+      "lng": -8.6353
     },
     "trenes": [
       {
@@ -1433,9 +1428,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Operadora",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -2257,7 +2250,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "c28a38d80bd426773c978b387c0e0a5a",
-    "fecha_parseo": "2026-06-26T11:53:58.120151"
+    "fecha_parseo": "2026-06-26T12:47:21.291363"
   },
   {
     "id": "2016-180525160930ifsn_ciaf",
@@ -2336,8 +2329,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Mercancías",
       "Renfe Viajeros"
     ],
@@ -2442,7 +2434,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "400faef09f8735328e2d36867e0c7234",
-    "fecha_parseo": "2026-06-26T11:53:54.428839"
+    "fecha_parseo": "2026-06-26T12:47:18.208021"
   },
   {
     "id": "2016-180322161104ifsn_ciaf",
@@ -2455,8 +2447,8 @@
     "ubicacion": {
       "estacion": "CHESTE",
       "provincia": "Valencia",
-      "lat": null,
-      "lng": null
+      "lat": 39.4944,
+      "lng": -0.6841
     },
     "trenes": [
       {
@@ -2521,9 +2513,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Operadora",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -2591,7 +2581,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "6d267af8edaa345bdfeea7522a967b89",
-    "fecha_parseo": "2026-06-26T11:53:54.151250"
+    "fecha_parseo": "2026-06-26T12:47:18.014427"
   },
   {
     "id": "2016-180718-161104-if-sn_ciaf",
@@ -2658,9 +2648,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Operadora",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -2816,6 +2804,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "eb3091ce806628e0791d9e9c0c34ec9f",
-    "fecha_parseo": "2026-06-26T11:53:55.225457"
+    "fecha_parseo": "2026-06-26T12:47:18.768150"
   }
 ]

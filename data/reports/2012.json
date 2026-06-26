@@ -10,8 +10,8 @@
     "ubicacion": {
       "estacion": "SAN CLAUDIO",
       "provincia": "Asturias",
-      "lat": null,
-      "lng": null
+      "lat": 43.35,
+      "lng": -5.7833
     },
     "trenes": [
       {
@@ -72,7 +72,7 @@
       }
     ],
     "entidades": [
-      "TRAM"
+      "FEVE"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -121,7 +121,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "f252358900b4929f2f61758fb6c1733f",
-    "fecha_parseo": "2026-06-26T11:53:36.546824"
+    "fecha_parseo": "2026-06-26T12:46:55.811639"
   },
   {
     "id": "2012-IF150112221012CIAF",
@@ -134,8 +134,8 @@
     "ubicacion": {
       "estacion": "TRUBIA",
       "provincia": "Asturias",
-      "lat": null,
-      "lng": null
+      "lat": 43.34,
+      "lng": -5.978
     },
     "trenes": [
       {
@@ -168,7 +168,7 @@
       }
     ],
     "entidades": [
-      "TRAM"
+      "FEVE"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -236,7 +236,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "2b669369124be553f029609c9acfa4f1",
-    "fecha_parseo": "2026-06-26T11:53:37.406552"
+    "fecha_parseo": "2026-06-26T12:46:56.701233"
   },
   {
     "id": "2012-IF190112271112CIAF",
@@ -249,8 +249,8 @@
     "ubicacion": {
       "estacion": "El Clot Aragó y Bif",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.409,
+      "lng": 2.1897
     },
     "trenes": [
       {
@@ -287,8 +287,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -345,7 +344,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "7eb3b0e4fe8f2541cbee4b4c649ff7ce",
-    "fecha_parseo": "2026-06-26T11:53:37.744791"
+    "fecha_parseo": "2026-06-26T12:46:57.122093"
   },
   {
     "id": "2012-IF090212271112CIAF",
@@ -358,8 +357,8 @@
     "ubicacion": {
       "estacion": "MATARÓ",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.5373,
+      "lng": 2.4474
     },
     "trenes": [
       {
@@ -400,8 +399,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -453,7 +451,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "3053132f8122eec4ee8bc1505efcd4c3",
-    "fecha_parseo": "2026-06-26T11:53:37.085739"
+    "fecha_parseo": "2026-06-26T12:46:56.371477"
   },
   {
     "id": "2012-IF120312260213CIAF",
@@ -466,8 +464,8 @@
     "ubicacion": {
       "estacion": "SOCUÉLLAMOS",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 39.2833,
+      "lng": -3.0
     },
     "trenes": [
       {
@@ -496,8 +494,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -563,7 +560,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "fd59e14ca4c4c2a7602ed83926a88f38",
-    "fecha_parseo": "2026-06-26T11:53:37.319798"
+    "fecha_parseo": "2026-06-26T12:46:56.609247"
   },
   {
     "id": "2012-IF180412261212CIAF",
@@ -576,8 +573,8 @@
     "ubicacion": {
       "estacion": "HERAS",
       "provincia": "Cantabria",
-      "lat": null,
-      "lng": null
+      "lat": 43.2333,
+      "lng": -2.8667
     },
     "trenes": [
       {
@@ -630,7 +627,7 @@
       }
     ],
     "entidades": [
-      "TRAM"
+      "FEVE"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -692,7 +689,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "3983408e6cb782ed403a00d31a298c5d",
-    "fecha_parseo": "2026-06-26T11:53:37.663037"
+    "fecha_parseo": "2026-06-26T12:46:57.006814"
   },
   {
     "id": "2012-IF260412290113CIAF",
@@ -705,8 +702,8 @@
     "ubicacion": {
       "estacion": "RÍO HUERVA",
       "provincia": "Zaragoza",
-      "lat": null,
-      "lng": null
+      "lat": 41.6333,
+      "lng": -0.9333
     },
     "trenes": [
       {
@@ -751,9 +748,8 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "Logitren",
-      "RENFE",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -812,7 +808,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "52ddb75194057504d21973c87d3b7a3f",
-    "fecha_parseo": "2026-06-26T11:53:38.055634"
+    "fecha_parseo": "2026-06-26T12:46:57.613017"
   },
   {
     "id": "2012-IF090512261212CIAF",
@@ -825,8 +821,8 @@
     "ubicacion": {
       "estacion": "ASTILLERO",
       "provincia": "Cantabria",
-      "lat": null,
-      "lng": null
+      "lat": 43.4,
+      "lng": -3.8167
     },
     "trenes": [
       {
@@ -879,7 +875,7 @@
       }
     ],
     "entidades": [
-      "TRAM"
+      "FEVE"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -934,7 +930,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "2240a4c36b844f7958b432950729f813",
-    "fecha_parseo": "2026-06-26T11:53:37.173703"
+    "fecha_parseo": "2026-06-26T12:46:56.462383"
   },
   {
     "id": "2012-IF110512290113CIAF",
@@ -947,8 +943,8 @@
     "ubicacion": {
       "estacion": "Xubia y el apeadero",
       "provincia": "Asturias",
-      "lat": null,
-      "lng": null
+      "lat": 43.48,
+      "lng": -8.234
     },
     "trenes": [
       {
@@ -977,7 +973,7 @@
       }
     ],
     "entidades": [
-      "TRAM"
+      "FEVE"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -1034,7 +1030,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "e3f7ab5018dc3937d422b6c0dfbdb653",
-    "fecha_parseo": "2026-06-26T11:53:37.233260"
+    "fecha_parseo": "2026-06-26T12:46:56.521822"
   },
   {
     "id": "2012-IF230512260213CIAF",
@@ -1047,8 +1043,8 @@
     "ubicacion": {
       "estacion": "TOCÓN - MONTEFRÍO",
       "provincia": "Granada",
-      "lat": null,
-      "lng": null
+      "lat": 37.25,
+      "lng": -3.6333
     },
     "trenes": [
       {
@@ -1081,8 +1077,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1213,7 +1208,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "b0311d3d4e6f86e061e84ea846561950",
-    "fecha_parseo": "2026-06-26T11:53:37.966298"
+    "fecha_parseo": "2026-06-26T12:46:57.446689"
   },
   {
     "id": "2012-IF010612280513CIAF",
@@ -1224,7 +1219,7 @@
     "hora_suceso": "14:32",
     "year": 2012,
     "ubicacion": {
-      "estacion": "Pradell descarrilan el segundo eje del",
+      "estacion": "Pradell descarrilan el segundo eje",
       "provincia": "Tarragona",
       "lat": null,
       "lng": null
@@ -1284,8 +1279,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1341,7 +1335,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "db7a99e7cd70360140be42b4a68ab082",
-    "fecha_parseo": "2026-06-26T11:53:36.668148"
+    "fecha_parseo": "2026-06-26T12:46:55.932160"
   },
   {
     "id": "2012-IF150612290413CIAF",
@@ -1354,8 +1348,8 @@
     "ubicacion": {
       "estacion": "ARÉVALO",
       "provincia": "Ávila",
-      "lat": null,
-      "lng": null
+      "lat": 41.0667,
+      "lng": -4.7167
     },
     "trenes": [
       {
@@ -1384,8 +1378,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1434,7 +1427,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "2439a8a0fe8c161e864fac1131a99d54",
-    "fecha_parseo": "2026-06-26T11:53:37.572970"
+    "fecha_parseo": "2026-06-26T12:46:56.915536"
   },
   {
     "id": "2012-IF210612260313CIAF",
@@ -1445,7 +1438,7 @@
     "hora_suceso": "08:51",
     "year": 2012,
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Cambiador de ancho de Plasencia de",
       "provincia": "Zaragoza",
       "lat": null,
       "lng": null
@@ -1473,8 +1466,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1524,7 +1516,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "266e45cf8c6ab1a94ecf5bff7bf2f58c",
-    "fecha_parseo": "2026-06-26T11:53:37.845562"
+    "fecha_parseo": "2026-06-26T12:46:57.254767"
   },
   {
     "id": "2012-IF010712280513CIAF",
@@ -1535,10 +1527,10 @@
     "hora_suceso": "09:42",
     "year": 2012,
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Cambiador de ancho de Zaragoza",
       "provincia": "Zaragoza",
-      "lat": null,
-      "lng": null
+      "lat": 41.6568,
+      "lng": -0.8812
     },
     "trenes": [
       {
@@ -1591,8 +1583,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1640,7 +1631,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "3401443ed72ae8f061868fe3fcd43c81",
-    "fecha_parseo": "2026-06-26T11:53:36.718223"
+    "fecha_parseo": "2026-06-26T12:46:55.980938"
   },
   {
     "id": "2012-IF190712280513CIAF",
@@ -1653,8 +1644,8 @@
     "ubicacion": {
       "estacion": "Montoro",
       "provincia": "Córdoba",
-      "lat": null,
-      "lng": null
+      "lat": 38.0167,
+      "lng": -4.3833
     },
     "trenes": [
       {
@@ -1771,8 +1762,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1824,7 +1814,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "3acfba26d51b56cbfaa7834e0785aaa8",
-    "fecha_parseo": "2026-06-26T11:53:37.797684"
+    "fecha_parseo": "2026-06-26T12:46:57.188138"
   },
   {
     "id": "2012-IF260712300713CIAF",
@@ -1837,8 +1827,8 @@
     "ubicacion": {
       "estacion": "ATOCHA-CERCANÍAS",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.4065,
+      "lng": -3.692
     },
     "trenes": [
       {
@@ -1895,8 +1885,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1957,7 +1946,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "adf69139fe82a6716a87fdc00551c064",
-    "fecha_parseo": "2026-06-26T11:53:38.125695"
+    "fecha_parseo": "2026-06-26T12:46:57.714709"
   },
   {
     "id": "2012-IF060912300713CIAF",
@@ -1970,8 +1959,8 @@
     "ubicacion": {
       "estacion": "Tardienta",
       "provincia": "Huesca",
-      "lat": null,
-      "lng": null
+      "lat": 42.0833,
+      "lng": -0.5333
     },
     "trenes": [
       {
@@ -2096,9 +2085,9 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Operadora"
+      "ADIF",
+      "Renfe Operadora",
+      "Transfesa Rail"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -2177,7 +2166,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "d29aa7497409989f0aacb1de744d2815",
-    "fecha_parseo": "2026-06-26T11:53:36.794908"
+    "fecha_parseo": "2026-06-26T12:46:56.063547"
   },
   {
     "id": "2012-IF081012250613CIAF",
@@ -2190,8 +2179,8 @@
     "ubicacion": {
       "estacion": "Francia",
       "provincia": "Huesca",
-      "lat": null,
-      "lng": null
+      "lat": 43.262,
+      "lng": -2.925
     },
     "trenes": [
       {
@@ -2240,8 +2229,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -2298,7 +2286,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "8ac562f6554bd784859f2fa19fab60b3",
-    "fecha_parseo": "2026-06-26T11:53:36.976740"
+    "fecha_parseo": "2026-06-26T12:46:56.252889"
   },
   {
     "id": "2012-IF291012290113CIAF",
@@ -2309,7 +2297,7 @@
     "hora_suceso": "09:52",
     "year": 2012,
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Paso a nivel clase",
       "provincia": "Ciudad Real",
       "lat": null,
       "lng": null
@@ -2337,8 +2325,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -2411,7 +2398,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "534b919459fa7188a0409b427486ed11",
-    "fecha_parseo": "2026-06-26T11:53:38.210555"
+    "fecha_parseo": "2026-06-26T12:46:57.902505"
   },
   {
     "id": "2012-IF061212170913CIAF",
@@ -2424,8 +2411,8 @@
     "ubicacion": {
       "estacion": "LAVIANA",
       "provincia": "Asturias",
-      "lat": null,
-      "lng": null
+      "lat": 43.25,
+      "lng": -5.5667
     },
     "trenes": [
       {
@@ -2446,8 +2433,8 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
+      "FEVE",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -2508,7 +2495,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "89ec9be7ed09525242a4a683072d8d8b",
-    "fecha_parseo": "2026-06-26T11:53:36.933562"
+    "fecha_parseo": "2026-06-26T12:46:56.200390"
   },
   {
     "id": "2012-IF211212250613CIAF",
@@ -2521,8 +2508,8 @@
     "ubicacion": {
       "estacion": "VALENCIA-FONT DE SANT LLUIS",
       "provincia": "Valencia",
-      "lat": null,
-      "lng": null
+      "lat": 39.453,
+      "lng": -0.352
     },
     "trenes": [
       {
@@ -2551,8 +2538,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -2599,7 +2585,7 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "c5a06934c876975a79006669ac852d1b",
-    "fecha_parseo": "2026-06-26T11:53:37.881833"
+    "fecha_parseo": "2026-06-26T12:46:57.313102"
   },
   {
     "id": "2012-IF241212300713CIAF",
@@ -2612,8 +2598,8 @@
     "ubicacion": {
       "estacion": "LEZAMA",
       "provincia": "Álava",
-      "lat": null,
-      "lng": null
+      "lat": 43.2667,
+      "lng": -2.8333
     },
     "trenes": [
       {
@@ -2638,10 +2624,10 @@
       }
     ],
     "entidades": [
+      "ADIF",
       "Activa Rail",
-      "Adif",
-      "RENFE",
-      "Renfe Operadora"
+      "Renfe Operadora",
+      "Transfesa Rail"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -2690,6 +2676,6 @@
     },
     "formato_normativo": "RD 810/2007",
     "hash_pdf": "d006370fc09efd99b2447e3c7ba2ab0b",
-    "fecha_parseo": "2026-06-26T11:53:38.017580"
+    "fecha_parseo": "2026-06-26T12:46:57.557090"
   }
 ]

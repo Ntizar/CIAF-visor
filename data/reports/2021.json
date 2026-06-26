@@ -72,10 +72,10 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
+      "Low Cost Rail",
       "Renfe Mercancías",
-      "Renfe Operadora"
+      "Transfesa Rail"
     ],
     "gravedad": "leve",
     "analisis": {
@@ -130,7 +130,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "d150373c7c0f4a3d0bf4adb42fd8f46e",
-    "fecha_parseo": "2026-06-26T11:54:06.308339"
+    "fecha_parseo": "2026-06-26T12:47:31.770923"
   },
   {
     "id": "2021-220429-210205-if-sn-en_ciafv2",
@@ -143,8 +143,8 @@
     "ubicacion": {
       "estacion": "Blanes",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.6778,
+      "lng": 2.792
     },
     "trenes": [
       {
@@ -225,8 +225,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -303,7 +302,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "52c24f5ce4b0b50962335e50794882fe",
-    "fecha_parseo": "2026-06-26T11:54:05.426154"
+    "fecha_parseo": "2026-06-26T12:47:30.494637"
   },
   {
     "id": "2021-220526-210129-if-sn-en_ciaf",
@@ -316,8 +315,8 @@
     "ubicacion": {
       "estacion": "La Pobla Llarga",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.3632,
+      "lng": 2.0083
     },
     "trenes": [
       {
@@ -386,8 +385,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -447,7 +445,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "0095cf7034e43e86c377028a0165ea75",
-    "fecha_parseo": "2026-06-26T11:54:06.025058"
+    "fecha_parseo": "2026-06-26T12:47:31.363657"
   },
   {
     "id": "2021-221220-210503-if_ciaf",
@@ -460,8 +458,8 @@
     "ubicacion": {
       "estacion": "León",
       "provincia": "León",
-      "lat": null,
-      "lng": null
+      "lat": 42.5981,
+      "lng": -5.5667
     },
     "trenes": [
       {
@@ -510,8 +508,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF AV",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -637,7 +634,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "13dd2ec5d524d93646910c303c04feec",
-    "fecha_parseo": "2026-06-26T11:54:06.859624"
+    "fecha_parseo": "2026-06-26T12:47:32.554298"
   },
   {
     "id": "2021-220429-210702-if_ciaf",
@@ -650,8 +647,8 @@
     "ubicacion": {
       "estacion": "Novelda-Aspe",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 38.3833,
+      "lng": -0.8167
     },
     "trenes": [
       {
@@ -752,8 +749,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -929,7 +925,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "037b04f92cc653e8b5d1168937764ba2",
-    "fecha_parseo": "2026-06-26T11:54:05.768311"
+    "fecha_parseo": "2026-06-26T12:47:30.999667"
   },
   {
     "id": "2021-220721-210906-if-sn_ciaf",
@@ -942,8 +938,8 @@
     "ubicacion": {
       "estacion": "Prat de Llobregat",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.3298,
+      "lng": 2.0889
     },
     "trenes": [
       {
@@ -1036,8 +1032,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -1106,6 +1101,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "732a5a0ea89633dc0eeb6d920c03d131",
-    "fecha_parseo": "2026-06-26T11:54:06.657983"
+    "fecha_parseo": "2026-06-26T12:47:32.267843"
   }
 ]

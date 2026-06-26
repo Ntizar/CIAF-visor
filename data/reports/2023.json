@@ -128,7 +128,7 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "RENFE",
       "Renfe Viajeros"
     ],
@@ -195,7 +195,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "c7f347c60955e503c96d397fa44dbde1",
-    "fecha_parseo": "2026-06-26T11:54:08.643984"
+    "fecha_parseo": "2026-06-26T12:47:34.574164"
   },
   {
     "id": "2023-2023-43-0518-if",
@@ -208,8 +208,8 @@
     "ubicacion": {
       "estacion": "Borges del Camp",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.1667,
+      "lng": 1.0167
     },
     "trenes": [
       {
@@ -222,8 +222,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Mercancías"
     ],
     "gravedad": "leve",
@@ -272,7 +271,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "3f5566525ebd8738fec409fbd040e583",
-    "fecha_parseo": "2026-06-26T11:54:08.885173"
+    "fecha_parseo": "2026-06-26T12:47:34.910411"
   },
   {
     "id": "2023-260128-231126-if_ciafv2",
@@ -285,8 +284,8 @@
     "ubicacion": {
       "estacion": "Atocha-Cercanías",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.4065,
+      "lng": -3.692
     },
     "trenes": [
       {
@@ -319,8 +318,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -403,6 +401,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "cd91fb7649fd34d40678f41b873dfc38",
-    "fecha_parseo": "2026-06-26T11:54:09.122156"
+    "fecha_parseo": "2026-06-26T12:47:35.254368"
   }
 ]

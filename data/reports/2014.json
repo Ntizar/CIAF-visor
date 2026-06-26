@@ -72,8 +72,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -185,7 +184,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "adff5895c35632715b31667f2ab84014",
-    "fecha_parseo": "2026-06-26T11:53:50.436849"
+    "fecha_parseo": "2026-06-26T12:47:13.253718"
   },
   {
     "id": "2014-150428140415IFCIAF",
@@ -260,7 +259,7 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "COMSA Rail Transport"
     ],
     "gravedad": "fatal",
@@ -327,7 +326,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "f7d89ea5b22c194165059e96ae96d6b6",
-    "fecha_parseo": "2026-06-26T11:53:48.777571"
+    "fecha_parseo": "2026-06-26T12:47:10.970443"
   },
   {
     "id": "2014-150324140702IFCIAF",
@@ -394,8 +393,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF AV",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -491,7 +489,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "32cef5fb1b447f185cab885e8e1c8575",
-    "fecha_parseo": "2026-06-26T11:53:48.695934"
+    "fecha_parseo": "2026-06-26T12:47:10.860051"
   },
   {
     "id": "2014-150428140710IFCIAF",
@@ -504,8 +502,8 @@
     "ubicacion": {
       "estacion": "Sant",
       "provincia": "Tarragona",
-      "lat": null,
-      "lng": null
+      "lat": 41.3725,
+      "lng": 2.1404
     },
     "trenes": [
       {
@@ -542,8 +540,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -620,7 +617,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "16388892185f094e342d691637b340ec",
-    "fecha_parseo": "2026-06-26T11:53:48.911256"
+    "fecha_parseo": "2026-06-26T12:47:11.126943"
   },
   {
     "id": "2014-150525140711IFCIAF",
@@ -633,8 +630,8 @@
     "ubicacion": {
       "estacion": "MATAESPESA DE ALPEDRETE",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.6167,
+      "lng": -4.0667
     },
     "trenes": [
       {
@@ -687,8 +684,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -769,7 +765,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "bb0029505affa91b9e61505759c27475",
-    "fecha_parseo": "2026-06-26T11:53:48.984944"
+    "fecha_parseo": "2026-06-26T12:47:11.202454"
   },
   {
     "id": "2014-150922140806IFCIAF",
@@ -804,9 +800,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Operadora",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -893,7 +887,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "5b390d6446a9c61857f04d9c84e05af4",
-    "fecha_parseo": "2026-06-26T11:53:49.355308"
+    "fecha_parseo": "2026-06-26T12:47:11.607857"
   },
   {
     "id": "2014-151022140811IFCIAF",
@@ -964,8 +958,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -1036,7 +1029,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "22214851d0356f2f66a2c56692ff1822",
-    "fecha_parseo": "2026-06-26T11:53:49.604924"
+    "fecha_parseo": "2026-06-26T12:47:11.968950"
   },
   {
     "id": "2014-150803140831IFCIAF",
@@ -1123,8 +1116,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1229,7 +1221,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "47534f8724641d502f42802f0ba6a4fe",
-    "fecha_parseo": "2026-06-26T11:53:49.168139"
+    "fecha_parseo": "2026-06-26T12:47:11.388013"
   },
   {
     "id": "2014-151124140902IFCIAF1",
@@ -1242,8 +1234,8 @@
     "ubicacion": {
       "estacion": "UNQUERA",
       "provincia": "Asturias",
-      "lat": null,
-      "lng": null
+      "lat": 43.3833,
+      "lng": -4.4167
     },
     "trenes": [
       {
@@ -1292,8 +1284,8 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
+      "FEVE",
       "Renfe Mercancías"
     ],
     "gravedad": "fatal",
@@ -1368,7 +1360,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "1b80ae9df3488e4ef14ba031e3506fc5",
-    "fecha_parseo": "2026-06-26T11:53:49.865140"
+    "fecha_parseo": "2026-06-26T12:47:12.317567"
   },
   {
     "id": "2014-150922140926IFCIAF",
@@ -1431,9 +1423,8 @@
       }
     ],
     "entidades": [
-      "Adif",
+      "ADIF",
       "Continental Rail",
-      "RENFE",
       "Renfe Operadora",
       "Transfesa Rail"
     ],
@@ -1522,7 +1513,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "8c1be24fabfedc1c97975591e8db9b63",
-    "fecha_parseo": "2026-06-26T11:53:49.471742"
+    "fecha_parseo": "2026-06-26T12:47:11.778843"
   },
   {
     "id": "2014-151022140926IFCIAF",
@@ -1557,8 +1548,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Operadora"
     ],
     "gravedad": "fatal",
@@ -1636,7 +1626,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "a6861a785bfb569f32c4ac4d4da9ec6b",
-    "fecha_parseo": "2026-06-26T11:53:49.793666"
+    "fecha_parseo": "2026-06-26T12:47:12.216781"
   },
   {
     "id": "2014-160628141011IFCIAF",
@@ -1649,8 +1639,8 @@
     "ubicacion": {
       "estacion": "Zorrotza",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 43.2833,
+      "lng": -2.95
     },
     "trenes": [
       {
@@ -1731,7 +1721,7 @@
       }
     ],
     "entidades": [
-      "TRAM",
+      "ADIF",
       "Tracción Rail"
     ],
     "gravedad": "fatal",
@@ -1806,7 +1796,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "3427aa35b7f78e0bd5ea47139d38d5e1",
-    "fecha_parseo": "2026-06-26T11:53:50.281142"
+    "fecha_parseo": "2026-06-26T12:47:12.963093"
   },
   {
     "id": "2014-151124141109IFCIAF",
@@ -1819,8 +1809,8 @@
     "ubicacion": {
       "estacion": "CALAÑAS",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 37.65,
+      "lng": -6.8833
     },
     "trenes": [
       {
@@ -1865,8 +1855,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -1950,7 +1939,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "81f7747cf256aea4af4a16dee6b7f8cb",
-    "fecha_parseo": "2026-06-26T11:53:49.978730"
+    "fecha_parseo": "2026-06-26T12:47:12.483860"
   },
   {
     "id": "2014-151124141118IFCIAF",
@@ -2017,8 +2006,8 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
+      "COMSA Rail Transport",
       "Renfe Operadora",
       "Transfesa Rail"
     ],
@@ -2111,6 +2100,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "832939071ce0511ab8b75096de41acdd",
-    "fecha_parseo": "2026-06-26T11:53:50.128117"
+    "fecha_parseo": "2026-06-26T12:47:12.714996"
   }
 ]

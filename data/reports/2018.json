@@ -10,8 +10,8 @@
     "ubicacion": {
       "estacion": "PEDRALBA",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 39.55,
+      "lng": -0.7167
     },
     "trenes": [
       {
@@ -40,8 +40,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "fatal",
@@ -178,7 +177,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "c023471d3db62934d572d717011aec0c",
-    "fecha_parseo": "2026-06-26T11:54:02.184451"
+    "fecha_parseo": "2026-06-26T12:47:25.602683"
   },
   {
     "id": "2018-200723-181120-if-sn_ciaf",
@@ -309,10 +308,9 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
-      "Renfe Operadora",
-      "Renfe Viajeros"
+      "ADIF",
+      "Renfe Viajeros",
+      "TRAM"
     ],
     "gravedad": "fatal",
     "analisis": {
@@ -432,6 +430,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "a18b8fd90c20025a5372d6fa5f1986d0",
-    "fecha_parseo": "2026-06-26T11:54:02.772363"
+    "fecha_parseo": "2026-06-26T12:47:26.429206"
   }
 ]

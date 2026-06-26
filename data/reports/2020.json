@@ -124,8 +124,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -196,7 +195,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "fd0ae6946d41561bf973d687de1afa7a",
-    "fecha_parseo": "2026-06-26T11:54:04.296678"
+    "fecha_parseo": "2026-06-26T12:47:28.786831"
   },
   {
     "id": "2020-210916-200304-if_sn_ciaf",
@@ -209,8 +208,8 @@
     "ubicacion": {
       "estacion": "Xeraco",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 39.0333,
+      "lng": -0.2167
     },
     "trenes": [
       {
@@ -251,8 +250,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -393,7 +391,7 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "a823ceb4efe9add26558c57367db19e0",
-    "fecha_parseo": "2026-06-26T11:54:04.588137"
+    "fecha_parseo": "2026-06-26T12:47:29.201991"
   },
   {
     "id": "2020-211125-200605-if-sn_ciaf",
@@ -406,8 +404,8 @@
     "ubicacion": {
       "estacion": "La Hiniesta",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 42.25,
+      "lng": -5.8333
     },
     "trenes": [
       {
@@ -472,8 +470,7 @@
       }
     ],
     "entidades": [
-      "Adif",
-      "RENFE",
+      "ADIF",
       "Renfe Viajeros"
     ],
     "gravedad": "leve",
@@ -1306,6 +1303,6 @@
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "92b46e22f7ba3db75f4372ad917b003a",
-    "fecha_parseo": "2026-06-26T11:54:04.891429"
+    "fecha_parseo": "2026-06-26T12:47:29.659583"
   }
 ]
