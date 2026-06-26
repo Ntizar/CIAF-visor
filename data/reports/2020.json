@@ -15,111 +15,23 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
+        "id_tren": "04171",
+        "tipo": "maniobras",
         "descripcion": ""
       },
       {
-        "id_tren": "accidentado",
+        "id_tren": "97753",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "apenas",
+        "id_tren": "00664",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "las",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "cuenta",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "implicado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "al",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "ASFA",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "ante",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "parado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "puede",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "ha",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "inició",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "descarrilado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "por",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "había",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "llegó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "emprendió",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "trasladaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "en",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "aseguró",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "presentes",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "requiere",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "llevaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "ya",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "entrase",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "que",
+        "id_tren": "4409",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -129,24 +41,36 @@
     ],
     "gravedad": "leve",
     "analisis": {
-      "resumen": "pautas de \nactuación.",
+      "resumen": "isposición incompleta de la punta de la aguja a posición desviada, en la zona del primer \nmotor del cambio. \n2. Inspección errónea del desvío nº4 por parte de la brigada de desvíos que asumió que \nestaba dispuesto a vía desviada. Y, en consecuencia, emisión de telefonema de entrega de \nvía con indicación (errónea) de que el desvío nº4 estaba dispuesto a vía desviada. \nRecomendación 04/2020-1. \nFactores contribuyentes \n1. Ausencia de una comunicación reglada entre el Oficial 1ª y el PSH que asegurase la correcta \nentrega del desvío nº4 a posición desviada. Recomendación 04/2020-2. \n2. Escasa experiencia en materia de desvíos entre los miembros de la brigada de desvíos. \nRecomendación 04/2020-2. \n3. Descoordinación de la brigada de desvíos con la brigada de señalización. Recomendación \n04/2020-3. \n4. Limitaciones a la hora de disponer de personal con la experiencia exigida en los pliegos y/o \nrequerida para los trabajos en el momento del accidente. Recomendación 04/2020-3.",
       "factores_humanos": "4.4 MECANISMOS DE RETROALIMENTACIÓN Y DE CONTROL ............................................................ 66",
       "infraestructura": "o 2020 \nEsta Instrucción Técnica tiene como objeto la definición de las responsabilidades, el \nprocedimiento de medición y las referencias normativas que deben considerarse para la \ninspección y vigilancia de los aparatos de vía para todas las líneas de la Red Ferroviaria de \nInterés General (RFIG), no siendo objeto de esta instrucción técnica la auscultación \nultrasónica de aparatos. \n\n73 \n\n6 \nRECOMENDACIONES DE SEGURIDAD \nDestinatario Implementador \nfinal \nNúmero \nRecomendación \nAESF \nADIF y ADIF-AV \n04/2020-1 \nFormalizar protocolos de verificación de agujas, según sus \ncaracterísticas, que determinen otras comprobaciones además de las \nvisuales y acústicas, para garantizar el acoplamiento y encerrojamiento \nde las mismas en caso de operaciones de reparación y ajuste, antes \nde permitir la circulación sobre ellas. \nAESF \nADIF y ADIF-AV \n04/2020-2 \nAsegurar la idoneidad de los participantes en los trabajos correctivos \nde reparación urgente en base a su capacitación, experiencia y, en"
     },
     "conclusiones": "asta la \nsalida de Bifurcación Cerrato. Al no reconocer la baliza de limitación de velocidad en el \ntiempo oportuno, fue frenado de emergencia por el sistema ASFA Digital a una velocidad de \n9 km/h; estuvo detenido unos segundos frente a la punta de la aguja y reanudó la marcha \npasando por la aguja, produciéndose el descarrilamiento unos segundos después. \n\n\nEl análisis de los hechos y sus factores se visualiza con el siguiente esquema: \n\n51 \n\n4.1 \nCOMETIDOS Y DEBERES \nEl Contrato de los Servicios de Mantenimiento de la Infraestructura, Vía y Aparatos de Vía \nde la LAV Madrid-Norte. Documentos que lo integran. \nCon la firma de este contrato, de acuerdo con la cláusula segunda del mismo, el adjudicatario se \ncomprometió a realizar por su cuenta y riesgo el objeto del mismo con estricta sujeción al Pliego de \nCláusulas Administrativas Particulares (PCAP) y al Pliego de Prescripciones Técnicas (PPT). También \nse obligaba al adjudicatario a cumplir con cualesquiera otros documentos que sirviesen al contrato y \ncon sujeción a las ofertas técnica y económica presentadas por el mismo. \nEl contrato obliga al contratista a la realización del objeto del mismo ajustándose a las prescripciones \ntécnicas y cláusulas administrativas de los pliegos (PCAP y PPT) y su documentación integradora, no \npudiendo el adjudicatario introducir modificación alguna sin autorización previa y por escrito de ADIF. \nEl PPT alude a una serie de documentación técnica de ADIF-AV perteneciente a la documentación de \nsu Sistema de Gestión de Seguridad y es la siguiente: \n \nInstrucción Técnica ADIF-IT-301-001-001-SC-522 Gestión del Mantenimiento en Líneas de \nAlta Velocidad (versión 7/febrero-2019): se menciona en el apartado 4.9.2 en lo referente a \nla elaboración de la propuesta del programa de mantenimiento anual \n \nInstrucción Técnica ADIF-IT-301-001-VIA-10-SC Tratamiento de la información de \nauscultaciones de vía en AV (versión 0/mayo 2015): se menciona en el apartado 3.1.2 para la \nrealización",
     "recomendaciones": [
       {
-        "numero": "",
-        "implementador": "",
+        "numero": "04/2020-1",
+        "implementador": "ADIF",
         "destinatarios": "",
-        "texto": "Responsable Técnico cuando intervenga en la realización de trabajos regulados por el \nReglamento de Circulación” \nEl objeto de la Instrucción es, según indica, gestionar la presencia del Responsable Técnico, \nasí como coordinar y asegurar la comunicación entre este y el Agente Habilitado para \nconcertar trabajos cuando no sean la misma persona, atendiendo los requerimientos del RCF, \nNAR 9/18, así como recomendaciones de la AESF y la CIAF, no cubiertos en los procedimientos \no instrucciones vigentes en el momento del accidente."
+        "texto": "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas. AESF ADIF y ADIF-AV"
+      },
+      {
+        "numero": "04/2020-2",
+        "implementador": "ADIF",
+        "destinatarios": "",
+        "texto": "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación. AESF ADIF y ADIF-AV"
+      },
+      {
+        "numero": "04/2020-3",
+        "implementador": "ADIF",
+        "destinatarios": "",
+        "texto": "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF. LA INVESTIGACIÓN Y SU CONTEXTO 2.1 DECISIÓN Y MOTIVO El Real Decreto 623/2014, de 18 de julio, regula la investigación de los accidentes e incidentes ferroviarios en la RFIG, asignando dicha función, en su artículo 5, a la Accidentes Ferroviarios (CIAF). De conformidad con los artículos 9 y 14 del Real Decreto 623/2014 y en base a lo establecido en el artículo 7 b), que establece que la CIAF podrá investigar los accidentes y los incidentes que, en condiciones ligeramente distintas, pudieran haber provocado accidentes"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "No hubo fallecidos, ni heridos graves, ni leves como consecuencia de este accidente. \nEn la Infraestructura los daños se concretaron en el desvío nº4 y, según los datos aportados por ADIF, \nse tuvieron que hacer tareas de reparación y sustitución de elementos. \n\n11 \n\nEn cuanto al Material Rodante, tras el incidente, se trasladó la unidad al taller de Fuencarral, donde \nse revisó el alcance de los daños sufridos y se procedió a realizar las reparaciones oportunas. De \nacuerdo con los datos aporta"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -191,11 +115,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2020/210520-200124-if-ciaf.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/210520-200124-if-ciaf.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "fd0ae6946d41561bf973d687de1afa7a",
-    "fecha_parseo": "2026-06-26T12:47:28.786831"
+    "fecha_parseo": "2026-06-26T13:18:51.552607"
   },
   {
     "id": "2020-210916-200304-if_sn_ciaf",
@@ -213,39 +137,23 @@
     },
     "trenes": [
       {
-        "id_tren": "con",
+        "id_tren": "24272",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "en",
+        "id_tren": "24294",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "se",
+        "id_tren": "24279",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "Los",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "que",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "anterior",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "avanza",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "es",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "sin",
+        "id_tren": "24277",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -255,7 +163,7 @@
     ],
     "gravedad": "leve",
     "analisis": {
-      "resumen": "The incident occurred on 4th of March of 2020, in the stations of Xeraco and Tavernes (Valencia), and \nthe line between them (single track line). In the beginning, train #24272 was placed at the track #1 of \nXeraco station (Valencia)†. Then, with the route blocked from Xeraco to Tavernes, the dispatcher at \nthe Control Centre ordered an exit itinerary for this train, bound to Tavernes. In order to set this \nitinerary, the switch A1 was ordered to move from diverted position to direct position, but there was \na malfunction and the switch didn’t verify its position. The driver of the train #24272 visually verified \nthat the switch remained in diverted position (to track #2). So, the dispatcher blocked the switch in \ndiverted position (to track #2) and executed several orders and actions in order to place the train in \ntrack #2 and dispatch it to Tavernes. Meanwhile, another train, #24294, gets to the Xeraco entry \nsignal E2. \nTrain #24272 departed from track #2 of Xeraco with authorization to pass exit signal S2/2 and order \nto verify the position of switch A1, and it circulated from Xeraco to Tavernes. Meanwhile, in track #2 \nof Tavernes there was a parked train, #24279; and train #24294 (that follows #24272) stops in the \ntrack #2 of Xeraco. The dispatcher needed to authorize manually the departure of trains from Xeraco \nto Tavernes, because of the malfunction of switch A1. So, he disabled the automatic dispatching \nsystem (“Routes and Priorities Managing” system, “GRP” in Spanish acronym). The dispatcher \ndisabled the GRP system for Xeraco and Gandía Mercancías stations, but not for Tavernes. \nMeanwhile, train #24272 releases the last track circuit of the route and stops in the track #1 of \nTavernes. Because of this, the blocking of the route Xeraco-Tavernes is automatically released, and \nthe GRP system of Tavernes (that has not been disabled) automatically blocks the route from \nTavernes to Xeraco and dispatches train #24279 from track #2, bound to Xeraco. Simult",
+      "resumen": "El personal involucrado, tanto de conducción como del CTC, cumple la normativa vigente en cuanto título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico. Los sistemas de control, mando y señalización funcionaron correctamente conforme a su diseño. El material rodante funcionó de modo correcto. La infraestructura funcionó correctamente conforme a lo previsto para garantizar la seguridad, existiendo únicamente una pérdida de comprobación en el cambio A1 de la estación de Xeraco, debida al deficiente estado del embrague del motor de accionamiento. Las comunicaciones funcionaron de forma correcta. Cuando el tren 24294 se estaciona en la vía 2 de la estación de Xeraco, por la existencia de una avería en el desvío A1 de la estación, el RC del CTC desactiva los automatismos (GRP) de Xeraco y de Gandía Mercancías, pero no lo hace en Tavernes. Al no desactivar el GRP de Tavernes, este sistema continúa ordenando el establecimiento del bloqueo y el itinerario de salida con la apertura de la señal correspondiente para el tren 24279, estacionado en vía 2, ajeno a la autorización de rebase que el RC del CTC estaba transmitiendo al maquinista del tren 24294. Al expedir el tren 24294 con autorización de rebase, cuando el GRP ha tomado el bloqueo de Tavernes a Xeraco, el RC del CTC incumple el artículo 4.2.1.2 del Reglamento de Circulación Ferroviaria. Además, al no desactivar el GRP de Tavernes, el RC del CTC incumple la consigna del GRP AOI 28/17, que indica que en caso de incidencias o averías el GRP debe ser desconectado “en las estaciones o trenes afectados”. No obstante, puede considerarse que la consigna no es precisa al referirse a “estaciones afectadas” (Xeraco) pero no a las colaterales (una de ellas Tavernes). Por otra parte, el RC reconoce en su declaración que confiaba en que con la circulación del tren 24272 se mantendría el bloqueo entre Xeraco y Tavernes. El tren 24279 se encontró las balizas de la señal 389 en vía libre y las de la señal 403 en anun",
       "factores_humanos": "4.3.1 Características humanas e individuales ................................................................................................ 37",
       "infraestructura": "ona en Xeraco \n(vía 2) \nDe la declaración del Responsable de Circulación: \nCuando el maquinista del tren 24272 pasa por el desvío 1 (en posición desviada) saliendo de vía \n2, informa al RC de que la aguja estaba en posición correcta, pero no ha visto el espadín \ntotalmente acoplado. El regulador le indica al RC que se pase también el tren 24294 por la vía 2 \nde Xeraco y que el 24279 espere en Tavernes. El RC hace entrar el tren 24294 en la vía 2 de \nXeraco. \nDe la declaración del maquinista del tren 24294: \nA las 22:09 horas aproximadamente (que corresponderían a las 22:12 del videográfico) se \nestaciona en Xeraco (vía 2), momento en el cual verifica que la radiotelefonía se podía usar, al \nestar libre el canal 66. \nImagen del registro videográfico del CTC: \nA las 22:13:06 horas, el tren 24272, tras su salida de la estación de Xeraco, se aproxima a la señal \nde entrada E2 de la estación de Tavernes, mientras el tren 24279 sigue ocupando el CV2 de la \nvía 2 de Tavernes. En la vía 2 de l\n\nco \nImagen del registro videográfico del CTC: \nA las 22:15:10 horas el tren 24294 rebasa la señal de salida S2/2 (autorizado por el RC) y ocupa \nel CV del cambio A1 de la estación Xeraco. El bloqueo está establecido de Tavernes a Xeraco. El \ntren 24279 sigue ante de la señal de salida S1/2 (en vía libre) de la estación de Tavernes. \n\nDe la declaración del maquinista del tren 24294: \nTras haber recibido la autorización del RC, inicia la marcha desde la vía 2, reconoce y rebasa el \ncambio A1, e informa al RC del CTC que el cambio se encontraba en la posición correcta \n(invertida). \nDe la declaración del Responsable de Circulación: \nEl maquinista del tren 24294 le informa de que ha visto el espadín del desvío A1 bien acoplado."
     },
@@ -263,40 +171,40 @@
     "recomendaciones": [
       {
         "numero": "19/20-1",
-        "implementador": "RECOMENDACIONES DE SEGURIDAD \nDestinatario Implementa\ndor final \nNúmero \nRecomendación \nAESF \nAdif",
+        "implementador": "Adif",
         "destinatarios": "",
-        "texto": "En los procesos de formación incidir en que funcionando el BAU, debe \nasegurarse previamente el bloqueo automático del trayecto por el RC en \ntodos los casos en que expida un tren con autorización de rebase de la \nseñal de salida. \nAESF"
+        "texto": "En los procesos de formación incidir en que funcionando el BAU, debe asegurarse previamente el bloqueo automático del trayecto por el RC en todos los casos en que expida un tren con autorización de rebase de la señal de salida. AESF Adif"
       },
       {
         "numero": "19/20-2",
         "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Analizar posibles restricciones técnicas al GRP en el establecimiento del \nbloqueo expedidor cuando en la estación colateral receptora existan \nanormalidades en las instalaciones de seguridad. \nAESF"
+        "texto": "Analizar posibles restricciones técnicas al GRP en el establecimiento del bloqueo expedidor cuando en la estación colateral receptora existan anormalidades en las instalaciones de seguridad. AESF Adif"
       },
       {
         "numero": "19/20-3",
         "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Hacer constar expresamente en la consigna reguladora del GRP e instruir \na los RC de los CTC sobre lo siguiente: cuando por anormalidad en las \ninstalaciones haya que autorizar el rebase de una señal de salida a \nefectos de expedir los trenes, se procederá previamente a desconectar el \nautomatismo del GRP tanto en la estación expedidora afectada por la \nanormalidad como en su colateral receptora. \nAESF"
+        "texto": "Hacer constar expresamente en la consigna reguladora del GRP e instruir a los RC de los CTC sobre lo siguiente: cuando por anormalidad en las instalaciones haya que autorizar el rebase de una señal de salida a efectos de expedir los trenes, se procederá previamente a desconectar el automatismo del GRP tanto en la estación expedidora afectada por la anormalidad como en su colateral receptora. AESF Adif"
       },
       {
         "numero": "19/20-4",
         "implementador": "Adif",
         "destinatarios": "",
-        "texto": "En los procesos de formación a los RC de los CTC y las estaciones \nincidir en la necesidad de que la actuación en caso de riesgo inminente \npara la circulación ha de ser inmediata y utilizando para ello los medios \nexistentes en las instalaciones (cierre de señales en estaciones y \nbloqueos, radiotelefonía de emergencia e incluso corte de tensión) para \ngarantizar la detención inmediata de las circulaciones afectadas. \nAESF"
+        "texto": "En los procesos de formación a los RC de los CTC y de las estaciones incidir en la necesidad de que la actuación en caso de riesgo inminente para la circulación ha de ser inmediata y utilizando para ello los medios existentes en las instalaciones (cierre de señales en estaciones y bloqueos, radiotelefonía de emergencia e incluso corte de tensión) para garantizar la detención inmediata de las circulaciones afectadas. AESF Adif"
       },
       {
         "numero": "19/20-5",
         "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Normalizar, respecto a la detección de escapes de material, la Consigna \nSerie A 3115 (apartado 5.14 del manual de operación, versión 2, de fecha \n24-02-2017) de la estación de Xeraco. Asimismo, normalizar en el CTC \nlas comprobaciones que visualizan el efecto de escape de material \nproducido en la estación de Xeraco. Todo ello de acuerdo con lo \nestablecido en la NAS 806. \nAplicar, si procede, las mismas modificaciones en las consignas de las \ndependencias de la línea que presenten las mismas c"
+        "texto": "Normalizar, respecto a la detección de escapes de material, la Consigna Serie A 3115 (apartado 5.14 del manual de operación, versión 2, de fecha 24-02-2017) de la estación de Xeraco. Asimismo, normalizar en el CTC las comprobaciones que visualizan el efecto de escape de material producido en la estación de Xeraco. Todo ello de acuerdo con lo establecido en la NAS 806. Aplicar, si procede, las mismas modificaciones en las consignas de las dependencias de la línea que presenten las mismas circunstancias. 2 LA INVESTIGACIÓN Y SU CONTEXTO 2.1 DECISIÓN Y MOTIVO El pleno de la marzo de 2020, acordó la elaboración de un examen preliminar (EP) del suceso con objeto de decidir sobre la posible investigación posterior del mismo. El examen preliminar fue presentado al pleno de la CIAF en su sesión nº"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "3.1.3 Interceptación de la vía ........................................................................................................................ 14"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -387,11 +295,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2020/210916-200304-if_sn_ciaf.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/210916-200304-if_sn_ciaf.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "a823ceb4efe9add26558c57367db19e0",
-    "fecha_parseo": "2026-06-26T12:47:29.201991"
+    "fecha_parseo": "2026-06-26T13:18:51.838057"
   },
   {
     "id": "2020-211125-200605-if-sn_ciaf",
@@ -409,63 +317,8 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "accidentado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "Renfe",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "era",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "ASFA",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "iba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "pasó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "chocó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "por",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "desde",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "hasta",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "taller",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "articulado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "estaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "salía",
+        "id_tren": "11553",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -475,24 +328,54 @@
     ],
     "gravedad": "leve",
     "analisis": {
-      "resumen": "Sobre las 14:50 horas del día 2 de junio de 2020, un vehículo particular sufrió un accidente de tráfico\nen la carretera provincial de Zamora ZA-P-1405, en el tramo de La Hiniesta-Andavías en el paso\nsuperior sobre la estación de La Hiniesta, precipitándose a la caja de la vía.\nA las 16:10 horas, el tren de Renfe Viajeros LD Alvia 11553, destino Madrid-Chamartín, tras pasar bajo\nel paso superior arrolló al vehículo accidentado en el p.k. 10+251. Como consecuencia de la colisión\ncon el vehículo, la cabeza motriz de la composición descarriló y se desprendió del resto de la misma,\nvolcando y chocando contra las vías de la base de mantenimiento y de construcción de la LAV, una\ntopera de final de vía y contra un grupo de traviesas apiladas.\nComo resultado de ambos accidentes, fallecieron el conductor del vehículo accidentado, así como el\nmaquinista que realizaba tareas de conducción, que se encontraba en formación para la obtención\nde la habilitación de la Serie 730; el maquinista titular, que realizaba tareas de supervisión de la\nconducción del maquinista que se encontraba a los mandos, resultó herido grave; entre los viajeros,\nhubo 6 heridos leves. También se produjeron importantes daños materiales en la infraestructura y\nen el material rodante.\nLa estación de la Hiniesta pertenece a línea 822 Zamora – A Coruña de la Red Ferroviaria de Interés\nGeneral. Se ubica en el municipio de La Hiniesta, provincia de Zamora (Castilla y León).\nConclusión: la causa fue un accidente de carretera con el resultado de la precipitación del vehículo\ndesde el paso superior a la caja de la vía, invadiendo el gálibo de libre paso del tren. Se han\nconsiderado como factores contributivos el deficiente mantenimiento del sistema de contención de\nvehículos del paso superior, la posición del vehículo tras su caída y su propia estructura y el no\ndisponer de detector de caída de objetos en el paso superior. La existencia de un desvío a la base de\nmantenimiento y el impacto de la cabeza motriz contra ",
+      "resumen": null,
       "factores_humanos": "4.4 MECANISMOS DE RETROALIMENTACIÓN Y CONTROL ..................................................................45",
       "infraestructura": "eza motriz\ntrasera de la rama 730023 (rama primera).\nEntre las 13:40 y las 20:40 horas del día 5 de junio se completa la retirada de la vía de los diferentes\ncoches que es encontraban aún sobre la misma, quedando, de esta manera, la vía libre de vehículos\ny preparada para las reparaciones de los daños sufridos por el descarrilamiento.\nA las 20:36 horas del día 5 de junio sale el tren taller de La Hiniesta con dirección a Zamora.\nA las 12:57 horas del día 8 de junio se concede entrega de vía bloqueada (EVB) entre Bifurcación\nValorio y Carbajales de Alba, para realizar los trabajos de reparación de infraestructura dañada.\nPlan de emergencia externo\nAl lugar del accidente, una vez activado el Plan de Contingencias y avisados los diferentes servicios\nde emergencia, se desplazan dotaciones de personal sanitario, Bomberos y Policía Municipal de\nZamora y Guardia Civil.\nSe procedió a dar atención a los heridos y a asegurar la zona del accidente. Posteriormente se\nprocedió a evacuar a los herid"
     },
     "conclusiones": "eza motriz\ntrasera de la rama 730023 (rama primera).\nEntre las 13:40 y las 20:40 horas del día 5 de junio se completa la retirada de la vía de los diferentes\ncoches que es encontraban aún sobre la misma, quedando, de esta manera, la vía libre de vehículos\ny preparada para las reparaciones de los daños sufridos por el descarrilamiento.\nA las 20:36 horas del día 5 de junio sale el tren taller de La Hiniesta con dirección a Zamora.\nA las 12:57 horas del día 8 de junio se concede entrega de vía bloqueada (EVB) entre Bifurcación\nValorio y Carbajales de Alba, para realizar los trabajos de reparación de infraestructura dañada.\nPlan de emergencia externo\nAl lugar del accidente, una vez activado el Plan de Contingencias y avisados los diferentes servicios\nde emergencia, se desplazan dotaciones de personal sanitario, Bomberos y Policía Municipal de\nZamora y Guardia Civil.\nSe procedió a dar atención a los heridos y a asegurar la zona del accidente. Posteriormente se\nprocedió a evacuar a los heridos.\n\n39\n4\nANÁLISIS DEL SUCESO\n4.1\nCOMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO\nDiputación de Zamora\nLa Diputación de Zamora es la titular de la carretera ZA-P-1405 y por tanto del paso superior ubicado\nsobre la línea ferroviaria. Así pues, es la responsable de la instalación y de la conservación del sistema\nde contención de vehículos (SCV) instalado en el paso superior. Según la Diputación de Zamora, la\nfecha de instalación del SCV es de 1990.\nEn referencia al SCV, en base a lo observado en campo por los técnicos de la CIAF, se observa fallo en\nel anclaje del mismo sobre el tablero del paso superior.\nImagen 31 Se aprecia el fallo de la cimentación del SCV sobre el tablero.\n\n40\nLa solución adoptada como cimentación está formada por uno o dos vástagos de aproximadamente\n20 cm, introducido en la zona exterior del tablero, a ras del mismo, no existiendo una armadura de\nacompañamiento que sirviera de unión con el resto del tablero; resuelto en superficie con una placa\nmetálica de aproxima",
     "recomendaciones": [
       {
-        "numero": "",
-        "implementador": "",
+        "numero": "34/2020-1",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "ción de las\ninspecciones principales de pasos superiores y su posterior procesamiento y cálculo de indicadores.\nTambién de definen los parámetros adecuados para la valoración del riesgo de colisión entre el tren\ny un obstáculo caído. No obstante, esta norma no contempla la inspección de los SCV en pasos\nsuperiores propiedad de terceros, al considerarlos como elementos no estructurales.\nEn julio de 2021, ADIF ha publicado la NORMA ADIF PLATAFORMA “NAP 2-5-0.4 INVENTARIO DE\nPASOS SUPERIORES SOBRE FERROCARRIL”. En dicha norma se define la metodología para recoger la\nestructura de los datos y definir y codificar todos los posibles elementos de un paso superior que se\nincluirán en los sistemas informáticos para la gestión de los activos de Adif. Dicha estructura de los\ndatos del paso superior incluye la clasificación del sistema de contención en una serie de categorías\ny la capacidad aparente del mismo. Sin embargo, aunque la norma se aplica a todos los pasos\nsuperiores sobre líneas ferroviarias administradas por Adif, no se inventariarán los SCV de los pasos\nsuperiores propiedad de terceros que tengan incidencia sobre la seguridad ferroviaria.\nEl 22 de junio de 2020 se implantó por “descarrilamiento” una limitación temporal de velocidad\nmáxima LTVM (CSV) a 30 km/h del PK 9.900 al 10.400 de la línea 822 Bif. Valorio - A Coruña. A partir\ndel 21 de diciembre de 2020, tras los trabajos de soldadura y neutralización de vía, la LTVM pasó a\nser de 60 km/h (CSV) siendo el motivo de la misma el “estado del paso superior” (sin reparar el SCV\nafectado y con un solo carril de circulación por la carretera). A día de la fecha de aprobación de este\ninforme sigue vigente.\n\n49\nLa Diputación de Zamora inició un proceso de licitación en agosto de 2021 para contratar la redacción\ndel proyecto constructivo \"variante sobre el FFCC en el PK 7 + 750 de la carretera ZA-P-1405. TM La\nHiniesta\" . Se contempla que la intención es la redacción de un proyecto constructivo de una variante\nde la carre"
+        "texto": "Promover el desarrollo de los oportunos instrumentos jurídicos para que los titulares de los pasos superiores sobre el ferrocarril lleven a cabo una vigilancia y mantenimiento eficaces de los mismos. AESF AD"
+      },
+      {
+        "numero": "IF\n34/2020-2",
+        "implementador": "AESF",
+        "destinatarios": "",
+        "texto": "Desarrollar la oportuna normativa para que los administradores de infraestructura ferroviaria vigilen el estado de todos los pasos superiores que se ubican sobre las líneas que administran, incluyendo los sistemas de contención de vehículos, e informen de los resultados obtenidos a las diferentes administraciones titulares de los viales para que éstas actúen en consecuencia. AESF AD"
+      },
+      {
+        "numero": "IF\n34/2020-3",
+        "implementador": "AESF",
+        "destinatarios": "",
+        "texto": "Estudiar la posible instalación de detectores de caída de objetos en aquellos pasos superiores sobre la red convencional no contemplados en el artículo 63.4 del Reglamento de Seguridad Operacional e Interoperabilidad Ferroviarias y que por sus características presenten un especial peligro potencial. DIPUTACIÓN DE ZAMORA AESF DIPUTACIÓN DE ZAMORA"
+      },
+      {
+        "numero": "34/2020-4",
+        "implementador": "AESF",
+        "destinatarios": "",
+        "texto": "Mejorar el sistema de contención de vehículos del paso superior de la carretera ZA-P-1405 sobre la línea 822 Zamora-A Coruña. DIPUTACIÓN DE ZAMORA AESF DIPUTACIÓN DE ZAMORA"
+      },
+      {
+        "numero": "34/2020-5",
+        "implementador": "AESF",
+        "destinatarios": "",
+        "texto": "Revisar el estado del resto de pasos superiores, similares al de La Hiniesta, sobre las líneas 820 y 822 (Toro a Lubián), titularidad de la Diputación de Zamora y la operativa de su mantenimiento (en especial los sistemas de contención de vehículos), adoptando, en su caso, las medidas oportunas. MITMA AESF MITMA"
+      },
+      {
+        "numero": "34/2020-6",
+        "implementador": "AESF",
+        "destinatarios": "",
+        "texto": "Proponer a las administraciones y entidades responsables la necesidad de promover las acciones legislativas que permitan eliminar las incertidumbres existentes en la legislación sobre la consideración de los pasos superiores como parte de la infraestructura ferroviaria o su relación con ella. Madrid, 25 de noviembre de 2021"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 6,
       "total_victimas": 6,
-      "danos_materiales": "en el material rodante.\nLa estación de la Hiniesta pertenece a línea 822 Zamora – A Coruña de la Red Ferroviaria de Interés\nGeneral. Se ubica en el municipio de La Hiniesta, provincia de Zamora (Castilla y León).\nConclusión: la causa fue un accidente de carretera con el resultado de la precipitación del vehículo\ndesde el paso superior a la caja de la vía, invadiendo el gálibo de libre paso del tren. Se han\nconsiderado como factores contributivos el deficiente mantenimiento del sistema de contenc"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1299,10 +1182,10 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2020/211125-200605-if-sn_ciaf.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/211125-200605-if-sn_ciaf.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "92b46e22f7ba3db75f4372ad917b003a",
-    "fecha_parseo": "2026-06-26T12:47:29.659583"
+    "fecha_parseo": "2026-06-26T13:18:52.134521"
   }
 ]

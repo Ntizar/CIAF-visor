@@ -42,10 +42,7 @@ REPORTS_DIR = DATA_DIR / "reports"
 IMAGES_DIR = DATA_DIR / "images"
 SCRIPTS_DIR = BASE_DIR / "scripts"
 
-CIAF_WEB_URL = (
-    "https://www.transportes.gob.es/organos-colegiados/"
-    "ciaf/informes-finales-de-sucesos-investigados"
-)
+MEMORIA_URL_TEMPLATE = "https://www.transportes.gob.es/organos-colegiados/ciaf/memorias-anuales/memoriasanuales" 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 USER_AGENT = "CIAF-Visor/1.0"
 
@@ -572,18 +569,32 @@ def extract_provincia(text: str) -> str:
 def extract_trenes(text: str) -> list[dict]:
     """Extrae información de trenes implicados."""
     trenes = []
-    # Buscar menciones de tren
-    patterns = [
-        r'tren\s+(?:de\s+(?:viajeros|mercanc[ií]as|man[io]bras)\s+)?([A-Z]?\d+[A-Z]?)',
-        r'tren\s+(\w+)',
-    ]
     seen = set()
+    
+    # Patrón principal: "tren de viajeros 8604", "tren 18079", "tren de mercancías"
+    patterns = [
+        r'tren\s+(?:de\s+(?:viajeros|mercanc[ií]as|man[io]bras|pasajeros)\s+)?([A-Z]?\d{3,6}[A-Z]?)\b',
+        r'tren\s+(?:de\s+(?:viajeros|mercanc[ií]as|man[io]bras|pasajeros)\s+)?(\d{3,6})\b',
+        r'tren\s+n[uú]mero\s+(\d{3,6})',
+    ]
+    
     for pat in patterns:
         for m in re.finditer(pat, text, re.IGNORECASE):
             t = m.group(1).strip()
-            if t and t not in seen and len(t) > 1 and not t.isdigit():
+            # Filtrar: solo números de tren (3+ dígitos) o IDs alfanuméricos
+            if t and t not in seen and (len(t) >= 3 or (t.isdigit() and int(t) > 100)):
                 seen.add(t)
-                trenes.append({"id_tren": t, "descripcion": ""})
+                # Intentar capturar tipo de tren
+                ctx = text[max(0, m.start()-50):m.end()+50]
+                tipo = ""
+                if re.search(r'viajeros', ctx, re.IGNORECASE):
+                    tipo = "viajeros"
+                elif re.search(r'mercanc', ctx, re.IGNORECASE):
+                    tipo = "mercancías"
+                elif re.search(r'manio[bp]ras', ctx, re.IGNORECASE):
+                    tipo = "maniobras"
+                trenes.append({"id_tren": t, "tipo": tipo, "descripcion": ""})
+    
     return trenes
 
 
@@ -811,24 +822,66 @@ def split_sections(text: str) -> dict[str, str]:
 
 
 def extract_resumen(sections: dict[str, str], text: str) -> str:
-    """Extrae el resumen del informe."""
-    # Buscar sección 1 o "RESUMEN"
+    """Extrae el resumen del informe buscando en el texto crudo."""
+    
+    # ESTRATEGIA 1: Buscar "RESUMEN DEL ANÁLISIS" (RD 623/2014 format)
+    # Evitar el TOC: buscar contenido real (después del header CIAF)
+    for pattern in [
+        r'RESUMEN\s+DEL\s+AN[AÁ]LISIS\s+Y\s+CONCLUSIONES\s+RELACIONADAS\s+CON\s+EL\s+SUCESO\s*\n\s*(.*?)(?:\n\s*\d+\.\d|\n\s*5\.|\n\s*OBSERVACIONES|\n\s*RECOMENDACIONES)',
+        r'RESUMEN\s+DEL\s+AN[AÁ]LISIS\s*\n\s*(.*?)(?:\n\s*\d+\.\d|\n\s*\d+\s*\.|\n\s*CONCLUSIONES)',
+        r'1\.\s*RESUMEN\s+(?:DEL\s+AN[AÁ]LISIS\s*)?\n\s*(.*?)(?:\n\s*2\.|\n\s*HECHOS)',
+    ]:
+        m = re.search(pattern, text, re.DOTALL | re.IGNORECASE)
+        if m:
+            candidate = m.group(1).strip()
+            # Filtrar líneas del TOC (solo puntos y números)
+            lines = candidate.split('\n')
+            real_lines = []
+            for line in lines:
+                line_stripped = line.strip()
+                # Saltar líneas del TOC (solo ".....37" o "SECCIÓN ......... 5")
+                if re.match(r'^[.\.·]+\s*\d+\s*$', line_stripped):
+                    continue
+                if re.match(r'^[A-ZÁÉÍÓÚÑ\s]+[.\.·]+\d+', line_stripped):
+                    continue
+                if len(line_stripped) > 10:
+                    real_lines.append(line_stripped)
+            if real_lines:
+                result = ' '.join(real_lines)[:2000]
+                # Verificar que no es basura del TOC ni texto en inglés
+                if '.....' not in result and len(result) > 50:
+                    # Filtrar si empieza con inglés
+                    if re.match(r'^[a-z\s]*(?:the |a |an |this |that |there |it |in |on )', result.strip(), re.IGNORECASE):
+                        continue
+                    return result
+    
+    # ESTRATEGIA 2: Buscar primer párrafo significativo después de la introducción
+    # Evitar headers CIAF (MINISTERIO, SUBSECRETARÍA, etc.)
+    intro_end = re.search(r'\n\s*\d+\.\s+[A-Z]', text[2000:15000])
+    if intro_end:
+        start = 2000 + intro_end.end()
+        candidate = text[start:start+2000]
+        paragraphs = [p.strip() for p in candidate.split('\n\n') if len(p.strip()) > 50]
+        # Filtrar párrafos del TOC
+        real_paragraphs = []
+        for p in paragraphs:
+            if '.....' not in p and 'Pág.' not in p and not re.match(r'^[\d.]+\s', p):
+                real_paragraphs.append(p)
+                if len(' '.join(real_paragraphs)) > 200:
+                    break
+        if real_paragraphs:
+            return ' '.join(real_paragraphs)[:2000]
+    
+    # ESTRATEGIA 3: Secciones
     for key in ['1', '0.1', '0']:
         if key in sections:
             sec = sections[key]
-            # Quitar el título de sección
             content = re.sub(r'^\[.*?\]\s*', '', sec)
-            # Tomar los primeros párrafos significativos
             paragraphs = [p.strip() for p in content.split('\n\n') if len(p.strip()) > 20]
             if paragraphs:
                 return '\n\n'.join(paragraphs[:3])[:2000]
-
-    # Fallback: buscar "RESUMEN" en el texto
-    m = re.search(r'(?:1\.\s*)?RESUMEN\s*\n(.*?)(?:\n\s*2\.|\n\s*HECHOS)', text, re.DOTALL | re.IGNORECASE)
-    if m:
-        return m.group(1).strip()[:2000]
-
-    return ""
+    
+    return 
 
 
 def extract_factores_humanos(sections: dict[str, str], text: str) -> str:
@@ -912,72 +965,110 @@ def extract_conclusiones(sections: dict[str, str], text: str) -> str:
 
 
 def extract_recomendaciones(sections: dict[str, str], text: str) -> list[dict]:
-    """Extrae las recomendaciones."""
+    """Extrae las recomendaciones directamente del texto crudo del PDF."""
     recomendaciones = []
     
-    # Buscar sección de recomendaciones
-    rec_text = ""
-    for key in sorted(sections.keys()):
-        content = sections[key]
-        if re.search(r'RECOMENDACIONES', content, re.IGNORECASE):
-            rec_text = re.sub(r'^\[.*?\]\s*', '', content)
-            # Incluir todas las subsecciones
-            next_keys = [k for k in sections.keys()
-                        if k.startswith(key + '.') and
-                        not re.search(r'CONCLUSIONES', sections[k], re.IGNORECASE)]
-            for nk in sorted(next_keys):
-                nc = re.sub(r'^\[.*?\]\s*', '', sections[nk])
-                if len(nc.strip()) > 20:
-                    rec_text += "\n\n" + nc.strip()
+    # ESTRATEGIA 1: Buscar la ÚLTIMA ocurrencia de "RECOMENDACIONES FINALES" en el texto
+    rec_section = ""
+    all_matches = list(re.finditer(r'RECOMENDACIONES\s+FINALES', text, re.IGNORECASE))
+    for m in all_matches:
+        start = m.end()
+        # Buscar hasta el siguiente número de sección principal o 5000 chars
+        end_candidate = min(start + 5000, len(text))
+        next_section = re.search(r'\n\s*\d+\s*\.\s+[A-ZÁÉÍÓÚÑ]{3,}', text[start:end_candidate])
+        if next_section:
+            end_candidate = start + next_section.start()
+        candidate = text[start:end_candidate].strip()
+        # Si contiene tabla (Destinatario/Número), es la buena
+        if 'Destinatario' in candidate or 'Número' in candidate or re.search(r'\d{2,}/\d{2}[-–]\d', candidate):
+            rec_section = candidate
             break
     
-    if not rec_text:
+    # ESTRATEGIA 2: Si no, buscar "RECOMENDACIONES" con tabla de datos
+    if not rec_section:
+        all_matches2 = list(re.finditer(r'\d+\.\s*RECOMENDACIONES', text, re.IGNORECASE))
+        for m in all_matches2:
+            start = m.end()
+            end_candidate = min(start + 5000, len(text))
+            next_section = re.search(r'\n\s*\d+\s*\.\s+[A-ZÁÉÍÓÚÑ]{3,}', text[start:end_candidate])
+            if next_section:
+                end_candidate = start + next_section.start()
+            candidate = text[start:end_candidate].strip()
+            if 'Destinatario' in candidate or re.search(r'\d{2,}/\d{2}[-–]\d', candidate):
+                rec_section = candidate
+                break
+    
+    # ESTRATEGIA 3: Buscar patrón de tabla con "Destinatario" + "Número" + "Recomendación"
+    if not rec_section:
+        table_match = re.search(
+            r'(?:Destinatario.*?Recomendaci[oó]n)(.*?)(?:\n\s*\d+\s*\.\s+[A-ZÁÉÍÓÚÑ]{3,}|$)',
+            text, re.DOTALL | re.IGNORECASE
+        )
+        if table_match:
+            rec_section = table_match.group(1).strip()
+    
+    if not rec_section:
         return recomendaciones
     
-    # Patrón 1: Tabla con formato "Destinatario | Número | Recomendación"
-    # Ejemplo: "Adif 11/09-1 Cumplimiento de..."
-    rec_pattern = re.compile(
-        r'([A-ZÁÉÍÓÚÑ][a-záéíóúñA-Z\s]+?)\s+(\d+/\d{2}[-–]\d+)\s+([^\n]+(?:\n(?![A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s+\d+/\d{2})[^\n]+)*)',
-        re.MULTILINE
-    )
+    # Limpiar headers de tabla y basura
+    rec_section = re.sub(r'Destinatario\s+(?:Implementador\s+(?:final\s+)?)?N[uú]mero\s+Recomendaci[oó]n', '', rec_section, flags=re.IGNORECASE)
+    rec_section = re.sub(r'Implementador\s+final', '', rec_section, flags=re.IGNORECASE)
+    # Eliminar líneas TOC (solo puntos y números)
+    rec_section = re.sub(r'^[.\.·]+\s*\d+\s*$', '', rec_section, flags=re.MULTILINE)
+    rec_section = re.sub(r'^[A-ZÁÉÍÓÚÑ\s]+[.\.·]+\d+', '', rec_section, flags=re.MULTILINE)
+    # Eliminar "APPENDIX: ENGLISH..." y todo lo que venga después
+    rec_section = re.sub(r'APPENDIX.*$', '', rec_section, flags=re.DOTALL | re.IGNORECASE)
+    # Eliminar líneas vacías múltiples
+    rec_section = re.sub(r'\n{3,}', '\n\n', rec_section)
     
-    matches = list(rec_pattern.finditer(rec_text))
-    if matches:
-        for m in matches:
-            implementador = m.group(1).strip()
-            num = m.group(2).strip()
-            texto = m.group(3).strip()
-            recomendaciones.append({
-                "numero": num,
-                "implementador": implementador,
-                "destinatarios": "",
-                "texto": texto[:500],
-            })
-    else:
-        # Patrón 2: Buscar líneas con número de recomendación
-        rec_pattern2 = re.compile(
-            r'(\d+/\d{2}[-–]\d+)\s*[|\s]+([^\n]+)',
-            re.MULTILINE
-        )
-        matches2 = list(rec_pattern2.finditer(rec_text))
-        if matches2:
-            for m in matches2:
-                num = m.group(1).strip()
-                texto = m.group(2).strip()
+    if len(rec_section.strip()) < 20:
+        return recomendaciones
+    
+    # Normalizar saltos de línea
+    rec_clean = re.sub(r'\n\s*\n', '\n', rec_section)
+    
+    # Encontrar TODOS los números de recomendación y dividir el texto
+    num_pattern = re.compile(r'((?:IF[-\s]?)?\d+/\d{2,4}[-–]\d+)')
+    all_nums = list(num_pattern.finditer(rec_clean))
+    
+    if all_nums:
+        for i, m in enumerate(all_nums):
+            num = m.group(1).strip()
+            # Texto desde después de este número hasta el siguiente
+            text_start = m.end()
+            text_end = all_nums[i+1].start() if i+1 < len(all_nums) else len(rec_clean)
+            texto = rec_clean[text_start:text_end].strip()
+            # Limpiar: quitar saltos de línea dobles, headers de página, números de página
+            texto = re.sub(r'Comisión de Investigación.*?\n', '', texto, flags=re.IGNORECASE)
+            texto = re.sub(r'\n\s*\d+\s*\n', ' ', texto)  # números de página
+            texto = re.sub(r'Madrid,\s+a\s+\d+.*$', '', texto, flags=re.DOTALL)  # firma final
+            texto = re.sub(r'\s+', ' ', texto).strip()
+            
+            # Extraer implementador del contexto anterior al número
+            ctx_start = max(0, m.start() - 300)
+            ctx = rec_clean[ctx_start:m.start()]
+            implementador = ""
+            ent_match = re.findall(r'(AESF|ADIF|ADIF AV|RENFE|Renfe|CAF|FEVE|FGC|Euskotren|TMB|ACTREN|FCC|Administrador)', ctx, re.IGNORECASE)
+            if ent_match:
+                implementador = ent_match[-1]
+            
+            if len(texto) > 10:
                 recomendaciones.append({
                     "numero": num,
-                    "implementador": "",
+                    "implementador": implementador,
                     "destinatarios": "",
-                    "texto": texto[:500],
+                    "texto": texto[:800],
                 })
-        else:
-            # Fallback: tratar todo el bloque como una recomendación
-            if rec_text.strip() and len(rec_text.strip()) > 10:
+    
+    if not recomendaciones:
+            # ESTRATEGIA C: Fallback - tratar todo como una recomendación
+            cleaned = re.sub(r'\s+', ' ', rec_section).strip()
+            if len(cleaned) > 20 and 'no se establecen' not in cleaned.lower():
                 recomendaciones.append({
                     "numero": "",
                     "implementador": "",
                     "destinatarios": "",
-                    "texto": rec_text.strip()[:2000],
+                    "texto": cleaned[:2000],
                 })
     
     return recomendaciones
@@ -988,17 +1079,28 @@ def extract_consecuencias(text: str) -> dict:
     victimas_mortales = extract_victims_count(text)
     heridos = extract_heridos_count(text)
 
-    danos_pattern = re.compile(
-        r'da[ñn]os?\s+material(?:es)?.*?\n(.*?)(?:\n\s*\d+\.\d|\n\s*INTERCEPT)',
-        re.DOTALL | re.IGNORECASE
+    # Daños materiales: buscar si se mencionan, no capturar TOC
+    danos = False
+    # Buscar "DAÑOS MATERIALES: Sí" o similar en secciones de datos
+    danos_header = re.search(
+        r'DA[ÑN]OS?\s+MATERIALES\s*[:\n]\s*(S[ií]|No|\w+)',
+        text, re.IGNORECASE
     )
-    danos_match = danos_pattern.search(text)
-    danos_text = danos_match.group(1).strip()[:500] if danos_match else ""
+    if danos_header:
+        val = danos_header.group(1).strip().lower()
+        danos = val in ('sí', 'si', 's', 'yes')
+    else:
+        # Buscar mención de daños materiales en el cuerpo
+        danos_body = re.search(
+            r'se\s+produjeron?\s+da[ñn]os?\s+material',
+            text, re.IGNORECASE
+        )
+        danos = bool(danos_body)
 
     return {
         "victimas_mortales": victimas_mortales,
         "heridos": heridos,
-        "danos_materiales": danos_text,
+        "danos_materiales": danos,
     }
 
 
@@ -1166,7 +1268,7 @@ def parse_report(pdf_path: Path, year: int) -> Optional[dict]:
         "imagenes": images,
         "enlaces": {
             "pdf_original": f"pdfs/{year}/{filename}",
-            "pagina_ciaf": CIAF_WEB_URL,
+            "pagina_ciaf": f"https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/{pdf_path.name}",
         },
         "formato_normativo": {
             1: "Pre-RD 810/2007",

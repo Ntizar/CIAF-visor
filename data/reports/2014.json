@@ -15,59 +15,8 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "en",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "CIRCULANDO",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tipo",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "antes",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "funcionaron",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "pasa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "incrementa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circulaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "queda",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "colisiona",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "que",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circula",
+        "id_tren": "282",
+        "tipo": "viajeros",
         "descripcion": ""
       }
     ],
@@ -77,7 +26,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 23 de enero de 2014 a las 11:43 horas, en el PK 422+950 de la línea 100 Hendaya a Madrid-\nChamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L.D. \n282 de la empresa ferroviaria Renfe Operadora, con origen Irún y destino Vigo-Guixar, circula por la \nvía II y arrolla una plataforma de trabajos propiedad de Adif. \nEl jefe del CTC de Miranda de Ebro no bloquea la vía II entre las mencionadas estaciones, estando \nconcedido el bloqueo por telefonema al encargado de trabajos, y por error bloquea la vía I. \nComo consecuencia del arrollamiento no se producen daños personales. \nConclusión: El accidente se produce por fallo humano del personal de circulación (jefe del CTC de \nMiranda de Ebro) al realizar una operación de circulación incorrecta. Por equivocación éste bloqueó la \nvía I entre Calzada de Bureba y Briviesca en lugar de la vía II, que era la realmente concedida por \ntelefonema al encargado de trabajos. \nRecomendaciones: \nDestinatario final \nNúmero \nRecomendación \nAdif \n05/14-1 \nSe reitera la recomendación 43/13-1: “Incluir dentro de la \nnormativa de aplicación a los trabajos descritos en este \ninforme, en especial en la Consigna C Experimental nº 58, \nel uso obligatorio de protecciones mediante útiles de \ncortocircuitado (en líneas con circuitos de vía eléctricos) y \nseñales (en líneas sin circuitos de vía eléctricos).”",
+      "resumen": "El día 23 de enero de 2014 a las 11:43 horas, en el PK 422+950 de la línea 100 Hendaya a Madrid- Chamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L.D. 282 de la empresa ferroviaria Renfe Operadora, con origen Irún y destino Vigo-Guixar, circula por la vía II y arrolla una plataforma de trabajos propiedad de Adif. El jefe del CTC de Miranda de Ebro no bloquea la vía II entre las mencionadas estaciones, estando concedido el bloqueo por telefonema al encargado de trabajos, y por error bloquea la vía I. Como consecuencia del arrollamiento no se producen daños personales. Conclusión: El accidente se produce por fallo humano del personal de circulación (jefe del CTC de Miranda de Ebro) al realizar una operación de circulación incorrecta. Por equivocación éste bloqueó la vía I entre Calzada de Bureba y Briviesca en lugar de la vía II, que era la realmente concedida por telefonema al encargado de trabajos. Recomendaciones: Destinatario final Recomendación Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”",
       "factores_humanos": "Por parte de Adif \nEl jefe del CTC, con matrícula 8893638 y el encargado de trabajos, con matrícula 2850261. \nPor parte de Renfe Operadora \nEl maquinista del tren de viajeros LD 28744, con matrícula 9712209. \n\nDE FOMENTO \nnº 0005/2014 ocurrido el 23.01.2014 \nDE ACCIDENTES IF-230114-270115-CIAF\n\nPor parte de Adif \nEl jefe del CTC (responsable de circulación) y el encargado de trabajos están habilitados conforme a la \nOrden FOM/2872/2010, de 5 de noviembre, por la que se determinan las condiciones para la \nobtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario \nrelacionadas con la seguridad. \nEl jefe del CTC tiene una antigüedad en el cargo desde el 01/07/2001. Realizó su último reciclaje \nformativo el 06/11/2012 y su último reconocimiento médico y psicotécnico el 18/04/2013, conforme a \nla normativa vigente. \nEl encargado de trabajos tiene una antigüedad en el cargo desde el 09/02/2010. Realizó su último \nreciclaje formativo el 06/11/2012 y su último reconocimiento médico y psicotécnico el 15/06/2010, \nconforme a la normativa vigente. \nPor parte de Renfe Operadora \nEl maquinista del tren 282 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción \n\nJornada laboral del jefe del CTC (responsable de circulación): \n- el día 23: 5 horas (2 horas y 30 minutos hasta el momento del accidente), \n- el día 22: descanso, \n- el día 21: descanso. \nAl jefe del CTC el día del accidente, en Miranda de Ebro a las 12:25 horas, se le realiza prueba de \nalcoholemia en aire espirado con resultado negativo (0,00 mg/1000 ml). \nJornada laboral de la maquinista del tren 282: \n- el día 23: 4 horas y 40 minutos (2 horas y 25 minutos de conducción), \n- el día 22: 8 horas (4 horas y 38 minutos de conducción), \n- el día 21: descanso. \nAl maquinista el día del accidente a las 12:55 horas, se le realiza prueba de alcoholemia en aire \nespirado con resultado negativo (0,0",
       "infraestructura": "Por parte de Adif \nEl jefe del CTC, con matrícula 8893638 y el encargado de trabajos, con matrícula 2850261. \nPor parte de Renfe Operadora \nEl maquinista del tren de viajeros LD 28744, con matrícula 9712209. \n\nDE FOMENTO \nnº 0005/2014 ocurrido el 23.01.2014 \nDE ACCIDENTES IF-230114-270115-CIAF\n\nTren de viajeros de larga distancia, formado por la locomotora 252023 y 5 coches, con una longitud de \n132 metros y 250 toneladas. \nNº UIC locomotora: 95710250237. \nTren tipo 160A (velocidad máxima 160 km/h). \nSegún Libro Horario del tren 282, la velocidad máxima a la que puede circular entre Calzada de Bureba \ny Briviesca, tramo donde ocurre el suceso, es de 150 km/h, teniendo su paso (sin parada comercial) \nprevisto hacia las 11:40 h.\n\nEl tramo donde ocurre el suceso es de vía doble electrificada de ancho ibérico, realizándose la \ncirculación al amparo de bloqueo automático banalizado (BAB) con control de tráfico centralizado \n(CTC) desde el puesto de mando de Miranda de Ebro. \nEl punto de la colisión corresponde al PK 422+950 (carril de 54 kg/ml, montado sobre traviesa \nmonobloque de hormigón) de la vía II de la línea 100 Hendaya –Madrid Chamartín. Según el sentido \nde la marcha, el mencionado PK se encuentra en una zona de alineación recta de 1.471 metros. El tren \nantes del arrollamiento circula en rampa de 9,40 milésimas (640 metros), pasa por un cambio de \nrasante (PK 423+020) y en pendiente de 3,29 milésimas (70 metros). \nSegún el Cuadro de Velocidades Máximas, en el sentido de la marcha, la velocidad máxima permitida \nal paso por el lugar del suceso es de 150 km/h. \n\nVista de la vía desde la parte posterior del tren 282 \nTREN 282 \nCALZADA DE BUREBA \nBRIVIESCA\nTREN 282 \n\nDE FOMENTO \nnº 0005/2014 ocurrido el 23.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Briviesca - Pancorbo, tramo al que pertenece el PK donde \nsuceden los hechos, es de 349. Estas circulaciones se desglo"
     },
@@ -85,16 +34,22 @@
     "recomendaciones": [
       {
         "numero": "05/14-1",
-        "implementador": "Destinatario final \nNúmero \nRecomendación \nAdif",
+        "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Se reitera la recomendación 43/13-1: “Incluir dentro de la \nnormativa de aplicación a los trabajos descritos en este \ninforme, en especial en la Consigna C Experimental nº 58, \nel uso obligatorio de protecciones mediante útiles de \ncortocircuitado (en líneas con circuitos de vía eléctricos) y \nseñales (en líneas sin circuitos de vía eléctricos).”"
+        "texto": "Se reitera la recomendación"
+      },
+      {
+        "numero": "43/13-1",
+        "implementador": "Adif",
+        "destinatarios": "",
+        "texto": ": “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).” Madrid, 27 de enero de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Víctimas mortales y heridos ............................................................................................................................. 10"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -180,11 +135,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/IF230114270115CIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/IF230114270115CIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "adff5895c35632715b31667f2ab84014",
-    "fecha_parseo": "2026-06-26T12:47:13.253718"
+    "fecha_parseo": "2026-06-26T13:18:36.519236"
   },
   {
     "id": "2014-150428140415IFCIAF",
@@ -202,59 +157,8 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "descarrilado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tipo",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "que",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tras",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circulaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "quedó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "por",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "MINISTERIO",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "en",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "continúa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "pasó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "era",
+        "id_tren": "88828",
+        "tipo": "mercancías",
         "descripcion": ""
       }
     ],
@@ -264,7 +168,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria \nComsa Rail Transport, procedente de Valença do Minho (Portugal) y con destino A Coruña San Diego, \ncompuesto por una locomotora y 13 vagones (plataformas PMMC) que circulaban vacíos, descarriló en \nel PK 17+896 de la línea 824 Redondela de Galicia a Santiago de Compostela, al pasar por el cambio \nnº 6 en la Bifurcación Arcade descarrilando el segundo bogie del séptimo vagón y el primer bogie del \nvagón que circulaba en octavo lugar, según el sentido de la marcha. \nNo se produjeron víctimas mortales ni heridos. \nConclusión: Se desconoce la causa del descarrilamiento. La hipótesis más probable es la suma de \nfactores cuyo efecto sinérgico sobre la dinámica del vehículo produjo su descarrilamiento. \nRecomendaciones: \nDestinatario final \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \n26/14-1 \nConsiderando adecuadas las medidas adoptadas por Takargo \ny GMF y consistentes en: \n− Modificación de los planes de mantenimiento introduciendo \nuna operación a los 18 meses en la que se comprueban los \nvalores de los parámetros de rodadura. Además se \nimplanta el uso de la plantilla de visitador en las \ninspecciones VS. \n− Revisión de los valores de los parámetros de rodadura de \ntodos los vagones de la misma serie. \nse trasladan a la AESF para que analice la conveniencia de \nimplantar \nmedidas \nsimilares \nen \notras \nempresas \nmantenedoras.",
+      "resumen": "El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria Comsa Rail Transport, procedente de Valença do Minho (Portugal) y con destino A Coruña San Diego, compuesto por una locomotora y 13 vagones (plataformas PMMC) que circulaban vacíos, descarriló en el PK 17+896 de la línea 824 Redondela de Galicia a Santiago de Compostela, al pasar por el cambio nº 6 en la Bifurcación Arcade descarrilando el segundo bogie del séptimo vagón y el primer bogie del vagón que circulaba en octavo lugar, según el sentido de la marcha. No se produjeron víctimas mortales ni heridos. Conclusión: Se desconoce la causa del descarrilamiento. La hipótesis más probable es la suma de factores cuyo efecto sinérgico sobre la dinámica del vehículo produjo su descarrilamiento. Recomendaciones: Destinatario final Recomendación Agencia Estatal de Ferroviaria (AESF) Considerando adecuadas las medidas adoptadas por Takargo y GMF y consistentes en: − Modificación de los planes de mantenimiento introduciendo una operación a los 18 meses en la que se comprueban los valores de los parámetros de rodadura. Además se implanta el uso de la plantilla de visitador en las inspecciones VS. − Revisión de los valores de los parámetros de rodadura de todos los vagones de la misma serie. se trasladan a la AESF para que analice la conveniencia de mantenedoras.",
       "factores_humanos": "Por parte de Comsa \nSe encontraban a bordo de la cabina del tren 88828 dos maquinistas. El que conducía en el momento \ndel accidente con matrícula 133552, que se encontraba realizando la habilitación tanto de la línea \ncomo del vehículo, y otro maquinista con matrícula 136264 que acompañaba al primero.\n\nEl maquinista en formación del tren 88828 (que iba conduciendo) posee el título B de conducción y \nestá habilitado conforme a la Orden FOM/2520/2006, de 27 de julio. (Título V – Personal de \nconducción - en vigor hasta el 11 de enero de 2019, en virtud de la disposición transitoria octava de la \nOrden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo de fecha 11.10.2012. \nEl día del suceso conducía el vehículo como maquinista en formación para la obtención de las \nhabilitaciones tanto del vehículo como de la línea. \nRealizó su último reconocimiento médico y psicotécnico el 13.09.2012, conforme a la normativa vigente. \nEl maquinista del tren 88828 (que realizaba el acompañamiento) posee el título B de conducción y está \nhabilitado conforme a la Orden FOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - \nen vigor hasta el 11 de enero de 2019, en virtud de la disposición transitoria octava de la Orden \nFOM/2872/2010, de 5 de noviembre). \nÉste tiene u\n\nJornada laboral del maquinista del tren 88828 [maquinista en formación que conducía el tren en el \nmomento del accidente]: \n- el día 15: 9 horas y 3 minutos (1 hora y 14 minutos de conducción efectiva hasta el momento del \naccidente), \n- el día 14: descanso, \n- el día 13: descanso. \nAl maquinista no se le realiza prueba de alcoholemia. \nJornada laboral del maquinista del tren 88828 [que iba en cabina realizando labores de \nacompañamiento en el momento del accidente]: \n- el día 15: 9 horas y 3 minutos (no conducía en el momento del accidente), \n- el día 14: 3 horas y 30 minutos, \n- el día 13: 5 horas y 5 minutos. \nAl maquinista, el día del accidente a las 20:10 horas, se le realizan pr",
       "infraestructura": "Por parte de Comsa \nSe encontraban a bordo de la cabina del tren 88828 dos maquinistas. El que conducía en el momento \ndel accidente con matrícula 133552, que se encontraba realizando la habilitación tanto de la línea \ncomo del vehículo, y otro maquinista con matrícula 136264 que acompañaba al primero.\n\nTren de mercancías 88828, formado por una locomotora de la serie 335 y 13 vagones vacíos \n(plataformas PMMC), 279 metros (incluida la locomotora), 52 ejes y 351 toneladas. \nTren tipo 100 (velocidad máxima 100 km/h) según el libro horario del tren. \n\nDE FOMENTO \nnº 0026/2014 ocurrido el 15.04.2014 \nDE ACCIDENTES \nLa composición del tren se detalla en la tabla adjunta, los vagones descarrilados fueron el séptimo y \nel octavo. \nLa locomotora pertenece a la empresa ferroviaria TAKARGO y operada por Comsa Rail Transport con \nnº UIC 9094436007-5, correspondiente a la numeración portuguesa. En la red de Adif equivale a una \nlocomotora 335. Los vagones que circulaban en la 10ª y 11ª posición pertenecían a Comsa Rail \nTransport (CRT), el resto de los vagones son propiedad de TAKARGO, incluyendo los dos vagones que \ndescarrilaron y tiene las mismas características. \n\nOrden \nTipo de vagón \nnº UIC \n1 \nPMMC \n389445520197 \n2 \nPMMC \n389445520494 \n3 \nPMMC \n389445520957 \n4 \nPMMC \n389445520809 \n5 \nPMMC \n\nEl punto kilométrico donde ocurrió el accidente pertenece a la línea 824 Redondela de Galicia a \nSantiago de Compostela. El accidente se produjo en el cambio nº 6 (escape 6-8) de la Bifurcación \nArcade. En esta bifurcación se realiza la transición de la vía única del trayecto Redondela de Galicia - \nBif. Arcade, a la vía doble del trayecto Bif Arcade - Pontevedra. \nEl trayecto Redondela de Galicia a Bif. Arcade discurre en vía única sin electrificar, de ancho ibérico y \nbloqueo automático (BAU) con CTC regulado por el puesto de mando de Ourense. \nEl trayecto Bif. Arcade – Pontevedra discurre en vía doble sin electrificar, de ancho ibérico y bloqueo \nautomático (BAB) con CTC regulado d"
     },
@@ -272,16 +176,16 @@
     "recomendaciones": [
       {
         "numero": "26/14-1",
-        "implementador": "",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "Considerando adecuadas las medidas adoptadas por Takargo"
+        "texto": "Considerando adecuadas las medidas adoptadas por Takargo y GMF y consistentes en: − Modificación de los planes de mantenimiento introduciendo una operación a los 18 meses en la que se comprueban los valores de los parámetros de rodadura. Además se implanta el uso de la plantilla de visitador en las inspecciones VS. − Revisión de los valores de los parámetros de rodadura de todos los vagones de la misma serie. se trasladan a la AESF para que analice la conveniencia de implantar medidas similares en otras empresas mantenedoras. Madrid, 28 de abril de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Víctimas mortales y heridos ............................................................................................................................. 11"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -322,11 +226,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/150428140415IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/150428140415IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "f7d89ea5b22c194165059e96ae96d6b6",
-    "fecha_parseo": "2026-06-26T12:47:10.970443"
+    "fecha_parseo": "2026-06-26T13:18:34.253342"
   },
   {
     "id": "2014-150324140702IFCIAF",
@@ -344,51 +248,23 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
+        "id_tren": "5172",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "se",
+        "id_tren": "4100",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "traslada",
+        "id_tren": "5272",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "del",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "en",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "al",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "taller",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "podía",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "inmediatamente",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "para",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "por",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "detenido",
+        "id_tren": "5212",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -398,7 +274,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 2 de julio de 2014 a las 19:40 horas, entre Chinchilla y Bonete (Albacete), en el PK 368+925 de \nla línea de alta velocidad 042 Bif. Albacete a Alicante, se produce la detención del tren 5172. Éste \ncirculaba por vía I con indicación de marcha a la vista a la altura del PK mencionado por orden del CRC \npor lo que su maquinista, al acercarse a dicho punto, redujo progresivamente la velocidad del tren y \ncuando circulaba a unos 5 km/h la cabeza tractora se inclina al deformarse la vía. \nComo consecuencia del suceso no se producen víctimas, pero sí daños materiales. \nConclusión: El incidente se produce por fallo de la infraestructura, y más concretamente por la \ndeformación de la vía al paso del tren, debido a la insuficiencia del sistema de drenaje para recoger, \nevacuar y restituir la escorrentía de las lluvias torrenciales, localizadas e imprevistas caídas en la zona \ndel suceso, produciéndose la acumulación y corrientes de agua capaces de arrastrar el balasto de la \nvía I en donde confluían, de forma ortogonal y con velocidad (por desnivel), las aguas de escorrentía \nde los márgenes de la vía y de su plataforma. \nRecomendaciones: \nDestinatario final \nNúmero \nRecomendación \nAdif Alta Velocidad \n34/14-1 \nEstablecer un plan de vigilancia hasta la finalización de la \ntotalidad de las obras del “Proyecto de Emergencia de \nobras de refuerzo de la infraestructura de drenaje y \nrestitución de la superestructura ferroviaria entre los \nPP.KK. 367+200 y 370+100 de la línea Bifurcación \nAlbacete-Alicante”.",
+      "resumen": "El día 2 de julio de 2014 a las 19:40 horas, entre Chinchilla y Bonete (Albacete), en el PK 368+925 de la línea de alta velocidad 042 Bif. Albacete a Alicante, se produce la detención del tren 5172. Éste circulaba por vía I con indicación de marcha a la vista a la altura del PK mencionado por orden del CRC por lo que su maquinista, al acercarse a dicho punto, redujo progresivamente la velocidad del tren y cuando circulaba a unos 5 km/h la cabeza tractora se inclina al deformarse la vía. Como consecuencia del suceso no se producen víctimas, pero sí daños materiales. Conclusión: El incidente se produce por fallo de la infraestructura, y más concretamente por la deformación de la vía al paso del tren, debido a la insuficiencia del sistema de drenaje para recoger, evacuar y restituir la escorrentía de las lluvias torrenciales, localizadas e imprevistas caídas en la zona del suceso, produciéndose la acumulación y corrientes de agua capaces de arrastrar el balasto de la vía I en donde confluían, de forma ortogonal y con velocidad (por desnivel), las aguas de escorrentía de los márgenes de la vía y de su plataforma. Recomendaciones: Destinatario final Recomendación Adif Alta Velocidad Establecer un plan de vigilancia hasta la finalización de la totalidad de las obras del “Proyecto de Emergencia de obras de refuerzo de la infraestructura de drenaje y restitución de la superestructura ferroviaria entre los PP.KK. 367+200 y 370+100 de la línea Bifurcación Albacete-Alicante”.",
       "factores_humanos": "Por parte de Adif \nEl responsable de circulación, con matrícula 9705633. \nPor parte de Renfe \nLos maquinistas del tren 4100, con matrícula 9756479 y 5172 (tren del suceso), con matrícula\n\nPor parte de Adif \nEl responsable de circulación está habilitado conforme a la Orden FOM/2872/2010, de 5 de noviembre, \npor la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el \nejercicio de las funciones del personal ferroviario relacionadas con la seguridad. \nTiene una antigüedad en el cargo desde 01/01/2013 (última habilitación de responsable de circulación \n11/04/2014 y alcance para Puesto de Mando AV CRC Albacete). Realizó su último reciclaje formativo el \n09/04/2014 y su último reconocimiento médico y psicotécnico el 29/01/2013, conforme a la normativa \nvigente. En su anterior categoría y residencia como factor de circulación de primera ya disponía de \nhabilitación de responsable de circulación. \n\nDE FOMENTO \nnº 0034/2014 ocurrido el 02.07.2014 \nDE ACCIDENTES \nPor parte de Renfe Operadora \nEl maquinista del tren 4100 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Perso\n\nJornada laboral del responsable de circulación: \n- el día 2: 5 horas y 43 minutos (horario de 14:00 a 22:00 horas), \n- el día 1: 8 horas, \n- el día 30: 8 horas. \nJornada laboral del maquinista del tren 4100: \n- el día 2: 6 horas y 14 minutos horas (3 horas y 24 minutos de conducción efectiva), \n- el día 1: 9 horas y 30 minutos (5 horas y 20 minutos de conducción efectiva), \n- el día 30: 8 horas (3 horas y 1 minuto de conducción efectiva). \nJornada laboral del maquinista del tren 5172: \n- el día 2: 8 horas y 45 minutos (6 hora y 2 minutos de conducción efectiva hasta el momento del \nincidente), \n- el día 1: 7 horas y 20 minutos (2 horas y 7 minutos de conducción efectiva), \n- el día 30: 7 horas y 50 minutos (4 horas y 28 minutos de conducción efectiva). \nAl conductor, el día del incidente a las 23:10",
       "infraestructura": "Por parte de Adif \nEl responsable de circulación, con matrícula 9705633. \nPor parte de Renfe \nLos maquinistas del tren 4100, con matrícula 9756479 y 5172 (tren del suceso), con matrícula\n\nTren de viajeros 5172 de material Alstom serie 100, compuesto por 10 coches (2 cabezas motrices, 2 \nremolques extremos y 6 remolques intermedios), 26 ejes y 200 metros. Velocidad máxima 300 km/h. \nNº UIC: 957191002104 de la motriz (vehículo 100010). \nSegún Libro Horario del tren 5172, la velocidad máxima a la que puede circular entre PK 363+075 y \nBonete AV, tramo donde ocurre el suceso, es de 300 km/h, teniendo su paso previsto a las 19:28 \nhoras y 19:31 horas respectivamente.\n\nEl tramo donde ocurre el suceso es de alta velocidad, doble vía, electrificado y de ancho estándar. Está \nequipado con ERTMS nivel 2, bloqueo de señalización lateral (BSL) y sistema ASFA. El control de \ntráfico se realiza desde el CRC de Albacete. \nEl punto del suceso corresponde al PK 368+925 de la vía I de la línea de alta velocidad 042 Bif. \nAlbacete a Alicante. Según el sentido de la marcha, el mencionado PK se encuentra bajo un paso \nsuperior carretero (PK 368+917), en una zona de alineación recta y pendiente de 13 milésimas. \nSegún el Cuadro de Velocidades Máximas, en el sentido de la marcha, la velocidad máxima permitida \nal paso por el lugar del suceso es de 300 km/h.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif Circulación, la \nmedia semanal de circulaciones del tramo Chinchilla AV – Bonete AV, tramo al que pertenece el punto \nkilométrico donde sucede el incidente, es de 95. \nEstas circulaciones se desglosan en: 91 de larga distancia y 4 de servicio.\n\nLa circulación por las vía I y II quedó suspendida desde el momento del suceso (19:40 horas) entre \nBonete y Chinchilla, hasta las 06:40 horas del día 03/07/2014, que se abre al tráfico la vía II. \nEn la vía I se restablece la circulación el día 05/07/2014 a las 06:40 horas. \nCuatro trenes fueron suprimidos.\n\nIN"
     },
@@ -406,16 +282,16 @@
     "recomendaciones": [
       {
         "numero": "34/14-1",
-        "implementador": "Destinatario final \nNúmero \nRecomendación \nAdif Alta Velocidad",
+        "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Establecer un plan de vigilancia hasta la finalización de la \ntotalidad de las obras del “Proyecto de Emergencia de \nobras de refuerzo de la infraestructura de drenaje y \nrestitución de la superestructura ferroviaria entre los \nPP.KK. 367+200 y 370+100 de la línea Bifurcación \nAlbacete-Alicante”."
+        "texto": "Establecer un plan de vigilancia hasta la finalización de la totalidad de las obras del “Proyecto de Emergencia de obras de refuerzo de la infraestructura de drenaje y restitución de la superestructura ferroviaria entre los PP.KK. 367+200 y 370+100 de la línea Bifurcación Albacete-Alicante”. Madrid, 24 de marzo de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Víctimas mortales y heridos ............................................................................................................................. 12"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -485,11 +361,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/150324140702IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/150324140702IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "32cef5fb1b447f185cab885e8e1c8575",
-    "fecha_parseo": "2026-06-26T12:47:10.860051"
+    "fecha_parseo": "2026-06-26T13:18:34.172022"
   },
   {
     "id": "2014-150428140710IFCIAF",
@@ -507,35 +383,13 @@
     },
     "trenes": [
       {
+        "id_tren": "28026",
+        "tipo": "viajeros",
+        "descripcion": ""
+      },
+      {
         "id_tren": "100N",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "BAX80",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "seguía",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "antes",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "hasta",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "rebasa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "quedó",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -545,24 +399,17 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 10 de julio de 2014 a las 11:30 horas en la estación de Sant Vicenç de Calders (Tarragona) de la \nlínea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat, el tren de mercancías BAX80 procedente \nde Selgua (Huesca) y con destino Barcelona Can Tunis rebasa indebidamente la señal de salida S2/1B \nque se encontraba en indicación de parada. Se produce una situación de conato de colisión con el tren \nde viajeros 28026 que, circulando en el mismo sentido, tras efectuar su salida de la vía 7 de la \nestación en dirección a El Vendrell, se encontraba en el circuito de vía CVA269 de la vía 3B, sin existir \nentre éste y el tren BAX80 otra señal. \nNo se producen víctimas ni daños materiales como consecuencia del suceso. \nConclusión: El incidente se produce por fallo humano del personal de conducción del tren de \nmercancías BAX80 y más concretamente por un error de percepción de la indicación de la señal, \ndebido posiblemente a una falta de atención en la conducción, teniendo como consecuencia el \nincumplimiento de la orden dada por la señal S2/1B y el rebase indebido de ésta, incumpliéndose los \nartículos 217.1 y 320.4 del Reglamento General de Circulación. \nRecomendaciones: \nDestinatario final \nNúmero \nRecomendación\n\nConsiderando adecuadas las medidas adoptadas por \nRenfe Operadora, consistentes en: \n• Aplicación al maquinista de la Circular Operativa \nnº 1 de Presidencia. \n• Otras acciones orientadas a la mejora de la \ngestión del riesgo por fallo humano en la \nconducción. \nno se establecen recomendaciones.\n\nDE FOMENTO \nnº 0037/2014 ocurrido el 10.07.2014 \nDE ACCIDENTES",
+      "resumen": "El día 10 de julio de 2014 a las 11:30 horas en la estación de Sant Vicenç de Calders (Tarragona) de la línea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat, el tren de mercancías BAX80 procedente de Selgua (Huesca) y con destino Barcelona Can Tunis rebasa indebidamente la señal de salida S2/1B que se encontraba en indicación de parada. Se produce una situación de conato de colisión con el tren de viajeros 28026 que, circulando en el mismo sentido, tras efectuar su salida de la vía 7 de la estación en dirección a El Vendrell, se encontraba en el circuito de vía CVA269 de la vía 3B, sin existir entre éste y el tren BAX80 otra señal. No se producen víctimas ni daños materiales como consecuencia del suceso. Conclusión: El incidente se produce por fallo humano del personal de conducción del tren de mercancías BAX80 y más concretamente por un error de percepción de la indicación de la señal, debido posiblemente a una falta de atención en la conducción, teniendo como consecuencia el incumplimiento de la orden dada por la señal S2/1B y el rebase indebido de ésta, incumpliéndose los artículos 217.1 y 320.4 del Reglamento General de Circulación. Recomendaciones: Destinatario final Recomendación Considerando adecuadas las medidas adoptadas por Renfe Operadora, consistentes en: • Aplicación al maquinista de la Circular Operativa nº 1 de Presidencia. • Otras acciones orientadas a la mejora de la gestión del riesgo por fallo humano en la conducción. no se establecen recomendaciones. SUBSECRETARÍA Investigación del incidente nº 0037/2014 ocurrido el 10.07.2014 Informe final COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS 150428-140710-IF-CIAF.doc Pág. 6 de 23",
       "factores_humanos": "Por parte de Renfe Operadora \nEl maquinista del tren de mercancías BAX80 con matrícula 6825640. \n\nDE FOMENTO \nnº 0037/2014 ocurrido el 10.07.2014 \nDE ACCIDENTES\n\nEl maquinista del tren BAX80 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nTiene una antigüedad en el cargo desde el 09.12.2010, habilitación de la línea desde el 04.11.2011 y \ndel vehículo desde el 23.09.2011. \nRealizó su último reciclaje formativo el 23.01.2012 y su último reconocimiento médico y psicotécnico el \n18.10.2010, conforme a la normativa vigente.\n\nJornada laboral del maquinista del tren BAX80: \n- el día 10: 4 horas y 33 minutos (4 horas y 33 minutos de conducción efectiva); \n- el día 9: 7 horas y 30 minutos (5 horas y 25 minutos de conducción efectiva); \n- el día 8: descanso. \nAl maquinista, el día del incidente, en Barcelona a las 13:15 horas, se le realiza prueba de alcoholemia \nen aire espirado con resultado negativo.",
       "infraestructura": "Por parte de Renfe Operadora \nEl maquinista del tren de mercancías BAX80 con matrícula 6825640. \n\nDE FOMENTO \nnº 0037/2014 ocurrido el 10.07.2014 \nDE ACCIDENTES\n\nTren de mercancías BAX80, compuesto por las locomotoras 957102690469 y 957102690550, 25 \nvehículos, 100 ejes, 1301 toneladas y 498 metros). Tipo de tren 100N (velocidad máxima 100 km/h). \nEl vagón que ocupaba la posición 25 (nº 327145422173) transportaba materias peligrosas (carburo \ncálcico). \nSegún su cuadro de marcha tiene previsto su paso por la estación de Sant Vicenç de Calders a las \n09:30 horas. \nLa velocidad máxima permitida a su paso por Sant Vicenç de Calders es de 140 km/h según Cuadro de \nVelocidades Máximas y por la zona del suceso de 60 km/h.\n\nLa estación de Sant Vicenç de Calders se encuentra situada en la confluencia de la línea 200 Madrid \nChamartín – Barcelona Estació de França, que es pasante, y las líneas 240 Sant Vicenç de Calders – \nL’Hospitalet de Llobregat y 600 Valencia Estació del Nord – Sant Vicenç de Calders. Su situación \nkilométrica se corresponde con los PK. 24+758 de la línea 600 y el PK 618+200 de la línea 200. Sus \nestaciones colaterales son El Vendrell por la línea 240, Torredembarra por la línea 600, Roda de Bará \npor la línea 200, lado Madrid, y Cunit por la línea 200 lado Barcelona. \nLa circulación se realiza por la línea 200 al amparo de BAU con CTC por el lado Roda de Bará y de BAB \ncon CTC por el resto. La estación dispone de 18 vías electrificadas y 2 sin electrificar, encontrándose \nen mando centralizado en el momento del accidente desde el CTC de Barcelona. \n\nEl Vendrell \nMartorell \nL’Hospitalet de Ll.\nEstación \nSant. Vicenç de Calders \nRoda de Bará \nZaragoza \nTorredembarra \nTarragona \nCunit \nCa\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Sant Vicenç de Calders – L’Arboç, tramo donde se produce \nel incidente, es de 534. Estas circulaciones se desglosan en: 2 de larg"
     },
     "conclusiones": "\n\nLos hechos tuvieron lugar el día 10 de julio de 2014 a las 11:30 horas, en la estación de Sant \nVicenç de Calders de la línea de 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat, en la \nprovincia de Tarragona. \nEl tren de mercancías BAX80, de la empresa ferroviaria Renfe Operadora, procedente de Selgua \n(Huesca) y con destino Barcelona Can Tunis, realiza su entrada en la estación de Sant Vicenç de \nCalders, por el lado Torredembarra, con itinerario establecido a vía 2 realizando su paso a \n\nEl personal de conducción cumple la normativa vigente en cuanto título, habilitación, reciclaje y \nreconocimiento médico y psicotécnico. \nEl funcionamiento del material rodante y de las instalaciones fue correcto. \nLa velocidad del tren BAX80 era inferior a la máxima permitida. \nEl tren BAX80 circulaba con 117 minutos de retraso con respeto al horario previsto. \nDel registrador de seguridad del tren BAX80 se constata que se aproxima a la señal S2/1B a una \nvelocidad de unos 20 km/h y que se prod",
-    "recomendaciones": [
-      {
-        "numero": "",
-        "implementador": "",
-        "destinatarios": "",
-        "texto": "El día 10 de julio de 2014 a las 11:30 horas en la estación de Sant Vicenç de Calders (Tarragona) de la \nlínea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat, el tren de mercancías BAX80 procedente \nde Selgua (Huesca) y con destino Barcelona Can Tunis rebasa indebidamente la señal de salida S2/1B \nque se encontraba en indicación de parada. Se produce una situación de conato de colisión con el tren \nde viajeros 28026 que, circulando en el mismo sentido, tras efectuar su salida de la vía 7 de la \nestación en dirección a El Vendrell, se encontraba en el circuito de vía CVA269 de la vía 3B, sin existir \nentre éste y el tren BAX80 otra señal. \nNo se producen víctimas ni daños materiales como consecuencia del suceso. \nConclusión: El incidente se produce por fallo humano del personal de conducción del tren de \nmercancías BAX80 y más concretamente por un error de percepción de la indicación de la señal, \ndebido posiblemente a una falta de atención en la conducción, teniendo como consecuencia el \nincumplimiento de la orden dada por la señal S2/1B y el rebase indebido de ésta, incumpliéndose los \nartículos 217.1 y 320.4 del Reglamento General de Circulación. \nRecomendaciones: \nDestinatario final \nNúmero \nRecomendación \n\nConsiderando adecuadas las medidas adoptadas por \nRenfe Operadora, consistentes en: \n• Aplicación al maquinista de la Circular Operativa \nnº 1 de Presidencia. \n• Otras acciones orientadas a la mejora de la \ngestión del riesgo por fallo humano en la \nconducción. \nno se establecen recomendaciones. \n\nDE FOMENTO \nnº 0037/2014 ocurrido el 10.07.2014 \nDE ACCIDENTES"
-      }
-    ],
+    "recomendaciones": [],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Víctimas mortales y heridos ............................................................................................................................. 13"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -613,11 +460,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/150428140710IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/150428140710IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "16388892185f094e342d691637b340ec",
-    "fecha_parseo": "2026-06-26T12:47:11.126943"
+    "fecha_parseo": "2026-06-26T13:18:34.388602"
   },
   {
     "id": "2014-150525140711IFCIAF",
@@ -635,51 +482,8 @@
     },
     "trenes": [
       {
-        "id_tren": "hacía",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "lanzadera",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "en",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "quedó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "fue",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "funcionaron",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "está",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "engancha",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "inicia",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "era",
+        "id_tren": "27141",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -689,7 +493,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 11 de julio de 2014 a las 20:33 horas el tren 27141 de cercanías (línea C-8B) de la empresa \nferroviaria Renfe Operadora, procedente de Madrid Chamartín y destino Cercedilla, arrolla en la \nestación de Mataespesa de Alpedrete a una niña que cruzaba en bicicleta por el paso entre andenes \nsituado enfrente del edificio de viajeros de dicha estación. El tren hacía su entrada por la vía 1 y se \ndisponía a realizar parada comercial. \nComo consecuencia del arrollamiento resulta fallecida la niña que cruzaba por el paso entre andenes. \nConclusión: El accidente se produjo por la invasión del gálibo de la vía por la víctima, al cruzar por el \npaso entre andenes sin percatarse de la llegada del tren. \nRecomendaciones: \nDestinatario final \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad Ferroviaria \n(AESF) \n36/14-1 \nIniciar las gestiones encaminadas a la sustitución del \nactual paso entre andenes de la estación por un paso a \ndistinto nivel. \nAgencia Estatal de \nSeguridad Ferroviaria \n(AESF) \n36/14-2 \nMientras se mantenga el actual paso entre andenes, \ngestionar el refuerzo de la señalización del mismo, \ncolocando carteles que recuerden a los peatones la \nnecesidad de mirar y cerciorarse de que no se aproxima \nningún tren. \nAgencia Estatal de \nSeguridad Ferroviaria \n(AESF) \n36/14-3 \nImpulsar la actividad del grupo de trabajo sobre la \naccidentabilidad en estaciones de la AESF.",
+      "resumen": "El día 11 de julio de 2014 a las 20:33 horas el tren 27141 de cercanías (línea C-8B) de la empresa ferroviaria Renfe Operadora, procedente de Madrid Chamartín y destino Cercedilla, arrolla en la estación de Mataespesa de Alpedrete a una niña que cruzaba en bicicleta por el paso entre andenes situado enfrente del edificio de viajeros de dicha estación. El tren hacía su entrada por la vía 1 y se disponía a realizar parada comercial. Como consecuencia del arrollamiento resulta fallecida la niña que cruzaba por el paso entre andenes. Conclusión: El accidente se produjo por la invasión del gálibo de la vía por la víctima, al cruzar por el paso entre andenes sin percatarse de la llegada del tren. Recomendaciones: Destinatario final Recomendación Agencia Estatal de Seguridad Ferroviaria Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel. Agencia Estatal de Seguridad Ferroviaria Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren. Agencia Estatal de Seguridad Ferroviaria Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF.",
       "factores_humanos": "Por parte de Renfe Operadora \nEl maquinista del tren 27141, con matrícula 1347053.\n\nEl maquinista del tren 27141 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 11.09.1987. \n\nDE FOMENTO \nnº 0036/2014 ocurrido el 11.07.2014 \nDE ACCIDENTES \nRealizó su último reciclaje formativo el 04.04.2014 y su último reconocimiento médico y psicotécnico el \n01.04.2013, conforme a la normativa vigente.\n\nJornada laboral del maquinista del tren 27141: \n- el día 11: 7 horas y 35 minutos (4 horas y 37 minutos de conducción efectiva), \n- el día 10: descanso, \n- el día 9: descanso. \nAl maquinista, el día 12 de julio a las 00:10 horas, se le realizan pruebas de alcoholemia y drogas con \nresultado negativo en ambas.",
       "infraestructura": "Por parte de Renfe Operadora \nEl maquinista del tren 27141, con matrícula 1347053.\n\nTren de cercanías 27141, compuesto por automotor eléctrico de la serie 450 (6 coches M-R-R-R-R-M), \nuna longitud de 159 metros y un peso de 481 toneladas. \nTipo 140 (velocidad máxima 140 km/h según el libro horario del tren). \nNº UIC: 967194500187.\n\nLa línea 110 Segovia a Villalba de Guadarrama dispone de vía única electrificada de ancho ibérico. \nLa circulación se realiza al amparo de Bloqueo Automático de vía única (BAU) con CTC y dependiente \ndel puesto de mando de Madrid Chamartín. \nLa velocidad máxima en el trayecto que incluye la estación de Mataespesa de Alpedrete es de 90 km/h \nsegún se indica en el cuadro de velocidades máximas. \nLa estación de Mataespesa de Alpedrete está situada en el PK 4+569 de la línea 110 Segovia a Villalba \nde Guadarrama. \nLa alineación es en curva hacia la izquierda según el sentido de circulación hacia Segovia. La visibilidad \npor el lado Villalba de Guadarrama es reducida (menos de 150 metros) al discurrir la vía en trinchera \nhasta el comienzo del andén. \nLa estación cuenta con una vía general (vía 1) y una vía de apartado (vía 2). Por el andén de la vía 1 \nse accede al paso entre andenes mediante una rampa delimitada por dos barandillas y de trazado \nperpendicular a la vía 1. El paso entre and\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos) Tomo II de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Villalba de Guadarrama - Cercedilla, tramo al que pertenece \nel punto kilométrico donde suceden los hechos, es de 316. \nEstas circulaciones se desglosan en: 89 de media distancia, 224 de cercanías y 3 de servicio.\n\nSe interrumpe la circulación desde las 20:40 hasta las 23:30 horas entre las estaciones de Villalba de \nGuadarrama y Collado Mediano. Los trenes de la línea de cercanías C-8B Madrid – Villalba - \nCercedilla rotan en la estación de Villalba y se crea un tren lanzadera entre las estaciones de \nCercedilla y Col"
     },
@@ -697,28 +501,28 @@
     "recomendaciones": [
       {
         "numero": "36/14-1",
-        "implementador": "",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "Iniciar las gestiones encaminadas a la sustitución del"
+        "texto": "Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel. Agencia Estatal de Seguridad Ferroviaria (AESF)"
       },
       {
         "numero": "36/14-2",
-        "implementador": "",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "Mientras se mantenga el actual paso entre andenes,"
+        "texto": "Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren. Agencia Estatal de Seguridad Ferroviaria (AESF)"
       },
       {
         "numero": "36/14-3",
-        "implementador": "",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "Impulsar la actividad del grupo de trabajo sobre la"
+        "texto": "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF. Madrid, 25 de mayo de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Víctimas mortales y heridos ............................................................................................................................. 12"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -761,11 +565,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/150525140711IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/150525140711IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "bb0029505affa91b9e61505759c27475",
-    "fecha_parseo": "2026-06-26T12:47:11.202454"
+    "fecha_parseo": "2026-06-26T13:18:34.464954"
   },
   {
     "id": "2014-150922140806IFCIAF",
@@ -783,19 +587,8 @@
     },
     "trenes": [
       {
-        "id_tren": "está",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circulaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "en",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "de",
+        "id_tren": "922",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -805,7 +598,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 6 de agosto de 2014 a las 22:05 horas, el maquinista del tren 922 de larga distancia (locomotora \n252 y 28 coches) de la empresa ferroviaria Renfe Viajeros, procedente de Barcelona Sants y destino \nVigo, informa al CRC que se ha detenido en el PK 390+500, en plena vía en el trayecto Ballobar – \nPeñalba de la línea 050 Madrid – Puerta de Atocha a Límite Adif TP-Ferro, por una avería. Una vez el \ntren está detenido el maquinista informó de que se había producido un incendio en el pasillo de la \nlocomotora y que no podía apagarlo. Para sofocar el incendio se movilizó personal de infraestructuras \nde Adif, personal de Renfe Viajeros, servicios de emergencia y bomberos. \nNo se producen daños personales como consecuencia del accidente, pero sí cuantiosos daños en la \ninfraestructura y en la locomotora. \nConclusión: El accidente se produjo por fallo del material rodante, al producirse un \nsobrecalentamiento en uno de los conectores del conmutador del sistema Q1 de la locomotora, \ngenerándose arcos eléctricos como consecuencia de un defecto en el apriete de dicho conector. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nRenfe Operadora \n(entidad \nencargada del \nmantenimiento) \n41/14-1 \nReconsiderar el plan de mantenimiento de \nlas \nlocomotoras \n252 \nAlta \nVelocidad \nincorporando \nal \nmismo, \nen \nlas \nintervenciones de mantenimiento que se \nconsideren adecuadas, la verificación del \nestado del apriete de los conectores del \nconmutador del sistema Q1, dejando \nregistro documental de dicha operación. \nAsimismo \nse \nrealizarán, \nen \nlas \nintervenciones de mantenimiento que se \nconsideren adecuadas, una inspección \nvisual para verificar la ausencia de fugas \nde aceite en la zona del conexionado del \ntransformador principal. \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nRenfe Operadora \n(entidad \nencargada del \nmantenimiento) \n41/14-2 \nMejorar el sistema de detección de incendio \ninstala",
+      "resumen": "El día 6 de agosto de 2014 a las 22:05 horas, el maquinista del tren 922 de larga distancia (locomotora 252 y 28 coches) de la empresa ferroviaria Renfe Viajeros, procedente de Barcelona Sants y destino Vigo, informa al CRC que se ha detenido en el PK 390+500, en plena vía en el trayecto Ballobar – Peñalba de la línea 050 Madrid – Puerta de Atocha a Límite Adif TP-Ferro, por una avería. Una vez el tren está detenido el maquinista informó de que se había producido un incendio en el pasillo de la locomotora y que no podía apagarlo. Para sofocar el incendio se movilizó personal de infraestructuras de Adif, personal de Renfe Viajeros, servicios de emergencia y bomberos. No se producen daños personales como consecuencia del accidente, pero sí cuantiosos daños en la infraestructura y en la locomotora. Conclusión: El accidente se produjo por fallo del material rodante, al producirse un sobrecalentamiento en uno de los conectores del conmutador del sistema Q1 de la locomotora, generándose arcos eléctricos como consecuencia de un defecto en el apriete de dicho conector. Recomendaciones: Destinatario Implementador Recomendación Agencia Estatal de Ferroviaria (AESF) Renfe Operadora encargada del mantenimiento) Reconsiderar el plan de mantenimiento de locomotoras incorporando intervenciones de mantenimiento que se consideren adecuadas, la verificación del estado del apriete de los conectores del conmutador del sistema Q1, dejando registro documental de dicha operación. realizarán, intervenciones de mantenimiento que se consideren adecuadas, una inspección visual para verificar la ausencia de fugas de aceite en la zona del conexionado del transformador principal. Agencia Estatal de Ferroviaria (AESF) Renfe Operadora encargada del mantenimiento) Mejorar el sistema de detección de incendio instalado en estas locomotoras, para que dicho sistema sea capaz de detectar el inicio de incendios de similar naturaleza. SUBSECRETARÍA Investigación del accidente nº 0041/2014 ocurrido el 06.0",
       "factores_humanos": "Por parte de Renfe Viajeros \nEl maquinista del tren de viajeros de larga distancia 922, con matrícula 977097.\n\nEl maquinista del tren 922 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nTiene una antigüedad en el cargo desde el 26.09.1986. \n\nDE FOMENTO \nnº 0041/2014 ocurrido el 06.08.2014 \nDE ACCIDENTES \nRealizó su último reciclaje formativo el 10.01.2014 y su último reconocimiento médico y psicotécnico el \n16.06.2014, conforme a la normativa vigente.\n\nA las 22:30 horas se suspende la circulación por la vía II entre Valfarta y Vallmanya y a las 23:15 \nhoras se suspende también por la vía I. Queda posteriormente interrumpida la circulación entre \nZaragoza y Lleida. \nEl tren 922 fue remolcado por una locomotora diésel hasta Ballobar.\n\nJornada de conducción del maquinista del tren 922: \n- el día 6: 3 horas y 22 minutos; \n- el día 5: 4 horas y 54 minutos; \n- el día 4: 3 horas y 36 minutos. \nAl maquinista, el día del accidente, no se le realiza prueba de alcoholemia.\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por fallo del material rodante, al producirse un sobrecalentamiento en uno de \nlos conectores del conmutador del sistema Q1 de la locomotora, generándose arcos eléctricos como \nconsecuencia de un defecto en el apriete de dicho conector. \nComo factor coadyuvante se apunta que los detectores de incendio instalados en la locomotora se ubican \nen una posición que no fue capaz de detectar el inicio del incendio, dando lugar a que éste progresase.\n\ny el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn ninguna intervención de mantenimiento se comprueba el estado de apriete de los conectores del \nconmutador del sist",
       "infraestructura": "Por parte de Renfe Viajeros \nEl maquinista del tren de viajeros de larga distancia 922, con matrícula 977097.\n\nEl PK 390+500 donde se inicia el incendio pertenece al trayecto entre Ballobar – Peñalba de la línea \n050 Madrid Puerta de Atocha – Límite Adif TP Ferro. \nSe trata de una vía doble electrificada de ancho UIC. La circulación se realizaba con bloqueo de \nseñalización lateral (BSL) y con sistema ERTMS gestionado desde el CRC de Zaragoza. \nLa línea 050 entre el apartadero de Vallmanya y Peñalba, sentido de la marcha del tren 922, transcurre \nhasta el cruce con el río Cinca por un terreno llano. Después del paso del puente del río Cinca, se \nencuentra el túnel de las Hechiceras con un perfil en rampa de 24,9 milésimas, en sentido Zaragoza, y \ncon una longitud de tres kilómetros. \nUna vez superado el túnel se accede a la zona de Los Monegros, donde el primer apartadero es el de \nBallobar (PK 396+800) y a continuación el puesto de bloqueo en línea (PBL) de Peñalba (PK 384+720). \nSe alternan tramos en rampa y pendiente con valores máximos de 25 milésimas. Es en este tramo \ndonde se encuentra e\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, \nla media semanal de circulaciones del tramo Valfarta - Vallmanya, tramo donde se produce el \nsuceso, es de 459. \nEstas circulaciones se desglosan en: 449 de larga distancia; 1 de media distancia y 9 de servicio.\n\nLas instalaciones técnicas funcionaron correctamente. \nSe solicitaron datos de la energía eléctrica que fue suministrada por el equipo de energía al tren y se \nverifica que en el periodo comprendido entre las 22:01:31 y las 22:13:28 horas, se producen unos \nsuministros eléctricos del orden de 233 A y 27.500 V que se consideran normales.\n\nREGISTRADOR DE SEGURIDAD \nDebido al incendio no se pudieron extraer datos de la locomotora del tren, al destruir el incendio las \ntarjetas del equipo SIBAS y dañar la tarjeta del equipo registrador DEUTA de la cabina. \nSISTEMA DE DETECC"
     },
@@ -813,22 +606,22 @@
     "recomendaciones": [
       {
         "numero": "41/14-1",
-        "implementador": "",
+        "implementador": "Renfe",
         "destinatarios": "",
-        "texto": "Reconsiderar el plan de mantenimiento de"
+        "texto": "Reconsiderar el plan de mantenimiento de las locomotoras Alta Velocidad incorporando al mismo, en las intervenciones de mantenimiento que se consideren adecuadas, la verificación del estado del apriete de los conectores del conmutador del sistema Q1, dejando registro documental de dicha operación. Asimismo se realizarán, en las intervenciones de mantenimiento que se consideren adecuadas, una inspección visual para verificar la ausencia de fugas de aceite en la zona del conexionado del transformador principal. Agencia Estatal de Seguridad Ferroviaria (AESF) Renfe Operadora (entidad encargada del mantenimiento)"
       },
       {
         "numero": "41/14-2",
-        "implementador": "",
+        "implementador": "Renfe",
         "destinatarios": "",
-        "texto": "Mejorar el sistema de detección de incendio"
+        "texto": "Mejorar el sistema de detección de incendio instalado en estas locomotoras, para que dicho sistema sea capaz de detectar el inicio de incendios de similar naturaleza. Madrid, 22 de septiembre de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Víctimas mortales y heridos ............................................................................................................................. 12"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -883,11 +676,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/150922140806IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/150922140806IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "5b390d6446a9c61857f04d9c84e05af4",
-    "fecha_parseo": "2026-06-26T12:47:11.607857"
+    "fecha_parseo": "2026-06-26T13:18:34.943643"
   },
   {
     "id": "2014-151022140811IFCIAF",
@@ -905,55 +698,13 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
+        "id_tren": "4087",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "corrió",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tipo",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "Alvia",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "pisa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "sobrepasa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "reanuda",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "funcionaron",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "pasó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "quedó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "pasa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circulaba",
+        "id_tren": "7631",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -963,7 +714,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 11 de agosto de 2014 a las 11:06 horas, se estaban realizando trabajos en el apartadero de \nPancorbo (Burgos) en la vía 1 a la altura de los cambios 5 y 7. El tren de larga distancia 4087 de la \nempresa ferroviaria Renfe Viajeros realizó parada de emergencia a la entrada del apartadero de \nPancorbo (Burgos), lado Madrid, al realizarle unos operarios señales de parada a mano para que \ndetuviera la marcha. Dichos operarios se encontraban trabajando en el cambio nº 5. Los trabajos se \nrealizaban al amparo de la consigna ATO nº 38 y del punto 223 del acta semanal de trabajos. \nComo consecuencia del incidente no se produjeron daños personales ni materiales. \nConclusión: El suceso se produjo por fallo humano del encargado de los trabajos, al devolver al CTC \nla vía 1 del apartadero de Pancorbo cuando aún continuaban trabajando operarios en la aguja 5. Ello \nvino motivado al considerar el encargado de trabajos que los operarios que se encontraban en la aguja \n5 no estaban bajo su responsabilidad y además que el trabajo de éstos no afectaba a la vía 1, debido \na que el encargado de trabajos desconocía el alcance del punto 223 del acta semanal de trabajos. \nComo factor coadyuvante se apunta el hecho de que el equipo de trabajo de la aguja nº 5 tampoco \ncolocó los útiles de cortocircuitado ni las señales portátiles de parada, lo que hubiera detenido el tren, \nincumpliéndose el artículo 343 del RGC. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAdif \n42/14-1 \nRealizar \nuna \ncampaña \nde \ncontrol \nespecífica para comprobar la correcta \ncumplimentación de las actas semanales \nde trabajo en el área operativa (gerencia) \ndel ámbito de Pancorbo (Burgos). \nAESF \nAdif \n42/14-2 \nRealizar \nuna \ncampaña \nde \ncontrol \nespecífica para comprobar el adecuado \nconocimiento de la normativa a aplicar \npor parte de los encargados de trabajo en \nel área operativa (gerencia) del ámbito de \nPancorbo (Burgos).\n\nDE FOMENTO \nnº 0042/2014 ocurrido el 11.08.2",
+      "resumen": "El día 11 de agosto de 2014 a las 11:06 horas, se estaban realizando trabajos en el apartadero de Pancorbo (Burgos) en la vía 1 a la altura de los cambios 5 y 7. El tren de larga distancia 4087 de la empresa ferroviaria Renfe Viajeros realizó parada de emergencia a la entrada del apartadero de Pancorbo (Burgos), lado Madrid, al realizarle unos operarios señales de parada a mano para que detuviera la marcha. Dichos operarios se encontraban trabajando en el cambio nº 5. Los trabajos se realizaban al amparo de la consigna ATO nº 38 y del punto 223 del acta semanal de trabajos. Como consecuencia del incidente no se produjeron daños personales ni materiales. Conclusión: El suceso se produjo por fallo humano del encargado de los trabajos, al devolver al CTC la vía 1 del apartadero de Pancorbo cuando aún continuaban trabajando operarios en la aguja 5. Ello vino motivado al considerar el encargado de trabajos que los operarios que se encontraban en la aguja 5 no estaban bajo su responsabilidad y además que el trabajo de éstos no afectaba a la vía 1, debido a que el encargado de trabajos desconocía el alcance del punto 223 del acta semanal de trabajos. Como factor coadyuvante se apunta el hecho de que el equipo de trabajo de la aguja nº 5 tampoco colocó los útiles de cortocircuitado ni las señales portátiles de parada, lo que hubiera detenido el tren, incumpliéndose el artículo 343 del RGC. Recomendaciones: Destinatario Implementador Recomendación específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos). específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos). SUBSECRETARÍA Investigación del incidente nº 0042/2014 ocurrido el 11.08.2014 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS 151022-140811-IF-CIAF Pág. 6 de 23",
       "factores_humanos": "Por parte de Adif \nEl encargado de trabajos, con matrícula 8893406. \nEl jefe de equipo de instalaciones de seguridad mecánicas, con matrícula 8887267. \nEl jefe del CTC, con matrícula 7779028. \nPor parte de Renfe Viajeros \nEl maquinista del tren 4087, con matrícula 8659336.\n\nNo se produjeron víctimas mortales ni heridos.\n\nPor parte de Adif \nEl encargado de trabajos de electrificación en la estación de Pancorbo está habilitado conforme a la \nOrden FOM/2872/2010, de 5 de noviembre por la que se determinan las condiciones para la obtención \nde títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario \nrelacionadas con la seguridad. \nRealizó su último reciclaje formativo el 07.05.2014 y su último reconocimiento médico y psicotécnico el \n18.12.2010, conforme a la normativa vigente. \nEl jefe de equipo de instalaciones de seguridad mecánicas, está habilitado conforme a la Orden \nFOM/2872/2010, de 5 de noviembre por la que se determinan las condiciones para la obtención de \ntítulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas \ncon la seguridad. \nRealizó su último reciclaje formativo el 05.05.2014 y su último reconocimiento médico y psicotécnico el \n18.10.2013, conforme a la normativa vigente. \nEl jefe responsable de circulac\n\nJornada de trabajo del encargado de los trabajos: \n- el día 11: 8 horas, \n- el día 10: 8 horas, \n- el día 9: 8 descanso. \nJornada laboral del maquinista del tren 4087: \n- el día 11: 4 horas y 35 minutos, \n- el día 10: 6 horas, \n- el día 9: 5 horas.\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl suceso se produjo por fallo humano del encargado de los trabajos, al devolver al CTC la vía 1 del \napartadero de Pancorbo cuando aún continuaban trabajando operarios en la aguja 5. Ello vino \n\nDE FOMENTO \nnº 0042/2014 ocurrido el 11.08.2014 \nDE ACCIDENTES \nmotivado al considerar el encargado",
       "infraestructura": "Por parte de Adif \nEl encargado de trabajos, con matrícula 8893406. \nEl jefe de equipo de instalaciones de seguridad mecánicas, con matrícula 8887267. \nEl jefe del CTC, con matrícula 7779028. \nPor parte de Renfe Viajeros \nEl maquinista del tren 4087, con matrícula 8659336.\n\nEl incidente ocurre en el apartadero de Pancorbo (PK 439+576), lado Madrid, de la línea 100 Madrid \nHendaya. Concretamente en el desvío 5 (PK 437+301) que da acceso a la futura terminal TELOF de \nPancorbo. Es un trazado en vía doble electrificada en ancho ibérico con bloqueo automático banalizado \n(BAB) y control de tráfico centralizado (CTC) desde el puesto de mando de Miranda. \n\nDE FOMENTO \nnº 0042/2014 ocurrido el 11.08.2014 \nDE ACCIDENTES \nEl trazado en la zona del incidente es un tramo recto de 328 metros, con una pendiente del 4,9 ‰ \nsegún el sentido de la marcha del tren 4087. \nSegún consigna serie B número 8 en vigor desde el 1 de agosto de 2014, existía una limitación \ntemporal de velocidad (LTV) a 30 km/h entre los PKs 437+250 y 437+450 que abarcaba el ámbito del \nescape 1/3 y el cambio 5.\n\nNo se produjeron víctimas mortales ni heridos.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Briviesca - Pancorbo, tramo al que pertenece el PK donde \nsuceden los hechos, es de 341. \nEstas circulaciones se desglosan en: 131 de larga distancia, 59 de media distancia, 146 de mercancías \ny 5 de servicio.\n\nANÁLISIS DEL VIDEOGRÁFICO DEL CTC \nDel análisis del videográfico del CTC se observa que a las 11:03:29 horas el tren 4087 ocupa el \ncircuito de vía de la señal E’1 estando ésta en anuncio de parada. \nA las 11:03:55 horas el tren pisa la señal E’1 que se encuentra en indicación de anuncio de parada. \nA las 11:03:58 horas la señal E1 que se encontraba en indicación de parada pasa a indicar vía libre. \nA las 11:06:07 horas el tren sobrepasa la señal E1. A las 11:06:26 libera el circuito E1 y se detiene \nantes "
     },
@@ -971,22 +722,22 @@
     "recomendaciones": [
       {
         "numero": "42/14-1",
-        "implementador": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAdif",
+        "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Realizar \nuna \ncampaña \nde \ncontrol \nespecífica para comprobar la correcta \ncumplimentación de las actas semanales \nde trabajo en el área operativa (gerencia) \ndel ámbito de Pancorbo (Burgos). \nAESF"
+        "texto": "Realizar una campaña de control específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos). AESF Adif"
       },
       {
         "numero": "42/14-2",
         "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Realizar \nuna \ncampaña \nde \ncontrol \nespecífica para comprobar el adecuado \nconocimiento de la normativa a aplicar \npor parte de los encargados de trabajo en \nel área operativa (gerencia) del ámbito de \nPancorbo (Burgos)."
+        "texto": "Realizar una campaña de control específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos). Madrid, 22 de octubre de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................ 10"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1025,11 +776,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/151022140811IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/151022140811IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "22214851d0356f2f66a2c56692ff1822",
-    "fecha_parseo": "2026-06-26T12:47:11.968950"
+    "fecha_parseo": "2026-06-26T13:18:35.301855"
   },
   {
     "id": "2014-150803140831IFCIAF",
@@ -1047,71 +798,8 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "en",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "SE",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "DE",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tipo",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tierra",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "directamente",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "no",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "que",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "su",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "pasa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "queda",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "autopropulsado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "lleva",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "por",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "montado",
+        "id_tren": "632",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -1121,7 +809,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "nto del \nsistema de desenclavamiento y con las siguientes fuerzas:\n\nRueda 1 (descarrilada) \nRueda 2 \nMáximo esfuerzo de estándar a ibérico \n218 kg \n126 kg \nMáximo esfuerzo de ibérico a estándar \n124 kg \n115 kg",
+      "resumen": "El día 31 de agosto de 2014 a las 16:14 horas se produce el descarrilamiento del tren de viajeros de larga distancia 632 de la empresa ferroviaria Renfe Operadora, al efectuar su paso por el cambiador de ancho de Zaragoza Delicias de la línea 060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias. El cambio de ancho de estándar a ibérico se realiza correctamente por los 15 primeros ejes del tren 632 (rama 120004) pero la rueda derecha del eje 16, aunque se desencerroja la palanca del dispositivo de seguridad del cambio de ancho, no realiza su traslación axial debido al agarrotamiento del semiacoplamiento causado por una insuficiente lubricación, al estar degradada la grasa por existir deterioro de la junta. El tren 632 queda detenido en el cambiador de ancho con la mencionada rueda descarrilada. No se produjeron víctimas. Conclusión: El descarrilamiento se produce por fallo del material móvil, concretamente del sistema de cambio de ancho de la rueda derecha del último eje de la composición, en el sentido de la marcha del tren, que no realiza la traslación axial para el cambio de ancho debido al agarrotamiento del sistema cónico dentado, generado por la degradación de la grasa al estar contaminada por encontrarse la junta (rascador) desgastada, no siendo totalmente estanca. Recomendaciones: Destinatario Implementador Recomendación Agencia Estatal de Ferroviaria (AESF) Renfe Operadora encargada del mantenimiento) Incluir en el plan de mantenimiento la sustitución sistemática (rascador) en los ciclos operativos GVG (1.200.000 kilómetros) y superiores. Dicha sustitución también se llevará a cabo en aquellas operaciones donde se realice el desmontaje del sistema de acoplamiento. Agencia Estatal de Ferroviaria (AESF) Renfe Operadora encargada del mantenimiento) Seguimiento investigaciones modificación rascadores y nuevo dentado del sistema de cambio de ancho. Plan de implantación del resultado de las mismas. SUBSECRETARÍA Investigación del acciden",
       "factores_humanos": "Por parte de Renfe Operadora \nEl maquinista del tren de viajeros de larga distancia 632, con matrícula 9754425. \nPor parte de Adif \nEl agente encargado del cambiador.\n\nSe dispone del documento denominado manual de conducción de la serie 120 que señala las \nindicaciones y comprobaciones durante el proceso del cambio de ancho. \nLa velocidad para realizar el cambio de ancho para trenes de la serie 120 debe ser inferior a 15 km/h, \nsegún el manual de conducción de los vehículos. \nLas instalaciones especializadas asociadas al cambiador de ancho tales como plataforma TALGO y CAF, \nasí como los elementos de mando local de las mismas, están a cargo de un agente de mantenimiento. \nLa coordinación entre éste y los Jefes de CTC para la disposición en el cambiador de la plataforma \ncorrespondiente al tren que debe realizar el cambio de ancho se asegura mediante el intercambio de \ntelefonemas. Asimismo, en caso de limitación o restricciones en la operatividad y uso de estas \ninstalaciones, ya sea por avería o por cualquier otra causa, corresponderá al agente de mantenimiento \ndeterminar y notificar a los Jefes de CTC las condiciones de explotación de las mismas. \n\nEl maquinista del tren 632 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \n\nDE FOMENTO \nnº 0044/2014 ocurrido el 31.08.2014 \nDE ACCIDENTES \nÉste tiene una antigüedad en el cargo desde el 02.01.2007. \nRealizó su último curso de reciclaje el 20.11.2012 y su último reconocimiento médico y psicotécnico el \n20.05.2010, conforme a la normativa vigente.\n\nSe establece plan alternativo de transporte, desviando los trenes al cambiador de ancho de Plasencia de \nJalón. Los trenes desviados fueron: 530, 10943, 10631, 10657, 625, 537, 10251, 10562, 10922 y 922.\n\nJornada laboral del maquinista del tren 632: \n- e",
       "infraestructura": "Por parte de Renfe Operadora \nEl maquinista del tren de viajeros de larga distancia 632, con matrícula 9754425. \nPor parte de Adif \nEl agente encargado del cambiador.\n\nEl cambiador de ancho de Zaragoza Delicias se encuentra situado en la línea 060 Bifurcación \nCambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias. \n\nDE FOMENTO \nnº 0044/2014 ocurrido el 31.08.2014 \nDE ACCIDENTES \nEn éste se produce la transición de bloqueo automático de vía única (BAU) electrificada con CTC y \nancho ibérico (1.668 mm) [lado Valladolid] a bloqueo de señalización lateral (BSL) y ancho estándar \n(1.435 mm) [lado Barcelona]. \nEl cambiador de ancho de vía de Zaragoza Delicias dispone de plataformas independientes para las \noperaciones de cambio de ancho para material Talgo y CAF. \nLas instalaciones del cambiador están a cargo de dos agentes encargados del mantenimiento que \nsupervisan in situ el proceso de cambio de ancho de cada uno de los ejes.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif Circulación, la \nmedia semanal de circulaciones del tramo CIM-Aguja km 337.1 a Cambiador Zaragoza Delicias, tramo \nal que pertenece el cambiador donde sucede el accidente, es de 118. \nEstas circulaciones se desglosan en: 116 de larga distancia y 2 de media distancia. \n\nDE FOMENTO \nnº 0044/2014 ocurrido el 31.08.2014 \nDE ACCIDENTES\n\nSistema de control de mando y señalización \nEl cambiador de ancho de Zaragoza Delicias se encuentra situado en el PK 337+395 de la línea de ancho \nibérico 290 CIM - aguja km 337,1 a Cambiador de Zaragoza Delicias, cuyo origen está en la aguja nº 17 \n(PK 337+073) de la estación del CIM de Zaragoza. Asimismo se sitúa en el PK 305+745 de la línea de \nancho estándar 060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias, cuyo \norigen está en el desvío D2 ZAR 4 (PK 305+305) de la estación de Zaragoza Delicias. \nLas instalaciones de seguridad de los accesos al cambiador por el lado de ancho ibérico estaban "
     },
@@ -1129,28 +817,28 @@
     "recomendaciones": [
       {
         "numero": "44/14-1",
-        "implementador": "",
+        "implementador": "Renfe",
         "destinatarios": "",
-        "texto": "Incluir en el plan de mantenimiento la"
+        "texto": "Incluir en el plan de mantenimiento la sustitución sistemática de la junta (rascador) en los ciclos operativos GVG (1.200.000 kilómetros) y superiores. Dicha sustitución también se llevará a cabo en aquellas operaciones donde se realice el desmontaje del sistema de acoplamiento. Agencia Estatal de Seguridad Ferroviaria (AESF) Renfe Operadora (entidad encargada del mantenimiento)"
       },
       {
         "numero": "44/14-2",
-        "implementador": "",
+        "implementador": "Renfe",
         "destinatarios": "",
-        "texto": "Seguimiento de las investigaciones relativas"
+        "texto": "Seguimiento de las investigaciones relativas a la modificación de los rascadores y nuevo dentado del sistema de cambio de ancho. Plan de implantación del resultado de las mismas. Agencia Estatal de Seguridad Ferroviaria (AESF) Renfe Operadora (entidad encargada del mantenimiento)"
       },
       {
         "numero": "44/14-3",
-        "implementador": "",
+        "implementador": "Renfe",
         "destinatarios": "",
-        "texto": "Terminar"
+        "texto": "Terminar de implantar todas las modificaciones en la realización de la operación de medición de fuerzas de traslación en el cambio de ancho establecidas en el punto 5 del Informe Final. Modificar la documentación de mantenimiento correspondiente. Madrid, 14 de julio de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................ 11"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1217,11 +905,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/150803140831IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/150803140831IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "47534f8724641d502f42802f0ba6a4fe",
-    "fecha_parseo": "2026-06-26T12:47:11.388013"
+    "fecha_parseo": "2026-06-26T13:18:34.698521"
   },
   {
     "id": "2014-151124140902IFCIAF1",
@@ -1239,47 +927,8 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circulaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "recorre",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "detenido",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "accidentado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "había",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "quedó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "ocasiona",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "entra",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "cuando",
+        "id_tren": "9656",
+        "tipo": "mercancías",
         "descripcion": ""
       }
     ],
@@ -1290,7 +939,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho \nmétrico (SAM) de la empresa ferroviaria Renfe Mercancías, procedente de Santander y destino El \nBerrón, detiene su marcha en el PK 451+450 de la línea RAM 770 Santander – Oviedo, tras haber \ncirculado descarrilado 107 metros. Descarrilaron los dos bogies traseros de ambas locomotoras por \nremonte del carril. \nComo consecuencia del accidente no hubo víctimas mortales ni heridos. \nConclusión: El accidente se produjo por la existencia de defectos en la geometría de la vía, \nconcretamente alabeos, ocasionados por un drenaje insuficiente de la plataforma. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif (RAM) \n51/14-1 \nImpulsar \nla \nejecución \ndel \nproyecto \n“Segunda intervención en refuerzo de \nasentamientos Colombres” con el objeto \nde restablecer las condiciones normales \nde circulación. \nMientras tanto se deberá mantener la \npertinente \nLTV \ny \nlas \nvisitas \nde \ninspección al tramo.",
+      "resumen": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho métrico (SAM) de la empresa ferroviaria Renfe Mercancías, procedente de Santander y destino El Berrón, detiene su marcha en el PK 451+450 de la línea RAM 770 Santander – Oviedo, tras haber circulado descarrilado 107 metros. Descarrilaron los dos bogies traseros de ambas locomotoras por remonte del carril. Como consecuencia del accidente no hubo víctimas mortales ni heridos. Conclusión: El accidente se produjo por la existencia de defectos en la geometría de la vía, concretamente alabeos, ocasionados por un drenaje insuficiente de la plataforma. Recomendaciones: Destinatario Implementador Recomendación Agencia Estatal de Ferroviaria (AESF) “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la inspección al tramo.",
       "factores_humanos": "Por parte de Renfe Mercancías \nEl maquinista del tren 9656, con matrícula 6961817.\n\nNo hubo heridos ni víctimas mortales.\n\nEl maquinista del tren 9656 se encuentra habilitado para la conducción de vehículos virtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal \naplicable a Feve. \nÉste tiene una antigüedad en el cargo desde el 19.01.2000. \nRealizó su último reciclaje formativo el 09.10.2012 y su último reconocimiento médico y psicotécnico el \n17.06.2014, conforme a la normativa vigente.\n\nJornada laboral del maquinista del tren 9656: \n- el día 2: 3 horas y 23 minutos (2 horas y 33 minutos de conducción efectiva), \n- el día 1: 7 horas y 10 minutos (5 horas y 45 minutos de conducción efectiva), \n- el día 31: 7 horas y 10 minutos (5 horas y 45 minutos de conducción efectiva). \nAl maquinista, el día 3 de septiembre a las 00:30 horas, se le realiza prueba de alcoholemia en aire \nespirado con resultado negativo (0,00 mg/1000 ml).\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por la existencia de defectos en la geometría de la vía, concretamente alabeos, \nocasionados por un drenaje insuficiente de la plataforma.\n\ny el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn la zona del accidente estaba establecida una LTV a 30 km/h por deformación de la vía por \ninestabilidad de la plataforma. Las labores de mantenimiento no fueron suficientes para restablecer las \ncondiciones adecuadas de circulación que llevase a la supresión de la LTV.",
       "infraestructura": "Por parte de Renfe Mercancías \nEl maquinista del tren 9656, con matrícula 6961817.\n\nEl descarrilamiento se produce en el PK 451+557 de la línea 770 RAM Santander - Oviedo, entre la \nestación de Unquera (Cantabria) y el apeadero de Colombres (Asturias). \nEl tramo discurre en vía única sin electrificar y con bloqueo telefónico. \nEl trazado en planta del lugar del accidente corresponde a la transición de entrada a una curva hacia la \nizquierda de radio 182 metros (según el sentido de la marcha). El descarrilamiento se produce \nprácticamente en el punto de tangencia con la curva circular. \n\nDE FOMENTO \nnº 0051/2014 ocurrido el 02.09.2014 \nDE ACCIDENTES \nEn cuanto al trazado en alzado del lugar del suceso, la vía discurre en trinchera y en rampa de \n12 milésimas. \nLa infraestructura de la vía está compuesta por carriles de 54 kg/ml en barra larga soldada, soportados \npor traviesas de hormigón monobloque y sujeción elástica tipo HM sobre balasto silíceo. \nLa velocidad máxima en el trayecto Llanes – Unquera es de 80 km/h, según la consigna Serie C \nnº 4/2011 DGI (Dirección G\n\nNo hubo heridos ni víctimas mortales.\n\nEl número medio de circulaciones diarias por la línea en el PK 451+557 es de 10 trenes.\n\nREGISTRADOR DE SEGURIDAD \nDel análisis del registrador de seguridad del tren 9656, ubicado en la locomotora 1908 que circulaba \nen cabeza, se determina que: \n- \nA las 21:08:48 (hora del registrador) el tren se encuentra por la zona de la limitación temporal de \nvelocidad a 30 km/h, circulando a 24 km/h y con velocidad descendente. \n- \nA las 21:08: 52 horas, el maquinista aplica tracción. \n- \nA las 21:09:51 horas se produce el descarrilamiento (PK 451+557) cuando el tren circulaba a 32 km/h. \n- \nA las 21:09:54 horas se desencadena la secuencia de arenado automático por patinaje, aplicación \nde freno neumático y aplicación de freno de emergencia de manera automática como \nconsecuencia de la desconexión del sistema ASFA por el maquinista. Esta desconexión se produjo \ncuando el t"
     },
@@ -1298,16 +947,16 @@
     "recomendaciones": [
       {
         "numero": "51/14-1",
-        "implementador": "",
+        "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Impulsar"
+        "texto": "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo. Madrid, 24 de noviembre de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................ 10"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1356,11 +1005,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/151124140902IFCIAF1.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/151124140902IFCIAF1.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "1b80ae9df3488e4ef14ba031e3506fc5",
-    "fecha_parseo": "2026-06-26T12:47:12.317567"
+    "fecha_parseo": "2026-06-26T13:18:35.685562"
   },
   {
     "id": "2014-150922140926IFCIAF",
@@ -1378,47 +1027,28 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
+        "id_tren": "97469",
+        "tipo": "mercancías",
         "descripcion": ""
       },
       {
-        "id_tren": "tierra",
+        "id_tren": "58425",
+        "tipo": "mercancías",
         "descripcion": ""
       },
       {
-        "id_tren": "SU101",
+        "id_tren": "87021",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "SU",
+        "id_tren": "97649",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "cercanías",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "para",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "respecto",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "que",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "CGR20",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "salió",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "detenido",
+        "id_tren": "87121",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -1430,7 +1060,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 26 de septiembre de 2014 a las 06:51 horas, en el PK 73+885 de la línea 100 Madrid \nChamartín a Hendaya, entre las estaciones de Santa María de la Alameda (Madrid) y Las Navas del \nMarqués (Ávila), se produce en la vía 1 la colisión por alcance de la locomotora aislada de la \nempresa ferroviaria Transfesa Rail, circulando en condiciones de marcha a la vista, con el vagón de \ncola del tren de mercancías 97469, de la empresa ferroviaria de Continental Rail, que se encontraba \ndetenido tras el tren de mercancías 58425 de Renfe Operadora, también detenido por haber sufrido \nun incendio su locomotora. \nComo consecuencia, el maquinista de la locomotora y un agente de conducción en prácticas que le \nacompañaba resultaron heridos leves. \nConclusión: El accidente se produce por fallo humano del personal de conducción de la locomotora \naislada, y más concretamente por un incumplimiento reglamentario del artículo 141.1 del RGC por parte \ndel personal de conducción, al no cumplimentarse adecuadamente la orden de “marcha a la vista”. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nTransfesa Rail \n52/14-1 \nInsistir en los cursos de reciclaje del \npersonal \nde \nconducción \nen \nel \ncumplimiento de las condiciones de \ncirculación con “marcha a la vista”.",
+      "resumen": "El día 26 de septiembre de 2014 a las 06:51 horas, en el PK 73+885 de la línea 100 Madrid Chamartín a Hendaya, entre las estaciones de Santa María de la Alameda (Madrid) y Las Navas del Marqués (Ávila), se produce en la vía 1 la colisión por alcance de la locomotora aislada de la empresa ferroviaria Transfesa Rail, circulando en condiciones de marcha a la vista, con el vagón de cola del tren de mercancías 97469, de la empresa ferroviaria de Continental Rail, que se encontraba detenido tras el tren de mercancías 58425 de Renfe Operadora, también detenido por haber sufrido un incendio su locomotora. Como consecuencia, el maquinista de la locomotora y un agente de conducción en prácticas que le acompañaba resultaron heridos leves. Conclusión: El accidente se produce por fallo humano del personal de conducción de la locomotora aislada, y más concretamente por un incumplimiento reglamentario del artículo 141.1 del RGC por parte del personal de conducción, al no cumplimentarse adecuadamente la orden de “marcha a la vista”. Recomendaciones: Destinatario Implementador Recomendación Transfesa Rail Insistir en los cursos de reciclaje del cumplimiento de las condiciones de circulación con “marcha a la vista”.",
       "factores_humanos": "Por parte de Renfe Operadora \nEl maquinista del tren de mercancías 58425. \nPor parte de Continental Rail \nEl maquinista del tren de mercancías 97469. \nPor parte de Transfesa Rail \nEl maquinista del tren SU101 (locomotora del tren de mercancías 87021), con matrícula\n\nResultan heridos de carácter leve, el maquinista del tren SU101 (locomotora aislada) y el agente en \nprácticas formativas que le acompañaba.\n\nEl maquinista del tren 87021 (SU101) posee el título B de conducción y está habilitado conforme a la \nOrden FOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de \nenero de 2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de \nnoviembre). \nÉste tiene una antigüedad en el cargo desde el 04.02.2010 y está habilitado en la línea 100 desde el\n\nJornada laboral del maquinista del tren 87021 (SU101): \n- el día 26: 7 horas y 21 minutos (4 horas y 3 minutos de conducción efectiva); \n- el día 25: descanso de 25 horas, desde las 22:30 h del día 24 hasta las 23.30 h del día 25; \n- el día 24:6 horas y 30 minutos (5 horas y 30 minutos de conducción efectiva).Descanso de 9 horas \ny 30 minutos (de 07:30 a 17:00 h) en Medina del Campo. Con el tren CGR20/VL: 5 horas y 30 \nminutos (4 horas y 40 minutos de conducción efectiva). \nAl maquinista no se le realizó la prueba de alcoholemia en los momentos posteriores al accidente, ya \nque fue evacuado al hospital. El 2 de octubre de 2014 al maquinista se le realiza el reconocimiento \nmédico de aptitud psicofísica, en una clínica de Madrid, y una prueba de consumo de drogas, cuyo \nresultado negativo. \n\nDE FOMENTO \nnº 0052/2014 ocurrido el 26.09.2014 \nDE ACCIDENTES \nJornada laboral del supervisor de circulación [responsable de circulación] de Madrid Chamartín: \n- el día 26: 8 horas (jornada desde l\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produce por fallo humano del ",
       "infraestructura": "Por parte de Renfe Operadora \nEl maquinista del tren de mercancías 58425. \nPor parte de Continental Rail \nEl maquinista del tren de mercancías 97469. \nPor parte de Transfesa Rail \nEl maquinista del tren SU101 (locomotora del tren de mercancías 87021), con matrícula\n\nEl punto donde ocurre la colisión se sitúa en el tramo comprendido entre las estaciones de Santa María \nde la Alameda y Las Navas del Marqués, de la línea 100 Hendaya a Madrid Chamartín, concretamente \nen el PK 73+885. En el tramo la circulación se realiza al amparo de bloqueo automático de vía doble \nbanalizada (BAB) con CTC. \nEl enclavamiento de Santa María de la Alameda es electrónico y la estación en el momento del suceso \ncarecía de personal de servicio, encontrándose la coordinación de la circulación y el gobierno de las \ninstalaciones a cargo del CTC de Madrid Chamartín. \nEn el sentido de la marcha, el trazado de la vía en la zona del suceso es en trinchera y curva a la \nizquierda, situándose el punto del suceso (PK 73+885) a unos 50 metros de la salida del túnel nº 6 \n(PK 73+679 al 73+832), también en curva. La zona de salida del túnel y la del suceso corresponden a \nuna rampa de 20,90 ‰. \nSegún el Cuadro de Velocidades Máximas, velocidad máxima permitida al paso por el lugar d\n\nResultan heridos de carácter leve, el maquinista del tren SU101 (locomotora aislada) y el agente en \nprácticas formativas que le acompañaba.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos) Tomo II de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Santa María de la Alameda – Herradón/Cañada, tramo al \nque pertenece el punto kilométrico donde suceden los hechos, es de 403. \nEstas circulaciones se desglosan en: 32 de larga distancia, 262 de media distancia, 89 de mercancías \ny 20 de servicio.\n\nTÉCNICAS ........................................................................................................................................................ 17\n\nSistema de control de mando y seña"
     },
@@ -1438,16 +1068,16 @@
     "recomendaciones": [
       {
         "numero": "52/14-1",
-        "implementador": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nTransfesa Rail",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "Insistir en los cursos de reciclaje del \npersonal \nde \nconducción \nen \nel \ncumplimiento de las condiciones de \ncirculación con “marcha a la vista”."
+        "texto": "Insistir en los cursos de reciclaje del personal de conducción en el cumplimiento de las condiciones de circulación con “marcha a la vista”. Madrid, 22 de septiembre de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................... 13"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1509,11 +1139,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/150922140926IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/150922140926IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "8c1be24fabfedc1c97975591e8db9b63",
-    "fecha_parseo": "2026-06-26T12:47:11.778843"
+    "fecha_parseo": "2026-06-26T13:18:35.112201"
   },
   {
     "id": "2014-151022140926IFCIAF",
@@ -1531,19 +1161,18 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
+        "id_tren": "25538",
+        "tipo": "viajeros",
         "descripcion": ""
       },
       {
-        "id_tren": "pasa",
+        "id_tren": "25568",
+        "tipo": "",
         "descripcion": ""
       },
       {
-        "id_tren": "respecto",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "antes",
+        "id_tren": "15045",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -1553,7 +1182,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 26 de septiembre de 2014 a las 16:46 horas en Barcelona Estació de França de la línea 200 \nMadrid Chamartín – Barcelona Estació de França (Barcelona), se produce un conato de colisión entre el \nmaterial vacío (maniobra UT470120) y el tren de viajeros 25538, ambos de la empresa ferroviaria \nRenfe Operadora (Rodalies), cuando el primero rebasa indebidamente la señal de salida S1/14 que se \nencontraba en indicación de parada. \nNo se producen heridos ni daños materiales como consecuencia del incidente. \nConclusión: El incidente se produce por fallo humano del personal de conducción del material vacío \n(maniobra UT470012), y más concretamente por un error en la percepción de la indicación de la señal \nS1/14 -que en todo momento indicó parada y el maquinista manifiesta verla en “rebase autorizado”-, \ndando lugar al rebase de la misma y al consecuente incumplimiento reglamentario. \nComo causa coadyuvante se apunta la falta de claridad y consecuentemente mal entendimiento entre \nel responsable de circulación y el maquinista del material vacío.\n\nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAESF \n53/14-1 \nConsiderando adecuadas las medidas \nadoptadas en este suceso se recomienda: \nQue se analice conjuntamente por el Adif \ny las empresas ferroviarias la existencia \nen otros puntos de la red de señales que \npresenten una situación similar a la del \npresente suceso (dificultad de percepción \nde su indicación por deslumbramiento) \nadoptando las medidas necesarias.\n\nDE FOMENTO \nnº 0053/2014 ocurrido el 26.09.2014 \nDE ACCIDENTES",
+      "resumen": "El día 26 de septiembre de 2014 a las 16:46 horas en Barcelona Estació de França de la línea 200 Madrid Chamartín – Barcelona Estació de França (Barcelona), se produce un conato de colisión entre el material vacío (maniobra UT470120) y el tren de viajeros 25538, ambos de la empresa ferroviaria Renfe Operadora (Rodalies), cuando el primero rebasa indebidamente la señal de salida S1/14 que se encontraba en indicación de parada. No se producen heridos ni daños materiales como consecuencia del incidente. Conclusión: El incidente se produce por fallo humano del personal de conducción del material vacío (maniobra UT470012), y más concretamente por un error en la percepción de la indicación de la señal S1/14 -que en todo momento indicó parada y el maquinista manifiesta verla en “rebase autorizado”-, dando lugar al rebase de la misma y al consecuente incumplimiento reglamentario. Como causa coadyuvante se apunta la falta de claridad y consecuentemente mal entendimiento entre el responsable de circulación y el maquinista del material vacío. Recomendaciones: Destinatario Implementador Recomendación Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias. SUBSECRETARÍA Investigación del incidente nº 0053/2014 ocurrido el 26.09.2014 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS 151022-140926-IF-CIAF Pág. 6 de 25",
       "factores_humanos": "Por parte de Adif \nResponsable de circulación, con matrícula 2837854 \nPor parte de Renfe Operadora \nEl maquinista del material vacío (maniobra UT470120), con matrícula 8875494. \nEl maquinista del tren de cercanías 25538, con matrícula 9690405.\n\nEl responsable de circulación está habilitado conforme a la Orden FOM/2872/2010, de 5 de noviembre, \npor la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el \nejercicio de las funciones del personal ferroviario relacionadas con la seguridad. \nRealizó su último reciclaje formativo el 24.04.2014 y su último reconocimiento médico y psicotécnico el \n19.06.2013, conforme a la normativa vigente. \nEl maquinista del material vacío (maniobra UT470120) posee el título B de conducción y está habilitado \nconforme a la Orden FOM/2520/2006, de 27 de julio (Título V – Personal de conducción - en vigor \nhasta el 11 de enero de 2019, en virtud de la disposición transitoria octava de la Orden \nFOM/2872/2010, de 5 de noviembre). \nTiene una antigüedad en el cargo desde el 09.04.2009, habilitación de la línea desde el 14.11.2013 y \ndel vehículo desde el 27.01.2006. \nRealizó su último reciclaje formativo el 22.11.2013 y su último reconocimiento médico y psicotéc\n\nJornada laboral del maquinista del material vacío (maniobra UT470120): \n- el día 26: 4 horas y 4 minutos, \n- el día 25: 7 horas, \n- el día 24: descanso. \nAl maquinista, el día del incidente en Barcelona a las 19:00 horas, se le realiza prueba de alcoholemia \nen aire espirado con resultado negativo. \nJornada laboral del maquinista del tren 25538: \n- el día 26: 2 horas y 14 minutos, \n- el día 25: descanso, \n- el día 24: descanso. \nAl maquinista, el día del incidente en Barcelona a las 20:20 horas, se le realiza prueba de alcoholemia \nen aire espirado con resultado negativo. \nJornada laboral del responsable de circulación: \n- el día 26: 2 horas y 45 minutos, \n- el día 25: 8 horas, \n- el día 24: descanso. \nAl responsable de circulación, el día del",
       "infraestructura": "Por parte de Adif \nResponsable de circulación, con matrícula 2837854 \nPor parte de Renfe Operadora \nEl maquinista del material vacío (maniobra UT470120), con matrícula 8875494. \nEl maquinista del tren de cercanías 25538, con matrícula 9690405.\n\nBarcelona Estació de França (PK 685+375) es una estación terminal de trenes de viajeros y final de la \nlínea 200 Madrid Chamartín – Barcelona Estació de França. \nDispone de 3 vías de acceso, realizándose la circulación al amparo de bloqueo automático de vía doble \nbanalizada (BAB) con control de tráfico centralizado (CTC). Existen en la estación dos grupos de vías, \nuno de ellos formado por las vías finalizadas en topera, numeradas de la 3 a la 19 - disponiendo de \nandén de la 3 a la 15 y sin andén de la 16 a la 19 que se utilizan para el apartado de material. Existe un \nsegundo grupo de 5 vías, denominadas “C”, y enfrentadas a las anteriores, usándose la C1 para realizar \nprácticamente todos los movimientos de maniobras; la C2, C3 y C4 pertenecen al lavado y se encuentran \nactualmente de baja por el mal estado de las mismas y la C5 se utiliza para el apartado del material. \nLa señal rebasada S1/14 (PK 685+128) es una señal baja con cuatro focos. Dispone de baliza de señal \npero no de \n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Bif. Clot – Barcelona Estació de França, tramo donde se \nproduce el incidente, es de 1.589. \nEstas circulaciones se desglosan en: 165 de larga distancia; 424 de media distancia, 998 de cercanías \ny 2 de servicio.\n\nTÉCNICAS .................................................................................................................................................14\n\nSeñal S1/14 \nSegún informe de Renfe Operadora, cuando inciden los rayos del sol sobre sus focos (en particular el \nblanco) parece que están encendidos. \nSistema de control de mando y señalización \nLas instalaciones técnicas funcionaron cor"
     },
@@ -1561,16 +1190,16 @@
     "recomendaciones": [
       {
         "numero": "53/14-1",
-        "implementador": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAESF",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "Considerando adecuadas las medidas \nadoptadas en este suceso se recomienda: \nQue se analice conjuntamente por el Adif \ny las empresas ferroviarias la existencia \nen otros puntos de la red de señales que \npresenten una situación similar a la del \npresente suceso (dificultad de percepción \nde su indicación por deslumbramiento) \nadoptando las medidas necesarias."
+        "texto": "Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias. Madrid, 22 de octubre de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................ 11"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1622,11 +1251,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/151022140926IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/151022140926IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "a6861a785bfb569f32c4ac4d4da9ec6b",
-    "fecha_parseo": "2026-06-26T12:47:12.216781"
+    "fecha_parseo": "2026-06-26T13:18:35.583450"
   },
   {
     "id": "2014-160628141011IFCIAF",
@@ -1642,108 +1271,24 @@
       "lat": 43.2833,
       "lng": -2.95
     },
-    "trenes": [
-      {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circula",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "continúa",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circulaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "CGX32",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circuló",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tipo",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "descarrilado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "dado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "queda",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "reanuda",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "CGS32",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "reinicia",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "alcanza",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "quedó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "GSX32",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "era",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "auscultador",
-        "descripcion": ""
-      }
-    ],
+    "trenes": [],
     "entidades": [
       "ADIF",
       "Tracción Rail"
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria \nTracción Rail, procedente de Bilbao Mercancías y destino Valencia Fuente de San Luis, cuando \ncirculaba a la altura del apartadero de Sestao (estación Desertu-Barakaldo) de la línea 720 Abando \nIndalecio Prieto-Santurtzi, descarrila el segundo eje del primer bogie del vagón (plataforma PMMC) \nque circulaba en último lugar de la composición. A continuación, descarrila el primer eje del primer \nbogie y el segundo bogie. \nEl último vagón del tren circula descarrilado durante 3.006 metros hasta su detención en la entrada de \nla estación de Zorrotza. Durante estos tres kilómetros el vagón ocasionó daños en las balizas, \ncruzamientos, desvíos y traviesas llegando incluso a perder los dos ejes del segundo bogie. \nComo consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí daños \nmateriales en las instalaciones y en el propio material rodante. \nConclusión: La hipótesis más probable de la causa última del descarrilamiento es la suma de \ndiferentes factores que por sí solos no se les puede considerar como “causa última”, pero por un \nefecto sinérgico sobre la dinámica del vehículo pueden llegar a producir el descarrilamiento. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación\n\nNo se establecen recomendaciones",
+      "resumen": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria Tracción Rail, procedente de Bilbao Mercancías y destino Valencia Fuente de San Luis, cuando circulaba a la altura del apartadero de Sestao (estación Desertu-Barakaldo) de la línea 720 Abando Indalecio Prieto-Santurtzi, descarrila el segundo eje del primer bogie del vagón (plataforma PMMC) que circulaba en último lugar de la composición. A continuación, descarrila el primer eje del primer bogie y el segundo bogie. El último vagón del tren circula descarrilado durante 3.006 metros hasta su detención en la entrada de la estación de Zorrotza. Durante estos tres kilómetros el vagón ocasionó daños en las balizas, cruzamientos, desvíos y traviesas llegando incluso a perder los dos ejes del segundo bogie. Como consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí daños materiales en las instalaciones y en el propio material rodante. Conclusión: La hipótesis más probable de la causa última del descarrilamiento es la suma de diferentes factores que por sí solos no se les puede considerar como “causa última”, pero por un efecto sinérgico sobre la dinámica del vehículo pueden llegar a producir el descarrilamiento. Recomendaciones: Destinatario Implementador Recomendación No se establecen recomendaciones",
       "factores_humanos": "Por parte de Tracción Rail \nEl maquinista del tren CGX32. \nUn maquinista, sin servicio, que iba en la cabina del tren CGX32.\n\nNo se produjeron víctimas mortales ni heridos. \n\nA \nDE FOMENTO \nnº 0064/2014 ocurrido el 11.10.2014 \nDE ACCIDENTES\n\nEl maquinista del tren CGX32 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 25.10.2007. \n\nA \nDE FOMENTO \nnº 0064/2014 ocurrido el 11.10.2014 \nDE ACCIDENTES \nTiene habilitación de la línea desde el 26.05.2009 y habilitación para el vehículo desde el 30.01.2008. \nRealizó su último reciclaje formativo el 22.01.2014 y su último reconocimiento médico y psicotécnico el \n19.11.2012, conforme a la normativa vigente.\n\nEl jefe de circulación de Desertu- Barakaldo al presenciar el paso del tren GSX32 por su estación observó \nque iba descarrilado del último vagón e inmediatamente informó al jefe del CTC de Bilbao Abando para \nque ordenara al maquinista detener el tren. Procedió a revisar las agujas 8 y 5 y los cambios 2 y 4 para \ncomprobar su correcto funcionamiento. Cortó la circulación por la vía 2 y se mantuvo en servicio la vía 1. \nEl jefe del CTC de Bilbao Abando se puso en contacto con el maquinista del tren CGX32 y le ordenó \nparada inmediata y reconocimiento del tren.\n\nJornada laboral del maquinista del tren CGX32: \n- el día 11: 3 horas y 5 minutos (hasta el momento del accidente). \n- el día 10: descanso, \n- el día 9: descanso. \nAl maquinista, el día 11 de octubre a las 12:30 horas, en la estación de Barakaldo, se le realiza prueba \nde alcoholemia con resultado negativo.\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nLa hipótesis más probable de la causa última del descarrilamiento",
       "infraestructura": "Por parte de Tracción Rail \nEl maquinista del tren CGX32. \nUn maquinista, sin servicio, que iba en la cabina del tren CGX32.\n\nEl descarrilamiento se inicia en el PK 9+606 de la vía 2 de la línea 720 Abando Indalecio Prieto -\nSanturtzi, en el apartadero de Sestao (PK 9+600) de la estación de Desertu-Baralkaldo (PK 8+300). \nSe trata de un tramo en vía doble electrificada, con carriles de 54 kg y traviesas de hormigón \nmonoblock, con bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC), estando \nel puesto de mando ubicado en Bilbao Abando. \nEn cuanto al trazado en planta corresponde con el final de una curva de transición (clotoide) hacia una \ncurva a la derecha, según el sentido de la marcha del tren descarrilado, de radio 276 metros. \nEn cuanto al perfil de vía el descarrilamiento se inicia en una rampa de 7,21 milésimas según el \nsentido de circulación del tren. \nLa velocidad máxima según el cuadro de velocidades máximas (CVM) es de 70 km/h. \n\nDaños en la infraestructura (fuente: Adif) \n\nA \nDE FOMENTO \nnº 0064/2014 ocurrido el 11.10.2014 \nDE ACCIDENTES \n\nDaños en la infraestructura (fue\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos) Tomo II de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Desertu–Barakaldo a Santurtzi, tramo al que pertenece el \npunto kilométrico donde suceden los hechos, es de 695. \nEstas circulaciones se desglosan en: 602 de cercanías, 92 de mercancías y 1 de servicio. \n\nA \nDE FOMENTO \nnº 0064/2014 ocurrido el 11.10.2014 \nDE ACCIDENTES\n\nNo se produjeron víctimas mortales ni heridos. \n\nA \nDE FOMENTO \nnº 0064/2014 ocurrido el 11.10.2014 \nDE ACCIDENTES\n\nSe mantuvo la circulación por la vía 1 y se interrumpió la circulación por la vía 2 desde las 11:05 \nhoras del día 11.10.2014 hasta las 06:20 horas del día 12.10.2014. Únicamente se procedió a cortar \nla circulación en ambas vías entre las 0:30 y las 04:17 horas del día 12.10.2014, para proceder al \napartado del vagón descarrilado, durante es"
     },
     "conclusiones": "\n\nLos hechos tuvieron lugar el día 11 de octubre de 2014 a las 11:05 horas, en el apartadero de Sestao \n(estación Desertu-Barakaldo) en la vía 2 PK 9+606 de la línea 720 Abando Indalecio Prieto a Santurtzi. \n\nA \nDE FOMENTO \nnº 0064/2014 ocurrido el 11.10.2014 \nDE ACCIDENTES \nEl tren de mercancías CGX32, de la empresa ferroviaria Tracción Rail compuesto por una locomotora \n333 y 18 vagones plataformas PMMC, con una longitud de 474 metros (incluida la locomotora) y 1.127 \ntoneladas de peso, procedía\n\nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. \nLas instalaciones y los sistemas de seguridad del material móvil funcionaron correctamente. \nLa velocidad del tren era inferior a la velocidad máxima admitida. \nSe constata el descarrilamiento del último vagón de la composición que circulaba vacío. \nTras el accidente se realizaron medidas de los parámetros de rodadura del vagón descarrilado, no \nsiendo di\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nLa hipótesis más probable de la causa última del descarrilamiento es la suma de diferentes factores \nque por sí solos no se les puede considerar como “causa última” pero por un efecto sinérgico sobre la \ndinámica del vehículo pueden llegar a producir el descarrilamiento.",
-    "recomendaciones": [
-      {
-        "numero": "",
-        "implementador": "",
-        "destinatarios": "",
-        "texto": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria \nTracción Rail, procedente de Bilbao Mercancías y destino Valencia Fuente de San Luis, cuando \ncirculaba a la altura del apartadero de Sestao (estación Desertu-Barakaldo) de la línea 720 Abando \nIndalecio Prieto-Santurtzi, descarrila el segundo eje del primer bogie del vagón (plataforma PMMC) \nque circulaba en último lugar de la composición. A continuación, descarrila el primer eje del primer \nbogie y el segundo bogie. \nEl último vagón del tren circula descarrilado durante 3.006 metros hasta su detención en la entrada de \nla estación de Zorrotza. Durante estos tres kilómetros el vagón ocasionó daños en las balizas, \ncruzamientos, desvíos y traviesas llegando incluso a perder los dos ejes del segundo bogie. \nComo consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí daños \nmateriales en las instalaciones y en el propio material rodante. \nConclusión: La hipótesis más probable de la causa última del descarrilamiento es la suma de \ndiferentes factores que por sí solos no se les puede considerar como “causa última”, pero por un \nefecto sinérgico sobre la dinámica del vehículo pueden llegar a producir el descarrilamiento. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \n\nNo se establecen recomendaciones"
-      }
-    ],
+    "recomendaciones": [],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................... 13"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1792,11 +1337,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/160628141011IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/160628141011IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "3427aa35b7f78e0bd5ea47139d38d5e1",
-    "fecha_parseo": "2026-06-26T12:47:12.963093"
+    "fecha_parseo": "2026-06-26T13:18:36.294759"
   },
   {
     "id": "2014-151124141109IFCIAF",
@@ -1814,43 +1359,8 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "implicado",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "funcionaron",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "circulaba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "quedó",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "seguía",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "iba",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "cuando",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "sea",
+        "id_tren": "17907",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -1860,7 +1370,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 9 de noviembre de 2014 a las 11:47 horas, el tren de viajeros de media distancia 17907 de la \nempresa ferroviaria Renfe Viajeros, procedente de Huelva Término y destino Madrid Atocha Cercanías, \narrolla a un vehículo de carretera que cruzaba el paso a nivel clase A en el PK 130+742 de la línea 512 \nZafra – Huelva Cargas, entre el apeadero de Los Milanos y la estación de Calañas. \nEn el vehículo viajaban dos personas y como consecuencia del accidente resultó herido de carácter \ngrave el conductor y fallecido el acompañante. \nConclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de \ncarretera, accediendo al paso a nivel cuando se aproximaba el tren 17907. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAyuntamiento de \nCalañas \n60/14-1 \nAdecuar la señalización de los caminos \nde acceso al paso a nivel situado en el \nPK 130+742 de la línea 512 Zafra – \nHuelva Cargas, a lo dispuesto en el \nartículo 9.2 de la Orden FOM de 2 de \nagosto de 2001, por la que se desarrolla \nel artículo 235 del Reglamento de la Ley \nde \nOrdenación \nde \nlos \nTransportes \nTerrestres, en materia de supresión y \nprotección de pasos a nivel. \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n60/14-2 \nAnalizar la posibilidad de supresión del \npaso a nivel situado en el PK 130+742 de \nla línea 512 Zafra – Huelva Cargas, \naprovechando la existencia de un paso \nsuperior de carretera en las inmediaciones.\n\nDE FOMENTO \nnº 0060/2014 ocurrido el 09.11.2014 \nDE ACCIDENTES \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \n60/14-3 \nEstudiar la posibilidad de modificar la \nnormativa actual; en concreto el artículo \n12 de la Orden FOM de 2 de agosto de \n2001, por la que se desarrolla el artículo \n235 del Reglamento de la Ley de \nOrdenación de los Transportes Terrestres, \nen materia de supresión y protección de \npasos a ni",
+      "resumen": "El día 9 de noviembre de 2014 a las 11:47 horas, el tren de viajeros de media distancia 17907 de la empresa ferroviaria Renfe Viajeros, procedente de Huelva Término y destino Madrid Atocha Cercanías, arrolla a un vehículo de carretera que cruzaba el paso a nivel clase A en el PK 130+742 de la línea 512 Zafra – Huelva Cargas, entre el apeadero de Los Milanos y la estación de Calañas. En el vehículo viajaban dos personas y como consecuencia del accidente resultó herido de carácter grave el conductor y fallecido el acompañante. Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, accediendo al paso a nivel cuando se aproximaba el tren 17907. Recomendaciones: Destinatario Implementador Recomendación Agencia Estatal de Ferroviaria (AESF) Ayuntamiento de Adecuar la señalización de los caminos de acceso al paso a nivel situado en el PK 130+742 de la línea 512 Zafra – Huelva Cargas, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, por la que se desarrolla el artículo 235 del Reglamento de la Ley Transportes Terrestres, en materia de supresión y protección de pasos a nivel. Agencia Estatal de Ferroviaria (AESF) Analizar la posibilidad de supresión del paso a nivel situado en el PK 130+742 de la línea 512 Zafra – Huelva Cargas, aprovechando la existencia de un paso superior de carretera en las inmediaciones. SUBSECRETARÍA Investigación del accidente nº 0060/2014 ocurrido el 09.11.2014 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS 151124-141109-IF-CIAF.doc Pág. 6 de 21 Agencia Estatal de Ferroviaria (AESF) Agencia Estatal de Ferroviaria (AESF) Estudiar la posibilidad de modificar la normativa actual; en concreto el artículo 12 de la Orden FOM de 2 de agosto de 2001, por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel; de manera que se dote de protecci",
       "factores_humanos": "Por parte de Renfe Viajeros \nEl maquinista del tren 17907, con matrícula 9675703.\n\nResultó herido grave el conductor del automóvil y fallecida la otra persona que viajaba en el vehículo.\n\nEl maquinista del tren 17907 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nTiene una antigüedad en el cargo desde el 01.10.1983. \nRealizó su último reciclaje formativo el 10.01.2013 y su último reconocimiento médico y psicotécnico el \n25.02.2014, conforme a la normativa vigente.\n\nJornada laboral del maquinista del tren 17907: \n- el día 9: 2 horas y 34 minutos, \n- el día 8: 4 horas y 4 minutos, \n- el día 7: 5 horas y 35 minutos. \nAl maquinista, el día 9 de noviembre a las 14:02 horas en Calañas, se le realizan pruebas de \nalcoholemia y drogas con resultado negativo en ambas. \nAcceso al paso por el margen izquierdo, según el \nsentido de circulación del tren. \nAcceso al paso por el margen derecho, según el sentido \nde circulación del tren. \n\nDE FOMENTO \nnº 0060/2014 ocurrido el 09.11.2014 \nDE ACCIDENTES\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, \naccediendo al paso a nivel cuando se aproximaba el tren 17907.\n\ny el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna.",
       "infraestructura": "Por parte de Renfe Viajeros \nEl maquinista del tren 17907, con matrícula 9675703.\n\nEl lugar donde ocurrió el accidente es en el paso a nivel clase A (PK 130+742), situado entre la \nestación de Calañas (PK 129+800) y el apeadero de Los Milanos (PK 138+500) de la línea 512 Zafra – \nHuelva Cargas. El tramo discurre en vía única sin electrificar con bloqueo telefónico, siendo la \ncirculación de los trenes supervisada desde el puesto de mando de Sevilla. \n\nVista hacia el lado Huelva. (Fuente: Adif) \nVista hacia el lado Madrid. (Fuente: Renfe) \n\nDE FOMENTO \nnº 0060/2014 ocurrido el 09.11.2014 \nDE ACCIDENTES \nEn cuanto al trazado en planta, el paso a nivel se encuentra ubicado en alineación recta, iniciándose a \nunos 100 metros del paso a nivel (lado Madrid) una curva hacía la izquierda según el sentido de la \nmarcha del tren, curva que discurre en trinchera y con un paso carretero sobre la misma. Hacia el lado \nHuelva el trazado es una recta de más de 500 metros de longitud. \nEn cuanto al trazado en alzado, la vía discurre en una pendiente del 3‰ según el sentido de \ncircu\n\nResultó herido grave el conductor del automóvil y fallecida la otra persona que viajaba en el vehículo.\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif Circulación, la \nmedia semanal de circulaciones del tramo Calañas - Gibraleón, tramo al que pertenece el paso a \nnivel donde sucede el accidente, es de 26. \nEstas circulaciones se desglosan en: 21 de media distancia, 4 de mercancías y 1 de servicio.\n\nLos equipos de seguridad del tren funcionaron correctamente. \nREGISTRADOR DE SEGURIDAD \nDel análisis del registrador de seguridad del tren 17907, se determina que: \n- \nA las 11:46:49 horas, cuando el tren circulaba a la velocidad de 95 km/h, se registra el cese de \nacción sobre la tracción. \n- \nA las 11:46:54 horas, cuando circulaba a 92 km/h, comienza aplicación del freno de servicio. \n- \nA las 11:47:04 horas, circulando a una velocidad de 88 km/h, el maquinista hace us"
     },
@@ -1868,22 +1378,34 @@
     "recomendaciones": [
       {
         "numero": "60/14-1",
-        "implementador": "Ayuntamiento de \nCalañas",
+        "implementador": "AESF",
         "destinatarios": "",
-        "texto": "Adecuar la señalización de los caminos \nde acceso al paso a nivel situado en el \nPK 130+742 de la línea 512 Zafra – \nHuelva Cargas, a lo dispuesto en el \nartículo 9.2 de la Orden FOM de 2 de \nagosto de 2001, por la que se desarrolla \nel artículo 235 del Reglamento de la Ley \nde \nOrdenación \nde \nlos \nTransportes \nTerrestres, en materia de supresión y \nprotección de pasos a nivel. \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF)"
+        "texto": "Adecuar la señalización de los caminos de acceso al paso a nivel situado en el PK 130+742 de la línea 512 Zafra – Huelva Cargas, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel. Agencia Estatal de Seguridad Ferroviaria (AESF) Adif"
       },
       {
         "numero": "60/14-2",
         "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Analizar la posibilidad de supresión del \npaso a nivel situado en el PK 130+742 de \nla línea 512 Zafra – Huelva Cargas, \naprovechando la existencia de un paso \nsuperior de carretera en las inmediaciones."
+        "texto": "Analizar la posibilidad de supresión del paso a nivel situado en el PK 130+742 de la línea 512 Zafra – Huelva Cargas, aprovechando la existencia de un paso superior de carretera en las inmediaciones. MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del accidente nº 0060/2014 ocurrido el 09.11.2014 Informe final de la CIAF DE ACCIDENTES FERROVIARIOS 151124-141109-IF-CIAF.doc Pág. 6 de 21 Agencia Estatal de Seguridad Ferroviaria (AESF) Agencia Estatal de Seguridad Ferroviaria (AESF)"
+      },
+      {
+        "numero": "60/14-3",
+        "implementador": "AESF",
+        "destinatarios": "",
+        "texto": "Estudiar la posibilidad de modificar la normativa actual; en concreto el artículo 12 de la Orden FOM de 2 de agosto de 2001, por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel; de manera que se dote de protección clase B a todos los pasos que dispongan de protección clase A y en los que la distancia de visibilidad real sea inferior a la distancia de visibilidad técnica en alguno de sus cuadrantes, independientemente del valor del momento de circulación AxT. Agencia Estatal de Seguridad Ferroviaria (AESF) Agencia Estatal de Seguridad Ferroviaria (AESF)"
+      },
+      {
+        "numero": "60/14-4",
+        "implementador": "AESF",
+        "destinatarios": "",
+        "texto": "Estudiar la posibilidad de preparar un plan de actuación para la conversión de pasos clase A en clase B de forma que, en función del riesgo de cada uno de ellos, posibilite que en una determinada fecha horizonte todos los pasos a nivel de la red dispongan de un sistema de aviso activo hacia el usuario de la carretera."
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................ 11"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -1935,11 +1457,11 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/151124141109IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/151124141109IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "81f7747cf256aea4af4a16dee6b7f8cb",
-    "fecha_parseo": "2026-06-26T12:47:12.483860"
+    "fecha_parseo": "2026-06-26T13:18:35.852331"
   },
   {
     "id": "2014-151124141118IFCIAF",
@@ -1957,51 +1479,13 @@
     },
     "trenes": [
       {
-        "id_tren": "de",
+        "id_tren": "87503",
+        "tipo": "mercancías",
         "descripcion": ""
       },
       {
-        "id_tren": "circula",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "recorre",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "tipo",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "era",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "taller",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "observando",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "inicia",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "alcanza",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "libera",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "manifiesta",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "se",
+        "id_tren": "25538",
+        "tipo": "",
         "descripcion": ""
       }
     ],
@@ -2013,7 +1497,7 @@
     ],
     "gravedad": "fatal",
     "analisis": {
-      "resumen": "El día 18 de noviembre de 2014 a las 21:17 horas, en el PK 0+571 de la línea 622 Aguja Clasif. PK 272,0 \na Tarragona Clasificación, se produce el descarrilamiento del tren de mercancías 87503 de la empresa \nferroviaria Transfesa Rail, compuesto por la locomotora 95.71.0335.010-5, dos vagones-cisterna limpios \n(no MMPP, posiciones 1 y 2), nueve vagones-cisterna cargados con óxido de propileno (MMPP, \nposiciones del 3 al 11) y un vagón-cisterna vacío sin limpiar con restos de benceno (MMPP, posición 12). \nDescarrilan los vagones 4º (347178662115) y 5º (347178662081) de la composición. \nComo consecuencia del descarrilamiento no se producen víctimas. \nConclusión: El accidente se produjo por el fallo de la infraestructura, concretamente la vía se abrió al \npaso el tren, por encontrarse en estado deficiente sus sujeciones y traviesas. \nRecomendaciones: \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria (AESF) \nAdif \n61/14-1 \nImpulsar \nla \nrealización \nde \nun \nmantenimiento, tanto preventivo como \ncorrectivo, con el objeto de conservar la \nvía EV de Tarragona Clasificación en \ncondiciones que permitan circular con \nseguridad.",
+      "resumen": "El día 18 de noviembre de 2014 a las 21:17 horas, en el PK 0+571 de la línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación, se produce el descarrilamiento del tren de mercancías 87503 de la empresa ferroviaria Transfesa Rail, compuesto por la locomotora 95.71.0335.010-5, dos vagones-cisterna limpios (no MMPP, posiciones 1 y 2), nueve vagones-cisterna cargados con óxido de propileno (MMPP, posiciones del 3 al 11) y un vagón-cisterna vacío sin limpiar con restos de benceno (MMPP, posición 12). Descarrilan los vagones 4º (347178662115) y 5º (347178662081) de la composición. Como consecuencia del descarrilamiento no se producen víctimas. Conclusión: El accidente se produjo por el fallo de la infraestructura, concretamente la vía se abrió al paso el tren, por encontrarse en estado deficiente sus sujeciones y traviesas. Recomendaciones: Destinatario Implementador Recomendación Agencia Estatal de Ferroviaria (AESF) realización mantenimiento, tanto preventivo como correctivo, con el objeto de conservar la vía EV de Tarragona Clasificación en condiciones que permitan circular con",
       "factores_humanos": "Por parte de Transfesa Rail \nEl maquinista del tren de mercancías 87503.\n\nEl maquinista del tren 87503 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nTiene una antigüedad en el cargo desde el 26/12/1212, habilitación de la línea desde 21/10/2013 y del \nvehículo desde 07/06/2013. \nSu último reconocimiento médico y psicotécnico fue el 11/10/2012, conforme a la normativa vigente. \n\nDE FOMENTO \nnº 0061/2014 ocurrido el 18.11.2014 \nDE ACCIDENTES\n\nLos 3 vagones de cabeza, junto con la locomotora, fueron a la vía 20 de Tarragona Clasificación. \nLos 7 vagones de cola, que no se encontraban afectados por el descarrilamiento, fueron apartados a la \nvía 18 de la estación por la locomotora de servicio de la estación.\n\nJornada de conducción del maquinista del tren 87503: \n- el día 18: 1 hora y 49 minutos. \n- el día 17: descanso. \n- el día 16: descanso. \nAl maquinista, el día del suceso en Tarragona Clasificación a las 22:20 horas, se le realiza prueba de \nalcoholemia en aire espirado con resultado negativo.\n\nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl accidente se produjo por el fallo de la infraestructura, concretamente la vía se abrió al paso el tren, \npor encontrarse en estado deficiente sus sujeciones y traviesas.\n\ny el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nEn la zona del accidente estaba establecida una limitación temporal de velocidad a 10 km/h desde el \naño 2010 debido al estado de la vía.",
       "infraestructura": "Por parte de Transfesa Rail \nEl maquinista del tren de mercancías 87503.\n\nEl accidente se produce en la vía EV de la línea 622 Aguja Clasificación km 272+000 a Tarragona \nClasificación. Ésta conecta el grupo de vías de mercancías de Tarragona Clasificación con la línea 600 \nValencia Estació del Nord a Sant Vicenç de Calders. \nLa zona del descarrilamiento se localiza dentro de una línea de vía única electrificada de ancho \nconvencional, realizándose la circulación al amparo del bloqueo automático en vía única (BAU) con \ncontrol de tráfico centralizado (CTC). En ella se sitúan las señales EV (PK 100+061), perteneciente al \nenclavamiento de Tarragona Clasificación, y la señal 4-O/B (PK 272+115) perteneciente al \nenclavamiento de Tarragona. \nEl trazado de la vía presenta un perfil horizontal \ncon curva a la izquierda de radio amplio, en \nsentido de la marcha. \nLas señales existentes en el itinerario de salida del \ntren 87503 desde la vía 16C de Tarragona \nClasificación son: la M17C y la 4-O/B. En el sentido \ncontario existe la señal EV. \nLa velocidad máxima para\n\nSegún el sistema de información CIRTRA (Circulaciones por Tramos), Tomo II, de Adif-Circulación, la \nmedia semanal de circulaciones del tramo Aguja Clasificación km 272 – Tarragona Clasificación, tramo \ndonde se produce el suceso, es de 26 circulaciones de tráfico de mercancías.\n\nTÉCNICAS .................................................................................................................................................13\n\nSistema de control de mando y señalización \nLas instalaciones técnicas funcionaron correctamente. Según se desprende del visionado de la \nmoviola del CTC: \n A las 21:12:27 horas está establecido itinerario para tren 87503 desde la vía 16C, de Tarragona \nClasificación, a vía EV, de conexión a vía general de Valencia. \n\nDE FOMENTO \nnº 0061/2014 ocurrido el 18.11.2014 \nDE ACCIDENTES \n\n A las 21:17:35 horas el tren 87503 libera circuito de vía de los cambios por cola y está ocupando"
     },
@@ -2023,14 +1507,14 @@
         "numero": "61/14-1",
         "implementador": "Adif",
         "destinatarios": "",
-        "texto": "Impulsar \nla \nrealización \nde \nun \nmantenimiento, tanto preventivo como \ncorrectivo, con el objeto de conservar la \nvía EV de Tarragona Clasificación en \ncondiciones que permitan circular con \nseguridad."
+        "texto": "Impulsar la realización de un mantenimiento, tanto preventivo como correctivo, con el objeto de conservar la vía EV de Tarragona Clasificación en condiciones que permitan circular con seguridad. Madrid, 24 de noviembre de 2015"
       }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
       "total_victimas": 0,
-      "danos_materiales": "2.3.1. Viajeros, personal y terceros ............................................................................................................................ 11"
+      "danos_materiales": false
     },
     "tags": [
       "accidente",
@@ -2096,10 +1580,10 @@
     ],
     "enlaces": {
       "pdf_original": "pdfs/2014/151124141118IFCIAF.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados"
+      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/151124141118IFCIAF.pdf"
     },
     "formato_normativo": "RD 623/2014",
     "hash_pdf": "832939071ce0511ab8b75096de41acdd",
-    "fecha_parseo": "2026-06-26T12:47:12.714996"
+    "fecha_parseo": "2026-06-26T13:18:36.073710"
   }
 ]
