@@ -92,7 +92,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2011-07-13",
     "ubicacion": {
-      "estacion": "Caparrates es el siguiente:",
+      "estacion": "Caparrates es el",
       "provincia": "Castellón",
       "lat": 41.15,
       "lng": -1.2667
@@ -155,7 +155,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2011-10-26",
     "ubicacion": {
-      "estacion": "SANT POL DE MAR (BARCELONA)",
+      "estacion": "SANT POL DE MAR",
       "provincia": "Barcelona",
       "lat": 41.6022,
       "lng": 2.5968
@@ -455,7 +455,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2011-01-04",
     "ubicacion": {
-      "estacion": "Francia (ancho convencional).",
+      "estacion": "Francia (ancho",
       "provincia": "Barcelona",
       "lat": 43.262,
       "lng": -2.925
@@ -1058,7 +1058,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2011-05-16",
     "ubicacion": {
-      "estacion": "Los Gavilanes (Madrid) de la línea",
+      "estacion": "Los Gavilanes (Madrid)",
       "provincia": "Madrid",
       "lat": 39.5,
       "lng": -0.7167
@@ -1438,7 +1438,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2011-08-27",
     "ubicacion": {
-      "estacion": "GRANOLLERS - CENTRE (BARCELONA)",
+      "estacion": "GRANOLLERS - CENTRE",
       "provincia": "Barcelona",
       "lat": 41.6002,
       "lng": 2.2863

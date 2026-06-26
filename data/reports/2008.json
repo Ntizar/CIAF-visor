@@ -586,7 +586,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2008-01-26",
     "ubicacion": {
-      "estacion": "A",
+      "estacion": "León",
       "provincia": "León",
       "lat": 43.336,
       "lng": -8.3953
@@ -1146,7 +1146,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2008-11-09",
     "ubicacion": {
-      "estacion": "paso a nivel sito en el P.K. 226",
+      "estacion": "Paso a nivel PK 226",
       "provincia": "Ciudad Real",
       "lat": null,
       "lng": null
@@ -1525,7 +1525,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2008-10-12",
     "ubicacion": {
-      "estacion": "Pravia a las 13:10 horas. Dicho tren",
+      "estacion": "Pravia",
       "provincia": "Asturias",
       "lat": 43.4861,
       "lng": -6.112

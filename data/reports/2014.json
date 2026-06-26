@@ -142,7 +142,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2014-07-10",
     "ubicacion": {
-      "estacion": "SANT VICENÇ DE CALDERS (TARRAGONA)",
+      "estacion": "SANT VICENÇ DE CALDERS",
       "provincia": "Tarragona",
       "lat": 41.3725,
       "lng": 2.1404
@@ -212,7 +212,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2014-07-11",
     "ubicacion": {
-      "estacion": "MATAESPESA DE ALPEDRETE (MADRID)",
+      "estacion": "MATAESPESA DE",
       "provincia": "Madrid",
       "lat": 40.6167,
       "lng": -4.0667
@@ -298,7 +298,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2014-08-31",
     "ubicacion": {
-      "estacion": "Zaragoza Delicias (PK 306+725)",
+      "estacion": "Zaragoza Delicias (PK",
       "provincia": "Zaragoza",
       "lat": 41.6568,
       "lng": -0.8812
@@ -470,7 +470,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2014-09-26",
     "ubicacion": {
-      "estacion": "Santa María de la Alameda (PK 71+540)",
+      "estacion": "Santa María de la",
       "provincia": "Ávila",
       "lat": 41.3725,
       "lng": 2.1404
@@ -1024,7 +1024,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2014-01-23",
     "ubicacion": {
-      "estacion": "Calzada de Bureba (PK 428+280)",
+      "estacion": "Calzada de Bureba (PK",
       "provincia": "Burgos",
       "lat": null,
       "lng": null

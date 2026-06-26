@@ -80,7 +80,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2015-01-12",
     "ubicacion": {
-      "estacion": "BARCELONA MARINA (BARCELONA)",
+      "estacion": "BARCELONA MARINA",
       "provincia": "Barcelona",
       "lat": 41.3923,
       "lng": 2.1948
@@ -169,7 +169,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2015-03-31",
     "ubicacion": {
-      "estacion": "MEDINA DEL CAMPO (VALLADOLID)",
+      "estacion": "MEDINA DEL CAMPO",
       "provincia": "Valladolid",
       "lat": 41.3083,
       "lng": -4.8333
@@ -253,7 +253,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2015-02-13",
     "ubicacion": {
-      "estacion": "BARCELONA ESTACIÓ DE FRANÇA (BARCELONA)",
+      "estacion": "BARCELONA ESTACIÓ DE",
       "provincia": "Barcelona",
       "lat": null,
       "lng": null

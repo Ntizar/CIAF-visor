@@ -380,7 +380,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2009-08-24",
     "ubicacion": {
-      "estacion": "SANT FELIÚ DE LLOBREGAT (BARCELONA)",
+      "estacion": "SANT FELIÚ DE",
       "provincia": "Barcelona",
       "lat": 41.3843,
       "lng": 2.0441
@@ -604,7 +604,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2009-12-06",
     "ubicacion": {
-      "estacion": "GRANOLLERS CENTRE (BARCELONA)",
+      "estacion": "GRANOLLERS CENTRE",
       "provincia": "Barcelona",
       "lat": 41.6002,
       "lng": 2.2863
@@ -1618,7 +1618,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2009-04-07",
     "ubicacion": {
-      "estacion": "LAS NAVAS DEL MARQUÉS (ÁVILA)",
+      "estacion": "LAS NAVAS DEL MARQUÉS",
       "provincia": "Ávila",
       "lat": 40.6,
       "lng": -4.3333
@@ -1675,7 +1675,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2009-02-02",
     "ubicacion": {
-      "estacion": "Altsasua. Tras la comprobación",
+      "estacion": "Altsasua",
       "provincia": "Guipúzcoa",
       "lat": 42.8988,
       "lng": -2.1697
@@ -2207,7 +2207,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2009-10-08",
     "ubicacion": {
-      "estacion": "Orense. El",
+      "estacion": "Orense",
       "provincia": "Orense",
       "lat": 42.3365,
       "lng": -7.856
@@ -2411,7 +2411,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2009-08-31",
     "ubicacion": {
-      "estacion": "SAN CRISTOBAL INDUSTRIAL (MADRID)",
+      "estacion": "SAN CRISTOBAL",
       "provincia": "Madrid",
       "lat": 40.3833,
       "lng": -3.75

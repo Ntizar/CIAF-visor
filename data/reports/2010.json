@@ -68,7 +68,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2010-01-15",
     "ubicacion": {
-      "estacion": "GETAFE INDUSTRIAL (MADRID)",
+      "estacion": "GETAFE INDUSTRIAL",
       "provincia": "Madrid",
       "lat": 40.3028,
       "lng": -3.7248
@@ -128,7 +128,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2010-05-23",
     "ubicacion": {
-      "estacion": "Príncipe Pío en anuncio de parada",
+      "estacion": "Príncipe Pío en",
       "provincia": "Madrid",
       "lat": null,
       "lng": null
@@ -388,7 +388,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2010-11-10",
     "ubicacion": {
-      "estacion": "BETANZOS - INFESTA (A CORUÑA)",
+      "estacion": "BETANZOS - INFESTA (A",
       "provincia": "León",
       "lat": 43.336,
       "lng": -8.3953
@@ -763,7 +763,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2010-07-05",
     "ubicacion": {
-      "estacion": "MÓSTOLES – EL SOTO (MADRID)",
+      "estacion": "MÓSTOLES – EL SOTO",
       "provincia": "Madrid",
       "lat": 40.3228,
       "lng": -3.8649
@@ -936,7 +936,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2010-09-07",
     "ubicacion": {
-      "estacion": "Aranguren. La",
+      "estacion": "Aranguren",
       "provincia": "León",
       "lat": 42.894,
       "lng": -1.612
@@ -1281,7 +1281,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2010-02-11",
     "ubicacion": {
-      "estacion": "Pinar de Las Rozas (Madrid) a la altura del",
+      "estacion": "Pinar de Las Rozas",
       "provincia": "Madrid",
       "lat": 40.525,
       "lng": -3.875
@@ -1913,7 +1913,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2010-06-29",
     "ubicacion": {
-      "estacion": "SANT ANDREU ARENAL (BARCELONA)",
+      "estacion": "SANT ANDREU ARENAL",
       "provincia": "Barcelona",
       "lat": 41.435,
       "lng": 2.19

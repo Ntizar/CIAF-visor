@@ -97,7 +97,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2017-01-06",
     "ubicacion": {
-      "estacion": "San Sebastián/Donostia. A las 20:45",
+      "estacion": "San",
       "provincia": "Álava",
       "lat": null,
       "lng": null
@@ -529,7 +529,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2017-08-12",
     "ubicacion": {
-      "estacion": "PUEBLA DE SANABRIA (ZAMORA)",
+      "estacion": "PUEBLA DE SANABRIA",
       "provincia": "Zamora",
       "lat": 42.0667,
       "lng": -6.6333

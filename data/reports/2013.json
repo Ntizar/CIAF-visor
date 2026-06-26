@@ -9,7 +9,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2013-06-04",
     "ubicacion": {
-      "estacion": "Sant Sadurní d’Anoia. El jefe del CTC le",
+      "estacion": "Sant Sadurní d’Anoia",
       "provincia": "Barcelona",
       "lat": 41.3725,
       "lng": 2.1404
@@ -87,7 +87,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2013-09-05",
     "ubicacion": {
-      "estacion": "Requejada se fusionó con el tren 6727",
+      "estacion": "Requejada",
       "provincia": "Cantabria",
       "lat": null,
       "lng": null
@@ -254,7 +254,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2013-03-07",
     "ubicacion": {
-      "estacion": "VIANA DE CEGA (VALLADOLID)",
+      "estacion": "VIANA DE CEGA",
       "provincia": "Valladolid",
       "lat": 42.5467,
       "lng": -1.6581
@@ -401,7 +401,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2013-01-09",
     "ubicacion": {
-      "estacion": "VILLAFRANCA DE CÓRDOBA (CÓRDOBA)",
+      "estacion": "VILLAFRANCA DE CÓRDOBA",
       "provincia": "Córdoba",
       "lat": 37.8884,
       "lng": -4.7794
@@ -615,7 +615,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2013-08-12",
     "ubicacion": {
-      "estacion": "Francia. La",
+      "estacion": "Francia",
       "provincia": "Barcelona",
       "lat": 43.262,
       "lng": -2.925
@@ -693,7 +693,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2013-08-14",
     "ubicacion": {
-      "estacion": "Torralba ubicada en la línea",
+      "estacion": "Torralba",
       "provincia": "Barcelona",
       "lat": 41.9167,
       "lng": -2.5333
@@ -923,7 +923,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2013-09-20",
     "ubicacion": {
-      "estacion": "BARCELONA SANTS (BARCELONA)",
+      "estacion": "BARCELONA SANTS",
       "provincia": "Barcelona",
       "lat": 41.3725,
       "lng": 2.1404
@@ -1165,7 +1165,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2013-03-26",
     "ubicacion": {
-      "estacion": "Urda (PK 119+700) y poco después",
+      "estacion": "Urda (PK 119+700) y",
       "provincia": "Madrid",
       "lat": 39.4167,
       "lng": -3.4833
@@ -1236,7 +1236,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2013-05-26",
     "ubicacion": {
-      "estacion": "SEVILLA - SANTA JUSTA (SEVILLA)",
+      "estacion": "SEVILLA - SANTA JUSTA",
       "provincia": "Sevilla",
       "lat": 37.3919,
       "lng": -5.9773
@@ -1458,7 +1458,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2013-10-27",
     "ubicacion": {
-      "estacion": "BARCELONA SANT ANDREU ARENAL (BARCELONA)",
+      "estacion": "BARCELONA SANT ANDREU",
       "provincia": "Barcelona",
       "lat": 41.435,
       "lng": 2.19
@@ -1536,7 +1536,7 @@
     "gravedad": "fatal",
     "fecha_suceso": "2013-10-27",
     "ubicacion": {
-      "estacion": "Zalla (Vizcaya) situada en el PK 2+057",
+      "estacion": "Zalla (Vizcaya)",
       "provincia": "Vizcaya",
       "lat": 43.2167,
       "lng": -3.1333
@@ -1667,7 +1667,7 @@
     "gravedad": "leve",
     "fecha_suceso": "2013-01-31",
     "ubicacion": {
-      "estacion": "San Vicente de la Barquera el vagón Sgh",
+      "estacion": "San Vicente de la",
       "provincia": "Cantabria",
       "lat": 41.2333,
       "lng": 1.6333
