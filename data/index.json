@@ -54,7 +54,7 @@
     "Transfesa Rail",
     "Transitia Rail"
   ],
-  "fecha_generacion": "2026-06-26T14:44:11.298446",
+  "fecha_generacion": "2026-06-26T14:47:33.232433",
   "estadisticas_por_anio": {
     "2007": {
       "total": 4,
@@ -154,8 +154,8 @@
   },
   "cobertura": {
     "con_titulo": "270/270 (100.0%)",
-    "con_conclusiones": "261/270 (96.7%)",
-    "con_recomendaciones": "257/270 (95.2%)",
+    "con_conclusiones": "194/270 (71.9%)",
+    "con_recomendaciones": "149/270 (55.2%)",
     "con_coordenadas": "195/270 (72.2%)"
   }
 }
