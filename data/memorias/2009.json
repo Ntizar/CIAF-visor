@@ -1,47 +1,44 @@
 {
   "year": 2009,
   "title": "Memoria Anual CIAF 2009",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2009.",
-  "total_accidents": 31,
-  "total_incidents": 38,
-  "total_fatal": 7,
-  "total_victims": 22,
-  "total_material_damage_eur": 43665979,
+  "summary": "De los 70 sucesos notificados (56 accidentes, 11 incidentes, 3 suicidios), se investigaron 43.",
+  "total_accidents": 56,
+  "total_incidents": 11,
+  "total_fatal": 8,
+  "total_victims": null,
+  "total_heridos": null,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 20
+      "cause": "Factor humano (actuación de terceros)",
+      "count": 56
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 12
+      "cause": "Fallo de infraestructura",
+      "count": 15
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 4
+      "cause": "Fallo de material rodante",
+      "count": 10
     },
     {
-      "cause": "Error humano",
-      "count": 11
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 8
+      "cause": "Otros",
+      "count": 19
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 30
+      "entity": "Adif",
+      "count": 68
     },
     {
       "entity": "Renfe",
-      "count": 14
+      "count": 46
     },
     {
-      "entity": "FCC",
-      "count": 8
+      "entity": "Feve",
+      "count": 35
     }
   ],
-  "highlights": "En 2009 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El 37% de los sucesos investigados correspondieron a accidentes en paso a nivel, seguido de incidentes de conato de colisión (21%). Se investigaron 43 sucesos de los 70 notificados. El 56% correspondieron a hechos en los que resultó determinante la actuación de personas ajenas al ferroviario."
 }

@@ -1,47 +1,48 @@
 {
   "year": 2019,
   "title": "Memoria Anual CIAF 2019",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2019.",
-  "total_accidents": 35,
-  "total_incidents": 29,
-  "total_fatal": 2,
-  "total_victims": 17,
-  "total_material_damage_eur": 20240897,
+  "summary": "De los 72 sucesos notificados (1 accidente grave, 64 accidentes, 7 incidentes), se investigaron formalmente 3.",
+  "total_accidents": 64,
+  "total_incidents": 7,
+  "total_fatal": 19,
+  "total_victims": 39,
+  "total_heridos": 20,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 8
+      "cause": "Factor humano",
+      "count": 57
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 15
+      "cause": "Fallo de infraestructura",
+      "count": 29
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 5
-    },
-    {
-      "cause": "Error humano",
+      "cause": "Fallo de material rodante",
       "count": 14
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 4
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 37
+      "entity": "Adif",
+      "count": 97
     },
     {
       "entity": "Renfe",
-      "count": 20
+      "count": 40
     },
     {
-      "entity": "FCC",
-      "count": 3
+      "entity": "Renfe Viajeros",
+      "count": 23
+    },
+    {
+      "entity": "Adif Alta Velocidad",
+      "count": 4
+    },
+    {
+      "entity": "Renfe Mercancías",
+      "count": 1
     }
   ],
-  "highlights": "En 2019 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El accidente grave fue una colisión de trenes en Castellgalí (Barcelona). Los daños causados a personas por material rodante en movimiento fueron la causa más frecuente de víctimas mortales (19 de 24). Se investigaron formalmente 3 sucesos."
 }

@@ -1,47 +1,52 @@
 {
   "year": 2016,
   "title": "Memoria Anual CIAF 2016",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2016.",
-  "total_accidents": 67,
-  "total_incidents": 39,
-  "total_fatal": 2,
-  "total_victims": 30,
-  "total_material_damage_eur": 23234703,
+  "summary": "De los 57 sucesos notificados (44 accidentes, 9 incidentes, 4 suicidios), se investigaron 11.",
+  "total_accidents": 44,
+  "total_incidents": 9,
+  "total_fatal": 4,
+  "total_victims": 51,
+  "total_heridos": 47,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 19
+      "cause": "Factor humano",
+      "count": 55
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 6
+      "cause": "Fallo de infraestructura",
+      "count": 27
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 4
+      "cause": "Fallo de material rodante",
+      "count": 9
     },
     {
-      "cause": "Error humano",
-      "count": 13
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 6
+      "cause": "Fallo combinado",
+      "count": 9
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 30
+      "entity": "Adif",
+      "count": 149
     },
     {
       "entity": "Renfe",
+      "count": 42
+    },
+    {
+      "entity": "Renfe Viajeros",
       "count": 26
     },
     {
-      "entity": "FCC",
-      "count": 14
+      "entity": "Continental Rail",
+      "count": 16
+    },
+    {
+      "entity": "Feve",
+      "count": 11
     }
   ],
-  "highlights": "En 2016 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El accidente grave por descarrilamiento en O Porriño (9 septiembre) causó 4 fallecidos y 47 heridos (13 graves, 34 leves). En el 100% de los sucesos investigados la causa fue imputable al sistema ferroviario, siendo el fallo humano la causa más frecuente (55%)."
 }

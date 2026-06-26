@@ -1,47 +1,44 @@
 {
   "year": 2010,
   "title": "Memoria Anual CIAF 2010",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2010.",
-  "total_accidents": 39,
-  "total_incidents": 22,
-  "total_fatal": 1,
-  "total_victims": 26,
-  "total_material_damage_eur": 49601949,
+  "summary": "De los 72 sucesos notificados (56 accidentes, 10 incidentes, 6 suicidios), se investigaron 28.",
+  "total_accidents": 56,
+  "total_incidents": 10,
+  "total_fatal": 12,
+  "total_victims": 24,
+  "total_heridos": 17,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
+      "cause": "Factor humano (actuación de terceros)",
+      "count": 29
+    },
+    {
+      "cause": "Fallo de infraestructura",
+      "count": 28
+    },
+    {
+      "cause": "Fallo de material rodante",
       "count": 14
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 14
-    },
-    {
-      "cause": "Choque con obstáculo",
-      "count": 7
-    },
-    {
-      "cause": "Error humano",
-      "count": 18
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 10
+      "cause": "Otros",
+      "count": 29
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 22
+      "entity": "Adif",
+      "count": 103
+    },
+    {
+      "entity": "Feve",
+      "count": 66
     },
     {
       "entity": "Renfe",
-      "count": 27
-    },
-    {
-      "entity": "FCC",
-      "count": 11
+      "count": 62
     }
   ],
-  "highlights": "En 2010 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El 28% de los sucesos investigados correspondieron a accidentes por descarrilamiento, seguido de accidentes en pasos a nivel e incidentes de conato de colisión (25% cada uno). El 71% de los sucesos investigados correspondieron a hechos en los que resultaron determinantes aspectos del sistema ferroviario."
 }

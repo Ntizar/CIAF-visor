@@ -1,47 +1,44 @@
 {
   "year": 2011,
   "title": "Memoria Anual CIAF 2011",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2011.",
-  "total_accidents": 33,
-  "total_incidents": 38,
-  "total_fatal": 10,
-  "total_victims": 78,
-  "total_material_damage_eur": 7903583,
+  "summary": "De los 63 sucesos notificados (50 accidentes, 6 incidentes, 7 suicidios), se investigaron 24.",
+  "total_accidents": 50,
+  "total_incidents": 6,
+  "total_fatal": null,
+  "total_victims": null,
+  "total_heridos": 18,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 7
+      "cause": "Fallo de infraestructura",
+      "count": 58
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 9
+      "cause": "Factor humano (actuación de terceros)",
+      "count": 21
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 8
+      "cause": "Fallo de material rodante",
+      "count": 14
     },
     {
-      "cause": "Error humano",
-      "count": 17
-    },
-    {
-      "cause": "Fallo mecánico",
+      "cause": "Otros",
       "count": 7
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 29
+      "entity": "Adif",
+      "count": 195
+    },
+    {
+      "entity": "Feve",
+      "count": 78
     },
     {
       "entity": "Renfe",
-      "count": 26
-    },
-    {
-      "entity": "FCC",
-      "count": 10
+      "count": 65
     }
   ],
-  "highlights": "En 2011 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "De los 63 sucesos notificados, se investigaron 24. Los descarrilamientos representaron la tipología más frecuente entre los investigados (14 de 24). Se produjeron 18 heridos leves en los sucesos investigados."
 }

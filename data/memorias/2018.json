@@ -1,47 +1,44 @@
 {
   "year": 2018,
   "title": "Memoria Anual CIAF 2018",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2018.",
-  "total_accidents": 75,
-  "total_incidents": 24,
-  "total_fatal": 10,
-  "total_victims": 23,
-  "total_material_damage_eur": 31654877,
+  "summary": "De los 52 sucesos notificados (1 accidente grave, 40 accidentes, 9 incidentes, 2 suicidios), se investigaron 3.",
+  "total_accidents": 40,
+  "total_incidents": 9,
+  "total_fatal": 1,
+  "total_victims": 80,
+  "total_heridos": 79,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 6
+      "cause": "Fallo de instalaciones",
+      "count": 50
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 3
-    },
-    {
-      "cause": "Choque con obstáculo",
-      "count": 10
-    },
-    {
-      "cause": "Error humano",
-      "count": 12
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 6
+      "cause": "Factor humano",
+      "count": 50
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 32
+      "entity": "Adif",
+      "count": 72
     },
     {
       "entity": "Renfe",
-      "count": 5
+      "count": 30
     },
     {
-      "entity": "FCC",
-      "count": 15
+      "entity": "Renfe Viajeros",
+      "count": 23
+    },
+    {
+      "entity": "Continental Rail",
+      "count": 10
+    },
+    {
+      "entity": "Adif Alta Velocidad",
+      "count": 2
     }
   ],
-  "highlights": "En 2018 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "Solo se investigaron 3 sucesos: 1 accidente grave (colisión con obstáculo con 1 fallecido, 5 heridos graves y 45 leves), 1 descarrilamiento y 1 fallo de señalización."
 }

@@ -1,47 +1,44 @@
 {
   "year": 2020,
   "title": "Memoria Anual CIAF 2020",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2020.",
-  "total_accidents": 68,
-  "total_incidents": 30,
-  "total_fatal": 1,
-  "total_victims": 73,
-  "total_material_damage_eur": 18352874,
+  "summary": "De los 88 sucesos notificados (1 accidente grave, 75 accidentes, 12 incidentes), se investigaron 3.",
+  "total_accidents": 75,
+  "total_incidents": 12,
+  "total_fatal": 12,
+  "total_victims": 49,
+  "total_heridos": 37,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 12
+      "cause": "Fallo de instalaciones",
+      "count": 75
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 14
-    },
-    {
-      "cause": "Choque con obstáculo",
-      "count": 5
-    },
-    {
-      "cause": "Error humano",
-      "count": 18
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 12
+      "cause": "Factor humano",
+      "count": 25
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 23
+      "entity": "Adif",
+      "count": 144
+    },
+    {
+      "entity": "Renfe Viajeros",
+      "count": 27
     },
     {
       "entity": "Renfe",
-      "count": 20
+      "count": 23
     },
     {
-      "entity": "FCC",
-      "count": 2
+      "entity": "Adif Alta Velocidad",
+      "count": 9
+    },
+    {
+      "entity": "Feve",
+      "count": 1
     }
   ],
-  "highlights": "En 2020 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El accidente grave fue una colisión de tren con vehículo de carretera en La Hiniesta (Zamora) con 2 fallecidos. Los accidentes en pasos a nivel y los causados a personas por material rodante en movimiento concentran la mayor parte de víctimas mortales."
 }

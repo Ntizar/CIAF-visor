@@ -1,47 +1,48 @@
 {
   "year": 2017,
   "title": "Memoria Anual CIAF 2017",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2017.",
-  "total_accidents": 43,
-  "total_incidents": 46,
-  "total_fatal": 4,
-  "total_victims": 41,
-  "total_material_damage_eur": 48386909,
+  "summary": "De los 67 sucesos notificados (52 accidentes, 9 incidentes, 6 suicidios), se investigaron 11.",
+  "total_accidents": 52,
+  "total_incidents": 9,
+  "total_fatal": 1,
+  "total_victims": 66,
+  "total_heridos": 65,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 16
+      "cause": "Factor humano",
+      "count": 60
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 9
+      "cause": "Fallo de instalaciones",
+      "count": 30
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 2
-    },
-    {
-      "cause": "Error humano",
-      "count": 12
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 7
+      "cause": "Fallo de material rodante",
+      "count": 10
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 35
+      "entity": "Adif",
+      "count": 118
     },
     {
       "entity": "Renfe",
-      "count": 27
+      "count": 44
     },
     {
-      "entity": "FCC",
-      "count": 11
+      "entity": "Renfe Viajeros",
+      "count": 24
+    },
+    {
+      "entity": "Continental Rail",
+      "count": 19
+    },
+    {
+      "entity": "Renfe Mercancías",
+      "count": 4
     }
   ],
-  "highlights": "En 2017 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El accidente grave por colisión con obstáculo causó 7 heridos graves y 52 leves. El factor humano fue la causa directa de mayor incidencia (60%), seguido del fallo de instalaciones (30%) y fallo de material rodante (10%)."
 }

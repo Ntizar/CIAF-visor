@@ -1,47 +1,52 @@
 {
   "year": 2022,
   "title": "Memoria Anual CIAF 2022",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2022.",
-  "total_accidents": 51,
-  "total_incidents": 50,
-  "total_fatal": 8,
-  "total_victims": 15,
-  "total_material_damage_eur": 26420993,
+  "summary": "De 112 sucesos analizados (89 accidentes, 18 incidentes, 4 descartados/suicidios), se investigaron 5 formalmente.",
+  "total_accidents": 89,
+  "total_incidents": 18,
+  "total_fatal": 23,
+  "total_victims": 51,
+  "total_heridos": 28,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 19
+      "cause": "Factor humano",
+      "count": 60
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 12
+      "cause": "Fallo de instalaciones",
+      "count": 20
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 9
+      "cause": "Fallo de material rodante",
+      "count": 20
     },
     {
-      "cause": "Error humano",
-      "count": 8
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 9
+      "cause": "Otros (terceros)",
+      "count": 17
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
+      "entity": "Adif",
+      "count": 143
+    },
+    {
+      "entity": "Renfe Viajeros",
       "count": 29
     },
     {
       "entity": "Renfe",
-      "count": 26
+      "count": 18
     },
     {
-      "entity": "FCC",
-      "count": 9
+      "entity": "Adif Alta Velocidad",
+      "count": 17
+    },
+    {
+      "entity": "Renfe Mercancías",
+      "count": 2
     }
   ],
-  "highlights": "En 2022 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El accidente grave fue una colisión de tren con vehículo ferroviario con 6 heridos graves y 23 leves. Los accidentes causados a personas por material rodante en movimiento (37 sucesos) fueron la tipología más frecuente. El factor humano predominó como causa (60%)."
 }

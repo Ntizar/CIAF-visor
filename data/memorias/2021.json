@@ -1,47 +1,48 @@
 {
   "year": 2021,
   "title": "Memoria Anual CIAF 2021",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2021.",
-  "total_accidents": 67,
-  "total_incidents": 46,
-  "total_fatal": 12,
-  "total_victims": 13,
-  "total_material_damage_eur": 28249294,
+  "summary": "De 105 sucesos analizados (96 accidentes, 8 incidentes, 1 descartado), se investigaron 4 formalmente.",
+  "total_accidents": 96,
+  "total_incidents": 8,
+  "total_fatal": 15,
+  "total_victims": 44,
+  "total_heridos": 29,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 20
+      "cause": "Factor humano",
+      "count": 50
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 7
+      "cause": "Fallo de instalaciones",
+      "count": 25
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 6
-    },
-    {
-      "cause": "Error humano",
-      "count": 18
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 3
+      "cause": "Otros (terceros)",
+      "count": 25
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 15
+      "entity": "Adif",
+      "count": 256
+    },
+    {
+      "entity": "Renfe Viajeros",
+      "count": 26
+    },
+    {
+      "entity": "Adif Alta Velocidad",
+      "count": 20
     },
     {
       "entity": "Renfe",
-      "count": 27
+      "count": 13
     },
     {
-      "entity": "FCC",
-      "count": 11
+      "entity": "Renfe Mercancías",
+      "count": 1
     }
   ],
-  "highlights": "En 2021 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "Los accidentes causados a personas por material rodante en movimiento (31 sucesos) y los accidentes en paso a nivel (19 sucesos) fueron las tipologías más frecuentes. Se iniciaron 4 investigaciones formales y 4 exámenes preliminares."
 }

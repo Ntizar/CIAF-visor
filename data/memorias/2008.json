@@ -1,47 +1,48 @@
 {
   "year": 2008,
   "title": "Memoria Anual CIAF 2008",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2008.",
-  "total_accidents": 52,
-  "total_incidents": 60,
-  "total_fatal": 3,
-  "total_victims": 42,
-  "total_material_damage_eur": 17307956,
+  "summary": "Se notificaron 74 sucesos, de los que se investigaron 57 (53 en red Adif, 4 en Feve). El 61.4% correspondieron a arrollamientos de personas.",
+  "total_accidents": 53,
+  "total_incidents": 3,
+  "total_fatal": 52,
+  "total_victims": 53,
+  "total_heridos": 1,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 17
+      "cause": "Factor humano (actuación de terceros)",
+      "count": 86
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 9
+      "cause": "Fallo de infraestructura",
+      "count": 5
     },
     {
-      "cause": "Choque con obstáculo",
-      "count": 2
+      "cause": "Fallo de material rodante",
+      "count": 5
     },
     {
-      "cause": "Error humano",
-      "count": 18
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 3
+      "cause": "Otros",
+      "count": 4
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 18
+      "entity": "Adif",
+      "count": 182
     },
     {
       "entity": "Renfe",
-      "count": 22
+      "count": 102
     },
     {
-      "entity": "FCC",
-      "count": 11
+      "entity": "Feve",
+      "count": 58
+    },
+    {
+      "entity": "Continental Rail",
+      "count": 1
     }
   ],
-  "highlights": "En 2008 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El porcentaje más elevado de sucesos investigados (61.4%) correspondió a arrollamientos de personas causados por material rodante, seguido de accidentes en pasos a nivel (24.56%). En total se produjeron 52 víctimas mortales y 1 herido grave en los sucesos investigados."
 }

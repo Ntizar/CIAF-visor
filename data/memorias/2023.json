@@ -1,47 +1,40 @@
 {
   "year": 2023,
   "title": "Memoria Anual CIAF 2023",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2023.",
-  "total_accidents": 65,
-  "total_incidents": 40,
-  "total_fatal": 7,
+  "summary": "De 126 sucesos analizados (116 accidentes, 9 incidentes, 1 descartado), se investigaron 4 formalmente.",
+  "total_accidents": 116,
+  "total_incidents": 9,
+  "total_fatal": 24,
   "total_victims": 48,
-  "total_material_damage_eur": 6188757,
+  "total_heridos": 20,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 16
-    },
-    {
-      "cause": "Descarrilamiento",
-      "count": 6
-    },
-    {
-      "cause": "Choque con obstáculo",
-      "count": 5
-    },
-    {
-      "cause": "Error humano",
-      "count": 6
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 8
+      "cause": "Factor humano",
+      "count": 100
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 19
+      "entity": "Adif",
+      "count": 89
     },
     {
       "entity": "Renfe",
-      "count": 13
+      "count": 31
     },
     {
-      "entity": "FCC",
-      "count": 9
+      "entity": "Renfe Viajeros",
+      "count": 21
+    },
+    {
+      "entity": "Adif Alta Velocidad",
+      "count": 7
+    },
+    {
+      "entity": "Renfe Mercancías",
+      "count": 2
     }
   ],
-  "highlights": "En 2023 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "Los accidentes en paso a nivel (28 sucesos) y los causados a personas por material rodante en movimiento (25 sucesos) fueron las tipologías más frecuentes. En el 100% de los sucesos investigados la causa fue imputable al factor humano."
 }

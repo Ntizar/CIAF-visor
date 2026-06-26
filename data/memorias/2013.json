@@ -1,47 +1,44 @@
 {
   "year": 2013,
   "title": "Memoria Anual CIAF 2013",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2013.",
-  "total_accidents": 63,
-  "total_incidents": 21,
-  "total_fatal": 0,
-  "total_victims": 57,
-  "total_material_damage_eur": 26040409,
+  "summary": "De los 74 sucesos notificados (59 accidentes incluyendo 1 grave, 10 incidentes, 5 suicidios), se investigaron 23. Incluye el accidente de Santiago de Compostela.",
+  "total_accidents": 59,
+  "total_incidents": 10,
+  "total_fatal": null,
+  "total_victims": null,
+  "total_heridos": null,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
+      "cause": "Fallo de infraestructura",
+      "count": 43
+    },
+    {
+      "cause": "Factor humano (actuación de terceros)",
+      "count": 26
+    },
+    {
+      "cause": "Fallo de material rodante",
       "count": 13
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 6
-    },
-    {
-      "cause": "Choque con obstáculo",
-      "count": 3
-    },
-    {
-      "cause": "Error humano",
-      "count": 9
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 11
+      "cause": "Otros",
+      "count": 18
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 16
+      "entity": "Adif",
+      "count": 133
     },
     {
       "entity": "Renfe",
-      "count": 6
+      "count": 90
     },
     {
-      "entity": "FCC",
-      "count": 4
+      "entity": "Feve",
+      "count": 28
     }
   ],
-  "highlights": "En 2013 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "El accidente más grave investigado fue el descarrilamiento de Santiago de Compostela (24 de julio de 2013), el más grave en España en décadas. De los 23 sucesos investigados, 9 fueron descarrilamientos, 4 colisiones y 6 conatos de colisión. Se formularon 23 recomendaciones."
 }

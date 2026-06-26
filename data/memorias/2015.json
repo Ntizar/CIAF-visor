@@ -1,47 +1,48 @@
 {
   "year": 2015,
   "title": "Memoria Anual CIAF 2015",
-  "summary": "Resumen de la actividad del Centro de Información de Accidentes Ferroviarios en 2015.",
-  "total_accidents": 36,
-  "total_incidents": 59,
-  "total_fatal": 9,
-  "total_victims": 69,
-  "total_material_damage_eur": 29802672,
+  "summary": "De los 59 sucesos notificados (50 accidentes, 7 incidentes, 2 suicidios), se investigaron 15.",
+  "total_accidents": 50,
+  "total_incidents": 7,
+  "total_fatal": 0,
+  "total_victims": 2,
+  "total_heridos": 2,
+  "total_material_damage_eur": null,
   "top_causes": [
     {
-      "cause": "Colisión frontal",
-      "count": 6
+      "cause": "Fallo de infraestructura",
+      "count": 40
     },
     {
-      "cause": "Descarrilamiento",
-      "count": 5
+      "cause": "Factor humano (actuación de terceros)",
+      "count": 27
     },
     {
-      "cause": "Choque con obstáculo",
+      "cause": "Fallo de material rodante",
       "count": 7
-    },
-    {
-      "cause": "Error humano",
-      "count": 15
-    },
-    {
-      "cause": "Fallo mecánico",
-      "count": 5
     }
   ],
   "top_entities": [
     {
-      "entity": "ADIF",
-      "count": 17
+      "entity": "Adif",
+      "count": 161
     },
     {
       "entity": "Renfe",
-      "count": 18
+      "count": 71
     },
     {
-      "entity": "FCC",
-      "count": 4
+      "entity": "Renfe Viajeros",
+      "count": 12
+    },
+    {
+      "entity": "Continental Rail",
+      "count": 11
+    },
+    {
+      "entity": "Feve",
+      "count": 9
     }
   ],
-  "highlights": "En 2015 se realizaron mejoras significativas en la seguridad ferroviaria."
+  "highlights": "De los 15 sucesos investigados, 9 accidentes e 6 incidentes. Solo se produjeron 2 heridos leves (en una colisión de trenes). Los conatos de colisión representaron 5 de los 6 incidentes investigados."
 }

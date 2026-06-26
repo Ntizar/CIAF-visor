@@ -282,6 +282,25 @@
         .app-footer a { color: var(--kz-azul); text-decoration: none; }
         .app-footer a:hover { text-decoration: underline; }
 
+        /* ===== ENTITY CARDS ===== */
+        .entity-card {
+            background: white; padding: 1.25rem; box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            margin-bottom: 1rem; cursor: pointer; transition: all 0.15s; border-left: 4px solid var(--kz-azul);
+        }
+        .entity-card:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .entity-card.active { border-left-color: var(--kz-rojo); background: #fef7f7; }
+        .entity-card h4 { color: var(--kz-azul); margin-bottom: 0.4rem; font-size: 1rem; }
+        .entity-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 0.6rem; margin-top: 0.75rem; }
+        .entity-stat { text-align: center; padding: 0.5rem; background: #f5f7fa; border-radius: 4px; }
+        .entity-stat .num { font-size: 1.3rem; font-weight: 700; color: var(--kz-azul); }
+        .entity-stat .lbl { font-size: 0.7rem; color: #666; }
+        .entity-reports-list { margin-top: 1rem; }
+        .entity-report-item {
+            padding: 0.5rem 0.75rem; border-bottom: 1px solid #f0f0f0; font-size: 0.82rem;
+            cursor: pointer; transition: background 0.15s;
+        }
+        .entity-report-item:hover { background: #e8f0fe; }
+
         /* ===== LOADING ===== */
         .loading-overlay {
             position: fixed; top: 0; left: 0; right: 0; bottom: 0;
@@ -337,6 +356,7 @@
     <div class="tab" data-tab="informes">📋 Informes</div>
     <div class="tab" data-tab="memorias">📖 Memorias</div>
     <div class="tab" data-tab="normativa">⚖️ Normativa</div>
+    <div class="tab" data-tab="empresas">🏢 Empresas</div>
 </nav>
 
 <!-- Main -->
@@ -502,6 +522,18 @@
                 <ul class="normativa-list" id="normativaList"></ul>
             </div>
         </div>
+
+        <!-- EMPRESAS TAB -->
+        <div class="tab-content" id="tab-empresas">
+            <div class="memorias-content">
+                <h2>🏢 Informes por Empresa / Operador</h2>
+                <p style="margin-bottom:1rem;color:#666;font-size:0.88rem">
+                    Resumen de la actividad de investigación por entidad involucrada. Seleccione una empresa para ver sus informes.
+                </p>
+                <div class="year-selector" id="entitySelector"></div>
+                <div id="entityDetail"></div>
+            </div>
+        </div>
     </main>
 </div>
 
@@ -541,6 +573,7 @@ async function init() {
     renderTable();
     renderMemorias();
     renderNormativa();
+    renderEmpresas();
     document.getElementById('loadingOverlay').classList.add('hidden');
 }
 
@@ -1109,10 +1142,9 @@ function showDetailPanel(reportIdx) {
             ${conclusionsHtml}
         </div>
 
-        <div class="detail-section">
-            <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="detail-link-btn">
-                📄 Ver informe original en CIAF →
-            </a>
+        <div class="detail-section" style="display:flex;gap:0.5rem;flex-wrap:wrap">
+            ${r.enlaces && r.enlaces.pdf_local ? `<a href="${r.enlaces.pdf_local}" target="_blank" rel="noopener" class="detail-link-btn">📄 Ver PDF del informe →</a>` : ''}
+            <a href="${r.enlaces && r.enlaces.ciaf_web ? r.enlaces.ciaf_web : 'https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados'}" target="_blank" rel="noopener" class="detail-link-btn" style="background:var(--kz-rojo)">🌐 Fuente oficial CIAF →</a>
         </div>
     `;
 
@@ -1164,9 +1196,7 @@ async function renderMemorias() {
                 <div class="memoria-detail">
                     <h3>Memoria ${year}</h3>
                     <p>No hay datos disponibles para ${year}.</p>
-                    <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="memoria-ciaf-btn">
-                        📄 Ver memoria original en CIAF →
-                    </a>
+                    <a href="pdfs/memorias/CIAF_Memoria_${year}.pdf" target="_blank" rel="noopener" class="memoria-ciaf-btn">📄 Descargar memoria PDF →</a>
                 </div>`;
             return;
         }
@@ -1205,9 +1235,10 @@ async function renderMemorias() {
             <div class="memoria-detail">
                 <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:0.5rem">
                     <h3>${m.title || 'Memoria ' + year}</h3>
-                    <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="memoria-ciaf-btn">
-                        📄 Ver memoria original en CIAF →
-                    </a>
+                    <div style="display:flex;gap:0.5rem;flex-wrap:wrap">
+                        <a href="pdfs/memorias/CIAF_Memoria_${year}.pdf" target="_blank" rel="noopener" class="memoria-ciaf-btn">📄 Descargar memoria PDF →</a>
+                        <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="memoria-ciaf-btn" style="background:#666">🌐 Fuente oficial →</a>
+                    </div>
                 </div>
                 <p>${m.summary || ''}</p>
                 <div class="memoria-stats">
@@ -1225,6 +1256,95 @@ async function renderMemorias() {
     if (availableYears.length > 0) {
         await showMemoria(availableYears[0]);
     }
+}
+
+// ===== EMPRESAS =====
+function renderEmpresas() {
+    // Group reports by entity
+    const entityMap = {};
+    allReports.forEach(r => {
+        const entities = r.entities && r.entities.length > 0 ? r.entities : [r.entity || 'Desconocido'];
+        entities.forEach(ent => {
+            if (!entityMap[ent]) entityMap[ent] = { name: ent, reports: [], totalVictims: 0, totalInjured: 0, types: {} };
+            entityMap[ent].reports.push(r);
+            entityMap[ent].totalVictims += r.victims || 0;
+            entityMap[ent].totalInjured += r.injured || 0;
+            entityMap[ent].types[r.type] = (entityMap[ent].types[r.type] || 0) + 1;
+        });
+    });
+
+    // Sort by report count
+    const entities = Object.values(entityMap).sort((a, b) => b.reports.length - a.reports.length);
+
+    const selector = document.getElementById('entitySelector');
+    selector.innerHTML = entities.map((e, i) =>
+        `<button class="year-btn${i === 0 ? ' active' : ''}" data-entity="${e.name}">${e.name} (${e.reports.length})</button>`
+    ).join('');
+
+    selector.addEventListener('click', (e) => {
+        if (e.target.classList.contains('year-btn')) {
+            selector.querySelectorAll('.year-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            showEntity(e.target.dataset.entity);
+        }
+    });
+
+    function showEntity(name) {
+        const ent = entityMap[name];
+        if (!ent) return;
+        const detail = document.getElementById('entityDetail');
+
+        // Year distribution
+        const yearDist = {};
+        ent.reports.forEach(r => { yearDist[r.year] = (yearDist[r.year] || 0) + 1; });
+        const years = Object.keys(yearDist).sort();
+
+        // Province distribution
+        const provDist = {};
+        ent.reports.forEach(r => { const p = r.province || 'Desconocida'; provDist[p] = (provDist[p] || 0) + 1; });
+        const topProvs = Object.entries(provDist).sort((a, b) => b[1] - a[1]).slice(0, 8);
+
+        // Severity distribution
+        const sevDist = {};
+        ent.reports.forEach(r => { const s = r.severity || 'desconocido'; sevDist[s] = (sevDist[s] || 0) + 1; });
+
+        detail.innerHTML = `
+            <div class="entity-card active">
+                <h4>${ent.name}</h4>
+                <div class="entity-stats">
+                    <div class="entity-stat"><div class="num">${ent.reports.length}</div><div class="lbl">Informes</div></div>
+                    <div class="entity-stat"><div class="num">${ent.totalVictims}</div><div class="lbl">Víctimas</div></div>
+                    <div class="entity-stat"><div class="num">${ent.totalInjured}</div><div class="lbl">Heridos</div></div>
+                    <div class="entity-stat"><div class="num">${Object.keys(sevDist).length}</div><div class="lbl">Severidades</div></div>
+                    <div class="entity-stat"><div class="num">${years.length}</div><div class="lbl">Años</div></div>
+                </div>
+                <div style="margin-top:1rem">
+                    <strong>Distribución por severidad:</strong>
+                    ${Object.entries(sevDist).map(([k, v]) => `<span class="badge badge-${k.replace(/ /g, '-')}">${k}: ${v}</span>`).join(' ')}
+                </div>
+                <div style="margin-top:0.75rem">
+                    <strong>Provincias con más informes:</strong>
+                    ${topProvs.map(([k, v]) => `${k} (${v})`).join(', ')}
+                </div>
+                <div style="margin-top:0.75rem">
+                    <strong>Evolución anual:</strong>
+                    ${years.map(y => `${y}: ${yearDist[y]}`).join(' | ')}
+                </div>
+            </div>
+            <h3 style="color:var(--kz-azul);margin:1rem 0 0.5rem;font-size:0.9rem">Listado de informes (${ent.reports.length})</h3>
+            <div class="entity-reports-list">
+                ${ent.reports.sort((a, b) => (b.date || '').localeCompare(a.date || '')).map(r => `
+                    <div class="entity-report-item" onclick="showDetailPanel(${allReports.indexOf(r)})">
+                        <span class="badge badge-${r.type}">${r.type}</span>
+                        <span class="badge badge-${(r.severity||'').replace(/ /g,'-')}">${r.severity}</span>
+                        ${r.expediente || r.id} — ${r.city || r.station || ''} (${r.province || ''})
+                        ${r.victims > 0 ? `<span style="color:var(--kz-rojo);font-weight:700">⚠ ${r.victims} víctimas</span>` : ''}
+                    </div>
+                `).join('')}
+            </div>`;
+    }
+
+    if (entities.length > 0) showEntity(entities[0].name);
 }
 
 // ===== NORMATIVA =====
