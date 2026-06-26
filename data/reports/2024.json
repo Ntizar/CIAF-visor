@@ -1,445 +1,300 @@
 [
   {
-    "id": "2024-2024-64-0625-if",
-    "expediente": "64/2024",
-    "tipo": "accidente",
-    "tipo_suceso": "Otro",
-    "fecha_suceso": "2024-07-29",
-    "hora_suceso": "21:30",
+    "id": "2024-122/2024",
     "year": 2024,
+    "expediente": "122/2024",
+    "titulo": "IF 122/2024 — Descarrilamiento por escape de material en la estación de",
+    "tipo": "avería",
+    "tipo_suceso": "avería",
+    "gravedad": "leve",
+    "fecha_suceso": "2024-12-13",
+    "ubicacion": {
+      "estacion": "León Clasificación (León) el 13 de diciembre de",
+      "provincia": "León",
+      "lat": 42.5981,
+      "lng": -5.5667
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Mercancías"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El 12 de diciembre de 2024, durante el turno de mañana, el Auxiliar de Circulación (AXC) de la\nempresa prestadora de servicios básicos LOGIRAIL realizó maniobras para estacionar en la vía 9 del\nhaz de ordenación de la estación de León Clasificación una parte de los vagones del tren 55251,\npertenecientes a Renfe-Mercancías SME S.A. Este corte estaba compuesto por 10 vagones plataforma\nde los tipos MMC y MC, algunos de ellos cargados con mercancías peligrosas (MMPP).\nDurante la madrugada del día siguiente, 13 de diciembre de 2024, a las 03:50 horas, se produjo una\nderiva incontrolada de este material estacionado, que se desplazó debido a la declividad existente de\nla vía. Esta deriva del material provocó el talonamiento de la aguja 29, lo que causó el\ndescarrilamiento del primer eje del vagó",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................10\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................10\n3.1.5. Material rodante .........."
+    },
+    "conclusiones": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los",
+      "Frenado no efectivo del corte de vagones estacionado en la vía 9 de León Clasificación que",
+      "desencadenó una deriva incontrolada del material.",
+      "Factores contribuyentes",
+      "Pérdida de efectividad del freno automático, debido a la pérdida de aire en el circuito de",
+      "freno por el paso del tiempo.",
+      "Ineficacia del freno de estacionamiento aplicado al corte de material por el auxiliar de",
+      "circulación. Ver Recomendación 122/2024-1.",
+      "No disposición de calces antideriva en el corte de material estacionado. Ver Recomendación",
+      "Existencia de pendiente en la estación de León Clasificación.",
+      "Exigencia, en los protocolos operativos, de aplicar un único freno de estacionamiento en",
+      "determinados casos de pendiente y longitud del material, sin establecer medidas de respaldo",
+      "ante posibles fallos, aplicaciones incorrectas o averías. Ver Recomendación 122/2024-1.",
+      "Falta de disponibilidad de calces antideriva en las estaciones de clasificación de material,",
+      "motivada por robos reiterados y la ausencia de un sistema eficaz de reposición. Ver",
+      "Recomendación 122/2024-2.",
+      "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+      "Tras el suceso, la empresa logística LOGIRAIL ha instruido a su personal auxiliar de circulación para",
+      "que, en maniobras de estacionamiento de cortes de vehículos, se apliquen al menos tres frenos de"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "122/2024-1",
+        "texto": "Reforzar la implementación efectiva de la ficha guía F- RCF-05/2021 de la Agencia Estatal de Seguridad Ferroviaria (",
+        "implementador": ""
+      },
+      {
+        "numero": "122/2024-2",
+        "texto": "Implantar un sistema de provisión y almacenamiento seguro de calces antideriva en estaciones de clasificación, que garantice su disponibilidad operativa continua y prevenga su pérdida o sustracción.",
+        "implementador": ""
+      },
+      {
+        "numero": "122/2024-3",
+        "texto": "Revisar los programas de formación y habilitación del personal encargado de las operaciones en las terminales, asegurando que incluyen: el conocimiento de la infraestructura, la correcta aplicación y verificación funcional de los frenos de estacionamiento, la identificación de situaciones de riesgo, la actuación ante la ausencia de medios físicos y la comprensión de las responsabilidades compartidas entre operadores logísticos, administradores de infraestructura y",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "avería",
+      "descarrilamiento",
+      "señalización",
+      "infraestructura",
+      "velocidad",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2024/2024-122-1213-if.pdf"
+    },
+    "similares": []
+  },
+  {
+    "id": "2024-64/2024",
+    "year": 2024,
+    "expediente": "64/2024",
+    "titulo": "IF 64/2024 — Incidente operacional en la estación de Cuenca-Fernando",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2024-07-29",
     "ubicacion": {
       "estacion": "Cuenca-Fernando",
       "provincia": "Cuenca",
       "lat": 40.0335,
       "lng": -2.1431
     },
-    "trenes": [
-      {
-        "id_tren": "05903",
-        "tipo": "viajeros",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "05210",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "38501",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "6570",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "05073",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "6100",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "4110",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "4060",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "33374",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "00626",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "03123",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "03183",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "05155",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "6470",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "6280",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "05871",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "03212",
-        "tipo": "",
-        "descripcion": ""
-      }
-    ],
     "entidades": [
+      "ADIF",
       "ADIF AV",
       "Renfe Viajeros"
     ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "El 25 de junio de 2024, a las 21:30 horas, el tren de alta velocidad 05903, procedente de Murcia del Carmen y con destino a Madrid-Puerta de Atocha, sufrió un incidente operacional que consistió en la reanudación de la marcha tras el rebase indebido de una señal, después de realizar una parada comercial en la estación de Cuenca-Fernando Zóbel. El incidente se produjo cuando el tren sobrepasó la señal de salida S1/5, que presentaba el aspecto FF7C (rojo fijo y azul fijo). Al circular el tren en ERTMS Nivel 1, esta señal de parada selectiva obligaba al tren a detenerse. Sin embargo, como la detención no se llevó a cabo, se activó el modo TRIP* del ERTMS, lo que detuvo automáticamente el tren. Posteriormente, el maquinista se comunicó con el Responsable de Circulación (RC) del Centro de Regulación de Circulación (CRC) de Albacete, quien, sin interpretar que se trataba de un rebase indebido, autorizó al tren a continuar la marcha. Inmediatamente después, el RC ordenó al maquinista la detención del tren y su posterior retroceso a la estación de Cuenca-Fernando Zóbel, a instancias del regulador del CRC de Albacete, quien comprobó que se trataba de un rebase indebido. Conclusión: Los factores causales del suceso fueron los siguientes: Interpretación errónea, por parte del maquinista, del mensaje transmitido por la señal S1/5, lo que ocasionó un rebase indebido. Autorización para reanudar la marcha emitida por el RC del CRC, al no interpretar que se había producido el rebase indebido de la señal. Los factores contribuyentes del suceso fueron: Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red. Cambio de turno en el CRC. Falta de verificación del aspecto de la señal por parte del maquinista. Atención dividida del maquinista, debido al acceso de personal formador a la cabina. Además, se han identificado los siguientes factores sistémicos: Similitud entre los aspectos FF7C y FF7D de la señal. * Modo de ERTMS que produce",
-      "factores_humanos": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Responsable de Circulación de la banda 0301 del CRC de Albacete, personal de ADIF. \n➢ Maquinista del tren 05903 de RENFE Viajeros. \nLas entidades relacionadas con el incidente son las siguientes: \n➢ ADIF: Administrador de Infraestructuras Ferroviarias. \n➢ RENFE Viajeros: Empresa Ferroviaria del tren implicado en el suceso.\n\nTanto este suceso como los otros incidentes mencionados en el apartado 4.5 evidencian que los \naspectos rojo fijo y azul fijo (Figura FF7C) y rojo fijo y azul destellante (Figura FF7D) de las señales no \nresultan suficientemente ergonómicos, debido a diversos factores que se detallan a continuación. \nEn primer lugar, es importante considerar que, en el caso objeto de este Informe, el maquinista \ncircula con ERTMS Nivel 2 entre Murcia del Carmen y Bifurcación Triángulo (Albacete), por lo que \nante las señales con aspecto FF7C (rojo fijo y azul fijo) lo que debe hacer es continuar la marcha o \niniciarla. \nSin embargo, desde Bifurcación Triángulo (Albacete) hasta Madrid, el tren pasa a circular con ERTMS \nNivel 1, lo que obliga al maquinista a detenerse ante las señales con aspecto FF7C (rojo fijo y azul fijo) \ndebiendo esperar hasta el aspecto FF7D (rojo fijo y azul destellante) para reanudar la marcha. Así, se \npresenta una situación en la que, ante exactamente el mismo estímulo visual,",
-      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nASFA \nAnuncio de Señales y Frenado Automático \nCIAF \nCRC \nCentro de Regulación de Circulación \nDMI \nDriver Machine Interface (Interfaz Hombre Máquina) \nEI \nEquipo de Investigación \nETPCO \nEscuela Técnica Profesional de Conducción y Operaciones \nETCS \nEuropean Train Control System (Sistema Europeo de Control de Trenes) \nERTMS \n\nEuropean Rail Traffic Management System (Sistema Europeo de Gestión del Tráfico \nFerroviario) \nEOA \nEnd of Authority (Fin de Autorización) \nFN20 \nFunción Nacional 20 \nFS \nFull Supervision (Supervisión Total) \nIE \nInvestigador Encargado \nLTV \nLimitación Temporal de Velocidad \nMA \nMovement Authority (Autorización de Movimiento) \nRBC \nRadio Block Center (Centro de Bloqueo por Radio) \nRC \nResponsable de circulación \nRCF \nReglamento de Circulación Ferroviaria \nRFIG \nRed Ferroviaria de Interés General \n\n\n5\n\nComo consecuencia del suceso el tren implicado en el mismo sufrió un retraso de 55 minutos. No se \nprodujo interceptación de la vía.\n\nEl material rodante implicado en el suceso corresponde a un tren de alta velocidad de la empresa \nRENFE, de la Serie 102, específicamente la unidad 102004. Este tren está diseñado para operar en \nlíneas de alta velocidad, siendo compatible con los sistemas de señalización ERTMS nivel 1, nivel 2, \nLZB y ASFA.\n\nEl suceso investigado tuvo lugar en la LAV 040 de la Red Ferroviaria de Interés General, en la estación \nde Cuenca-Fernando Zóbel. \nEl tramo es de vía doble de ancho internacional, electrificada a 25 kV, y equipada con ASFA y ERTMS \nNivel 1 y 2, aunque solo se encuentra en servicio el Nivel 1. \nLa estación de Cuenca-Fernando Zóbel cuenta con dos vías generales y cuatro vías de apartado. El \nsuceso se produjo en la vía 5 (vía de apartado), a la altura de la señal de salida S1/5 en sentido Madrid. \n\n\n11 \n\nFigura 2 Esquema de la estación de Cuenca-Fernando Zóbel\n\nEs relevante en este caso tener en cuenta que el t"
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
     },
-    "conclusiones": "Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores: \n\nFigura 6 Árbol causal del suceso \nFactores causales",
+    "analisis": {
+      "resumen": "El 25 de junio de 2024, a las 21:30 horas, el tren de alta velocidad 05903, procedente de Murcia del\nCarmen y con destino a Madrid-Puerta de Atocha, sufrió un incidente operacional que consistió en la\nreanudación de la marcha tras el rebase indebido de una señal, después de realizar una parada\ncomercial en la estación de Cuenca-Fernando Zóbel. El incidente se produjo cuando el tren sobrepasó\nla señal de salida S1/5, que presentaba el aspecto FF7C (rojo fijo y azul fijo). Al circular el tren en\nERTMS Nivel 1, esta señal de parada selectiva obligaba al tren a detenerse. Sin embargo, como la\ndetención no se llevó a cabo, se activó el modo TRIP* del ERTMS, lo que detuvo automáticamente el\ntren. Posteriormente, el maquinista se comunicó con el Responsable de Circulación (RC) del Centro\nde Regul",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .........................................................................................................................9\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................10\n3.1.5. Material rodante ........."
+    },
+    "conclusiones": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los",
+      "Interpretación errónea, por parte del maquinista, del mensaje transmitido por la señal S1/5,",
+      "lo que ocasionó un rebase indebido.  Ver Recomendación 64/2024-1, Recomendación",
+      "64/2024-2, Recomendación 64/2024-3, Recomendación 64/2024-5 y Recomendación",
+      "Autorización para reanudar la marcha emitida por el RC del CRC, al no interpretar que se",
+      "había producido el rebase indebido de la señal. Ver Recomendación 64/2024-1,",
+      "Recomendación 64/2024-2, Recomendación 64/2024-3 y Recomendación 64/2024-4",
+      "Factores contribuyentes",
+      "Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros",
+      "puntos de la red. Ver Recomendación 64/2024-1 y Recomendación 64/2024-7",
+      "Cambio de turno en el CRC. Ver Recomendación 64/2024-4",
+      "Falta de verificación del aspecto de la señal por parte del maquinista. Ver Recomendación",
+      "64/2024-1 y Recomendación 64/2024-7",
+      "Atención dividida del maquinista, debido al acceso de personal formador a la cabina. Ver",
+      "Recomendación 64/2024-1",
+      "Similitud entre los aspectos FF7C y FF7D de la señal. Ver Recomendación 64/2024-3",
+      "Necesidad de actuaciones diferentes por parte del maquinista ante el aspecto FF7C, en un",
+      "mismo servicio, en función del nivel de ERTMS en el que circula el tren. Ver Recomendación",
+      "Atención requerida por el maquinista para el control de la velocidad de liberación. Ver"
+    ],
     "recomendaciones": [
       {
         "numero": "64/2024-1",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Realizar estudios específicos, para mejorar la ergonomía de las señales luminosas en alta velocidad, considerando el factor humano y realizando los análisis de riesgos correspondientes. AESF ADIF y ADIF AV"
+        "texto": "Realizar estudios específicos, para mejorar la ergonomía de las señales luminosas en alta velocidad, considerando el factor humano y realizando los análisis de riesgos correspondientes.",
+        "implementador": ""
       },
       {
         "numero": "64/2024-2",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Poner en servicio el Nivel 2 de ERTMS en las líneas equipadas con dicho nivel pero que aún no esté operativo. AESF ADIF y ADIF AV"
+        "texto": "Poner en servicio el Nivel 2 de ERTMS en las líneas equipadas con dicho nivel pero que aún no esté operativo.",
+        "implementador": ""
       },
       {
         "numero": "64/2024-3",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Estudiar la posibilidad, en aquellas líneas equipadas con ambos niveles de ERTMS, de desactivar el Nivel 1, suprimiendo el aspecto FF7D, siempre llevando a cabo el preceptivo análisis de riesgos y evaluación sobre la capacidad pertinentes. AESF ADIF y ADIF AV"
+        "texto": "Estudiar la posibilidad, en aquellas líneas equipadas con ambos niveles de ERTMS, de desactivar el Nivel 1, suprimiendo el aspecto FF7D, siempre llevando a cabo el preceptivo análisis de riesgos y evaluación sobre la capacidad pertinentes.",
+        "implementador": ""
       },
       {
         "numero": "64/2024-4",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Revisar los protocolos de actuación para autorización de reanudación de la marcha tras un modo TRIP, incluidos en sus sistemas de gestión de seguridad, facilitando al RC, en particular, la confirmación del nivel de ERTMS en el que circula el tren, en casos de coexistencia de niveles. AESF ADIF y ADIF AV"
+        "texto": "Revisar los protocolos de actuación para autorización de reanudación de la marcha tras un modo TRIP, incluidos en sus sistemas de gestión de seguridad, facilitando al RC, en particular, la confirmación del nivel de ERTMS en el que circula el tren, en casos de coexistencia de niveles.",
+        "implementador": ""
       },
       {
         "numero": "64/2024-5",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Establecer como medida mitigadora transitoria hasta la puesta en servicio de Nivel 2, la programación de los enrutadores automáticos en modo ASFA en las líneas equipadas con Nivel 2 pero que no está operativo. AESF ADIF y ADIF AV"
+        "texto": "Establecer como medida mitigadora transitoria hasta la puesta en servicio de Nivel 2, la programación de los enrutadores automáticos en modo ASFA en las líneas equipadas con Nivel 2 pero que no está operativo.",
+        "implementador": ""
       },
       {
         "numero": "64/2024-6",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Establecer en los PPTP de los proyectos que afecten al subsistema CMS, condiciones que garanticen la compatibilidad técnica con los de los tramos adyacentes. AESF EMPRESAS FERROVIARIAS"
+        "texto": "Establecer en los PPTP de los proyectos que afecten al subsistema CMS, condiciones que garanticen la compatibilidad técnica con los de los tramos adyacentes.",
+        "implementador": ""
       },
       {
         "numero": "64/2024-7",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Potenciar los principios de cultura justa en lo referente a los rebases de señal."
+        "texto": "Potenciar los principios de cultura justa en lo referente a los rebases de señal.",
+        "implementador": ""
       }
     ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
-    },
     "tags": [
-      "accidente",
+      "incidente",
       "colisión",
       "factor humano",
-      "formación",
-      "leve",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2024/2024-2024-64-0625-if/fig00.jpeg",
-      "data/images/2024/2024-2024-64-0625-if/fig01.png",
-      "data/images/2024/2024-2024-64-0625-if/fig02.png",
-      "data/images/2024/2024-2024-64-0625-if/fig03.jpeg",
-      "data/images/2024/2024-2024-64-0625-if/fig04.png",
-      "data/images/2024/2024-2024-64-0625-if/fig05.png",
-      "data/images/2024/2024-2024-64-0625-if/fig06.png",
-      "data/images/2024/2024-2024-64-0625-if/fig07.png",
-      "data/images/2024/2024-2024-64-0625-if/fig08.png",
-      "data/images/2024/2024-2024-64-0625-if/fig09.png",
-      "data/images/2024/2024-2024-64-0625-if/fig10.png",
-      "data/images/2024/2024-2024-64-0625-if/fig11.jpeg",
-      "data/images/2024/2024-2024-64-0625-if/fig12.png",
-      "data/images/2024/2024-2024-64-0625-if/fig13.png",
-      "data/images/2024/2024-2024-64-0625-if/fig14.png",
-      "data/images/2024/2024-2024-64-0625-if/fig15.png",
-      "data/images/2024/2024-2024-64-0625-if/fig16.png",
-      "data/images/2024/2024-2024-64-0625-if/fig17.png",
-      "data/images/2024/2024-2024-64-0625-if/fig18.png",
-      "data/images/2024/2024-2024-64-0625-if/fig19.png"
+      "señalización",
+      "infraestructura",
+      "velocidad",
+      "cruzamiento",
+      "leve"
     ],
     "enlaces": {
-      "pdf_original": "pdfs/2024/2024-64-0625-if.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2024-64-0625-if.pdf"
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2024/2024-64-0625-if.pdf"
     },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "c22d633b8f8702a612c2535f4c86ad76",
-    "fecha_parseo": "2026-06-26T13:18:56.726677"
+    "similares": [
+      "2024-0055/2017"
+    ]
   },
   {
-    "id": "2024-260526-241029-if-sf_ciaf",
-    "expediente": "111/2024",
-    "tipo": "accidente",
-    "tipo_suceso": "Descarrilamiento",
-    "fecha_suceso": "2024-10-29",
-    "hora_suceso": "12:10",
+    "id": "2024-0055/2017",
     "year": 2024,
+    "expediente": "0055/2017",
+    "titulo": "IF 111/2024 — Colisión de tren con obstáculo y descarrilamiento",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2024-10-29",
     "ubicacion": {
       "estacion": "",
-      "provincia": "Madrid",
+      "provincia": "Cuenca",
       "lat": null,
       "lng": null
     },
-    "trenes": [
-      {
-        "id_tren": "06119",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "02123",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "6119",
-        "tipo": "",
-        "descripcion": ""
-      }
-    ],
     "entidades": [
+      "ADIF",
       "ADIF AV",
       "Renfe Viajeros"
     ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros, compuesto por la unidad 112.014, que realizaba el servicio entre Málaga - María Zambrano y Madrid - Puerta de Atocha, con un total de 276 viajeros, circulando a una velocidad aproximada de 200 km/h, colisionó con un obstáculo constituido por tierra y piedras acumulados sobre la vía en el punto kilométrico 124/573 de la línea 030 Bifurcación Málaga A.V. – Málaga María Zambrano, en el término municipal de Álora, a la salida norte del túnel de Álora, por la vía I, produciéndose como consecuencia el descarrilamiento del primer eje del primer bogie de la cabeza tractora en el sentido de la marcha. El tren circulaba con una Limitación Temporal de Velocidad (LTV) de 200 km/h, establecida por Centro de Regulación de Circulación (CRC) de ADIF-AV, tras comunicar el maquinista del tren 06119 de Iryo, que precedía al tren 02123 y que había pasado por el mismo punto aproximadamente 25 minutos antes, haber notado un golpe. La acumulación de materiales sobre la infraestructura ferroviaria fue consecuencia del arrastre de tierra y piedras provocado por las precipitaciones extraordinarias registradas ese mismo día en la Tras el descarrilamiento, el tren recorrió 1.563 metros hasta su detención, manteniéndose en todo momento en posición vertical y sin interceptar la vía contigua, al quedar el carril derecho alojado entre la rueda derecha descarrilada y el disco de freno, lo que produjo un efecto de guiado y contención lateral. No se produjeron víctimas mortales ni heridos. El suceso ocasionó daños en el material rodante y en la infraestructura, incluida la rotura del carril derecho en el PK 124/532, lo que obligó a interrumpir la circulación por la vía I hasta la reparación de los daños. Conclusión: Los factores causales del suceso fueron los siguientes: Acumulación súbita de tierra y piedras en la caja de la vía en la salida norte del túnel de Álora, arrastrados como consecuencia de preci",
-      "factores_humanos": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Maquinista del tren 06119, perteneciente a Iryo (ILSA Rail S.A.), que circulaba \ninmediatamente (25 minutos) antes del tren accidentado por la misma vía y comunicó la \nposible percepción de irregularidad en el tramo afectado. \n➢ Maquinista del tren 02123 de Renfe Viajeros, conductor del tren implicado en el suceso. \n➢ Responsable del CTC del CRC de Antequera AV de ADIF. \n\n\n14 \n\nLas entidades relacionadas con el suceso son las siguientes: \n➢ Renfe Viajeros: Empresa ferroviaria del tren implicado en el accidente. \n➢ ADIF-AV: Administrador de la infraestructura ferroviaria donde se produjo el suceso. \n➢ Iryo (ILSA Rail S.A.): Empresa ferroviaria que operaba el tren inmediatamente precedente al \naccidentado y cuya comunicación inicial motivó la adopción de la LTV.\n\nEn el análisis del suceso se identificaron factores humanos y organizativos vinculados a la gestión de \nla seguridad operacional y a la aplicación de los procedimientos internos de ADIF. El procedimiento \npara la comunicación de defectos de vía, regulado en la “Ficha Específica LAV 2 – Deformación de vía” \n\n\n24 \n\ny concebido para garantizar la adecuada valoración del riesgo y la adopción de medidas de mitigación \nfrente a anomalías en la infraestructura, no era plenamente conocido ni por el personal de \nconducción ni por el personal del CRC. En el caso del personal de conducción, al tratarse de un \ndocumento interno de ADIF, este no se traslada a las empresas ferroviarias y, en consecuencia, no \nforma parte de sus respectivos SGS, motivo por el cual su contenido no resulta conocido por los \nmaquinistas. \nEl procedimiento establece dos niveles de repercusión: débil y fuerte. Para las anomalías clasificadas \ncomo débiles, el RC debe contactar con el siguiente maquinista con el fin de ver\n\ne vía”, tras \nla comunicación de un golpe por el maquinista del tren precedente. Recomendación \n111/2024-",
-      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nCIAF \nCRC \nCentro de Regulación de Circulación \nCTC \nControl de Tráfico Centralizado \nLTV \nLimitación Temporal de Velocidad \nRC \nResponsable de circulación \nRCF \nReglamento de Circulación Ferroviaria \nRFIG \nRed Ferroviaria de Interés General \nSAM \nSistema de Ayuda al Mantenimiento \nSGS \nSistema de Gestión de la Seguridad \n\n\n5\n\ngestión y \nevaluación del riesgo asociado a deformaciones en la vía. Ver Recomendación 111/2024-1 y \nRecomendación 111/2024-2.\n\nComo consecuencia del suceso, la circulación por la vía I de la línea 030 entre Los Prados y Álora \nquedó interceptada desde las 12:15 horas del día 29/10/2024 hasta las 05:30 horas del día \n01/11/2024, totalizando aproximadamente 65 horas y 15 minutos de interrupción del tráfico \nferroviario. \nDurante este periodo, ADIF ejecutó las actuaciones de gestión de emergencia, evaluación de daños, \naseguramiento del material rodante accidentado, encarrilamiento del tren y reparación de la rotura \ndel carril derecho localizada en el PK 124/532. \nComo consecuencia de la interceptación y de las obras de reparación posteriores, se registraron los \nsiguientes impactos operacionales sobre el servicio ferroviario de la línea de alta velocidad: \n• \nTrenes de alta velocidad de Renfe Viajeros: 161 circulaciones afectadas, con un retraso \nacumulado de 2.112 minutos. \n• \nServicios AVANT de Renfe Viajeros: 66 circulaciones afectadas, con un retraso acumulado de \n1.268 minutos. \n• \nServicios de alta veloci\n\nEl material rodante implicado en el suceso corresponde al tren de alta velocidad 02123 de Renfe \nViajeros, compuesto por el automotor serie 112 identificado con número nacional 112.014, con una \nconfiguración de 21 ejes, masa aproximada de 327 toneladas y longitud de 200 metros, autorizado \npara la circulación conforme a su plan de mantenimiento. \nEl vehículo accidentado se encontraba habilitado para el servicio en la línea 030 y dispo"
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
     },
-    "conclusiones": "Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores: \n\nFigura 10 Árbol causal del suceso \nFactor causal",
+    "analisis": {
+      "resumen": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros,\ncompuesto por la unidad 112.014, que realizaba el servicio entre Málaga - María Zambrano y Madrid\n- Puerta de Atocha, con un total de 276 viajeros, circulando a una velocidad aproximada de 200 km/h,\ncolisionó con un obstáculo constituido por tierra y piedras acumulados sobre la vía en el punto\nkilométrico 124/573 de la línea 030 Bifurcación Málaga A.V. – Málaga María Zambrano, en el término\nmunicipal de Álora, a la salida norte del túnel de Álora, por la vía I, produciéndose como consecuencia\nel descarrilamiento del primer eje del primer bogie de la cabeza tractora en el sentido de la marcha.\nEl tren circulaba con una Limitación Temporal de Velocidad (LTV) de 200 km/h, establecida por Centro\nde ",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................12\n3.1.3. Interceptación de la vía ...............................................................................................................................13\n3.1.4. Personal y entidades ..................................................................................................................................13\n3.1.5. Material rodante ............."
+    },
+    "conclusiones": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los",
+      "Ocupación de la caja de la vía por tierra y piedras en la salida norte del túnel de Álora,",
+      "arrastrados como consecuencia de precipitaciones de intensidad extraordinaria. Ver",
+      "Recomendación 111/2024-1, Recomendación 111/2024-2, Recomendación 111/2024-4,",
+      "Recomendación 111/2024-6, Recomendación 111/2024-7, Recomendación 111/2024-8 y",
+      "Recomendación 111/2024-9.",
+      "Factores contribuyentes",
+      "Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo. Ver",
+      "Recomendación 111/2024-1 y Recomendación 111/2024-8.",
+      "Orografía del tramo que favoreció el arrastre y depósito de materiales sobre la vía.",
+      "Capacidad insuficiente del sistema de drenaje en el entorno del túnel ante un episodio",
+      "meteorológico excepcional. Ver Recomendación 111/2024-3, Recomendación 111/2024-4,",
+      "Recomendación 111/2024-5, Recomendación 111/2024-7, Recomendación 111/2024-8 y",
+      "Establecimiento de una LTV (200 km/h) de forma estimada, que resultó inadecuada para",
+      "evitar el descarrilamiento ante la magnitud del obstáculo existente en vía. Recomendación",
+      "111/2024-1 y Recomendación 111/2024-2.",
+      "Aplicación deficiente del procedimiento previsto en la “Ficha LAV 2 Deformación de vía”, tras",
+      "la comunicación de un golpe por el maquinista del tren precedente. Recomendación",
+      "Ausencia de criterios específicos en la “Ficha LAV 2 Deformación de vía” para la gestión y"
+    ],
     "recomendaciones": [
       {
         "numero": "111/2024-1",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Reelaborar los procedimientos de comunicación de deformaciones de vía por parte del personal de conducción de las empresas ferroviarias al administrador de infraestructuras, definiendo las actuaciones a adoptar e incorporando criterios específicos para situaciones de lluvias intensas, fenómenos meteorológicos extraordinarios u otros, con el fin de minimizar los riesgos al máximo. AESF ADIF, ADIF AV"
+        "texto": "Reelaborar los procedimientos de comunicación de deformaciones de vía por parte del personal de conducción de las",
+        "implementador": ""
       },
       {
         "numero": "111/2024-2",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Revisar y actualizar el catálogo de puntos críticos con riesgo de inundación, incluyendo puntos singulares de alta escorrentía no considerados previamente. AESF ADIF y ADIF AV"
+        "texto": "Revisar y actualizar el catálogo de puntos críticos con riesgo de inundación, incluyendo puntos singulares de alta escorrentía no considerados previamente.",
+        "implementador": ""
       },
       {
         "numero": "111/2024-3",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Revisar el dimensionamiento y la configuración geométrica del sistema de drenaje de la cuenca en la boca norte del túnel de Álora, verificando su capacidad hidráulica y su comportamiento frente a caudales extraordinarios, especialmente en tramos con cambio de alineación. AESF ADIF y ADIF AV"
+        "texto": "Revisar el dimensionamiento y la configuración geométrica del sistema de drenaje de la cuenca en la boca norte del túnel de Álora, verificando su capacidad hidráulica y su comportamiento frente a caudales extraordinarios, especialmente en tramos con cambio de alineación.",
+        "implementador": ""
       },
       {
         "numero": "111/2024-4",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Garantizar la inspección y limpieza periódica de cunetas y drenajes para mantener su capacidad hidráulica y prevenir acumulación de materiales. AESF ADIF y ADIF AV"
+        "texto": "Garantizar la inspección y limpieza periódica de cunetas y drenajes para mantener su capacidad hidráulica y prevenir acumulación de materiales.",
+        "implementador": ""
       },
       {
         "numero": "111/2024-5",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Habilitar el acceso del personal de los Centros de Regulación de Circulación (CRC) a los sistemas de circuito cerrado de televisión (CCTV) de protección y seguridad, a fin de disponer de información visual en tiempo real sobre el estado de los elementos de infraestructura en situaciones de riesgo, como complemento de información ante una incidencia. Informe Final de la CIAF 111/2024 AESF ADIF y ADIF AV"
+        "texto": "Habilitar el acceso del personal de los Centros de Regulación de Circulación (CRC) a los sistemas de circuito cerrado de televisión (CCTV) de protección y seguridad, a fin de disponer de información visual en tiempo real sobre el estado de los elementos de infraestructura en situaciones de riesgo, como complemento de información ante una incidencia.",
+        "implementador": ""
       },
       {
         "numero": "111/2024-6",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos. AESF ADIF y ADIF AV"
+        "texto": "Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos.",
+        "implementador": ""
       },
       {
         "numero": "111/2024-7",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Estudiar la viabilidad de implantar sistemas automáticos de medición pluviométrica en tiempo real en puntos estratégicos de la red ferroviaria, especialmente en líneas de alta velocidad y en zonas previamente identificadas con riesgo geológico o hidrológico, con el fin de facilitar la adopción de medidas operativas basadas en datos meteorológicos reales durante episodios de precipitaciones intensas o extraordinarias. AESF ADIF y ADIF AV"
+        "texto": "Estudiar la viabilidad de implantar sistemas automáticos de medición pluviométrica en tiempo real en puntos estratégicos de la red ferroviaria, especialmente en líneas de alta velocidad y en zonas previamente identificadas con riesgo geológico o hidrológico, con el fin de facilitar la adopción de medidas operativas basadas en datos meteorológicos reales durante episodios de precipitaciones intensas o extraordinarias.",
+        "implementador": ""
       },
       {
         "numero": "111/2024-8",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Analizar los sistemas de detección de caída de objetos existentes para identificar posibles zonas sin cobertura o puntos ciegos de detección y estudiar la adopción de medidas que permitan corregir dichas limitaciones en función de las características del entorno en el que se encuentran implantados."
+        "texto": "Analizar los sistemas de detección de caída de objetos existentes para identificar posibles zonas sin cobertura o puntos ciegos de detección y estudiar la adopción de medidas que permitan corregir dichas limitaciones en función de las características del entorno en el que se encuentran implantados.",
+        "implementador": ""
       }
     ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
-    },
     "tags": [
       "accidente",
-      "alud",
-      "caída de tierra",
       "colisión",
       "descarrilamiento",
-      "factor humano",
-      "factor organizativo",
-      "formación",
-      "inundación",
-      "leve",
+      "señalización",
       "mantenimiento",
-      "procedimiento",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig00.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig01.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig02.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig03.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig04.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig05.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig06.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig07.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig08.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig09.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig10.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig11.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig12.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig13.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig14.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig15.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig16.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig17.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig18.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig19.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig20.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig21.jpeg",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig22.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig23.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig24.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig25.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig26.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig27.png",
-      "data/images/2024/2024-260526-241029-if-sf_ciaf/fig28.png"
+      "infraestructura",
+      "velocidad",
+      "fatal"
     ],
     "enlaces": {
-      "pdf_original": "pdfs/2024/260526-241029-if-sf_ciaf.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/260526-241029-if-sf_ciaf.pdf"
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2024/260526-241029-if-sf_ciaf.pdf"
     },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "8965706cfb2e1b897e98ed2c5da3b336",
-    "fecha_parseo": "2026-06-26T13:18:56.989194"
-  },
-  {
-    "id": "2024-2024-122-1213-if",
-    "expediente": "122/2024",
-    "tipo": "accidente",
-    "tipo_suceso": "Descarrilamiento",
-    "fecha_suceso": "2024-12-13",
-    "hora_suceso": "03:50",
-    "year": 2024,
-    "ubicacion": {
-      "estacion": "León Clasificación",
-      "provincia": "León",
-      "lat": 42.5981,
-      "lng": -5.5667
-    },
-    "trenes": [
-      {
-        "id_tren": "55251",
-        "tipo": "mercancías",
-        "descripcion": ""
-      }
-    ],
-    "entidades": [
-      "ADIF",
-      "Logitren",
-      "Renfe Mercancías"
-    ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "El 12 de diciembre de 2024, durante el turno de mañana, el Auxiliar de Circulación (AXC) de la empresa prestadora de servicios básicos LOGIRAIL realizó maniobras para estacionar en la vía 9 del haz de ordenación de la estación de León Clasificación una parte de los vagones del tren 55251, pertenecientes a Renfe-Mercancías SME S.A. Este corte estaba compuesto por 10 vagones plataforma de los tipos MMC y MC, algunos de ellos cargados con mercancías peligrosas (MMPP). Durante la madrugada del día siguiente, 13 de diciembre de 2024, a las 03:50 horas, se produjo una deriva incontrolada de este material estacionado, que se desplazó debido a la declividad existente de la vía. Esta deriva del material provocó el talonamiento de la aguja 29, lo que causó el descarrilamiento del primer eje del vagón de cabeza del corte, según el sentido del movimiento. El suceso provocó daños en la aguja 29, sin que se vieran afectados los vagones que transportaban Conclusión: El factor causal del suceso fue la inmovilización no efectiva del corte de vagones estacionado en la vía 9 del haz de ordenación de León Clasificación que desencadenó una deriva incontrolada del Los factores contribuyentes del suceso fueron: La no disposición de calces antideriva en el corte de material estacionado. La pérdida de efectividad del freno automático, debido a la pérdida de aire en el circuito de freno por el paso del tiempo. La ineficacia del freno de estacionamiento aplicado al corte de material por el AXC. La existencia de declividad en la estación de León Clasificación. Además, se han identificado los siguientes factores sistémicos: La falta de disponibilidad de calces antideriva en las estaciones de clasificación de material, motivada por robos reiterados y la ausencia de un sistema eficaz de reposición. La exigencia, en los protocolos operativos, de aplicar un único freno de estacionamiento en determinados casos, sin establecer medidas de respaldo ante posibles fallos, aplicaciones incorrectas o averí",
-      "factores_humanos": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Auxiliar de Circulación de la Empresa Logística LOGIRAIL. \n➢ Responsable de Circulación de León Clasificación, personal de ADIF. \nLas entidades relacionadas con el suceso son las siguientes: \n➢ LOGIRAIL: Empresa logística encargada de las operaciones de la prestación del servicio básico \nde maniobras y operaciones sobre el tren para la EF Renfe Mercancías SME S.A. en modalidad \nde autoprestación. \n➢ Renfe-Mercancías: Empresa Ferroviaria propietaria del material implicado en el suceso. \n➢ ADIF: Administrador de Infraestructuras Ferroviarias.\n\nEn el análisis del suceso ocurrido el 13 de diciembre de 2024 en la estación de León Clasificación, se \nha observado que el AC de LOGIRAIL aplicó un único freno de estacionamiento individual en el corte \nde material, manteniéndose además activo el freno automático del tren, conforme a lo permitido \ntanto por el apartado 6.2.2.2 del LNSO como por la ficha guía F-RCF-05/2021 de la AESF. No obstante, \nla escasez de calces antideriva, derivada de su desaparición continuada por robos, impidió \ncomplementar la inmovilización con otro medio esencial de seguridad. \nEl diseño del freno de estacionamiento, que se acciona mediante un volante sin elementos de \nreferencia, dificulta al personal comprobar si el freno ha sido aplicado con suficiente fuerza. Esta \nverificación es aún más compleja cuando el freno automático sigue activo, ya que el freno de \nestacionamiento solo actúa cuando el freno automático pierde su eficacia. En consecuencia, no existe \nretroalimentación clara para asegurar que la ",
-      "infraestructura": "AXC \nAuxiliar de Circulación \nADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nBAU \nBloqueo Automático en Vía Única \nCIAF \nCPS \nCentro de Protección y Seguridad \nCRC \nCentro de Regulación de Circulación \nCTC \nControl de Tráfico Centralizado \nEI \nEquipo de Investigación \nEF \nIE \nEmpresa Ferroviaria \nInvestigador Encargado \nJTO \nJefe Técnico de Operaciones \nLNSO \nLibro de Normas de Seguridad en las Operaciones \nMMPP \nMercancías peligrosas \nMPGI \nManual de Prevención y Gestión de Incidencias \nRC \nResponsable de circulación \nRCF \nReglamento de Circulación Ferroviaria \nRFIG \nRed Ferroviaria de Interés General \nUTI \nUnidad de Transporte Intermodal \n\n\n5\n\nComo consecuencia del accidente, no se produjo la interceptación de ninguna de las vías \npertenecientes a la línea 0134 León Clasificación – Bif. Quintana, manteniéndose la circulación \noperativa en todo momento.\n\nEl material rodante implicado en el suceso era un corte material perteneciente a la empresa \nferroviaria Renfe-Mercancías, procedente del tren 55251. Esta composición estaba formada por la \nlocomotora 251.003, nueve vagones plataforma tipo MMC (posiciones 1 a 9), una plataforma tipo \nMC (posición 10) y catorce vagones tipo XX (posiciones 11 a 24). \nLa composición trasladada contenía MMPP: el vagón n.º 1, por el lado León, transportaba una UTI \ncon Argón Líquido (ONU 1951/22), mientras que los vagones n.º 3 al n.º 9 transportaban UTIs con \nHidróxido Sódico (ONU 1824/80). \n\n\n11 \n\nEl freno de estacionamiento se aplicó en el segundo vagón tipo MMC, ubicado en la segunda posición \ndel lado León. Por su parte, el vagón que sufrió el descarrilamiento fue el tipo MC, situado en la \nprimera posición del lado Bif. Quintana. \n\nFigura 2 Esquema del corte del material (Elaboración propia). \nLos vagones tipo MC y MMC son plataformas diseñadas para el transporte de contenedores y UTIs, \nequipados con\n\nLa estación de León Clasificación pertenece a la línea 0134 León Clasificac"
-    },
-    "conclusiones": "\n\nTras el suceso, la empresa logística LOGIRAIL ha instruido a su personal auxiliar de circulación para \nque, en maniobras de estacionamiento de cortes de vehículos, se apliquen al menos tres frenos de \nestacionamiento en composiciones de tres o más unidades, y el freno en todos los vehículos cuando \nel corte sea de menor longitud. Se ha procedido igualmente a la reposición del stock operativo de \ncalces, cuya falta impedía su aplicación. \nEn paralelo, la Agencia Estatal de Seguridad Ferroviaria (",
-    "recomendaciones": [
-      {
-        "numero": "122/2024-1",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Reforzar la implementación efectiva de la ficha guía F- RCF-05/2021 de la Agencia Estatal de Seguridad Ferroviaria (AESF) en los procedimientos operativos de todas las entidades implicadas (administradores de infraestructura, empresas ferroviarias, empresas logísticas), en relación con la inmovilización del material rodante estacionado. AESF Empresas logísticas y EEFF"
-      },
-      {
-        "numero": "122/2024-2",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Implantar un sistema de provisión y almacenamiento seguro de calces antideriva en estaciones de clasificación, que garantice su disponibilidad operativa continua y prevenga su pérdida o sustracción. AESF Empresas logísticas"
-      },
-      {
-        "numero": "122/2024-3",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Revisar los programas de formación y habilitación del personal encargado de las operaciones en las terminales, asegurando que incluyen: el conocimiento de la infraestructura, la correcta aplicación y verificación funcional de los frenos de estacionamiento, la identificación de situaciones de riesgo, la actuación ante la ausencia de medios físicos y la comprensión de las responsabilidades compartidas entre operadores logísticos, administradores de infraestructura y empresas ferroviarias."
-      }
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
-    },
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "factor humano",
-      "formación",
-      "leve",
-      "mercadancías peligrosas",
-      "obras en cercanías",
-      "procedimiento",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2024/2024-2024-122-1213-if/fig00.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig01.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig02.png",
-      "data/images/2024/2024-2024-122-1213-if/fig03.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig04.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig05.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig06.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig07.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig08.jpeg",
-      "data/images/2024/2024-2024-122-1213-if/fig09.png",
-      "data/images/2024/2024-2024-122-1213-if/fig10.png"
-    ],
-    "enlaces": {
-      "pdf_original": "pdfs/2024/2024-122-1213-if.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2024-122-1213-if.pdf"
-    },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "0f1fefea02aaf9f955105a5ac5567def",
-    "fecha_parseo": "2026-06-26T13:18:56.511053"
+    "similares": [
+      "2024-64/2024"
+    ]
   }
 ]

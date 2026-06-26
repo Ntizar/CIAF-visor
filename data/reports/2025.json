@@ -1,120 +1,90 @@
 [
   {
-    "id": "2025-2025-41-0522-if",
-    "expediente": "41/2025",
-    "tipo": "accidente",
-    "tipo_suceso": "Otro",
-    "fecha_suceso": "2025-05-22",
-    "hora_suceso": "21:56",
+    "id": "2025-41/2025",
     "year": 2025,
+    "expediente": "41/2025",
+    "titulo": "IF 41/2025 — Incidente operacional en la",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2025-05-22",
     "ubicacion": {
-      "estacion": "Cortes de Navarra",
+      "estacion": "Cortes de Navarra (Navarra)",
       "provincia": "Navarra",
       "lat": 42.1667,
       "lng": -1.6667
     },
-    "trenes": [
-      {
-        "id_tren": "00801",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "18079",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "18078",
-        "tipo": "",
-        "descripcion": ""
-      }
-    ],
     "entidades": [
+      "ADIF",
       "ADIF AV",
       "Renfe Viajeros"
-    ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "El 22 de mayo de 2025, a las 21:53, el tren de media distancia 18079 de Renfe Viajeros, procedente de Miraflores y con destino a Castejón, rebasó indebidamente la señal de salida S1/1 de la estación de Cortes de Navarra tras efectuar su parada comercial en la vía 1, talonando la aguja 6. La señal había sido cerrada de forma intempestiva por el Responsable de Circulación (RC) del Centro de Regulación de Circulación (CRC) de Miranda de Ebro, con el objetivo de retener el tren en la estación para que fuera adelantado por la vía 3 por el tren 00801, que circulaba detrás, sin parada en dicha estación. Este cierre de señal no fue conocido por el maquinista del tren 18079, ya que el RC lo comunicó erróneamente al maquinista del tren 18078, que se encontraba entrando en la estación de Castejón, por lo que el maquinista del tren 18079 no se percató del cambio de aspecto en la señal de salida que pasó de ordenar vía libre a ordenar parada. Tras el rebase, y al no detectarse inicialmente el talonamiento, el tren fue autorizado a retroceder, provocándose un encarrilamiento parcial erróneo hacia la vía 3, de modo que los vehículos segundo y tercero permanecieron en la vía 1, mientras que el primer bogie del vehículo de cabeza quedó encaminado hacia la vía 3. Conclusión: Del análisis del suceso se desprende la concurrencia de dos eventos diferenciados —el rebase de señal y el encarrilamiento erróneo posterior—, cada uno de ellos con factores causales, contribuyentes y sistémicos propios, que se relacionan de forma secuencial dentro de una misma cadena de eventos. Suceso relativo al rebase de señal Los factores causales del suceso relativo al rebase de señal fueron los siguientes: Modificación del itinerario establecido para el tren 18079 tras su parada comercial en la estación de Cortes de Navarra por parte del RC del CRC de Miranda de Ebro, que conllevó el cierre de la señal de salida S1/1. Inicio de movimiento del tren 18079 después de la parada comercial en la estación de Cort",
-      "factores_humanos": "conducción y los responsables de circulación. Ver Recomendación 41/2025-1.\n\nResultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Maquinistas de Renfe Viajeros presentes a bordo de los trenes 18079 y 18078. \n➢ Responsable de Circulación de la banda de regulación 6101 Cortes de Navarra - Altsasu del \nCRC de Miranda de Ebro, personal de ADIF. \nLas entidades relacionadas con el incidente son las siguientes: \n➢ Renfe Viajeros: Empresa Ferroviaria de los trenes implicados en el suceso. \n➢ ADIF: Administrador de Infraestructuras Ferroviarias.\n\nUno de los factores que influyeron en la sucesión de eventos que dieron lugar al suceso fue la \ndeficiencia en las comunicaciones. Tal como se ha indicado, la disolución de un itinerario dispuesto \npor parte del RC requiere obligatoriamente la comunicación previa con el maquinista y la aceptación \nde dicha disolución por parte de este. En este caso, aunque el RC estableció comunicación, esta se \nrealizó con un tren que no era el afectado. Durante la comunicación, el RC dijo correctamente el \nnúmero de tren que estaba visualizando, pero era el tren equivocado; no se verificó ni la ubicación \ndel tren ni la denominación de la señal S1/1, por lo que ninguna de las partes advirtió el error. Se ha \ncomprobado que, en estas condiciones, no se siguieron estrictamente los procedimientos de \ncomunicación incluidos en los SGS del Administrador de infraestructuras y de la Empresa Ferroviaria \n(NAR 1/24 y Libro de Normas del Maquinista, respectivamente). \nAmbos procedimientos se ajustan a lo estab",
-      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nAAII \nAdministradores de Infraestructura \nCIAF \nCRC \nCentro de Regulación de Circulación \nCTC \nControl de Tráfico Centralizado \nEEFF \nEmpresas Ferroviarias \nNAR \nNorma ADIF de Reglamentación \nSITRA \nSistema de Información de Tráfico \nRC \nResponsable de circulación \n\nInforme Técnico Provisional 41/2025 \n\n5\n\nCon motivo del incidente, las vías 1 y 3 permanecieron interceptadas desde las 21:56 horas del día en \nque se produjo el suceso hasta las 23:30 horas del día siguiente. El acumulado de retraso de los trenes \ncomo consecuencia de esta situación fue de 1.499 horas.\n\nEl material rodante implicado en el suceso pertenece a Renfe Viajeros y corresponde al tren 18079, \ncompuesto por un vehículo automotor con tres coches de la serie 463 que tienen una longitud de \n63,478 m entre topes y alcanza una velocidad máxima de 120 km/h. Las aceleraciones nominales de \n0 a 40 km/h, de 0 a 60 km/h y de 0 a 120 km/h son respectivamente de 1 m/s², 0,9 m/s² y 0,59 m/s². \n\nInforme Técnico Provisional 41/2025 \n\n13 \n\nFigura 3 Serie 463 de Renfe Viajeros (fuente: Renfe Viajeros).\n\nEl suceso investigado tuvo lugar en la Línea 700 de Bilbao Abando Indalecio Prieto a Casetas de la Red \nFerroviaria de Interés General, en la estación de Cortes de Navarra, que se encuentra telemandada \ndesde el CRC de Miranda de Ebro. El tramo corresponde a vía doble banalizada de ancho ibérico, \nelectrificada a 3.000 V de corriente continua y equipada con el sistema de protección ASFA. \nLa estación dispone de dos vías generales (1 y 2) y de tres vías de apartado (3, 5 y 7) situadas por el \nlado de la vía 1, mientras que la única salida de pasajeros se realiza desde el andén de la vía 2, no \nexistiendo paso a distinto nivel entre andenes. \nEl suceso se produjo cuando el tren circulaba por la vía 1 y, tras el rebase de la señal de salida S1/1, \nse produjo el talonamiento de la aguja 6, que conecta la vía 1 con la"
-    },
-    "conclusiones": "Desde el 22 de agosto de 2024 la investigación técnica de accidentes Ley 2/2024 de 1 de agosto, que crea la Autoridad Administrativa Independiente para la Investigación \nTécnica de Accidentes e Incidentes no obstante, en virtud de la Disposición Transitoria única de dicha Ley, la CIAF continúa desarrollando \nsus funciones de investigación hasta la constitución efectiva de la Autoridad, que a fecha de \npublicación de este informe aún no se ha producido. Durante este periodo transitorio la investigación \ncontinúa rigiéndose por el Real Decreto 623/2014, de 18 de julio, en todo lo que no se oponga a la \nLey 2/2024. \nEl Pleno de la CIAF nº 196, celebrado el 26 de junio de 2025, acordó realizar un estudio preliminar \nsobre este suceso. El pleno nº 198, celebrado el 10 de septiembre de 2025, viendo las conclusiones \ndel estudio preliminar, acordó la investigación del suceso, de conformidad con los artículos 4.1, 9 d) \ny 14.2 del Real Decreto 623/2014 y en base a lo establecido en el artículo 7 b), que dispone que la \nCIAF podrá investigar los accidentes y los incidentes que, en condiciones ligeramente distintas, \npudieran haber provocado accidentes graves.",
-    "recomendaciones": [
-      {
-        "numero": "41/2025-1",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Garantizar, mediante la vigilancia interna y supervisión de las comunicaciones entre el personal de conducción y el personal de circulación, el cumplimiento estricto, en cualquier situación operacional, de los protocolos de comunicación establecidos en los SGS del Administrador de Infraestructuras y las empresas ferroviarias. AESF EEFF y AAII"
-      },
-      {
-        "numero": "41/2025-2",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Incidir en los contenidos del plan de formación del personal de conducción y circulación sobre la identificación de situaciones de riesgo en casos de talonamiento de las agujas y/o retroceso en los aparatos de vía con riesgo de descarrilamiento. AESF ADIF y ADIF AV"
-      },
-      {
-        "numero": "41/2025-3",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Analizar las características operativas del sistema “Tren- Tierra” en los puestos CTC durante los procesos de entrada y salida de trenes en la banda de regulación y, en su caso, adoptar medidas que eviten efectos no deseados sobre las selecciones de tren realizadas por los RC. AESF ADIF y ADIF AV"
-      },
-      {
-        "numero": "41/2025-4",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Mejorar la coordinación y las comunicaciones entre RC de puestos de CTC de bandas colaterales dentro de un propio CRC o de distintos CRC."
-      }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
+      "danos_materiales": true
     },
+    "analisis": {
+      "resumen": "Informe Técnico Provisional 41/2025\n1. RESUMEN\nEl 22 de mayo de 2025, a las 21:53, el tren de media distancia 18079 de Renfe Viajeros, procedente\nde Miraflores y con destino a Castejón, rebasó indebidamente la señal de salida S1/1 de la estación\nde Cortes de Navarra tras efectuar su parada comercial en la vía 1, talonando la aguja 6. La señal\nhabía sido cerrada de forma intempestiva por el Responsable de Circulación (RC) del Centro de\nRegulación de Circulación (CRC) de Miranda de Ebro, con el objetivo de retener el tren en la estación\npara que fuera adelantado por la vía 3 por el tren 00801, que circulaba detrás, sin parada en dicha\nestación. Este cierre de señal no fue conocido por el maquinista del tren 18079, ya que el RC lo\ncomunicó erróneamente al maquinista del tren 18078, que se enc",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................12\n3.1.3. Interceptación de la vía ...............................................................................................................................12\n3.1.4. Personal y entidades ..................................................................................................................................12\n3.1.5. Material rodante ............."
+    },
+    "conclusiones": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "A la vista del análisis conjunto de los datos disponibles y de la documentación aportada, se identifican",
+      "los siguientes factores relevantes en relación con los dos sucesos analizados:",
+      "Modificación del itinerario establecido para el tren 18079 tras su parada comercial en la",
+      "estación de Cortes de Navarra por parte del RC del CRC de Miranda de Ebro, que conllevó el",
+      "cierre de la señal de salida S1/1. Ver Recomendaciones 41/2025-1, 41/2025-3 y 41/2025-4.",
+      "Inicio de movimiento del tren 18079 después de la parada comercial en la estación de Cortes",
+      "de Navarra sin advertir del cambio de aspecto de la señal de salida S1/1 pasando de ordenar",
+      "vía libre a ordenar parada. Ver Recomendación 41/2025-1.",
+      "Rebase de la señal S1/1 y talonamiento de la aguja 6 de la estación de Cortes de Navarra por",
+      "el tren 18079. Ver Recomendación 41/2025-2.",
+      "Retroceso del tren 18079 hacia la estación de Cortes de Navarra debido a la falta de detección",
+      "del talonamiento de la aguja 6. Ver Recomendación 41/2025-2.",
+      "Informe Técnico Provisional 41/2025",
+      "Factores contribuyentes",
+      "Falta de verificación del estado de la señal por parte del maquinista del 18079 antes de",
+      "reanudar la marcha en la vía 1 de Cortes de Navarra. Ver Recomendación 41/2025-1.",
+      "Error en la comunicación del cierre de la señal S1/1 por parte del RC del CRC de Miranda de",
+      "Ebro al establecer contacto con el tren 18079 en lugar del 18078. Ver Recomendación",
+      "Ausencia de confirmación de la ubicación y del nombre de la señal S1/1 en las"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "41/2025-1",
+        "texto": "Garantizar, mediante la vigilancia interna y supervisión de las comunicaciones entre el personal de conducción y el personal de circulación, el cumplimiento estricto, en cualquier situación operacional, de los protocolos de comunicación establecidos en los SGS del Administrador de Infraestructuras y las",
+        "implementador": ""
+      },
+      {
+        "numero": "41/2025-2",
+        "texto": "Incidir en los contenidos del plan de formación del personal de conducción y circulación sobre la identificación de situaciones de riesgo en casos de talonamiento de las agujas y/o retroceso en los aparatos de vía con riesgo de descarrilamiento.",
+        "implementador": ""
+      },
+      {
+        "numero": "41/2025-3",
+        "texto": "Analizar las características operativas del sistema “Tren- Tierra” en los puestos CTC durante los procesos de entrada y salida de trenes en la banda de regulación y, en su caso, adoptar medidas que eviten efectos no deseados sobre las selecciones de tren realizadas por los RC.",
+        "implementador": ""
+      },
+      {
+        "numero": "41/2025-4",
+        "texto": "Mejorar la coordinación y las comunicaciones entre RC de puestos de CTC de bandas colaterales dentro de un propio CRC o de distintos CRC.",
+        "implementador": ""
+      }
+    ],
     "tags": [
-      "accidente",
-      "caída de tierra",
+      "incidente",
       "colisión",
       "descarrilamiento",
-      "factor humano",
-      "formación",
-      "leve",
-      "procedimiento",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2025/2025-2025-41-0522-if/fig00.jpeg",
-      "data/images/2025/2025-2025-41-0522-if/fig01.png",
-      "data/images/2025/2025-2025-41-0522-if/fig02.png",
-      "data/images/2025/2025-2025-41-0522-if/fig03.png",
-      "data/images/2025/2025-2025-41-0522-if/fig04.jpeg",
-      "data/images/2025/2025-2025-41-0522-if/fig05.jpeg",
-      "data/images/2025/2025-2025-41-0522-if/fig06.png",
-      "data/images/2025/2025-2025-41-0522-if/fig07.jpeg",
-      "data/images/2025/2025-2025-41-0522-if/fig08.png",
-      "data/images/2025/2025-2025-41-0522-if/fig09.png",
-      "data/images/2025/2025-2025-41-0522-if/fig10.png",
-      "data/images/2025/2025-2025-41-0522-if/fig11.png",
-      "data/images/2025/2025-2025-41-0522-if/fig12.png",
-      "data/images/2025/2025-2025-41-0522-if/fig13.png",
-      "data/images/2025/2025-2025-41-0522-if/fig14.png",
-      "data/images/2025/2025-2025-41-0522-if/fig15.png",
-      "data/images/2025/2025-2025-41-0522-if/fig16.png",
-      "data/images/2025/2025-2025-41-0522-if/fig17.png",
-      "data/images/2025/2025-2025-41-0522-if/fig18.png",
-      "data/images/2025/2025-2025-41-0522-if/fig19.png",
-      "data/images/2025/2025-2025-41-0522-if/fig20.png",
-      "data/images/2025/2025-2025-41-0522-if/fig21.png",
-      "data/images/2025/2025-2025-41-0522-if/fig22.png"
+      "señalización",
+      "infraestructura",
+      "velocidad",
+      "leve"
     ],
     "enlaces": {
-      "pdf_original": "pdfs/2025/2025-41-0522-if.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2025-41-0522-if.pdf"
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2025/2025-41-0522-if.pdf"
     },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "b3f3ce26eedca00a702df0305ddaea87",
-    "fecha_parseo": "2026-06-26T13:18:57.218334"
+    "similares": []
   }
 ]

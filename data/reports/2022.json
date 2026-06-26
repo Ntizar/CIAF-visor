@@ -1,632 +1,374 @@
 [
   {
-    "id": "2022-230316-220815-if_ciaf",
-    "expediente": "70/2022",
-    "tipo": "accidente",
-    "tipo_suceso": "Colisión",
-    "fecha_suceso": "2021-02-05",
-    "hora_suceso": "19:40",
+    "id": "2022-108/2022",
     "year": 2022,
+    "expediente": "108/2022",
+    "titulo": "108-221105-if-sn_ciafv2",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2023-02-23",
     "ubicacion": {
-      "estacion": "Manresa",
-      "provincia": "Madrid",
-      "lat": 41.7257,
-      "lng": 1.8269
+      "estacion": "Torelló (Barcelona).",
+      "provincia": "Barcelona",
+      "lat": 41.8167,
+      "lng": 2.2667
     },
-    "trenes": [
-      {
-        "id_tren": "95128",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "95218",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "78443",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "78435",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "77554",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "78439",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "77558",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "15624",
-        "tipo": "viajeros",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "28043",
-        "tipo": "viajeros",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "25603",
-        "tipo": "viajeros",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "25614",
-        "tipo": "",
-        "descripcion": ""
-      }
-    ],
     "entidades": [
       "ADIF",
       "Renfe Viajeros"
     ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "limitations that \nlead to a high number of degraded situations that oblige the LSM to intervene directly, \nwithout the protection of the interlocking. See measures taken since the event.",
-      "factores_humanos": "4.4 MECANISMOS DE RETROALIMENTACIÓN Y CONTROL .................................................................. 36",
-      "infraestructura": ""
-    },
-    "conclusiones": "r la \nrealización del descanso reglamentario del maquinista y después por indicaciones del CG de \nRodalies. \n4.1 \nCOMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO \nEmisión de los telefonemas de rebase de señal a los trenes 95218 y 78443 \nDesde que el RCM dicta el telefonema de autorización de rebase, como orden de marcha, al \nmaquinista de tren 95218 hasta que éste emprende la misma transcurren cuatro minutos y medio \naproximadamente, por tanto, el maquinista no salió inmediatamente tras recibir el telefonema. El \nartículo 1.5.1.9. del RCF, en su punto 1, determina que la orden de marcha de un tren quedará \ninvalidada en el caso de que un tren parado no pueda salir inmediatamente después de haber recibido \nla orden de marcha. De este modo, al haber transcurrido cerca de cuatro minutos y medio tras la \nemisión del telefonema, la orden de marcha estaba invalidada y, por lo tanto, el tren 95218 no \ndebería haber emprendido la marcha. \n\n \n 27 \n\nImagen 16 Telefonemas dictados por el RCM en el libro de bloqueo de la estación. La imagen ha sido tratada para su mejor \nvisualización. \nEl maquinista del tren 95218 recibió el telefonema por parte del RCM ya que le había comunicado \nque se encontraba dispuesto para circular, no obstante, el tren no se encontraba dispuesto para \ncircular ya que el maquinista no había realizado todas las operaciones necesarias para ello. Dichas \noperaciones, relacionadas con la TFA del material remolcado, las realizó tras recibir el telefonema, \nsiendo esta la razón de la demora en la salida. \nAdemás, la expedición del tren 95218 mediante telefonema de autorización de rebase de señal \n3020/5 no era la forma más adecuada debido a que ésta ya se encontraba rebasada. Se debería haber \nexpedido al tren mediante un telefonema de marche el tren, tal y como se indica en el artículo 4.2.1.3. \ndel RCF sobre expedición de trenes desde vías sin señal de salida. De acuerdo con este artículo, para \nrealizar la expedición del tren estando la estación en BAD con ",
-    "recomendaciones": [
-      {
-        "numero": "70/2022-1",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Fomento de las habilidades asertivas del personal de circulación que ayuden a hacer efectiva su competencia de dirección de la circulación y que refuercen su autoridad frente a las posibles injerencias por parte de otros agentes ferroviarios. AESF ADIF"
-      },
-      {
-        "numero": "70/2022-2",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Reforzar la supervisión de las actividades relacionadas con la circulación para garantizar suficiente formación teórico-práctica de los RC tanto antes de asignarles las tareas, como durante el desarrollo de estas. AESF ADIF y Empresas ferroviarias"
-      },
-      {
-        "numero": "70/2022-3",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Establecer un canal y procedimiento de interlocución entre los RC de las estaciones en mando local y los CG de las empresas ferroviarias, de forma que no se interfiera en la coordinación y supervisión de la información que precisan estos RC para el desarrollo de sus funciones. AESF Renfe Viajeros"
-      },
-      {
-        "numero": "70/2022-4",
-        "implementador": "Renfe",
-        "destinatarios": "",
-        "texto": "Instruir al personal de conducción en la importancia que tiene la correcta transmisión de información entre ellos y los responsables de circulación y la formalización de las comunicaciones para garantizar la seguridad."
-      }
-    ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
+      "danos_materiales": true
     },
+    "analisis": {
+      "resumen": "Informe Final 108/2022\n1. RESUMEN\nEl día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif.\nAigües - La Tour de Carol, en las inmediaciones de la estación de Manlleu, dejando sin tensión a los\ntrenes de Rodalies 78355 y 78350 que tenían previsto cruzarse en la estación de Torelló, llegando\nrespectivamente desde Manlleu y Sant Quirze de Besora-Montesquiu. En el momento del corte de\ntensión, el tren 78355, que estaba más próximo a la estación de Torelló, tenía establecido el itinerario\nde entrada a la vía 2 de dicha estación, y el tren 78350 tenía prevista su entrada a la vía directa 1 sin\nque su itinerario estuviera todavía establecido. Tras el corte de tensión, ambos trenes continuaron\nsu marcha por inercia hasta su detención, quedando la cabeza del",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante .........."
+    },
+    "conclusiones": [
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "Del análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura,",
+      "el telemando y las instalaciones, salvo en lo que respecta al corte de tensión, se comportaron",
+      "correctamente. En relación con este último se puede extraer los siguientes resultados:",
+      "1.- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los",
+      "trenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción",
+      "hasta su completa detención.",
+      "2.- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su",
+      "llegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que",
+      "el tren 78350 debía pararse ante la señal E2.",
+      "3.- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación",
+      "de Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha",
+      "4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se",
+      "precisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al",
+      "respecto. Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que",
+      "para el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición",
+      "intermedia anterior a dicha señal.",
+      "5.- La recuperación de la tensión se produjo en primer lugar por el tren 78350. Pero al persistir el",
+      "problema de corte de tensión en el tramo Torelló – Manlleu se decidió que entrase en primer lugar a",
+      "la vía 2 para que finalizase allí su recorrido."
+    ],
+    "recomendaciones": [
+      {
+        "numero": "108/2022-1",
+        "texto": "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
+        "implementador": ""
+      },
+      {
+        "numero": "108/2022-2",
+        "texto": "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha.",
+        "implementador": ""
+      }
+    ],
     "tags": [
-      "accidente",
-      "caída de tierra",
+      "incidente",
       "colisión",
-      "descarrilamiento",
-      "factor humano",
-      "factor organizativo",
-      "formación",
-      "leve",
-      "mantenimiento",
-      "obras en cercanías",
-      "procedimiento",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2022/2022-230316-220815-if_ciaf/fig00.png",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig01.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig02.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig03.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig04.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig05.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig06.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig07.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig08.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig09.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig10.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig11.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig12.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig13.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig14.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig15.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig16.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig17.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig18.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig19.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig20.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig21.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig22.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig23.png",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig24.jpeg",
-      "data/images/2022/2022-230316-220815-if_ciaf/fig25.png"
+      "señalización",
+      "infraestructura",
+      "velocidad",
+      "leve"
     ],
     "enlaces": {
-      "pdf_original": "pdfs/2022/230316-220815-if_ciaf.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/230316-220815-if_ciaf.pdf"
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2022/108-221105-if-sn_ciafv2.pdf"
     },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "2817e165616b004d9eac0a0827052d24",
-    "fecha_parseo": "2026-06-26T13:18:54.799274"
+    "similares": [
+      "2022-48/2022",
+      "2022-70/2022",
+      "2022-107/2022",
+      "2022-46/2022"
+    ]
   },
   {
-    "id": "2022-46-220601-if-sn_ciafv2",
-    "expediente": "46/2022",
-    "tipo": "accidente",
-    "tipo_suceso": "Otro",
-    "fecha_suceso": "2022-06-01",
-    "hora_suceso": "11:09",
+    "id": "2022-48/2022",
     "year": 2022,
-    "ubicacion": {
-      "estacion": "Molins de Rei",
-      "provincia": "Madrid",
-      "lat": 41.4138,
-      "lng": 2.0143
-    },
-    "trenes": [
-      {
-        "id_tren": "77523",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "77721",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "77622",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "14423",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "14422",
-        "tipo": "",
-        "descripcion": ""
-      }
-    ],
-    "entidades": [
-      "ADIF",
-      "Renfe Viajeros"
-    ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "Retroceso no autorizado. A) Factores causales A1. Confusión del apartadero de El Papiol con la estación de Castellbisbal, este factor causal se relaciona temporalmente con la gestión de personal realizada por Renfe con anterioridad al día del suceso, así como a las acciones que M-77721 realizó horas y momentos antes de que se produjera el A2. Instante concreto en el que se realizó el inicio de la marcha. El inicio de la marcha se inició sin comunicarlo por los canales establecidos en el LNM de Renfe ni por los canales informales de notificación automática de entrada en banda. Además, no se realizaron los chequeos pertinentes del tren antes del inicio de la marcha. Informe Final 46/2022 A3. Una vez iniciada la marcha, no se pudo establecer comunicación inmediata con M-77721 por parte del CTC, lo que contribuyó a cierta demora en la gestión de la incidencia por parte del CTC. La comunicación con M-77721 se realizó de forma efectiva por parte del CG de Renfe a través del móvil personal de M-77721. B) Factores contribuyentes A continuación, se describen los factores contribuyentes tal y como se relacionan con los factores causales definidos en el epígrafe anterior. Factores contribuyentes relacionados con el factor causal A1 B1.1. Se produjo un desvío del foco atencional que contribuyó a la confusión del apeadero de El Papiol con la estación de Castellbisbal y esto se considera un factor contribuyente al factor causal A1. la atención de M-77721 y por tanto no se produjo una adecuada apreciación espacial del punto final del trayecto a realizar. D1.1.1.1. Como factor contribuyente directamente relacionado con C1.1.1. se considera que en este caso el personal de conducción careció de una adecuada apreciación del riesgo relativa a sus labores de conducción. C1.1.2. Según la información recabada durante la investigación, se ha detectado como factor contribuyente al desvío del foco atencional, el estado psico-personal transitorio de M-77721. D1.1.2.1. La falta de una adecuada",
-      "factores_humanos": "Las entidades que, de un modo u otro, están relacionadas con el suceso, y han colaborado aportando \ninformación mediante documentación y/o a través de entrevistas o reuniones con su personal, son: \n• Renfe Viajeros (Sociedad Mercantil Estatal, SME, S.A.), como EF propietaria del tren que realizó el \nretroceso no autorizado y responsable del personal de conducción (M-77721) implicado en el \nsuceso y de la Delegación de Seguridad en la Circulación, así como del personal del Centro de \nGestión (CG). \n• Renfe Operadora (Empresa Pública Empresarial, EPE), como gestora de los Centros Médicos \nHomologados (CMH) y encargada del análisis e investigación de incidentes y accidentes de las \nSMEs de la EPE. \n• ADIF, como Administrador de Infraestructuras (AI), encargado de la explotación y gestión de la \nlínea 240 en servicio y afectada por el incidente. \n• AESF, como responsable de las auditorías a los CMH y como Autoridad responsable de la seguridad \nferroviaria.",
-      "infraestructura": "La línea no estuvo interceptada, aunque durante la gestión de la incidencia el RC del CTC ordenó la \nparada del tren 77523, inmediatamente siguiente, hasta que se pudiera obtener más información de \nla situación del tren 77721. Una vez establecida comunicación con el tren 77721, el RC del CTC dispuso \nel itinerario desde la señal E4 a la vía III de la estación de Molins de Rei, quedando el tren 77721 \nsuprimido, lo que provocó cierto retraso en el resto de las circulaciones de la línea.\n\nEl material rodante implicado estaba constituido por los automotores 447117 y 447045 que \npertenecían a la Serie 447 de RENFE, fabricada por CAF y Alstom en su parte mecánica y por Siemens \ny ABB en la eléctrica. Esta serie tiene tracción eléctrica y va equipada con el sistema de protección \ndel tren ASFA Digital. La composición es de tipo M-R-M y su velocidad máxima es 120 km/h en red \nconvencional. \nEl tren 77721 estaba constituido por 6 vehículos de la serie 447, con un total de 24 ejes (4 ejes por \nvehículo), una longitud de 152 metros y una masa total de 432 t. El día 01/06/2022 el tren cubría el \n\n\n12 \n\ntrayecto con origen en la estación de Terrassa, con número 77720, desde donde salió a las 9:53 h. La \nnumeración del tren se modificó de forma manual en L´Hospitalet de Llobregat a las 10:52 h y el tren \ncambió su numeración a 77721. En el tramo afectado por el incidente operacional el tren tenía la \nnumeración 77721, por lo que así será referido a lo largo del presente informe. \n\n\nEl suceso investigado tuvo lugar en el apeadero de El Papiol, ubicado en el PK 81,998 de la línea 240 \nde Sant Vicenç de Calders – L´Hospitalet de Llobregat. Las estaciones colaterales a dicho apeadero \nson, por un lado, Molins de Rei en el PK 85,307 (estación 72300) y por otro, Castellbisbal en el PK \n76,800 (estación 72210). \nEl tramo de la línea afectado es de vía doble en ancho ibérico, electrificado, con bloqueo automático \nbanalizado con CTC (BAB con CTC), sistema de protección ASFA Digital y c"
-    },
-    "conclusiones": "\n\nEl de Renfe Operadora con fecha 16/09/2022. En su apartado 6 de Recomendaciones, se incluyó la \nrecomendación 202201495/RV01/RC/H, que establece lo siguiente: \n“En los procesos de incapacidad laboral se procederá a entrevistar al personal relacionado con la \nseguridad operacional a fin de detectar que necesidades tienen de refuerzos de conocimiento en \nrelación con el servicio y habilidades profesionales”. \nAdemás, actualmente y tras el incidente de El Papiol el área de Investigación y Normativa\n\nDe acuerdo con la Disposición Adicional decimoquinta de la orden FOM, que se incluyó por la Orden \nFOM 679/2015 de modificación de la Orden FOM, se estableció que la autoridad responsable de la \nseguridad ferroviaria desarrollaría herramientas para las pruebas de evaluación psicológica de los \nreconocimientos psico-físicos del personal de conducción. \nEn este sentido la AESF está trabajando en creación de una nueva herramienta, que actualmente se \nencuentra en fase de elaboración. Esta herramien",
-    "recomendaciones": [
-      {
-        "numero": "046/2022-01",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Implementar procedimientos de reincorporación progresiva y adaptación a los puestos de trabajo para el personal de conducción tras periodos largos de inactividad laboral. Tener en cuenta, para ello, posibles acciones formativas adicionales y la revisión de los SGS en relación con los reciclajes sobre la infraestructura tras largos periodos de inactividad laboral. AESF AESF y CMH"
-      },
-      {
-        "numero": "046/2022-02",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Proseguir y completar el desarrollo de una nueva herramienta de evaluación psicológica, revisando el contenido y los criterios de las pruebas psicológicas y procedimiento de los RM realizados al personal de conducción, tanto en la fase de acceso (habilitación) como de reciclaje (renovación), y en todos aquellos reconocimientos adicionales que se realicen tras periodos de baja prolongada, adecuándolos a los motivos de la baja, con el fin de detectar circunstancias o situaciones incompatibles con la actividad de conducción. Actualizar sistemáticamente el contenido de dichas pruebas, aprovechando el retorno de experiencia y garantizándose la aplicación rigurosa de la ley de protección de datos y anonimato de la información tratada. Informe Final 46/2022 Destinatario Implementa dor final Númer"
-      },
-      {
-        "numero": "046/2022-03",
-        "implementador": "Renfe",
-        "destinatarios": "",
-        "texto": "Potenciar la supervisión y tutela del personal de conducción en sus tareas cotidianas. Estableciendo sistemas parala coordinación, formación y tutela continua que fomenten la comunicación y cultura de confianza. Asimismo, llevar a cabo un análisis de la disponibilidad de medios adecuados en las residencias del personal de conducción para realizar dichas labores de supervisión y tutela, así como de transferencia de conocimientos al personal con menos experiencia. AESF Renfe Viajeros, y EEFF"
-      },
-      {
-        "numero": "046/2022-04",
-        "implementador": "Renfe",
-        "destinatarios": "",
-        "texto": "Reforzar las acciones formativas de acceso y reciclaje con contenidos y formación práctica que permita mejorar la apreciación del riesgo en actividades críticas para la seguridad. Así como incidir en la obligación del personal de conducción de comunicar a la empresa su estado de salud psicofísica, de acuerdo con la DA5ª de la Orden FOM/2872/2010, si considera que podría suponer un riesgo para ejercer sus tareas con garantías de seguridad. AESF EEFF y AD"
-      },
-      {
-        "numero": "IF 046/2022-05",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Revisar los procedimientos de comunicación del tren dispuesto en aquellos casos en los que operativamente no convenga la comunicación con el RC, con objeto de evitar inicios de marcha no autorizados. Destinatario Implementa dor final Número Recomendación AESF EEFF"
-      },
-      {
-        "numero": "046/2022-06",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Garantizar el cumplimiento de la RT 1/2020 de la AESF, así como que personal de conducción dedica tiempo suficiente antes del inicio de los servicios a la comprensión de la información imprescindible para la correcta realización de las labores de conducción encomendadas. Establecer acciones de vigilancia para evaluar que los maquinistas comprenden la documentación e información necesaria para realizar el servicio y, en su caso, prestar el asesoramiento para aclarar las dudas que puedan existir."
-      }
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
-    },
-    "tags": [
-      "accidente",
-      "alud",
-      "caída de tierra",
-      "factor humano",
-      "factor organizativo",
-      "formación",
-      "leve",
-      "procedimiento",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig00.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig01.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig02.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig03.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig04.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig05.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig06.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig07.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig08.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig09.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig10.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig11.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig12.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig13.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig14.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig15.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig16.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig17.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig18.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig19.jpeg",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig20.png",
-      "data/images/2022/2022-46-220601-if-sn_ciafv2/fig21.png"
-    ],
-    "enlaces": {
-      "pdf_original": "pdfs/2022/46-220601-if-sn_ciafv2.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/46-220601-if-sn_ciafv2.pdf"
-    },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "91c483afb97c7ea715d9b539d9f8bbd3",
-    "fecha_parseo": "2026-06-26T13:18:55.532394"
-  },
-  {
-    "id": "2022-2022-48-0612-if",
     "expediente": "48/2022",
+    "titulo": "2022-48-0612-if",
     "tipo": "accidente",
-    "tipo_suceso": "Colisión",
+    "tipo_suceso": "accidente",
+    "gravedad": "grave",
     "fecha_suceso": "2022-06-12",
-    "hora_suceso": "22:34",
-    "year": 2022,
     "ubicacion": {
-      "estacion": "Francia",
-      "provincia": "Madrid",
+      "estacion": "Francia .............................. 27",
+      "provincia": "Barcelona",
       "lat": 43.262,
       "lng": -2.925
     },
-    "trenes": [
-      {
-        "id_tren": "95172",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "18087",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "15030",
-        "tipo": "",
-        "descripcion": ""
-      }
-    ],
     "entidades": [
       "ADIF",
       "CAPTRAIN",
       "Renfe Viajeros"
     ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "El día 12 de junio de 2022 el tren 95172, formado por dos locomotoras de la serie 310, salió de los talleres de GMF destino Can Tunis, tras haber sido sus ruedas sometidas a una operación extraordinaria de mantenimiento correctivo consistente en un reperfilado (no contemplado en el plan de mantenimiento). A la salida de Reus, a las 21:35 el tren comienza a recorrer un trayecto en pendiente donde se manifiesta una insuficiencia de frenado en la composición y el maquinista, tras percatarse de la situación, a las 21:44 se comunica con el puesto de mando para informarle de la misma y del inminente rebase de la señal E2V de entrada a Bifurcación Vila-seca por el lado Reus, que se encontraba en indicación de parada ya que estaba protegiendo el itinerario establecido para el tren 18087. Mientras el tren 18087 se encontraba efectuando parada comercial en el apeadero de Vila-seca, a las 21:45 el tren 95172 rebasó la señal E2V y provocó el cierre automático de la señal E1V de entrada a Bifurcación Vila-seca por el lado Tarragona, de este modo cuando a las 21:46 el tren 18087 reinició la marcha, se detuvo frente a la señal E1V a una distancia aproximada de 100 metros. El tren 95172 talonó la aguja 11 de Bifurcación Vila-seca, se encaminó por la misma vía en la que se encontraba detenido el tren 18087 y a las 21:46:57 se produjo la colisión frontal de los dos Como resultado de la colisión frontal de trenes se produjeron daños personales, daños materiales en la infraestructura y en el material rodante. Bifurcación Vila-Seca pertenece a línea 210 – Miraflores – Sant Vicenç de Calders de la Red Ferroviaria de Interés General. Se ubica en el municipio de Reus, provincia de Tarragona (Cataluña). Conclusión: la causa de la colisión frontal fue la insuficiencia de freno del tren 95172 provocada por una falta de ajuste en las timonerías de freno tras la realización de una operación de reperfilado de ruedas. Se ha considerado como factor contribuyente la realización de una prueba de fre",
-      "factores_humanos": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Responsable de Circulación del CTC (RC del CTC). Personal de ADIF. \n➢ Reguladores del CTC (Reg. del CTC). Personal de ADIF. \n➢ Maquinista de tren 18087. Personal de Renfe Viajeros. \n➢ Maquinista de tren 95172. Personal de Captrain. \n➢ Técnico de mantenimiento. Personal de GMF. \nLas entidades relacionadas con el accidente son las siguientes: \n➢ Cargometro Rail Transport S.A: empresa comercializadora de los servicios de transporte \nferroviario, participada por FGC y CAPTRAIN. Se dedica al transporte de componentes de \nautomoción entre la Zona Franca y SEAT Martorell. \n➢ FGC: Ferrocarriles de la Generalitat de Catalunya, propietaria del material rodante \nconformado por las locomotoras 310 implicadas en el accidente. \n➢ CAPTRAIN España S.A.U: Empresa Ferroviaria del tren 95172. \n➢ GMF: Gestión y Mantenimiento Ferroviario, EEM de las 310 desde 2019 por encargo de \nFGC. \n➢\n\nLa comprobación del funcionamiento de la parte neumática del freno se realizó por el maquinista y \nsu resultado fue positivo ya que no hubo ningún problema en este sentido. \nLa comprobación del apriete y afloje de las zapatas en la prueba de freno corresponde al AOT en el \nsupuesto de que la composición TMD sea completa. Dado que no había un AOT para realizar tal \ncomprobación, la prueba de freno realizada por el maquinista no resultó efectiva para detectar la \ndeficiencia de freno. Esta comprobación en el caso de locomotoras aisladas no está contemplada en \nningún procedimiento de Captrain. \n\nBORRADOR \n\n\n27 \n\nSi el AOT hubiera hecho comprobaciones de apriete y afloje de las zapatas como se hace en el \nsupuesto de la composición TMD completa, en este caso, se habría comprobado que algunas de las \nzapatas no tocaban la banda de rodadura y se habría detectado el defecto (ver figura 16). No \nobstante, estas pruebas pueden no ser efectivas para todos aquellos supuestos en los que el \nesf",
-      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nAOT \nAuxiliar de Operaciones del Tren \nASFA \nAnuncio de Señales y Frenado Automático \nCECAT \nCentre de Coordinació Operativa de Catalunya \nCPS \nCentro de Protección y Seguridad \nCTC \nControl de Tráfico Centralizado \nEEM \nEmpresa Encargada del Mantenimiento \nETI OPE \nEspecificación Técnica de Interoperabilidad de Operaciones \nFGC \nFerrocarriles de la Generalitat de Catalunya \nGMF \nGestión y Mantenimiento de Material Ferroviario \nLTV \nLimitación Temporal de Velocidad \nPAVAFF \nPlan de Asistencia a las Víctimas de Accidentes PM \nPuesto de Mando \nRC \nResponsable de Circulación \nRCF \nReglamento de Circulación Ferroviaria \nSGS \nSistema de Gestión de la Seguridad \nTDP \nTubería de Depósito Principal \nTECO \nTren Expreso de Contenedores \nTFA \nTubería de freno Automático \nTMD \nTECO de Media Distancia \n\nBORRADOR \n\n\n5\n\nLa vía II estuvo cortada desde las 21:46 del 12 de junio de 2022 hasta las 06:02 del 13 de junio de \n2022, un total de 8 horas y 16 minutos. La vía I se mantuvo interceptada desde las 21:46 del 12 de \njunio de 2022 hasta la 01:45 del día 14 de junio de 2022, un total de 27 horas y 59 minutos. \nSufrieron retrasos un total de 72 trenes: 3 trenes de larga distancia con un total de 37 minutos de \nretraso, 55 trenes de media distancia con un total de 1993 minutos de retraso y 14 trenes de \nmercancías con un total de 1399 minutos. Se efectuó un transbordo en el tren 15030 del día 13 de \n\nBORRADOR \n\n\n12 \n\njunio de 2022. Se suprimieron un total de 14 trenes: un tren de larga distancia, 8 trenes de media \ndistancia y 5 trenes de mercancías.\n\nEl tren 95172 estaba formado por dos locomotoras de la serie 310 circulando en mando múltiple. \nEsta serie dispone de tracción eléctrica generada por un motor diésel (diésel-eléctrica). En el \ntrayecto de Reus a Can Tunis, circulaba en cabeza la 310.102 y en cola la 310.101. El tren era de tipo \n100 N. La composición estaba formada en t"
-    },
-    "conclusiones": "Para el esclarecimiento de los hechos y la obtención de los distintos factores causantes, \ncontribuyentes y sistémicos que se mencionan en el presente informe se han utilizado las técnicas y \nmétodos de investigación que se enumeran a continuación. \nEn lo relativo a técnicas de investigación se ha realizado un análisis documental de la información \nproporcionada por los diferentes actores, así como entrevistas con los agentes relacionados con el \nsuceso. \nSe ha utilizado el método del árbol de causas para la determinación de los factores causales y \ncontribuyentes del suceso. El esquema de este se encuentra recogido en el apartado de \nconclusiones.",
-    "recomendaciones": [
-      {
-        "numero": "48/2022-1",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos. AESF AESF"
-      },
-      {
-        "numero": "48/2022-2",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual."
-      }
-    ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 5,
-      "total_victimas": 5,
-      "danos_materiales": false
+      "danos_materiales": true
     },
-    "tags": [
-      "accidente",
-      "caída de tierra",
-      "colisión",
-      "descarrilamiento",
-      "factor humano",
-      "factor organizativo",
-      "formación",
-      "incendio",
-      "leve",
-      "mantenimiento",
-      "procedimiento"
+    "analisis": {
+      "resumen": "BORRADOR\nInforme Final 48/2022\n1. RESUMEN\nEl día 12 de junio de 2022 el tren 95172, formado por dos locomotoras de la serie 310, salió de los\ntalleres de GMF destino Can Tunis, tras haber sido sus ruedas sometidas a una operación\nextraordinaria de mantenimiento correctivo consistente en un reperfilado (no contemplado en el\nplan de mantenimiento). A la salida de Reus, a las 21:35 el tren comienza a recorrer un trayecto en\npendiente donde se manifiesta una insuficiencia de frenado en la composición y el maquinista, tras\npercatarse de la situación, a las 21:44 se comunica con el puesto de mando para informarle de la\nmisma y del inminente rebase de la señal E2V de entrada a Bifurcación Vila-seca por el lado Reus,\nque se encontraba en indicación de parada ya que estaba protegiendo el itinerario",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO ............................................................................................................................................................. 9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ................................................................................................................................... 9\n3.1.1. Descripción ..................................................................................................................................................................... 9\n3.1.2. Víctimas y daños materiales ........................................................................................................................................... 9\n3.1.3. Interceptación de la vía ................................................................................................................................................. 11\n3.1.4. Personal y entidades ......................................................................."
+    },
+    "conclusiones": [
+      "Informe Final 48/2022",
+      "CONCLUSIONES",
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "Analizada toda la documentación y todos los datos se consideran los siguientes factores:",
+      "Insuficiencia de frenado de las locomotoras del tren 95172.",
+      "Tras haber realizado una operación extraordinaria de reperfilado en las 310, la timonería de",
+      "freno no se ajustó al nuevo diámetro de manera que siete de las dieciséis zapatas no",
+      "entraban en contacto con la banda de rodadura de sus respectivas ruedas.",
+      "Factores contribuyentes",
+      "Prueba de freno incapaz de detectar la insuficiencia de freno en las locomotoras 310.",
+      "Ausencia de procedimiento dentro del Sistema de Gestión de Mantenimiento de GMF que",
+      "especificara las acciones posteriores a las labores de reperfilado de ruedas y que por tanto",
+      "exigiera un ajuste de las timonerías. Ver recomendación 48/2022-2.",
+      "Falta de definición de procedimientos de pruebas de freno tanto en el SGS de Captrain,",
+      "como en el Manual de conducción de las locomotoras en el caso de que las locomotoras",
+      "310 circulen de forma aislada. Ver recomendación 48/2022-1.",
+      "Falta de concreción en los procedimientos para establecer pruebas de freno que detecten",
+      "problemas de frenado relacionados con los elementos mecánicos en máquinas aisladas y",
+      "trenes cortos. Ver recomendación 48/2022-1.",
+      "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO"
     ],
-    "imagenes": [
-      "data/images/2022/2022-2022-48-0612-if/fig00.png",
-      "data/images/2022/2022-2022-48-0612-if/fig01.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig02.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig03.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig04.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig05.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig06.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig07.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig08.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig09.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig10.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig11.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig12.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig13.png",
-      "data/images/2022/2022-2022-48-0612-if/fig14.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig15.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig16.png",
-      "data/images/2022/2022-2022-48-0612-if/fig17.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig18.jpeg",
-      "data/images/2022/2022-2022-48-0612-if/fig19.png",
-      "data/images/2022/2022-2022-48-0612-if/fig20.png"
-    ],
-    "enlaces": {
-      "pdf_original": "pdfs/2022/2022-48-0612-if.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2022-48-0612-if.pdf"
-    },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "5048294076b0c70997355e76179fdce0",
-    "fecha_parseo": "2026-06-26T13:18:54.540891"
-  },
-  {
-    "id": "2022-108-221105-if-sn_ciafv2",
-    "expediente": "108/2022",
-    "tipo": "accidente",
-    "tipo_suceso": "Otro",
-    "fecha_suceso": "2022-11-05",
-    "hora_suceso": "",
-    "year": 2022,
-    "ubicacion": {
-      "estacion": "Torelló",
-      "provincia": "Madrid",
-      "lat": 41.8167,
-      "lng": 2.2667
-    },
-    "trenes": [
+    "recomendaciones": [
       {
-        "id_tren": "78355",
-        "tipo": "",
-        "descripcion": ""
+        "numero": "48/2022-1",
+        "texto": "Promover que los procedimientos incluidos en los SGS de las",
+        "implementador": ""
       },
       {
-        "id_tren": "78350",
-        "tipo": "",
-        "descripcion": ""
+        "numero": "48/2022-2",
+        "texto": "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual.",
+        "implementador": ""
       }
     ],
+    "tags": [
+      "accidente",
+      "colisión",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "incendio",
+      "grave"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2022/2022-48-0612-if.pdf"
+    },
+    "similares": [
+      "2022-108/2022",
+      "2022-70/2022",
+      "2022-107/2022",
+      "2022-46/2022"
+    ]
+  },
+  {
+    "id": "2022-70/2022",
+    "year": 2022,
+    "expediente": "70/2022",
+    "titulo": "230316-220815-if_ciaf",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2022-08-15",
+    "ubicacion": {
+      "estacion": "Manresa (Barcelona).",
+      "provincia": "Barcelona",
+      "lat": 41.7257,
+      "lng": 1.8269
+    },
     "entidades": [
       "ADIF",
       "Renfe Viajeros"
     ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "Del análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura, el telemando y las instalaciones, salvo en lo que respecta al corte de tensión, se comportaron correctamente. En relación con este último se puede extraer los siguientes resultados: 1.- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los trenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción hasta su completa detención. 2.- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su llegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que el tren 78350 debía pararse ante la señal E2. 3.- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación de Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha 4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se precisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al respecto. Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que para el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición intermedia anterior a dicha señal.",
-      "factores_humanos": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n• \nResponsable de Circulación del CTC (RC del CTC). Personal de ADIF. \n• \nMaquinista de tren 78355. Personal de Renfe Viajeros. \n• \nMaquinista de tren 78350. Personal de Renfe Viajeros. \nLas entidades relacionadas con el accidente son las siguientes: \n• \nRENFE VIAJEROS: Empresa Ferroviaria de los trenes 78355 y 78350. \n• \nADIF: Administrador de Infraestructuras Ferroviarias.\n\nDurante la investigación llevada a cabo se ha puesto de manifiesto que, tanto maquinistas como RC \ndel CTC, desconocen la tipología de los CV instalados y sus particularidades, por lo que sería \nconveniente que las acciones formativas que lleven a cabo los maquinistas y RC incidan sobre la \nnecesidad de establecer, mediante la comunicación efectiva entre ambos, la posición inequívoca de \nla circulación con anterioridad a realizar cualquier acción que modifique la orden de la señal \npercibida. \nEn general, en caso de detención de trenes, los protocolos que se establezcan para la reanudación de \nla marcha deberían tener en cuenta que en las comunicaciones quede determinada la ubicación real \nde los trenes. \n\n\n20 \n\nEl problema en la seguridad se genera en el momento en el que los itinerarios prestablecidos son \nalterados por los RC sin tener una información fidedigna de la ubicación real de los trenes. Por ello, \nuna comunicación efectiva entre personal de conducción y los RC se hace nece",
-      "infraestructura": "ADIF \nAdministrador de Infraestructuras Ferroviarias \nAESF \nAgencia Estatal de Seguridad Ferroviaria \nBLAU \nBloqueo de Liberación Automática en Vía Única \nCTC \nControl de Tráfico Centralizado \nCV \nCircuito de vía \nDAI \nDisolución Artificial de Itinerario \nEEFF \nEmpresas Ferroviarias \nIP \nInforme Particular \nLNM \nLibro de Normas del Maquinista \nPM \nPuesto de Mando \nRC \nResponsable de Circulación \nRCF \nReglamento de Circulación Ferroviaria \nSGS \nSistema de Gestión de la Seguridad \n\n\n5\n\nComo resultado de este incidente no se produjo la interceptación de la vía.\n\nLos trenes implicados en este suceso fueron los trenes 78355 y 78350 de Rodalies formados por dos \nunidades 447 cada uno. En concreto, el tren 78355 estaba compuesto por las unidades 447033 y \n447163 y el tren 78350 por las unidades 447111 y 447108. \n\nFigura 4: Unidad 477 de Rodalies. \n\n\n12\n\nLa estación de Torelló se encuentra situada en el PK 85+129 de la línea 222 La Tour de Carol-Enveigt \na Bif. Aigües. La línea cuenta con un bloqueo tipo BLAU con CTC. \nLa estación colateral a Torelló por el lado Bif. Aigües es Manlleu y por el lado La Tour de Carol es Sant \nQuirze de Besora-Montesquiu. \nEn cuanto a las señales, la señal E1 de entrada a Torelló por el lado Manlleu se encuentra en el PK \n84+645. A la altura de esta señal y desplazados aproximadamente 0,5 m, se sitúan los contadores de \nejes que forman parte del cantón de bloqueo entre Torelló y Manlleu, así como el lazo de \ncortocircuito del circuito de vía de audiofrecuencia (CVA1) que comprende el tramo entre dicha señal \ny las correspondientes señales de salida de las vías 1, 2 y 4. Dentro de este CVA1 se incluyen los \ncambios 1 y 3 que dan acceso a Vía 1 y 2, respectivamente. La declividad de la línea en el entorno de \nla señal E1 es de 14,5 milésimas de rampa en sentido de kilométrico ascendente. \n\nFigura 5: Esquema\n\nTanto el material rodante como las instalaciones técnicas funcionaron correctamente en este suceso, \na excepción de la catenaria que sufrió"
-    },
-    "conclusiones": "\n\nCon fecha 22/05/2023 la AESF ha publicado la Ficha Guía F-RCF-02/2023 “Modificación de Itinerarios \nEstablecidos” para aclarar que el apartado 5.2.2.1 es de aplicación a otras situaciones de \nanormalidad, no únicamente debido a anormalidades del enclavamiento. \nPor otro lado, por parte del ADIF y dentro del Plan de Mejoras de Cataluña está contemplada la \nsustitución de todos los circuitos de vía TI21 por los ET 400 por razones de mantenibilidad y por ser \nuna versión más actualizada desde el pu",
-    "recomendaciones": [
-      {
-        "numero": "108/2022-1",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos. AESF ADIF y EEFF"
-      },
-      {
-        "numero": "108/2022-2",
-        "implementador": "ADIF",
-        "destinatarios": "",
-        "texto": "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha."
-      }
-    ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
+      "danos_materiales": true
     },
+    "analisis": {
+      "resumen": "",
+      "descripcion": ""
+    },
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
       "accidente",
-      "caída de tierra",
       "colisión",
-      "factor humano",
-      "formación",
-      "leve",
-      "procedimiento",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig00.png",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig01.png",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig02.jpeg",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig03.jpeg",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig04.jpeg",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig05.png",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig06.jpeg",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig07.png",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig08.jpeg",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig09.png",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig10.png",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig11.png",
-      "data/images/2022/2022-108-221105-if-sn_ciafv2/fig12.png"
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "leve"
     ],
     "enlaces": {
-      "pdf_original": "pdfs/2022/108-221105-if-sn_ciafv2.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/108-221105-if-sn_ciafv2.pdf"
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2022/230316-220815-if_ciaf.pdf"
     },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "85df1a199075e46453ce791cb704c808",
-    "fecha_parseo": "2026-06-26T13:18:54.329205"
+    "similares": [
+      "2022-108/2022",
+      "2022-48/2022",
+      "2022-107/2022",
+      "2022-46/2022"
+    ]
   },
   {
-    "id": "2022-230622-221213-if-sn_ciaf",
-    "expediente": "107/2022",
-    "tipo": "accidente",
-    "tipo_suceso": "Colisión",
-    "fecha_suceso": "2022-12-13",
-    "hora_suceso": "",
+    "id": "2022-107/2022",
     "year": 2022,
+    "expediente": "107/2022",
+    "titulo": "230622-221213-if-sn_ciaf",
+    "tipo": "avería",
+    "tipo_suceso": "avería",
+    "gravedad": "leve",
+    "fecha_suceso": "2022-12-13",
     "ubicacion": {
-      "estacion": "Els Guiamets",
-      "provincia": "Madrid",
+      "estacion": "Els Guiamets mientras el tren 55311 está detenido",
+      "provincia": "Barcelona",
       "lat": 41.0833,
       "lng": 0.75
     },
-    "trenes": [
-      {
-        "id_tren": "55311",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "55203",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "55202",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "95418",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "77984",
-        "tipo": "",
-        "descripcion": ""
-      },
-      {
-        "id_tren": "77710",
-        "tipo": "",
-        "descripcion": ""
-      }
-    ],
     "entidades": [
       "ADIF",
+      "Renfe Mercancías",
+      "Renfe Operadora",
       "Renfe Viajeros"
-    ],
-    "gravedad": "leve",
-    "analisis": {
-      "resumen": "ty conditions, \nas prescribed by “driving on sight” rules established by Railway Driving Regulation (articles \n1.5.1.4, point 1, and 2.1.2.7, point 2) and RU's driver's handbook (articles 1.5.1.2, point 1, and \n2.1.2.7, point 1). \nContributing factors: \n1. “Driving on sight” in bad conditions (fog, night, curve in a trench).",
-      "factores_humanos": "4.4 MECANISMOS DE RETROALIMENTACIÓN Y CONTROL .................................................................. 28",
-      "infraestructura": ""
-    },
-    "conclusiones": "s de cola de \ntipo placa. Aunque la causa de dicha colisión vuelve a ser una falta de adecuación de la velocidad con \nla marcha a la vista en las condiciones concretas del suceso, sí parece adecuado establecer unas \npautas, sobre la normativa que debiera existir para dichas placas, su tamaño, su estado de \nconservación y vida útil. Tal normativa sí existe para la señalización en el sector de la carretera. \n5 \nCONCLUSIONES \n5.1 \nRESUMEN DEL ANÁLISIS Y CONCLUSIONES \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nCausales:",
-    "recomendaciones": [
-      {
-        "numero": "107/2022-1",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Promover el establecimiento de nuevos criterios para el rebase de señales en parada cuando están dotadas con “cartelón P”. AESF AESF"
-      },
-      {
-        "numero": "107/2022-2",
-        "implementador": "AESF",
-        "destinatarios": "",
-        "texto": "Promover que las empresas ferroviarias incrementen las acciones formativas y de vigilancia respecto a la realización de marchas especiales de conducción de modo que se garantice que el personal de conducción esté suficientemente entrenado y aplique el rigor y atención debidos cuando se realizan."
-      }
     ],
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "total_victimas": 0,
-      "danos_materiales": false
+      "danos_materiales": true
     },
+    "analisis": {
+      "resumen": "",
+      "descripcion": ""
+    },
+    "conclusiones": [],
+    "recomendaciones": [],
     "tags": [
-      "accidente",
-      "caída de tierra",
+      "avería",
       "colisión",
-      "factor humano",
-      "factor organizativo",
-      "formación",
-      "leve",
+      "señalización",
       "mantenimiento",
-      "procedimiento",
-      "señalización"
-    ],
-    "imagenes": [
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig00.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig01.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig02.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig03.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig04.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig05.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig06.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig07.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig08.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig09.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig10.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig11.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig12.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig13.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig14.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig15.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig16.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig17.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig18.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig19.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig20.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig21.jpeg",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig22.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig23.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig24.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig25.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig26.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig27.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig28.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig29.png",
-      "data/images/2022/2022-230622-221213-if-sn_ciaf/fig30.png"
+      "infraestructura",
+      "velocidad",
+      "leve"
     ],
     "enlaces": {
-      "pdf_original": "pdfs/2022/230622-221213-if-sn_ciaf.pdf",
-      "pagina_ciaf": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/230622-221213-if-sn_ciaf.pdf"
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2022/230622-221213-if-sn_ciaf.pdf"
     },
-    "formato_normativo": "RD 623/2014",
-    "hash_pdf": "d3c9543dbd9efd0e36be470b392098cd",
-    "fecha_parseo": "2026-06-26T13:18:54.999633"
+    "similares": [
+      "2022-108/2022",
+      "2022-48/2022",
+      "2022-70/2022",
+      "2022-46/2022"
+    ]
+  },
+  {
+    "id": "2022-46/2022",
+    "year": 2022,
+    "expediente": "46/2022",
+    "titulo": "46-220601-if-sn_ciafv2",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2022-06-01",
+    "ubicacion": {
+      "estacion": "Castellbibal",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Mercancías",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "Informe Final 46/2022\nRESUMEN\nEl día 01/06/2022 a las 11:09 h el tren de Rodalies 77721, que cubría el trayecto entre Terrassa y\nCastellbisbal, realizó un retroceso no autorizado en la vía I del apeadero de El Papiol, y circuló en\nsentido contrario al bloqueo establecido hasta detenerse ante la señal E4 entrada a la estación de\nMolins de Rei.\nEl tren 77721 tenía prevista la rotación en la estación de Castellbibal, debido a las obras de\nimplantación del tercer carril en la L240, que se están llevando a cabo entre las estaciones de\nCastellbisbal y Martorell. Debido a las obras, la mayoría de los servicios con origen Terrassa tienen\nprevista la inversión del sentido en la estación de Castellbisbal, donde se realiza el trasbordo de\nviajeros por carretera.\nDurante el tiempo en el que el tren 77",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante ............."
+    },
+    "conclusiones": [
+      "Informe Final 46/2022",
+      "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
+      "A continuación, se presenta el árbol causal empleado en el análisis del suceso, para la determinación",
+      "de los factores causales y los factores contribuyentes identificados durante la investigación del",
+      "retroceso no autorizado en el apeadero de El Papiol.",
+      "Los distintos factores se desarrollan detalladamente en párrafos siguientes de este apartado; para la",
+      "determinación de los factores contribuyentes se han considerado los factores causales en las distintas",
+      "fases temporales de este incidente. En primer lugar, se han tenido en cuenta los días y momentos",
+      "inmediatamente previos al incidente; en segundo lugar, se tienen en cuenta los factores identificados",
+      "en el momento concreto de inicio de la marcha en el apeadero de El Papiol en sentido Molins de Rei;",
+      "y en último lugar, se tienen en cuenta los factores contribuyentes al suceso durante el lapso temporal",
+      "en el que se produjo el movimiento no autorizado.",
+      "Para la correcta comprensión de cómo los factores contribuyentes se relacionan de forma",
+      "concatenada, se han nombrado con letras y números. En el árbol causal presentado en la figura 13 se",
+      "han marcado en color azul los factores causales, en color naranja los factores contribuyentes y en",
+      "color verde los factores contribuyentes sistémicos.",
+      "Se destaca que uno de los factores contribuyentes más relevante y presente en varias fases del suceso",
+      "fue el desvío del foco atencional. La confusión del apeadero de El Papiol con la estación de",
+      "Castellbisbal estuvo relacionada con que, durante las maniobras de rotación, M-77721 tenía puesta",
+      "su atención en un dispositivo electrónico, entre otros factores. Además, el desvío del foco atencional"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "046/2022-01",
+        "texto": "Implementar procedimientos de reincorporación progresiva y adaptación a los puestos de trabajo para el personal de conducción tras periodos largos de inactividad laboral. Tener en cuenta, para ello, posibles acciones formativas adicionales y la revisión de los SGS en relación con los reciclajes sobre la infraestructura tras largos periodos de inactividad laboral.",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-02",
+        "texto": "Proseguir y completar el desarrollo de una nueva herramienta de evaluación psicológica, revisando el contenido y los criterios de las pruebas psicológicas y procedimiento de los RM realizados al personal de conducción, tanto en la fase de acceso (habilitación) como de reciclaje (renovación), y en todos aquellos reconocimientos adicionales que se realicen tras periodos de baja prolongada, adecuándolos a los motivos de la baja, con el fin de detectar circunstancias o situaciones incompatibles con ",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-03",
+        "texto": "Potenciar la supervisión y tutela del personal de conducción en sus tareas cotidianas. Estableciendo sistemas parala coordinación, formación y tutela continua que fomenten la comunicación y cultura de confianza. Asimismo, llevar a cabo un análisis de la disponibilidad de medios adecuados en las residencias del personal de conducción para realizar dichas labores de supervisión y tutela, así como de transferencia de conocimientos al personal con menos experiencia.",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-04",
+        "texto": "Reforzar las acciones formativas de acceso y reciclaje con contenidos y formación práctica que permita mejorar la apreciación del riesgo en actividades críticas para la seguridad. Así como incidir en la obligación del personal de conducción de comunicar a la empresa su estado de salud psicofísica, de acuerdo con la DA5ª de la Orden FOM/2872/2010, si considera que podría suponer un riesgo para ejercer sus tareas con garantías de seguridad.",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-05",
+        "texto": "Revisar los procedimientos de comunicación del tren dispuesto en aquellos casos en los que operativamente no convenga la comunicación con el RC, con objeto de evitar inicios de marcha no autorizados.",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-06",
+        "texto": "Garantizar el cumplimiento de la RT 1/2020 de la",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "incidente",
+      "factor humano",
+      "señalización",
+      "infraestructura",
+      "velocidad",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2022/46-220601-if-sn_ciafv2.pdf"
+    },
+    "similares": [
+      "2022-108/2022",
+      "2022-48/2022",
+      "2022-70/2022",
+      "2022-107/2022"
+    ]
   }
 ]
