@@ -1158,13 +1158,12 @@ function closeDetailPanel() {
 }
 
 // ===== MEMORIAS =====
+// Memoria PDFs available: 2008-2024 (from pdfs/memorias/)
+const MEMORIA_YEARS = [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008];
+
 async function renderMemorias() {
     const selector = document.getElementById('memoriaYearSelector');
-    const availableYears = [...new Set(allReports.map(r => r.year).filter(Boolean))].sort((a, b) => b - a);
-    if (availableYears.length === 0) {
-        // fallback
-        availableYears.push(2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007);
-    }
+    const availableYears = MEMORIA_YEARS;
 
     selector.innerHTML = availableYears.map((y, i) =>
         `<button class="year-btn${i === 0 ? ' active' : ''}" data-year="${y}">${y}</button>`
