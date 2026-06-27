@@ -1,5 +1,163 @@
 [
   {
+    "id": "2011-0007/2011",
+    "year": 2011,
+    "expediente": "0007/2011",
+    "titulo": "IF 0007/2011 — El día 4 de enero de 2011, a las 19:20 horas se produce el descarrilamiento del tren de viajeros de",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-01-04",
+    "ubicacion": {
+      "estacion": "Francia (ancho",
+      "provincia": "Barcelona",
+      "lat": 43.262,
+      "lng": -2.925
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 4 de enero de 2011, a las 19:20 horas se produce el descarrilamiento del tren de viajeros de\nlarga distancia 621 de la empresa ferroviaria Renfe Operadora, al efectuar su paso por el cambiador de\nancho de Zaragoza Delicias de la línea 060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de\nZaragoza Delicias. Descarrila la rueda derecha del segundo eje del primer bogie de la composición, en\nel sentido de la marcha, por defectos en la tornillería de anclaje del soporte de la palanca d",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...........................................................................................................3\n2.1. SUCESO ................................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO .......................................................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ................................................................................. 7\n2.4. CIRCUNSTANCIAS EXTERNAS .............................................................................................................................. 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ....................................................................8\n3.1. RESUMEN DE LAS DECLARACIONES .................................................................................."
+    },
+    "conclusiones": [
+      "SECRETARÍA GENERAL DE",
+      "Investigación del accidente",
+      "nº 0007/2011 ocurrido el 04.01.2011",
+      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y",
+      "reconocimiento médico y psicotécnico.",
+      "Del registro de seguridad del tren 621 se determina que al paso por el cambiador la velocidad era de",
+      "6,5 km/h, velocidad inferior a la indicada en el manual de conducción para la realización de la",
+      "De la inspección del eje descarrilado tras el descarrilamiento se comprueba en la rueda descarrilada la",
+      "pérdida de uno de los dos tornillos que amarran el soporte palanca a la caja soporte y el afloje del",
+      "El plan de mantenimiento se había realizado correctamente hasta el momento del descarrilamiento.",
+      "Los valores de los parámetros de rodadura del eje descarrilado estaban dentro de tolerancia.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El descarrilamiento se produce por fallo en los dispositivos de cambio de ancho de la rueda",
+      "descarrilada, perteneciente al segundo eje del primer bogie en el sentido de la marcha, debido a",
+      "defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de",
+      "bloqueo del cambio de ancho.",
+      "Por parte de Renfe Operadora",
+      "En la reunión mantenida entre Renfe Operadora, CAF y ACTREN (empresa mantenedora del material"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "07/11-1",
+        "texto": "Modificar el sistema de sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho de los ejes BRAVA añadiendo una “chapa tope” a las unidades de la flota S121 que a fecha de este informe aún no hayan sido modificadas. CAF",
+        "implementador": ""
+      },
+      {
+        "numero": "07/11-2",
+        "texto": "Estudiar, diseñar e implantar un sistema que asegure la sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho del eje BRAVA en los ejes de nueva fabricación. Madrid, 20 de septiembre de 2011 Chapa tope",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF040111200911CIAF.pdf"
+    },
+    "similares": [
+      "2011-0015/2011",
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0051/2011",
+      "2011-0063/2011"
+    ]
+  },
+  {
+    "id": "2011-0003/2011",
+    "year": 2011,
+    "expediente": "0003/2011",
+    "titulo": "03/2011 — Estación de Osuna.",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2011-01-16",
+    "ubicacion": {
+      "estacion": "Osuna.",
+      "provincia": "Almería",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 16 de enero de 2011, a las 13:18 horas, el tren de viajeros de media distancia 13943, de la\nempresa ferroviaria Renfe Operadora, arrolla a un vehículo de carretera que invade el paso a nivel\nclase A, situado en el PK 87+782 de la línea 422 Bif. Utrera a Fuente de Piedra, entre las estaciones de\nOsuna y Pedrera, en el término municipal de Aguadulce (Sevilla). Como consecuencia del accidente el\nconductor, único ocupante del vehículo de carretera, y una viajera del tren resultan heridos leve",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................... 3\n2.1. SUCESO ................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ......................................................... 9\n3.1. RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD .............."
+    },
+    "conclusiones": [
+      "SECRETARÍA GENERAL DE",
+      "Investigación del accidente",
+      "nº 0003/2011 ocurrido el 16.01.2011",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así",
+      "como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación",
+      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que",
+      "cruza por el paso a nivel cuando pasaba el tren 13943.",
+      "Adecuar el paso a nivel a lo establecido en la OM de",
+      "2/8/2001: bien dotándolo de protección clase B, por ser",
+      "su momento de circulación superior a 1.000; o bien",
+      "proceder a su supresión promoviendo su concentración al",
+      "paso a nivel del PK 86+900, por estar ambos situados a",
+      "menos de 1.000 metros de distancia.",
+      "Madrid, 20 de septiembre de 2011"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "03/11-1",
+        "texto": "Adecuar el paso a nivel a lo establecido en la OM de 2/8/2001: bien dotándolo de protección clase B, por ser su momento de circulación superior a 1.000; o bien proceder a su supresión promoviendo su concentración al paso a nivel del PK 86+900, por estar ambos situados a menos de 1.000 metros de distancia. Madrid, 20 de septiembre de 2011",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "paso a nivel",
+      "arrollamiento",
+      "colisión",
+      "señalización",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF160111200911CIAF.pdf"
+    },
+    "similares": [
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0063/2011",
+      "2011-0007/2011",
+      "2011-0025/2011"
+    ]
+  },
+  {
     "id": "2011-0015/2011",
     "year": 2011,
     "expediente": "0015/2011",
@@ -83,152 +241,14 @@
     ]
   },
   {
-    "id": "2011-0044/2011",
+    "id": "2011-12/2011",
     "year": 2011,
-    "expediente": "0044/2011",
-    "titulo": "0044/2011 — Estación de Caparrates es el siguiente:",
+    "expediente": "12/2011",
+    "titulo": "IF 12/2011 — El día 16 de marzo de 2011, a las 20:19 horas, el tren de viajeros de cercanías 25267, de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "leve",
-    "fecha_suceso": "2011-07-13",
-    "ubicacion": {
-      "estacion": "Caparrates es el",
-      "provincia": "Castellón",
-      "lat": 41.15,
-      "lng": -1.2667
-    },
-    "entidades": [
-      "ADIF",
-      "Logitren"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 13 de julio de 2011, a las 21:45 horas, en plena vía, en el PK 137+810 de la línea 610 Sagunto –\nBif. Teruel, entre las estaciones de Teruel y Caparrates, se produce el descarrilamiento del tren de\nmercancías 97845 de la empresa ferroviaria Logitren, compuesto por una locomotora 335 y 28\nvagones (plataformas MC y MMC) cargados con contenedores. El descarrilamiento se inicia en la rueda\nderecha del primer eje del 9º vagón, en el sentido de la marcha, que circula descarrilado durante 3,29\nk",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0044/2011 ocurrido el 13.07.2011",
-      "Cumplir estrictamente la “Instrucción Técnica de Carga",
-      "de Contenedores” elaborada por la propia Ben Trade",
-      "Madrid, 25 de septiembre de 2012"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "44/11-1",
-        "texto": "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A. Madrid, 25 de septiembre de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "cruzamiento",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/4411.pdf"
-    },
-    "similares": [
-      "2011-0049/2011",
-      "2011-0063/2011",
-      "2011-0007/2011",
-      "2011-0025/2011",
-      "2011-0028/2011"
-    ]
-  },
-  {
-    "id": "2011-0049/2011",
-    "year": 2011,
-    "expediente": "0049/2011",
-    "titulo": "0049/2011 — Estación de SANT POL DE MAR (BARCELONA)",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-10-26",
-    "ubicacion": {
-      "estacion": "SANT POL DE MAR",
-      "provincia": "Barcelona",
-      "lat": 41.6022,
-      "lng": 2.5968
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 26 de octubre de 2011, a las 16:24 horas, en la estación de Sant Pol de Mar (Barcelona), situada\nen el PK 44+979 de la línea 276 Bifurcación Sagrera a Maçanet-Massanes, se produce conato de\ncolisión entre los trenes de viajeros de cercanías 25736 y 25639, ambos pertenecientes a la Dirección\nde Rodalies i Regionals de Catalunya y operados por la empresa ferroviaria Renfe Operadora, cuando\nel primero rebasa indebidamente la señal de salida S2/1, que se encontraba en indicación de parada,\npo",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0049/2011 ocurrido el 26.10.2011",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El descarrilamiento tuvo su origen en el retroceso no autorizado del tren 25736, sobre la aguja nº1,",
-      "antes talonada tras el rebase indebido de la señal de salida S2/1, en indicación de parada, por",
-      "incumplimiento de la órdenes dadas por las señales al personal de conducción",
-      "OBSERVACIONES ADICIONALES",
-      "Sin tener relación directa con los hechos, se destaca que el tren 25736 circula con exceso de velocidad",
-      "(a 38 km/h) por la limitación temporal de velocidad (a 30 km/h) existente antes de la estación de Sant",
-      "Pol de Mar, entre las señales de avanzada y entrada por su lado norte, incumpliendo la Consigna serie",
-      "B nº 10 (Trayecto Arenys de Mar – Maçanet - Massanes).",
-      "Por parte de Renfe Operadora",
-      "Renfe Operadora, con carácter general, en los incidentes y accidentes debido a fallo humano en la",
-      "conducción aplica una serie de medidas contempladas en la Circular nº 1 de Presidencia y consistentes",
-      "en: control de alcoholemia; retirada del servicio; reconocimiento psicofísico; programa individualizado",
-      "de reciclaje (que incluye paso por simulador, reciclaje formativo y acompañamiento en cabina por",
-      "tutor) y posterior reincorporación al servicio una vez superadas las pruebas y previo informe favorable",
-      "De forma complementaria, Renfe Operadora también ha emprendido diversas acciones orientadas a la"
-    ],
-    "recomendaciones": [],
-    "tags": [
-      "accidente",
-      "paso a nivel",
-      "colisión",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "cruzamiento",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/492011.pdf"
-    },
-    "similares": [
-      "2011-0015/2011",
-      "2011-0044/2011",
-      "2011-0051/2011",
-      "2011-0063/2011",
-      "2011-0007/2011"
-    ]
-  },
-  {
-    "id": "2011-0051/2011",
-    "year": 2011,
-    "expediente": "0051/2011",
-    "titulo": "IF 0051/2011 — El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2011-11-05",
+    "fecha_suceso": "2011-03-16",
     "ubicacion": {
       "estacion": "",
       "provincia": "Barcelona",
@@ -245,114 +265,37 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.\nAragó–Barcelona Sant Andreu Comtal, el tren de viajeros 37537, material vacío de tren 874, rebasa\nindebidamente la señal de entrada 1107 de Bif. Sagrera, que se encontraba en indicación de parada.\nSe produce una situación de conato de colisión con tren 274 que tenía establecido itinerario hacia\nBarcelona Marina.\nConclusión: El incidente tuvo su origen en el rebase indebido por el tren 37537 (materia",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+      "resumen": "El día 16 de marzo de 2011, a las 20:19 horas, el tren de viajeros de cercanías 25267, de la empresa\nferroviaria Renfe Operadora, colisiona con obstáculos –tierras y rocas- situados en el gálibo de la vía,\nen el PK 323+320 de la línea 220 Lleida Pirineus – L’Hospitalet de Llobregat, en plena vía, entre los\napeaderos de Olesa de Montserrat y Vacarisses Torreblanca (Barcelona).\nComo consecuencia de la colisión se produce el descarrilamiento de todos los ejes de la UT de cabeza,\nresultando heridos ",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
     },
     "conclusiones": [
-      "Investigación del incidente",
-      "nº 0051/2011 ocurrido el 05.11.2011",
-      "Del análisis del registrador de seguridad del tren se comprueba que el tren 37537 venía circulando en",
-      "anuncios de parada sucesivos (L1) por circular delante un tren de cercanías.",
-      "Del registrador de eventos del puesto de mando se comprueba que el tren 37537 rebasa la señal 1107",
-      "en indicación de parada, y que el aspecto de la misma no cambia en ningún momento. Cuando se",
-      "produce el rebase se encontraba establecido itinerario de señal 1108 hacia Barcelona Marina para tren",
-      "Se incumple el artículo 217 del RGC por parte del personal de conducción del tren 37537, al no",
-      "detenerse ante la señal 1107.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El incidente tuvo su origen en el rebase indebido por el tren 37537 (material vacío de tren 874) de la",
-      "señal 1107, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de",
-      "Por parte de Renfe Operadora",
-      "Renfe Operadora, con carácter general, y en cumplimiento de la Circular Operativa nº 1, en los",
-      "accidentes e incidentes debido a fallo humano en la conducción aplica una serie de medidas: control",
-      "de alcoholemia, retirada del servicio, reconocimiento psicofísico, programa individualizado de reciclaje",
-      "(que incluye paso por simulador, reciclaje formativo y acompañamiento en cabina por tutor) y",
-      "posterior reincorporación al servicio, una vez superadas las pruebas y previo informe favorable del"
+      "SECRETARÍA GENERAL DE",
+      "Investigación del accidente",
+      "nº 12/2011 ocurrido el 16.03.2011",
+      "A las 20:18:16 horas el tren pasó por la baliza ASFA de la señal intermedia 3245, situada en el",
+      "PK 324+358, en indicación de vía libre, circulando a la velocidad de 79 km/h.",
+      "Tras recorrer unos 1.000 metros, el maquinista actúa sobre el freno de emergencia a las 20:19:03",
+      "horas, a una velocidad de 79 km/h y unos tres segundos después el tren colisiona con obstáculos –",
+      "tierras y rocas- en el PK 323+320 y seguidamente descarrila a una velocidad de 63 km/h.",
+      "En la UT de cabeza el primer bogie de la composición queda girado 90 grados con relación al sentido",
+      "de la vía, el segundo bogie se desplaza hacia la izquierda en sentido de la marcha ocupando el gálibo",
+      "de la vía par, el tercer bogie queda desprendido de la caja, rompiendo todos los elementos del",
+      "segundo coche que se encuentran situados bajo el habitáculo de viajeros, incluido el cuarto bogie y los",
+      "bogies quinto y sexto quedan en la vía impar. No se afectó la UT de cola.",
+      "El tren quedó detenido en el PK 323+240, a las 20:19:06 horas.",
+      "Como consecuencia del descarrilamiento resultan heridos leves diez viajeros y el maquinista.",
+      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y",
+      "reconocimiento médico y psicotécnico.",
+      "El maquinista hizo uso del freno de emergencia instantes antes del descarrilamiento.",
+      "Los equipos de seguridad del tren funcionaron correctamente.",
+      "La velocidad del tren era inferior a la máxima permitida."
     ],
     "recomendaciones": [],
     "tags": [
-      "incidente",
+      "accidente",
       "colisión",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/512011.pdf"
-    },
-    "similares": [
-      "2011-0015/2011",
-      "2011-0049/2011",
-      "2011-0063/2011",
-      "2011-0007/2011",
-      "2011-0025/2011"
-    ]
-  },
-  {
-    "id": "2011-0063/2011",
-    "year": 2011,
-    "expediente": "0063/2011",
-    "titulo": "IF 0063/2011 — El día 27 de diciembre de 2011, a las 11:38 horas, se produce el descarrilamiento del tren de viajeros",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-12-27",
-    "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 27 de diciembre de 2011, a las 11:38 horas, se produce el descarrilamiento del tren de viajeros\nde larga distancia 533 de la empresa ferroviaria Renfe Operadora, al efectuar su paso por el cambiador\nde ancho de Zaragoza Delicias de la línea 060 Bifurcación Cambiador de Zaragoza Delicias a\nIntercambiador de Zaragoza Delicias. Descarrila la rueda derecha del segundo eje del primer bogie en\nel segundo coche de la composición, en el sentido de la marcha.\nConclusión: El descarrilamiento se pro",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0063/2011 ocurrido el 27.12.2011",
-      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y",
-      "reconocimiento médico y psicotécnico.",
-      "Del registro de seguridad del tren 533 se determina que, al paso por el cambiador, la velocidad era",
-      "inferior a la máxima permitida.",
-      "El plan de mantenimiento se había realizado correctamente hasta el momento del descarrilamiento.",
-      "Los valores de los parámetros de rodadura del eje descarrilado estaban dentro de tolerancia.",
-      "Los tornillos que sujetan el mecanismo de bloqueo/desbloqueo se desenroscan, deformando y",
-      "desgastando con sus cabezas las chapas de seguridad (o de retención).",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El descarrilamiento se produce por fallo en el sistema de cambio de ancho de la rueda derecha del",
-      "segundo eje del primer bogie en el segundo coche de la composición, en el sentido de la marcha,",
-      "debido a que el mecanismo del sistema de bloqueo/desbloqueo del cambio de la rueda mencionada se",
-      "encontraba suelto, porque los tornillos que sujetan el citado mecanismo se habían desenroscado,",
-      "desapareciendo uno de ellos y estando el otro fuera de su alojamiento.",
-      "Por parte de Renfe Operadora",
-      "Posteriormente al suceso se revisaron todos los vehículos de las series 120, 120.050 y 121, no"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "63/11-1",
-        "texto": "Establecer una especial vigilancia del mecanismo del bloqueo/desbloqueo del cambio de ancho de los ejes BRAVA hasta que se efectúe la modificación prevista de su sujeción (soldadura). Madrid, 25 de septiembre de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
       "descarrilamiento",
       "señalización",
-      "mantenimiento",
       "infraestructura",
       "velocidad",
       "alcoholemia",
@@ -360,166 +303,7 @@
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/6311.pdf"
-    },
-    "similares": [
-      "2011-0015/2011",
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0051/2011",
-      "2011-0007/2011"
-    ]
-  },
-  {
-    "id": "2011-0026/2011",
-    "year": 2011,
-    "expediente": "0026/2011",
-    "titulo": "0026/2011 — Estación de TRASONA (ASTURIAS)",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-06-01",
-    "ubicacion": {
-      "estacion": "TRASONA (ASTURIAS)",
-      "provincia": "Asturias",
-      "lat": 43.545,
-      "lng": -5.823
-    },
-    "entidades": [
-      "FEVE"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 1 de junio de 2011, a las 16:00 horas, en la estación de Trasona (Asturias), perteneciente a la\nlínea 11 Ferrol – Gijón, se produce el escape de 8 plataformas portabobinas vacías procedentes de\ntren 9203, de Feve, tras haberse realizado el desacople de las dos locomotoras, en la vía de apartado\nde la estación. El corte (8 vagones) inicia deslizamiento por efecto de la pendiente, accediendo a la vía\ngeneral. Se detiene finalmente al cambiar la declividad de la vía, que pasa a ser horizonta",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1. SUCESO ................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD .................."
-    },
-    "conclusiones": [
-      "SECRETARÍA GENERAL DE",
-      "Investigación del incidente",
-      "nº 0026/2011 ocurrido el 01.06.2011",
-      "Insistir en el cumplimiento de la normativa a todo el",
-      "personal implicado en la circulación de los trenes, en lo",
-      "referente a la realización de operaciones de enganche y",
-      "Analizar la conveniencia de colocar, en la estación de",
-      "Trasona y en otras estaciones de características similares,",
-      "indicadores de rasante que señalicen la pendiente",
-      "Dadas las características de la estación de Trasona",
-      "(elevadas pendientes, realización de maniobras para",
-      "mercancías y fluido tráfico de cercanías), y según lo",
-      "estipulado en el artículo 6/12/00 del RCT, analizar la",
-      "conveniencia de documentar mediante consigna la",
-      "realización de maniobras en esta estación.",
-      "Madrid, 31 de enero de 2012"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "26/11-1",
-        "texto": "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche. Feve",
-        "implementador": ""
-      },
-      {
-        "numero": "26/11-2",
-        "texto": "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía. Feve",
-        "implementador": ""
-      },
-      {
-        "numero": "26/11-3",
-        "texto": "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación. Madrid, 31 de enero de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "incidente",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF010611310112CIAF.pdf"
-    },
-    "similares": []
-  },
-  {
-    "id": "2011-0007/2011",
-    "year": 2011,
-    "expediente": "0007/2011",
-    "titulo": "IF 0007/2011 — El día 4 de enero de 2011, a las 19:20 horas se produce el descarrilamiento del tren de viajeros de",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-01-04",
-    "ubicacion": {
-      "estacion": "Francia (ancho",
-      "provincia": "Barcelona",
-      "lat": 43.262,
-      "lng": -2.925
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 4 de enero de 2011, a las 19:20 horas se produce el descarrilamiento del tren de viajeros de\nlarga distancia 621 de la empresa ferroviaria Renfe Operadora, al efectuar su paso por el cambiador de\nancho de Zaragoza Delicias de la línea 060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de\nZaragoza Delicias. Descarrila la rueda derecha del segundo eje del primer bogie de la composición, en\nel sentido de la marcha, por defectos en la tornillería de anclaje del soporte de la palanca d",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...........................................................................................................3\n2.1. SUCESO ................................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO .......................................................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ................................................................................. 7\n2.4. CIRCUNSTANCIAS EXTERNAS .............................................................................................................................. 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ....................................................................8\n3.1. RESUMEN DE LAS DECLARACIONES .................................................................................."
-    },
-    "conclusiones": [
-      "SECRETARÍA GENERAL DE",
-      "Investigación del accidente",
-      "nº 0007/2011 ocurrido el 04.01.2011",
-      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y",
-      "reconocimiento médico y psicotécnico.",
-      "Del registro de seguridad del tren 621 se determina que al paso por el cambiador la velocidad era de",
-      "6,5 km/h, velocidad inferior a la indicada en el manual de conducción para la realización de la",
-      "De la inspección del eje descarrilado tras el descarrilamiento se comprueba en la rueda descarrilada la",
-      "pérdida de uno de los dos tornillos que amarran el soporte palanca a la caja soporte y el afloje del",
-      "El plan de mantenimiento se había realizado correctamente hasta el momento del descarrilamiento.",
-      "Los valores de los parámetros de rodadura del eje descarrilado estaban dentro de tolerancia.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El descarrilamiento se produce por fallo en los dispositivos de cambio de ancho de la rueda",
-      "descarrilada, perteneciente al segundo eje del primer bogie en el sentido de la marcha, debido a",
-      "defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de",
-      "bloqueo del cambio de ancho.",
-      "Por parte de Renfe Operadora",
-      "En la reunión mantenida entre Renfe Operadora, CAF y ACTREN (empresa mantenedora del material"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "07/11-1",
-        "texto": "Modificar el sistema de sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho de los ejes BRAVA añadiendo una “chapa tope” a las unidades de la flota S121 que a fecha de este informe aún no hayan sido modificadas. CAF",
-        "implementador": ""
-      },
-      {
-        "numero": "07/11-2",
-        "texto": "Estudiar, diseñar e implantar un sistema que asegure la sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho del eje BRAVA en los ejes de nueva fabricación. Madrid, 20 de septiembre de 2011 Chapa tope",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF040111200911CIAF.pdf"
+      "pdf_local": "pdfs/2011/IF160311251011CIAF.pdf"
     },
     "similares": [
       "2011-0015/2011",
@@ -613,6 +397,456 @@
     ]
   },
   {
+    "id": "2011-0017/2011",
+    "year": 2011,
+    "expediente": "0017/2011",
+    "titulo": "0017/2011 — Estación de Bellvitge.",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-04-23",
+    "ubicacion": {
+      "estacion": "Bellvitge.",
+      "provincia": "Barcelona",
+      "lat": 41.3534,
+      "lng": 2.1065
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 23 de abril de 2011, a las 09:28 horas, el tren de viajeros de media distancia 15400, de la\nempresa ferroviaria Renfe Operadora, descarrila del último bogie en el sentido de la marcha, en el\nPK 675+220 de la línea 200 Barcelona Sants – Madrid Chamartín, entre las estaciones de Bellvitge-\nAguja 674+835  y Barcelona Sants (Barcelona). No habiendo daños personales\nConclusión: El accidente se produce por la rotura del último eje de la composición en el sentido de la\nmarcha, provocado por la e",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 7\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "SECRETARÍA GENERAL DE",
+      "Investigación del accidente",
+      "nº 0017/2011 ocurrido el 23.04.2011",
+      "3.4.2. Infraestructura",
+      "Funcionó correctamente.",
+      "De la inspección realizada en la zona del descarrilamiento, se detecta que los valores del peralte se",
+      "encuentran dentro de los límites de tolerancia. Sin embargo, en lo referente al ancho de vía, algunos",
+      "rebasan muy ligeramente sus valores límite, no considerándose determinante esta circunstancia.",
+      "INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+      "Jornada laboral del maquinista del tren 15400:",
+      "el día 23: 4 horas y 12 minutos (3 horas y 9 minutos de conducción efectiva);",
+      "el día 22: 4 horas y 49 minutos (51 minutos de conducción efectiva);",
+      "el día 21: 5 horas y 58 minutos (53 minutos de conducción efectiva).",
+      "Al maquinista, el día del accidente, a las 12:25 horas, se le realiza prueba de alcoholemia en aire",
+      "espirado con resultado negativo (0,00 mg/1000 ml).",
+      "ANÁLISIS Y CONCLUSIONES",
+      "DESCRIPCIÓN DE LOS ACONTECIMIENTOS",
+      "Los hechos tuvieron lugar el día 23 de abril de 2011, a las 09:28 horas, entre las estaciones de",
+      "Bellvitge-Aguja 674+835 y Barcelona Sants, en el PK 675+220 de la línea 200 Barcelona Sants –",
+      "El tren de viajeros de media distancia 15400, procedente de Lleida Pirineus y destino Barcelona Estació"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "17/11-1",
+        "texto": "470 el nuevo procedimiento de inspección de las tomas de tierra y de la zona de contacto del eje. Analizar qué otro tipo de material móvil es susceptible de sufrir un deterioro en sus ejes por un mal funcionamiento Renfe Operadora",
+        "implementador": ""
+      },
+      {
+        "numero": "17/11-2",
+        "texto": "+ de las tomas de tierra, incorporando a su plan de mantenimiento medidas similares. Estudiar la inclusión en el plan de mantenimiento del Renfe Operadora",
+        "implementador": ""
+      },
+      {
+        "numero": "17/11-3",
+        "texto": "material 440-470 la inspección por ultrasonidos en alguna intervención intermedia entre las R (reparación general). Madrid, 27 de diciembre de 2011 VTG?ii ~mi.ó\" Fdo.: Vicente Rallo Gulnot IF-23ü411-271211-CIAF Pago 15 de 15",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF230411271211CIAF.pdf"
+    },
+    "similares": [
+      "2011-0015/2011",
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0051/2011",
+      "2011-0063/2011"
+    ]
+  },
+  {
+    "id": "2011-0018/2011",
+    "year": 2011,
+    "expediente": "0018/2011",
+    "titulo": "IF 0018/2011 — El día 28 de abril de 2011, a las 09:49 horas, en el PK 110+000 de la línea 262 Barcelona Sagrera –",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2011-04-28",
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 28 de abril de 2011, a las 09:49 horas, en el PK 110+000 de la línea 262 Barcelona Sagrera –\nBifurcación Clot, en el apeadero de El Clot-Aragó, se produce una colisión por alcance entre el tren de\nviajeros de cercanías 28913 y el tren 37507 (material vacío del tren 00476), ambos de la empresa\nferroviaria Renfe Operadora, cuando el primero rebasa la señal 1095 permisiva, que se encontraba en\nindicación de parada.\nConclusión: El accidente tuvo su origen por incumplimiento de las órdenes dad",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "SECRETARÍA GENERAL DE",
+      "Investigación del accidente",
+      "nº 0018/2011 ocurrido el 28.04.2011",
+      "Como consecuencia de la colisión resultan heridos leves dieciocho viajeros.",
+      "El maquinista del tren 28913 contactó con el PM mediante tren-tierra para informar de lo sucedido.",
+      "El tren 28913 descarrila del segundo bogie del coche de cabeza y del primer bogie del coche",
+      "intermedio. Los trenes quedan empotrados.",
+      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y",
+      "reconocimiento médico y psicotécnico.",
+      "De los registradores de seguridad de los trenes se determina que en el momento de producirse la",
+      "colisión, las velocidades eran inferiores a la máxima permitida para ese tramo.",
+      "El funcionamiento del material rodante y de la infraestructura fue correcto.",
+      "El accidente se produce en un túnel de vía única en curva pronunciada a la derecha en el sentido de la",
+      "marcha y con iluminación artificial, por lo que la visibilidad es limitada.",
+      "El maquinista, al no cumplir la reglamentaria marcha a la vista, incumple el artículo 141.1 del RGC al",
+      "no avanzar con la adecuada prudencia y el 217.2 del RGC que establece que tras rebasar una señal",
+      "permisiva debe circular con marcha a la vista.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:"
+    ],
+    "recomendaciones": [],
+    "tags": [
+      "accidente",
+      "colisión",
+      "descarrilamiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF280411271211CIAF.pdf"
+    },
+    "similares": [
+      "2011-0015/2011",
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0051/2011",
+      "2011-0063/2011"
+    ]
+  },
+  {
+    "id": "2011-0023/2011",
+    "year": 2011,
+    "expediente": "0023/2011",
+    "titulo": "0023/2011 — Estación de Los Gavilanes (Madrid) de la línea",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-05-16",
+    "ubicacion": {
+      "estacion": "Los Gavilanes (Madrid)",
+      "provincia": "Madrid",
+      "lat": 39.5,
+      "lng": -0.7167
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 16 de mayo de 2011, a las 19:03 horas, en la estación de Los Gavilanes (Madrid) de la línea\n10 Madrid-Puerta de Atocha a Sevilla-Santa Justa de alta velocidad, se produce un conato de colisión\nentre los trenes de viajeros 5180 y 8182, ambos de la empresa ferroviaria Renfe Operadora, cuando el\nprimero rebasa indebidamente la señal de entrada E022, situada en el PK 12+379, que se encontraba\nordenando parada.\nConclusión: El incidente tuvo su origen en el rebase indebido por el tren de alta v",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "El incidente tuvo su origen en el rebase indebido por el tren de alta velocidad 5180 de la señal de entrada E022, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción.",
+      "Como factor coadyuvante hay que mencionar el no funcionamiento del sistema de bloqueo de control automático (LZB), ni del ASFA Digital."
+    ],
+    "recomendaciones": [
+      {
+        "numero": "23/11-1",
+        "texto": "Implantar las medidas necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria, con el fin de evitar posibles distracciones, especialmente cuando se circula en condiciones degradadas. Madrid, 28 de febrero de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "incidente",
+      "colisión",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF160511280212CIAF.pdf"
+    },
+    "similares": [
+      "2011-0015/2011",
+      "2011-0051/2011",
+      "2011-0028/2011",
+      "2011-0062/2011",
+      "2011-0061/2011"
+    ]
+  },
+  {
+    "id": "2011-0031/2011",
+    "year": 2011,
+    "expediente": "0031/2011",
+    "titulo": "0031/2011 — Estación de Villamanín por",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-05-24",
+    "ubicacion": {
+      "estacion": "Villamanín por",
+      "provincia": "León",
+      "lat": 42.8,
+      "lng": -5.8333
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 24 de mayo de 2011, a las 16:19 horas, en plena vía, en el PK 45+104 de la línea 130 Gijón-\nCercanías a Venta de Baños, entre las estaciones de Santa Lucía y Villamanín, se produce el\ndescarrilamiento del tren de mercancías ER201 de la empresa ferroviaria Renfe Operadora. Descarrilan\nlos vagones que circulaban en 4º lugar y del 6º al 18º, en el sentido de la marcha del tren.\nNo se produjeron daños personales como consecuencia del descarrilamiento.\nConclusión: El accidente fue debido a un ",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0031/2011 ocurrido el 24.05.2011",
+      "Las mediciones de los parámetros de la vía antes del punto cero y tras el descarrilamiento presentan",
+      "valores admisibles. Se observan desplazamientos de la vía y falta de balasto en dos zonas.",
+      "El encargado de los trabajos devuelve la vía al jefe del CTC en condiciones normales, sin poner en su",
+      "conocimiento que los trabajos previstos no se habían concluido. No obstante, antes del",
+      "descarrilamiento circulan por ese punto otros 19 trenes",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El accidente fue debido a un fallo de la infraestructura, como consecuencia de la falta de balasto en la",
+      "zona del descarrilamiento, debido a una incompleta ejecución de los trabajos de mantenimiento",
+      "previstos, que posibilitó al paso de las circulaciones el desplazamiento de la vía, produciéndose una",
+      "desalineación en ésta y el consiguiente descarrilamiento.",
+      "Así mismo, el encargado de los trabajos entrega la vía al jefe del CTC en condiciones normales, sin",
+      "advertir sobre la anomalía.",
+      "Ante la dispersión normativa, evaluar la conveniencia de",
+      "redactar una norma sobre condiciones para la entrega de",
+      "la vía tras la realización de trabajos en la misma, tanto si",
+      "ésta se produce en condiciones normales como"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "31/11-1",
+        "texto": "Ante la dispersión normativa, evaluar la conveniencia de redactar una norma sobre condiciones para la entrega de la vía tras la realización de trabajos en la misma, tanto si ésta se produce en condiciones normales como degradadas. Madrid, 27 de marzo de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF240511270312CIAF.pdf"
+    },
+    "similares": [
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0063/2011",
+      "2011-0007/2011",
+      "2011-0025/2011"
+    ]
+  },
+  {
+    "id": "2011-0024/2011",
+    "year": 2011,
+    "expediente": "0024/2011",
+    "titulo": "0024/2011 — Estación de CALATAYUD (ZARAGOZA)",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-05-30",
+    "ubicacion": {
+      "estacion": "CALATAYUD (ZARAGOZA)",
+      "provincia": "Zaragoza",
+      "lat": 41.3535,
+      "lng": -1.6458
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0024/2011 ocurrido el 30.05.2011\nInforme final\nRESUMEN\nEl día 30 de mayo de 2011, a las 07:20 horas, en el PK 224+556 de la línea de alta velocidad\n50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro, a la entrada de la estación de Calatayud, lado\nZaragoza, se produce el descarrilamiento del tren de viajeros de media distancia 8476 de la empresa\nferroviaria Renfe Operadora. Descarrilan los cuatro ejes del primer coche de la composición, en el\nsentido de la marcha.\nNo se produjeron daños personales como consecuencia del descarrilamiento.\nConclusión: El accidente tuvo su origen en un fallo técnico de las instalaciones, al no\nfuncionar adecuadamente el desvío S1 CAL 2.\nRecomendaciones:\nDestinatario final\nNúmero\nRecomendación\nDirección General de\nFerr",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0024/2011 ocurrido el 30.05.2011",
+      "Establecer pautas de actuación claras y lógicas para el",
+      "personal de circulación y conducción, en los casos de",
+      "rebases de señal con orden de comprobación de los",
+      "aparatos de vía, adaptando la normativa a las nuevas",
+      "tecnologías (alta velocidad).",
+      "Analizar la viabilidad de reforzar los contenidos de los",
+      "programas de formación para la obtención del título de",
+      "conducción en lo referente a los conocimientos técnicos",
+      "sobre aparatos de vía de alta velocidad y especialmente",
+      "Madrid, 27 de marzo de 2012"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "24/11-1",
+        "texto": "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad). Dirección General de Ferrocarriles (DGF)",
+        "implementador": ""
+      },
+      {
+        "numero": "24/11-2",
+        "texto": "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos. Madrid, 27 de marzo de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF300511270312CIAF.pdf"
+    },
+    "similares": [
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0063/2011",
+      "2011-0007/2011",
+      "2011-0025/2011"
+    ]
+  },
+  {
+    "id": "2011-0026/2011",
+    "year": 2011,
+    "expediente": "0026/2011",
+    "titulo": "0026/2011 — Estación de TRASONA (ASTURIAS)",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-06-01",
+    "ubicacion": {
+      "estacion": "TRASONA (ASTURIAS)",
+      "provincia": "Asturias",
+      "lat": 43.545,
+      "lng": -5.823
+    },
+    "entidades": [
+      "FEVE"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 1 de junio de 2011, a las 16:00 horas, en la estación de Trasona (Asturias), perteneciente a la\nlínea 11 Ferrol – Gijón, se produce el escape de 8 plataformas portabobinas vacías procedentes de\ntren 9203, de Feve, tras haberse realizado el desacople de las dos locomotoras, en la vía de apartado\nde la estación. El corte (8 vagones) inicia deslizamiento por efecto de la pendiente, accediendo a la vía\ngeneral. Se detiene finalmente al cambiar la declividad de la vía, que pasa a ser horizonta",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1. SUCESO ................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD .................."
+    },
+    "conclusiones": [
+      "SECRETARÍA GENERAL DE",
+      "Investigación del incidente",
+      "nº 0026/2011 ocurrido el 01.06.2011",
+      "Insistir en el cumplimiento de la normativa a todo el",
+      "personal implicado en la circulación de los trenes, en lo",
+      "referente a la realización de operaciones de enganche y",
+      "Analizar la conveniencia de colocar, en la estación de",
+      "Trasona y en otras estaciones de características similares,",
+      "indicadores de rasante que señalicen la pendiente",
+      "Dadas las características de la estación de Trasona",
+      "(elevadas pendientes, realización de maniobras para",
+      "mercancías y fluido tráfico de cercanías), y según lo",
+      "estipulado en el artículo 6/12/00 del RCT, analizar la",
+      "conveniencia de documentar mediante consigna la",
+      "realización de maniobras en esta estación.",
+      "Madrid, 31 de enero de 2012"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "26/11-1",
+        "texto": "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche. Feve",
+        "implementador": ""
+      },
+      {
+        "numero": "26/11-2",
+        "texto": "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía. Feve",
+        "implementador": ""
+      },
+      {
+        "numero": "26/11-3",
+        "texto": "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación. Madrid, 31 de enero de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "incidente",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF010611310112CIAF.pdf"
+    },
+    "similares": []
+  },
+  {
     "id": "2011-0028/2011",
     "year": 2011,
     "expediente": "0028/2011",
@@ -692,6 +926,80 @@
     ]
   },
   {
+    "id": "2011-0032/2011",
+    "year": 2011,
+    "expediente": "0032/2011",
+    "titulo": "IF 0032/2011 — El día 30 de junio de 2011, a las 11:58 horas, en el PK 7+165 de la línea 116 Los Cotos a Cercedilla,",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-06-30",
+    "ubicacion": {
+      "estacion": "Siete Picos",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 30 de junio de 2011, a las 11:58 horas, en el PK 7+165 de la línea 116 Los Cotos a Cercedilla,\nentre las estaciones de Siete Picos y Puerto de Navacerrada, se produce el descarrilamiento del tren de\nviajeros 21907 de la empresa ferroviaria Renfe Operadora. Descarrilan los cuatro bogies de la\ncomposición. Para evaluar la situación se envía el tren S1, de la misma empresa y composición,\nproduciéndose también el descarrilamiento del primer bogie de éste en el PK 7+150.\nNo se produjeron daños",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..........."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0032/2011 ocurrido el 30.06.2011",
+      "La zona de los descarrilamientos tenía las traviesas de madera, la clavazón y el balasto en mal estado.",
+      "Durante el año 2010 se procedió a la consolidación (mediante espirales Vortok) y reapretado general",
+      "de la clavazón en la zona de traviesas de madera.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El accidente tuvo su origen en el fallo técnico de la infraestructura, como consecuencia de encontrarse",
+      "en mal estado las traviesas de madera, la clavazón y el balasto.",
+      "Analizar la viabilidad de sustituir todo el tramo de",
+      "traviesas de madera por otras de hormigón o, en su",
+      "defecto, reemplazar las que presenten mal estado por",
+      "otras del mismo material.",
+      "Madrid, 24 de abril de 2012"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "32/11-1",
+        "texto": "Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presenten mal estado por otras del mismo material. Madrid, 24 de abril de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF300611240412CIAF.pdf"
+    },
+    "similares": [
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0063/2011",
+      "2011-0007/2011",
+      "2011-0025/2011"
+    ]
+  },
+  {
     "id": "2011-0043/2011",
     "year": 2011,
     "expediente": "0043/2011",
@@ -740,6 +1048,208 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
+    ]
+  },
+  {
+    "id": "2011-0044/2011",
+    "year": 2011,
+    "expediente": "0044/2011",
+    "titulo": "0044/2011 — Estación de Caparrates es el siguiente:",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-07-13",
+    "ubicacion": {
+      "estacion": "Caparrates es el",
+      "provincia": "Castellón",
+      "lat": 41.15,
+      "lng": -1.2667
+    },
+    "entidades": [
+      "ADIF",
+      "Logitren"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 13 de julio de 2011, a las 21:45 horas, en plena vía, en el PK 137+810 de la línea 610 Sagunto –\nBif. Teruel, entre las estaciones de Teruel y Caparrates, se produce el descarrilamiento del tren de\nmercancías 97845 de la empresa ferroviaria Logitren, compuesto por una locomotora 335 y 28\nvagones (plataformas MC y MMC) cargados con contenedores. El descarrilamiento se inicia en la rueda\nderecha del primer eje del 9º vagón, en el sentido de la marcha, que circula descarrilado durante 3,29\nk",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0044/2011 ocurrido el 13.07.2011",
+      "Cumplir estrictamente la “Instrucción Técnica de Carga",
+      "de Contenedores” elaborada por la propia Ben Trade",
+      "Madrid, 25 de septiembre de 2012"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "44/11-1",
+        "texto": "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A. Madrid, 25 de septiembre de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "cruzamiento",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/4411.pdf"
+    },
+    "similares": [
+      "2011-0049/2011",
+      "2011-0063/2011",
+      "2011-0007/2011",
+      "2011-0025/2011",
+      "2011-0028/2011"
+    ]
+  },
+  {
+    "id": "2011-0036/2011",
+    "year": 2011,
+    "expediente": "0036/2011",
+    "titulo": "IF 0036/2011 — El día 20 de julio de 2011, a las 16:25 horas, en el PK 66+480 de la línea 500 Bif",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2011-07-20",
+    "ubicacion": {
+      "estacion": "Villaluenga-Yuncler.",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 20 de julio de 2011, a las 16:25 horas, en el PK 66+480 de la línea 500 Bif. Planetario (Madrid) a\nValencia Alcántara, el tren de media distancia 17016, perteneciente a la empresa ferroviaria Renfe Operadora,\narrolla a un operario de una empresa contratista de Adif que se encontraba realizando trabajos en el tablero\nde un puente sobre el río Guadarrama, en el trayecto entre Villaluenga-Yuncler y Villamiel de Toledo.\nComo consecuencia del arrollamiento la persona fallece.\nConclusión: El ac",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0036/2011 ocurrido el 20.07.2011",
+      "El acta semanal de trabajos deberá recoger las",
+      "actividades concretas a ejecutar y la maquinaria prevista",
+      "a emplear, así como los accesos de ésta.",
+      "Analizar la viabilidad de incrementar las visitas de",
+      "inspección a trabajos en vía por el personal con",
+      "responsabilidad en la seguridad.",
+      "En las acciones formativas a los encargados de trabajos",
+      "incidir en los aspectos reglamentarios sobre trabajos en",
+      "Madrid, 26 de junio de 2012"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "36/11-1",
+        "texto": "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta.",
+        "implementador": ""
+      },
+      {
+        "numero": "36/11-2",
+        "texto": "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad.",
+        "implementador": ""
+      },
+      {
+        "numero": "36/11-3",
+        "texto": "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía. Madrid, 26 de junio de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF200711260612CIAF.pdf"
+    },
+    "similares": [
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0063/2011",
+      "2011-0007/2011",
+      "2011-0025/2011"
+    ]
+  },
+  {
+    "id": "2011-0040/2011",
+    "year": 2011,
+    "expediente": "0040/2011",
+    "titulo": "0040/2011 — Estación de GRANOLLERS - CENTRE (BARCELONA)",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-08-27",
+    "ubicacion": {
+      "estacion": "GRANOLLERS - CENTRE",
+      "provincia": "Barcelona",
+      "lat": 41.6002,
+      "lng": 2.2863
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 28 de agosto de 2011, a las 21:27 horas, en la estación de Granollers - Centre, el tren de\nviajeros de cercanías 28480 de la empresa ferroviaria Renfe Operadora rebasa indebidamente la señal\nde salida S2/7-9, situada en el PK 134+932 de la línea 270 Bifurcación Sagrera - Cerbere, arrollando\nposteriormente el calce de protección C-23 y descarrilando de los dos bogies del primer coche de la\ncomposición.\nConclusión: El accidente tuvo su origen en el rebase indebido por el tren de viajeros 28",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "El accidente tuvo su origen en el rebase indebido por el tren de viajeros 28480 de la señal de salida S2/7-9, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción."
+    ],
+    "recomendaciones": [
+      {
+        "numero": "40/11-1",
+        "texto": "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación. Madrid, 24 de julio de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF270811240712CIAF.pdf"
+    },
+    "similares": [
+      "2011-0015/2011",
+      "2011-0044/2011",
+      "2011-0049/2011",
+      "2011-0051/2011",
+      "2011-0063/2011"
     ]
   },
   {
@@ -829,6 +1339,213 @@
     ]
   },
   {
+    "id": "2011-0049/2011",
+    "year": 2011,
+    "expediente": "0049/2011",
+    "titulo": "0049/2011 — Estación de SANT POL DE MAR (BARCELONA)",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-10-26",
+    "ubicacion": {
+      "estacion": "SANT POL DE MAR",
+      "provincia": "Barcelona",
+      "lat": 41.6022,
+      "lng": 2.5968
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 26 de octubre de 2011, a las 16:24 horas, en la estación de Sant Pol de Mar (Barcelona), situada\nen el PK 44+979 de la línea 276 Bifurcación Sagrera a Maçanet-Massanes, se produce conato de\ncolisión entre los trenes de viajeros de cercanías 25736 y 25639, ambos pertenecientes a la Dirección\nde Rodalies i Regionals de Catalunya y operados por la empresa ferroviaria Renfe Operadora, cuando\nel primero rebasa indebidamente la señal de salida S2/1, que se encontraba en indicación de parada,\npo",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0049/2011 ocurrido el 26.10.2011",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El descarrilamiento tuvo su origen en el retroceso no autorizado del tren 25736, sobre la aguja nº1,",
+      "antes talonada tras el rebase indebido de la señal de salida S2/1, en indicación de parada, por",
+      "incumplimiento de la órdenes dadas por las señales al personal de conducción",
+      "OBSERVACIONES ADICIONALES",
+      "Sin tener relación directa con los hechos, se destaca que el tren 25736 circula con exceso de velocidad",
+      "(a 38 km/h) por la limitación temporal de velocidad (a 30 km/h) existente antes de la estación de Sant",
+      "Pol de Mar, entre las señales de avanzada y entrada por su lado norte, incumpliendo la Consigna serie",
+      "B nº 10 (Trayecto Arenys de Mar – Maçanet - Massanes).",
+      "Por parte de Renfe Operadora",
+      "Renfe Operadora, con carácter general, en los incidentes y accidentes debido a fallo humano en la",
+      "conducción aplica una serie de medidas contempladas en la Circular nº 1 de Presidencia y consistentes",
+      "en: control de alcoholemia; retirada del servicio; reconocimiento psicofísico; programa individualizado",
+      "de reciclaje (que incluye paso por simulador, reciclaje formativo y acompañamiento en cabina por",
+      "tutor) y posterior reincorporación al servicio una vez superadas las pruebas y previo informe favorable",
+      "De forma complementaria, Renfe Operadora también ha emprendido diversas acciones orientadas a la"
+    ],
+    "recomendaciones": [
+      "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+    ],
+    "tags": [
+      "accidente",
+      "paso a nivel",
+      "colisión",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "cruzamiento",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/492011.pdf"
+    },
+    "similares": [
+      "2011-0015/2011",
+      "2011-0044/2011",
+      "2011-0051/2011",
+      "2011-0063/2011",
+      "2011-0007/2011"
+    ]
+  },
+  {
+    "id": "2011-0050/2011",
+    "year": 2011,
+    "expediente": "0050/2011",
+    "titulo": "0050/2011 — Estación de ASTILLERO (CANTABRIA)",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2011-10-27",
+    "ubicacion": {
+      "estacion": "ASTILLERO (CANTABRIA)",
+      "provincia": "Cantabria",
+      "lat": 43.4,
+      "lng": -3.8167
+    },
+    "entidades": [
+      "FEVE"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 27 de octubre de 2011, a las 14:25 horas, en la estación de Astillero (Cantabria), perteneciente\na la línea 24 Santander - Bilbao, el tren de viajeros 6803 de Feve rebasa indebidamente la señal de\nsalida S1/1L, talonando la aguja número 2 y descarrilando el segundo eje del primer bogie del vehículo\nde cabeza.\nNo se producen víctimas mortales ni heridos.\nConclusión: El accidente tuvo su origen en el rebase indebido por el tren de viajeros 6803 de la señal\nde salida S1/1L, en indicación de ",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..........."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0050/2011 ocurrido el 27.10.2011",
+      "En la formación impartida al personal de conducción",
+      "incidir en las actitudes y comportamientos que son fuente",
+      "de riesgos para la circulación, insistiendo en el estricto",
+      "cumplimiento del Reglamento de Circulación de Trenes y",
+      "Madrid, 24 de julio de 2012"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "50/11-1",
+        "texto": "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve. Madrid, 24 de julio de 2012",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "colisión",
+      "descarrilamiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "cruzamiento",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/IF271011240712CIAF.pdf"
+    },
+    "similares": []
+  },
+  {
+    "id": "2011-0051/2011",
+    "year": 2011,
+    "expediente": "0051/2011",
+    "titulo": "IF 0051/2011 — El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2011-11-05",
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.\nAragó–Barcelona Sant Andreu Comtal, el tren de viajeros 37537, material vacío de tren 874, rebasa\nindebidamente la señal de entrada 1107 de Bif. Sagrera, que se encontraba en indicación de parada.\nSe produce una situación de conato de colisión con tren 274 que tenía establecido itinerario hacia\nBarcelona Marina.\nConclusión: El incidente tuvo su origen en el rebase indebido por el tren 37537 (materia",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del incidente",
+      "nº 0051/2011 ocurrido el 05.11.2011",
+      "Del análisis del registrador de seguridad del tren se comprueba que el tren 37537 venía circulando en",
+      "anuncios de parada sucesivos (L1) por circular delante un tren de cercanías.",
+      "Del registrador de eventos del puesto de mando se comprueba que el tren 37537 rebasa la señal 1107",
+      "en indicación de parada, y que el aspecto de la misma no cambia en ningún momento. Cuando se",
+      "produce el rebase se encontraba establecido itinerario de señal 1108 hacia Barcelona Marina para tren",
+      "Se incumple el artículo 217 del RGC por parte del personal de conducción del tren 37537, al no",
+      "detenerse ante la señal 1107.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El incidente tuvo su origen en el rebase indebido por el tren 37537 (material vacío de tren 874) de la",
+      "señal 1107, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de",
+      "Por parte de Renfe Operadora",
+      "Renfe Operadora, con carácter general, y en cumplimiento de la Circular Operativa nº 1, en los",
+      "accidentes e incidentes debido a fallo humano en la conducción aplica una serie de medidas: control",
+      "de alcoholemia, retirada del servicio, reconocimiento psicofísico, programa individualizado de reciclaje",
+      "(que incluye paso por simulador, reciclaje formativo y acompañamiento en cabina por tutor) y",
+      "posterior reincorporación al servicio, una vez superadas las pruebas y previo informe favorable del"
+    ],
+    "recomendaciones": [],
+    "tags": [
+      "incidente",
+      "colisión",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2011/512011.pdf"
+    },
+    "similares": [
+      "2011-0015/2011",
+      "2011-0049/2011",
+      "2011-0063/2011",
+      "2011-0007/2011",
+      "2011-0025/2011"
+    ]
+  },
+  {
     "id": "2011-0062/2011",
     "year": 2011,
     "expediente": "0062/2011",
@@ -899,211 +1616,6 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
-  },
-  {
-    "id": "2011-0003/2011",
-    "year": 2011,
-    "expediente": "0003/2011",
-    "titulo": "03/2011 — Estación de Osuna.",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2011-01-16",
-    "ubicacion": {
-      "estacion": "Osuna.",
-      "provincia": "Almería",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 16 de enero de 2011, a las 13:18 horas, el tren de viajeros de media distancia 13943, de la\nempresa ferroviaria Renfe Operadora, arrolla a un vehículo de carretera que invade el paso a nivel\nclase A, situado en el PK 87+782 de la línea 422 Bif. Utrera a Fuente de Piedra, entre las estaciones de\nOsuna y Pedrera, en el término municipal de Aguadulce (Sevilla). Como consecuencia del accidente el\nconductor, único ocupante del vehículo de carretera, y una viajera del tren resultan heridos leve",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................... 3\n2.1. SUCESO ................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ......................................................... 9\n3.1. RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD .............."
-    },
-    "conclusiones": [
-      "SECRETARÍA GENERAL DE",
-      "Investigación del accidente",
-      "nº 0003/2011 ocurrido el 16.01.2011",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así",
-      "como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación",
-      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que",
-      "cruza por el paso a nivel cuando pasaba el tren 13943.",
-      "Adecuar el paso a nivel a lo establecido en la OM de",
-      "2/8/2001: bien dotándolo de protección clase B, por ser",
-      "su momento de circulación superior a 1.000; o bien",
-      "proceder a su supresión promoviendo su concentración al",
-      "paso a nivel del PK 86+900, por estar ambos situados a",
-      "menos de 1.000 metros de distancia.",
-      "Madrid, 20 de septiembre de 2011"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "03/11-1",
-        "texto": "Adecuar el paso a nivel a lo establecido en la OM de 2/8/2001: bien dotándolo de protección clase B, por ser su momento de circulación superior a 1.000; o bien proceder a su supresión promoviendo su concentración al paso a nivel del PK 86+900, por estar ambos situados a menos de 1.000 metros de distancia. Madrid, 20 de septiembre de 2011",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "paso a nivel",
-      "arrollamiento",
-      "colisión",
-      "señalización",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF160111200911CIAF.pdf"
-    },
-    "similares": [
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0063/2011",
-      "2011-0007/2011",
-      "2011-0025/2011"
-    ]
-  },
-  {
-    "id": "2011-12/2011",
-    "year": 2011,
-    "expediente": "12/2011",
-    "titulo": "IF 12/2011 — El día 16 de marzo de 2011, a las 20:19 horas, el tren de viajeros de cercanías 25267, de la empresa",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-03-16",
-    "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 16 de marzo de 2011, a las 20:19 horas, el tren de viajeros de cercanías 25267, de la empresa\nferroviaria Renfe Operadora, colisiona con obstáculos –tierras y rocas- situados en el gálibo de la vía,\nen el PK 323+320 de la línea 220 Lleida Pirineus – L’Hospitalet de Llobregat, en plena vía, entre los\napeaderos de Olesa de Montserrat y Vacarisses Torreblanca (Barcelona).\nComo consecuencia de la colisión se produce el descarrilamiento de todos los ejes de la UT de cabeza,\nresultando heridos ",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "SECRETARÍA GENERAL DE",
-      "Investigación del accidente",
-      "nº 12/2011 ocurrido el 16.03.2011",
-      "A las 20:18:16 horas el tren pasó por la baliza ASFA de la señal intermedia 3245, situada en el",
-      "PK 324+358, en indicación de vía libre, circulando a la velocidad de 79 km/h.",
-      "Tras recorrer unos 1.000 metros, el maquinista actúa sobre el freno de emergencia a las 20:19:03",
-      "horas, a una velocidad de 79 km/h y unos tres segundos después el tren colisiona con obstáculos –",
-      "tierras y rocas- en el PK 323+320 y seguidamente descarrila a una velocidad de 63 km/h.",
-      "En la UT de cabeza el primer bogie de la composición queda girado 90 grados con relación al sentido",
-      "de la vía, el segundo bogie se desplaza hacia la izquierda en sentido de la marcha ocupando el gálibo",
-      "de la vía par, el tercer bogie queda desprendido de la caja, rompiendo todos los elementos del",
-      "segundo coche que se encuentran situados bajo el habitáculo de viajeros, incluido el cuarto bogie y los",
-      "bogies quinto y sexto quedan en la vía impar. No se afectó la UT de cola.",
-      "El tren quedó detenido en el PK 323+240, a las 20:19:06 horas.",
-      "Como consecuencia del descarrilamiento resultan heridos leves diez viajeros y el maquinista.",
-      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y",
-      "reconocimiento médico y psicotécnico.",
-      "El maquinista hizo uso del freno de emergencia instantes antes del descarrilamiento.",
-      "Los equipos de seguridad del tren funcionaron correctamente.",
-      "La velocidad del tren era inferior a la máxima permitida."
-    ],
-    "recomendaciones": [],
-    "tags": [
-      "accidente",
-      "colisión",
-      "descarrilamiento",
-      "señalización",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF160311251011CIAF.pdf"
-    },
-    "similares": [
-      "2011-0015/2011",
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0051/2011",
-      "2011-0063/2011"
-    ]
-  },
-  {
-    "id": "2011-0023/2011",
-    "year": 2011,
-    "expediente": "0023/2011",
-    "titulo": "0023/2011 — Estación de Los Gavilanes (Madrid) de la línea",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-05-16",
-    "ubicacion": {
-      "estacion": "Los Gavilanes (Madrid)",
-      "provincia": "Madrid",
-      "lat": 39.5,
-      "lng": -0.7167
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 16 de mayo de 2011, a las 19:03 horas, en la estación de Los Gavilanes (Madrid) de la línea\n10 Madrid-Puerta de Atocha a Sevilla-Santa Justa de alta velocidad, se produce un conato de colisión\nentre los trenes de viajeros 5180 y 8182, ambos de la empresa ferroviaria Renfe Operadora, cuando el\nprimero rebasa indebidamente la señal de entrada E022, situada en el PK 12+379, que se encontraba\nordenando parada.\nConclusión: El incidente tuvo su origen en el rebase indebido por el tren de alta v",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [],
-    "recomendaciones": [
-      {
-        "numero": "23/11-1",
-        "texto": "Implantar las medidas necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria, con el fin de evitar posibles distracciones, especialmente cuando se circula en condiciones degradadas. Madrid, 28 de febrero de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "incidente",
-      "colisión",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF160511280212CIAF.pdf"
-    },
-    "similares": [
-      "2011-0015/2011",
-      "2011-0051/2011",
-      "2011-0028/2011",
-      "2011-0062/2011",
-      "2011-0061/2011"
     ]
   },
   {
@@ -1184,376 +1696,14 @@
     ]
   },
   {
-    "id": "2011-0036/2011",
+    "id": "2011-0063/2011",
     "year": 2011,
-    "expediente": "0036/2011",
-    "titulo": "IF 0036/2011 — El día 20 de julio de 2011, a las 16:25 horas, en el PK 66+480 de la línea 500 Bif",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2011-07-20",
-    "ubicacion": {
-      "estacion": "Villaluenga-Yuncler.",
-      "provincia": "Madrid",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 20 de julio de 2011, a las 16:25 horas, en el PK 66+480 de la línea 500 Bif. Planetario (Madrid) a\nValencia Alcántara, el tren de media distancia 17016, perteneciente a la empresa ferroviaria Renfe Operadora,\narrolla a un operario de una empresa contratista de Adif que se encontraba realizando trabajos en el tablero\nde un puente sobre el río Guadarrama, en el trayecto entre Villaluenga-Yuncler y Villamiel de Toledo.\nComo consecuencia del arrollamiento la persona fallece.\nConclusión: El ac",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0036/2011 ocurrido el 20.07.2011",
-      "El acta semanal de trabajos deberá recoger las",
-      "actividades concretas a ejecutar y la maquinaria prevista",
-      "a emplear, así como los accesos de ésta.",
-      "Analizar la viabilidad de incrementar las visitas de",
-      "inspección a trabajos en vía por el personal con",
-      "responsabilidad en la seguridad.",
-      "En las acciones formativas a los encargados de trabajos",
-      "incidir en los aspectos reglamentarios sobre trabajos en",
-      "Madrid, 26 de junio de 2012"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "36/11-1",
-        "texto": "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta.",
-        "implementador": ""
-      },
-      {
-        "numero": "36/11-2",
-        "texto": "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad.",
-        "implementador": ""
-      },
-      {
-        "numero": "36/11-3",
-        "texto": "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía. Madrid, 26 de junio de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "arrollamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF200711260612CIAF.pdf"
-    },
-    "similares": [
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0063/2011",
-      "2011-0007/2011",
-      "2011-0025/2011"
-    ]
-  },
-  {
-    "id": "2011-0017/2011",
-    "year": 2011,
-    "expediente": "0017/2011",
-    "titulo": "0017/2011 — Estación de Bellvitge.",
+    "expediente": "0063/2011",
+    "titulo": "IF 0063/2011 — El día 27 de diciembre de 2011, a las 11:38 horas, se produce el descarrilamiento del tren de viajeros",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "leve",
-    "fecha_suceso": "2011-04-23",
-    "ubicacion": {
-      "estacion": "Bellvitge.",
-      "provincia": "Barcelona",
-      "lat": 41.3534,
-      "lng": 2.1065
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 23 de abril de 2011, a las 09:28 horas, el tren de viajeros de media distancia 15400, de la\nempresa ferroviaria Renfe Operadora, descarrila del último bogie en el sentido de la marcha, en el\nPK 675+220 de la línea 200 Barcelona Sants – Madrid Chamartín, entre las estaciones de Bellvitge-\nAguja 674+835  y Barcelona Sants (Barcelona). No habiendo daños personales\nConclusión: El accidente se produce por la rotura del último eje de la composición en el sentido de la\nmarcha, provocado por la e",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 7\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "SECRETARÍA GENERAL DE",
-      "Investigación del accidente",
-      "nº 0017/2011 ocurrido el 23.04.2011",
-      "3.4.2. Infraestructura",
-      "Funcionó correctamente.",
-      "De la inspección realizada en la zona del descarrilamiento, se detecta que los valores del peralte se",
-      "encuentran dentro de los límites de tolerancia. Sin embargo, en lo referente al ancho de vía, algunos",
-      "rebasan muy ligeramente sus valores límite, no considerándose determinante esta circunstancia.",
-      "INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
-      "Jornada laboral del maquinista del tren 15400:",
-      "el día 23: 4 horas y 12 minutos (3 horas y 9 minutos de conducción efectiva);",
-      "el día 22: 4 horas y 49 minutos (51 minutos de conducción efectiva);",
-      "el día 21: 5 horas y 58 minutos (53 minutos de conducción efectiva).",
-      "Al maquinista, el día del accidente, a las 12:25 horas, se le realiza prueba de alcoholemia en aire",
-      "espirado con resultado negativo (0,00 mg/1000 ml).",
-      "ANÁLISIS Y CONCLUSIONES",
-      "DESCRIPCIÓN DE LOS ACONTECIMIENTOS",
-      "Los hechos tuvieron lugar el día 23 de abril de 2011, a las 09:28 horas, entre las estaciones de",
-      "Bellvitge-Aguja 674+835 y Barcelona Sants, en el PK 675+220 de la línea 200 Barcelona Sants –",
-      "El tren de viajeros de media distancia 15400, procedente de Lleida Pirineus y destino Barcelona Estació"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "17/11-1",
-        "texto": "470 el nuevo procedimiento de inspección de las tomas de tierra y de la zona de contacto del eje. Analizar qué otro tipo de material móvil es susceptible de sufrir un deterioro en sus ejes por un mal funcionamiento Renfe Operadora",
-        "implementador": ""
-      },
-      {
-        "numero": "17/11-2",
-        "texto": "+ de las tomas de tierra, incorporando a su plan de mantenimiento medidas similares. Estudiar la inclusión en el plan de mantenimiento del Renfe Operadora",
-        "implementador": ""
-      },
-      {
-        "numero": "17/11-3",
-        "texto": "material 440-470 la inspección por ultrasonidos en alguna intervención intermedia entre las R (reparación general). Madrid, 27 de diciembre de 2011 VTG?ii ~mi.ó\" Fdo.: Vicente Rallo Gulnot IF-23ü411-271211-CIAF Pago 15 de 15",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF230411271211CIAF.pdf"
-    },
-    "similares": [
-      "2011-0015/2011",
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0051/2011",
-      "2011-0063/2011"
-    ]
-  },
-  {
-    "id": "2011-0031/2011",
-    "year": 2011,
-    "expediente": "0031/2011",
-    "titulo": "0031/2011 — Estación de Villamanín por",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-05-24",
-    "ubicacion": {
-      "estacion": "Villamanín por",
-      "provincia": "León",
-      "lat": 42.8,
-      "lng": -5.8333
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 24 de mayo de 2011, a las 16:19 horas, en plena vía, en el PK 45+104 de la línea 130 Gijón-\nCercanías a Venta de Baños, entre las estaciones de Santa Lucía y Villamanín, se produce el\ndescarrilamiento del tren de mercancías ER201 de la empresa ferroviaria Renfe Operadora. Descarrilan\nlos vagones que circulaban en 4º lugar y del 6º al 18º, en el sentido de la marcha del tren.\nNo se produjeron daños personales como consecuencia del descarrilamiento.\nConclusión: El accidente fue debido a un ",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0031/2011 ocurrido el 24.05.2011",
-      "Las mediciones de los parámetros de la vía antes del punto cero y tras el descarrilamiento presentan",
-      "valores admisibles. Se observan desplazamientos de la vía y falta de balasto en dos zonas.",
-      "El encargado de los trabajos devuelve la vía al jefe del CTC en condiciones normales, sin poner en su",
-      "conocimiento que los trabajos previstos no se habían concluido. No obstante, antes del",
-      "descarrilamiento circulan por ese punto otros 19 trenes",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El accidente fue debido a un fallo de la infraestructura, como consecuencia de la falta de balasto en la",
-      "zona del descarrilamiento, debido a una incompleta ejecución de los trabajos de mantenimiento",
-      "previstos, que posibilitó al paso de las circulaciones el desplazamiento de la vía, produciéndose una",
-      "desalineación en ésta y el consiguiente descarrilamiento.",
-      "Así mismo, el encargado de los trabajos entrega la vía al jefe del CTC en condiciones normales, sin",
-      "advertir sobre la anomalía.",
-      "Ante la dispersión normativa, evaluar la conveniencia de",
-      "redactar una norma sobre condiciones para la entrega de",
-      "la vía tras la realización de trabajos en la misma, tanto si",
-      "ésta se produce en condiciones normales como"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "31/11-1",
-        "texto": "Ante la dispersión normativa, evaluar la conveniencia de redactar una norma sobre condiciones para la entrega de la vía tras la realización de trabajos en la misma, tanto si ésta se produce en condiciones normales como degradadas. Madrid, 27 de marzo de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF240511270312CIAF.pdf"
-    },
-    "similares": [
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0063/2011",
-      "2011-0007/2011",
-      "2011-0025/2011"
-    ]
-  },
-  {
-    "id": "2011-0040/2011",
-    "year": 2011,
-    "expediente": "0040/2011",
-    "titulo": "0040/2011 — Estación de GRANOLLERS - CENTRE (BARCELONA)",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-08-27",
-    "ubicacion": {
-      "estacion": "GRANOLLERS - CENTRE",
-      "provincia": "Barcelona",
-      "lat": 41.6002,
-      "lng": 2.2863
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 28 de agosto de 2011, a las 21:27 horas, en la estación de Granollers - Centre, el tren de\nviajeros de cercanías 28480 de la empresa ferroviaria Renfe Operadora rebasa indebidamente la señal\nde salida S2/7-9, situada en el PK 134+932 de la línea 270 Bifurcación Sagrera - Cerbere, arrollando\nposteriormente el calce de protección C-23 y descarrilando de los dos bogies del primer coche de la\ncomposición.\nConclusión: El accidente tuvo su origen en el rebase indebido por el tren de viajeros 28",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [],
-    "recomendaciones": [
-      {
-        "numero": "40/11-1",
-        "texto": "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación. Madrid, 24 de julio de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "arrollamiento",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF270811240712CIAF.pdf"
-    },
-    "similares": [
-      "2011-0015/2011",
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0051/2011",
-      "2011-0063/2011"
-    ]
-  },
-  {
-    "id": "2011-0050/2011",
-    "year": 2011,
-    "expediente": "0050/2011",
-    "titulo": "0050/2011 — Estación de ASTILLERO (CANTABRIA)",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-10-27",
-    "ubicacion": {
-      "estacion": "ASTILLERO (CANTABRIA)",
-      "provincia": "Cantabria",
-      "lat": 43.4,
-      "lng": -3.8167
-    },
-    "entidades": [
-      "FEVE"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 27 de octubre de 2011, a las 14:25 horas, en la estación de Astillero (Cantabria), perteneciente\na la línea 24 Santander - Bilbao, el tren de viajeros 6803 de Feve rebasa indebidamente la señal de\nsalida S1/1L, talonando la aguja número 2 y descarrilando el segundo eje del primer bogie del vehículo\nde cabeza.\nNo se producen víctimas mortales ni heridos.\nConclusión: El accidente tuvo su origen en el rebase indebido por el tren de viajeros 6803 de la señal\nde salida S1/1L, en indicación de ",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..........."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0050/2011 ocurrido el 27.10.2011",
-      "En la formación impartida al personal de conducción",
-      "incidir en las actitudes y comportamientos que son fuente",
-      "de riesgos para la circulación, insistiendo en el estricto",
-      "cumplimiento del Reglamento de Circulación de Trenes y",
-      "Madrid, 24 de julio de 2012"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "50/11-1",
-        "texto": "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve. Madrid, 24 de julio de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "colisión",
-      "descarrilamiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "cruzamiento",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF271011240712CIAF.pdf"
-    },
-    "similares": []
-  },
-  {
-    "id": "2011-0018/2011",
-    "year": 2011,
-    "expediente": "0018/2011",
-    "titulo": "IF 0018/2011 — El día 28 de abril de 2011, a las 09:49 horas, en el PK 110+000 de la línea 262 Barcelona Sagrera –",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2011-04-28",
+    "fecha_suceso": "2011-12-27",
     "ubicacion": {
       "estacion": "",
       "provincia": "Barcelona",
@@ -1570,201 +1720,58 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El día 28 de abril de 2011, a las 09:49 horas, en el PK 110+000 de la línea 262 Barcelona Sagrera –\nBifurcación Clot, en el apeadero de El Clot-Aragó, se produce una colisión por alcance entre el tren de\nviajeros de cercanías 28913 y el tren 37507 (material vacío del tren 00476), ambos de la empresa\nferroviaria Renfe Operadora, cuando el primero rebasa la señal 1095 permisiva, que se encontraba en\nindicación de parada.\nConclusión: El accidente tuvo su origen por incumplimiento de las órdenes dad",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+      "resumen": "El día 27 de diciembre de 2011, a las 11:38 horas, se produce el descarrilamiento del tren de viajeros\nde larga distancia 533 de la empresa ferroviaria Renfe Operadora, al efectuar su paso por el cambiador\nde ancho de Zaragoza Delicias de la línea 060 Bifurcación Cambiador de Zaragoza Delicias a\nIntercambiador de Zaragoza Delicias. Descarrila la rueda derecha del segundo eje del primer bogie en\nel segundo coche de la composición, en el sentido de la marcha.\nConclusión: El descarrilamiento se pro",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
     },
     "conclusiones": [
-      "SECRETARÍA GENERAL DE",
       "Investigación del accidente",
-      "nº 0018/2011 ocurrido el 28.04.2011",
-      "Como consecuencia de la colisión resultan heridos leves dieciocho viajeros.",
-      "El maquinista del tren 28913 contactó con el PM mediante tren-tierra para informar de lo sucedido.",
-      "El tren 28913 descarrila del segundo bogie del coche de cabeza y del primer bogie del coche",
-      "intermedio. Los trenes quedan empotrados.",
+      "nº 0063/2011 ocurrido el 27.12.2011",
       "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y",
       "reconocimiento médico y psicotécnico.",
-      "De los registradores de seguridad de los trenes se determina que en el momento de producirse la",
-      "colisión, las velocidades eran inferiores a la máxima permitida para ese tramo.",
-      "El funcionamiento del material rodante y de la infraestructura fue correcto.",
-      "El accidente se produce en un túnel de vía única en curva pronunciada a la derecha en el sentido de la",
-      "marcha y con iluminación artificial, por lo que la visibilidad es limitada.",
-      "El maquinista, al no cumplir la reglamentaria marcha a la vista, incumple el artículo 141.1 del RGC al",
-      "no avanzar con la adecuada prudencia y el 217.2 del RGC que establece que tras rebasar una señal",
-      "permisiva debe circular con marcha a la vista.",
+      "Del registro de seguridad del tren 533 se determina que, al paso por el cambiador, la velocidad era",
+      "inferior a la máxima permitida.",
+      "El plan de mantenimiento se había realizado correctamente hasta el momento del descarrilamiento.",
+      "Los valores de los parámetros de rodadura del eje descarrilado estaban dentro de tolerancia.",
+      "Los tornillos que sujetan el mecanismo de bloqueo/desbloqueo se desenroscan, deformando y",
+      "desgastando con sus cabezas las chapas de seguridad (o de retención).",
       "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
       "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:"
+      "técnico responsable de la investigación concluye que:",
+      "El descarrilamiento se produce por fallo en el sistema de cambio de ancho de la rueda derecha del",
+      "segundo eje del primer bogie en el segundo coche de la composición, en el sentido de la marcha,",
+      "debido a que el mecanismo del sistema de bloqueo/desbloqueo del cambio de la rueda mencionada se",
+      "encontraba suelto, porque los tornillos que sujetan el citado mecanismo se habían desenroscado,",
+      "desapareciendo uno de ellos y estando el otro fuera de su alojamiento.",
+      "Por parte de Renfe Operadora",
+      "Posteriormente al suceso se revisaron todos los vehículos de las series 120, 120.050 y 121, no"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      {
+        "numero": "63/11-1",
+        "texto": "Establecer una especial vigilancia del mecanismo del bloqueo/desbloqueo del cambio de ancho de los ejes BRAVA hasta que se efectúe la modificación prevista de su sujeción (soldadura). Madrid, 25 de septiembre de 2012",
+        "implementador": ""
+      }
+    ],
     "tags": [
       "accidente",
-      "colisión",
       "descarrilamiento",
+      "señalización",
+      "mantenimiento",
       "infraestructura",
       "velocidad",
       "alcoholemia",
-      "fatal"
+      "leve"
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF280411271211CIAF.pdf"
+      "pdf_local": "pdfs/2011/6311.pdf"
     },
     "similares": [
       "2011-0015/2011",
       "2011-0044/2011",
       "2011-0049/2011",
       "2011-0051/2011",
-      "2011-0063/2011"
-    ]
-  },
-  {
-    "id": "2011-0024/2011",
-    "year": 2011,
-    "expediente": "0024/2011",
-    "titulo": "0024/2011 — Estación de CALATAYUD (ZARAGOZA)",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-05-30",
-    "ubicacion": {
-      "estacion": "CALATAYUD (ZARAGOZA)",
-      "provincia": "Zaragoza",
-      "lat": 41.3535,
-      "lng": -1.6458
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0024/2011 ocurrido el 30.05.2011\nInforme final\nRESUMEN\nEl día 30 de mayo de 2011, a las 07:20 horas, en el PK 224+556 de la línea de alta velocidad\n50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro, a la entrada de la estación de Calatayud, lado\nZaragoza, se produce el descarrilamiento del tren de viajeros de media distancia 8476 de la empresa\nferroviaria Renfe Operadora. Descarrilan los cuatro ejes del primer coche de la composición, en el\nsentido de la marcha.\nNo se produjeron daños personales como consecuencia del descarrilamiento.\nConclusión: El accidente tuvo su origen en un fallo técnico de las instalaciones, al no\nfuncionar adecuadamente el desvío S1 CAL 2.\nRecomendaciones:\nDestinatario final\nNúmero\nRecomendación\nDirección General de\nFerr",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0024/2011 ocurrido el 30.05.2011",
-      "Establecer pautas de actuación claras y lógicas para el",
-      "personal de circulación y conducción, en los casos de",
-      "rebases de señal con orden de comprobación de los",
-      "aparatos de vía, adaptando la normativa a las nuevas",
-      "tecnologías (alta velocidad).",
-      "Analizar la viabilidad de reforzar los contenidos de los",
-      "programas de formación para la obtención del título de",
-      "conducción en lo referente a los conocimientos técnicos",
-      "sobre aparatos de vía de alta velocidad y especialmente",
-      "Madrid, 27 de marzo de 2012"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "24/11-1",
-        "texto": "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad). Dirección General de Ferrocarriles (DGF)",
-        "implementador": ""
-      },
-      {
-        "numero": "24/11-2",
-        "texto": "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos. Madrid, 27 de marzo de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF300511270312CIAF.pdf"
-    },
-    "similares": [
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0063/2011",
-      "2011-0007/2011",
-      "2011-0025/2011"
-    ]
-  },
-  {
-    "id": "2011-0032/2011",
-    "year": 2011,
-    "expediente": "0032/2011",
-    "titulo": "IF 0032/2011 — El día 30 de junio de 2011, a las 11:58 horas, en el PK 7+165 de la línea 116 Los Cotos a Cercedilla,",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2011-06-30",
-    "ubicacion": {
-      "estacion": "Siete Picos",
-      "provincia": "Madrid",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 30 de junio de 2011, a las 11:58 horas, en el PK 7+165 de la línea 116 Los Cotos a Cercedilla,\nentre las estaciones de Siete Picos y Puerto de Navacerrada, se produce el descarrilamiento del tren de\nviajeros 21907 de la empresa ferroviaria Renfe Operadora. Descarrilan los cuatro bogies de la\ncomposición. Para evaluar la situación se envía el tren S1, de la misma empresa y composición,\nproduciéndose también el descarrilamiento del primer bogie de éste en el PK 7+150.\nNo se produjeron daños",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..........."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0032/2011 ocurrido el 30.06.2011",
-      "La zona de los descarrilamientos tenía las traviesas de madera, la clavazón y el balasto en mal estado.",
-      "Durante el año 2010 se procedió a la consolidación (mediante espirales Vortok) y reapretado general",
-      "de la clavazón en la zona de traviesas de madera.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen en el fallo técnico de la infraestructura, como consecuencia de encontrarse",
-      "en mal estado las traviesas de madera, la clavazón y el balasto.",
-      "Analizar la viabilidad de sustituir todo el tramo de",
-      "traviesas de madera por otras de hormigón o, en su",
-      "defecto, reemplazar las que presenten mal estado por",
-      "otras del mismo material.",
-      "Madrid, 24 de abril de 2012"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "32/11-1",
-        "texto": "Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presenten mal estado por otras del mismo material. Madrid, 24 de abril de 2012",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2011/IF300611240412CIAF.pdf"
-    },
-    "similares": [
-      "2011-0044/2011",
-      "2011-0049/2011",
-      "2011-0063/2011",
-      "2011-0007/2011",
-      "2011-0025/2011"
+      "2011-0007/2011"
     ]
   }
 ]

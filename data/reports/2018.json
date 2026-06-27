@@ -46,7 +46,12 @@
       "instalaciones a las que dan servicio los cables, se toman y ajustan valores de tensión/consumo cuya",
       "tendencia/desviación es un indicador del estado en que se encuentra el cable."
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Identificar aquellos enclavamientos que compartan hilos para servicios de mando y energía en el mismo multiconductor y proceder a su modificación si es necesario.",
+      "En los Procedimientos del SGS de ADIF relativos a la revisión de conductores, tener en cuenta su longevidad y adoptar calendarios de caducidad si fuera necesario.",
+      "Verificar y actualizar la documentación de las estaciones para reflejar debidamente cualquier modificación en el enclavamiento e instalaciones.",
+      "Revisar y actualizar los programas de explotación y las Consignas serie A de los enclavamientos recogiendo incompatibilidades entre itinerarios de entrada."
+    ],
     "tags": [
       "incidente",
       "factor humano",

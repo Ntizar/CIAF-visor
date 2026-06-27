@@ -1,397 +1,5 @@
 [
   {
-    "id": "2013-0043/2013",
-    "year": 2013,
-    "expediente": "0043/2013",
-    "titulo": "IF 0043/2013 — EL INCIDENTE FERROVIARIO Nº 0043/2013",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2013-06-04",
-    "ubicacion": {
-      "estacion": "Sant Sadurní d’Anoia",
-      "provincia": "Barcelona",
-      "lat": 41.3725,
-      "lng": 2.1404
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca establece\nincorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d’Anoia y Martorell, de\nla línea 240 Sant Vicent de Calders – L’Hospitalet de Llobregat, bloqueando por error la vía I en vez de\nla vía II, en la cual estaban programados trabajos según el acta semanal.\nEl tren de mercancías LK500 de la empresa ferroviaria Renfe Operadora, con origen en Villaverde\n(Madrid) y destino La Llago",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [
-      "Investigación del incidente",
-      "nº 0043/2013 ocurrido el 04.06.2013",
-      "El cierre intempestivo de la señal 642 (PK 64+073) se debió a la colocación de la barra de shuntado",
-      "por el encargado de trabajos (PK 65+500).",
-      "El uso de la barra de shuntado en este tipo de trabajo no es obligatorio (no está previsto su uso en la",
-      "Consigna C Experimental nº 58) pero en este caso su utilización como medida de protección de los",
-      "trabajos fue fundamental para evitar un posible accidente.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El incidente se produce por fallo humano del jefe del CTC al establecer incorrectamente el bloqueo en",
-      "el trayecto entre Sant Sadurní d’Anoia y Martorell y bloquear por error la vía I en lugar de la vía II.",
-      "Se procedió al relevo del jefe del CTC implicado en el incidente. En aplicación de lo dispuesto en el",
-      "documento “Actuaciones en caso de accidentes o incidentes, investigación y análisis de la DGOI.",
-      "Procedimiento General DGOI-PG-SGS-05 de Adif”, el jefe del CTC ha realizado una jornada correctivo-",
-      "formativa y de concienciación en referencia al RGC, a la Consigna C Experimental nº 58 y artículos de",
-      "12/03/2012 (expediente nº 22/2012) y de otros sucesos acaecidos de similares características, y con el",
-      "fin de reforzar la seguridad en las operaciones de circulación con establecimiento de corte de vía en",
-      "aplicación del régimen de interrupción de la circulación, Adif mediante nota interna recuerda la",
-      "necesidad de aplicar las medidas de seguridad siguientes:"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "43/13-1",
-        "texto": "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos). Madrid, 23 de septiembre de 2014",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "incidente",
-      "colisión",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF040613230914CIAF.pdf"
-    },
-    "similares": [
-      "2013-0060/2013",
-      "2013-0044/2013",
-      "2013-0018/2013",
-      "2013-0052/2013",
-      "2013-0062/2013"
-    ]
-  },
-  {
-    "id": "2013-0060/2013",
-    "year": 2013,
-    "expediente": "0060/2013",
-    "titulo": "0060/2013 — Estación de Requejada se fusionó con el tren 6727,",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2013-09-05",
-    "ubicacion": {
-      "estacion": "Requejada",
-      "provincia": "Cantabria",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "FEVE",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0060/2013 ocurrido el 05.09.2013\nInforme final\nRESUMEN\nEl día 5 de septiembre de 2013 a las 15:44 horas se produjo un conato de colisión en el tramo Mogro\n– Bezana (Cantabria) de la línea 770 RAM Santander – Oviedo, entre el tren de viajeros 6923, con\norigen Puente de San Miguel y con destino Santander y el tren 6725, con origen en Cabezón de la Sal\ny destino Santander, ambos de la empresa ferroviaria Renfe Operadora. El tren 6725 circulaba con\nproblemas eléctricos motivo por el cual en la estación de Requejada se fusionó con el tren 6727,\nyendo en cabeza las tres unidades correspondientes al tren 6725 y detrás las unidades\ncorrespondientes al tren 6727. Circulaban en mando múltiple y con número de tren 6725.\nEl tren 6725 continúa la marcha circ",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [
-      "Investigación del incidente",
-      "nº 0060/2013 ocurrido el 05.09.2013",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El incidente tuvo su origen en un fallo combinado del funcionamiento tanto de las instalaciones de vía",
-      "como del material motor. Por un lado el exceso de arenado debido a las múltiples frenadas de",
-      "emergencia del tren 6725 propició una pérdida de shuntado en el circuito de vía. Por otro lado, el",
-      "funcionamiento anómalo del relé encargado de controlar la secuencia de paso de los trenes por los",
-      "circuitos de vía provocó la apertura indebida de la señal B5192, que pasó a indicar vía libre cuando el",
-      "cantón que protegía estaba ocupado por el tren 6725.",
-      "Se suspendió por parte de la Gerencia de Área de Seguridad en la Circulación de Adif la sucesión",
-      "automática de trenes entre las estaciones de Mogro y Bezana desde el viernes 13 de septiembre de 2013.",
-      "Asimismo se cursó aviso a la empresa Alstom para una revisión urgente de los enclavamientos de Mogro,",
-      "Bezana y el puesto de bloqueo que controla la señal B5192. El 17 de septiembre, tras realizarse la",
-      "reparación de la avería y realizar pruebas que verifican el correcto funcionamiento de las instalaciones, se",
-      "reanudó la circulación de trenes con sucesión automática de los mismos entre Mogro y Bezana.",
-      "Por otro lado Adif estudió posibles actuaciones para mitigar el riesgo del fallo detectado en este relé,",
-      "planteando la posibilidad de asumir este control de secuencia de paso por parte de los enclavamientos",
-      "electrónicos en Cabezón de la Sal, Santander, Bezana y Orejo, reemplazando los relés que realizan"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "60/13-1",
-        "texto": "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
-        "implementador": ""
-      },
-      {
-        "numero": "60/13-2",
-        "texto": "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante. Renfe Integria",
-        "implementador": ""
-      },
-      {
-        "numero": "60/13-3",
-        "texto": "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes. Madrid, 27 de enero de 2015",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "incidente",
-      "colisión",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF050913270115CIAF.pdf"
-    },
-    "similares": [
-      "2013-0043/2013",
-      "2013-0018/2013",
-      "2013-0013/2013",
-      "2013-0052/2013",
-      "2013-0056/2013"
-    ]
-  },
-  {
-    "id": "2013-0044/2013",
-    "year": 2013,
-    "expediente": "0044/2013",
-    "titulo": "IF 0044/2013 — El día 6 de junio de 2013 a las 11:08 horas se produce el descarrilamiento del tren 533 de la empresa",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2013-06-06",
-    "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 6 de junio de 2013 a las 11:08 horas se produce el descarrilamiento del tren 533 de la empresa\nferroviaria Renfe Operadora, al efectuar su paso por el cambiador de ancho de Zaragoza Delicias,\nubicado en la línea 060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias.\nDescarrila la rueda izquierda del séptimo eje, situada en el segundo coche de la composición según el\nsentido de la marcha, al fallar el dispositivo de cambio de ancho debido a la no apertura del cerr",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0044/2013 ocurrido el 06.06.2013",
-      "Actualmente se continua implantando la solución de “cordón de soldadura” a todos los ejes que aún no",
-      "han sido modificados, realizando esta operación en las visitas generales VG que se realizan cada",
-      "Se constata que el estado de implantación de la medida “cordón de soldadura” a fecha de finales de",
-      "julio de 2014 es el siguiente: Serie 120.050 al 67%, serie 120 al 74% y serie 121 al 26 %.",
-      "La previsión por parte de CAF es tener aplicada la solución de la soldadura a toda la flota a finales de",
-      "Actualmente todos los ejes que no han sido modificados con la medida propuesta “cordón de",
-      "soldadura” se les ha aplicado un punto de soldadura con objeto de fijar el par de apriete. Se han",
-      "realizado dos campañas de inspección por ultrasonidos de los tornillos a los que se les ha aplicado el",
-      "punto de soldadura. En la segunda de las campañas no apareció ningún tornillo defectuoso.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El descarrilamiento se produce por fallo del material móvil, concretamente del dispositivo de cambio",
-      "de ancho de la rueda izquierda descarrilada perteneciente al séptimo eje, según el sentido de la",
-      "marcha, como consecuencia de la no apertura del cerrojo que libera el mecanismo de bloqueo del",
-      "cambio de ancho al encontrarse seccionados por fatiga los tornillos de sujeción del soporte palanca",
-      "Por parte de Renfe Operadora (CAF)",
-      "Con fecha 14.06.2013, CAF/ACTREN presentan un procedimiento de revisión por ultrasonidos de los"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "44/13-1",
-        "texto": "Analizar la posibilidad de adelantar los plazos de implantación de la medida propuesta (“cordón de soldadura”). Madrid, 28 de octubre de 2014",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF060613281014CIAF.pdf"
-    },
-    "similares": [
-      "2013-0043/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013",
-      "2013-0052/2013"
-    ]
-  },
-  {
-    "id": "2013-0018/2013",
-    "year": 2013,
-    "expediente": "0018/2013",
-    "titulo": "0018/2013 — Estación de VIANA DE CEGA (VALLADOLID)",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2013-03-07",
-    "ubicacion": {
-      "estacion": "VIANA DE CEGA",
-      "provincia": "Valladolid",
-      "lat": 42.5467,
-      "lng": -1.6581
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 7 de marzo de 2013 a las 13:15 horas, en la estación de Viana de Cega (lado Venta de Baños)\nsituada en el PK 234+843 de la línea 100 Madrid - Hendaya, el tren complementario VB688 (material\nvacío) de la empresa ferroviaria Renfe Operadora rebasa indebidamente las señales E2 y R2 (entrada y\nretroceso respectivamente), que se encontraban en indicación de parada al hallarse establecido\nitinerario de entrada hacia la vía 4 para el tren auscultador PD601 de Adif. Se produjo una situación de\nco",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [
-      "Investigación del incidente",
-      "nº 0018/2013 ocurrido el 07.03.2013",
-      "vía 2 banalizada debido a los trabajos de una vagoneta de mantenimiento que ocupaba el circuito de",
-      "vía en la zona de la aguja nº 5 (vía 1).",
-      "Se produce una situación de conato de colisión al quedar enfrentados los trenes a una distancia de",
-      "226 metros y encontrarse la aguja nº 8 en posición invertida, por lo que quedaba comunicado el",
-      "itinerario de la vía 2 a la vía 4.",
-      "El personal de conducción del tren VB688 incumple los siguientes artículos del RGC:",
-      "Artículo 213, al pasar por una señal en anuncio de parada y no ponerse en condiciones de parar",
-      "ante la siguiente señal.",
-      "Artículo 217, al no detenerse ante una señal de parada.",
-      "Artículo 221, al pasar por la baliza previa de la señal E2 y exceder la limitación de velocidad.",
-      "Artículo 320, al no concentrar su atención en la indicación de las señales.",
-      "Además se incumple la Carta Circular de Reglamentación nº 11 de la Dirección de Seguridad en la",
-      "Circulación de Adif, al no iniciar una reducción de velocidad desde que rebasa la baliza previa de la",
-      "señal avanzada E’2 (en indicación de anuncio de parada pasando a una velocidad de 115 km/h), con",
-      "objeto de asegurar el cumplimiento de la orden dada por la señal.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:"
-    ],
-    "recomendaciones": [],
-    "tags": [
-      "incidente",
-      "paso a nivel",
-      "colisión",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "cruzamiento",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF070313140714CIAF.pdf"
-    },
-    "similares": [
-      "2013-0043/2013",
-      "2013-0060/2013",
-      "2013-0052/2013",
-      "2013-0056/2013",
-      "2013-0066/2013"
-    ]
-  },
-  {
-    "id": "2013-0027/2013",
-    "year": 2013,
-    "expediente": "0027/2013",
-    "titulo": "0027/2013 — Estación de Puertollano al no cerrarse la misma puerta. En esta ocasión se",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2013-04-07",
-    "ubicacion": {
-      "estacion": "Puertollano",
-      "provincia": "Cádiz",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0027/2013 ocurrido el 07.04.2013\nInforme final\nRESUMEN\nEl día 7 de abril de 2013 a la 17:31 horas el tren de larga distancia 2164 de la empresa ferroviaria\nRenfe Operadora, procedente de Madrid Puerta de Atocha y destino Cádiz, cuando circulaba por la vía\nII sufre el desprendimiento de la puerta izquierda del tercer coche en el sentido de la marcha, cuando\nse encontraba en el interior del túnel de Venta La Inés, entre las estaciones de Venta La Inés y\nConquista (Ciudad Real) perteneciente a la línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa de\nalta velocidad.\nSeguidamente el tren de alta velocidad 2361 de la empresa ferroviaria Renfe Operadora, procedente\nde Sevilla Santa Justa y destino Madrid Puerta de Atocha que circulaba por la vía I",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0027/2013 ocurrido el 07.04.2013",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El accidente se produjo por el fallo humano del interventor en ruta del tren 2164, al manipular de",
-      "forma incorrecta el sistema de apertura/cierre manual de la puerta izquierda del coche nº 3, lo que",
-      "provocó que la puerta quedase cerrada y condenada pero no enclavada, lo que ocasionó que al paso",
-      "por el interior del túnel la puerta se desprendiera del coche por diferencia de presión, cayendo sobre la",
-      "vía I y siendo arrollada por el tren 2361 que circulaba en sentido contrario.",
-      "Se ha revisado la instrucción técnica IT-2008-32 “Puertas exteriores coche”.",
-      "Se ha creado la instrucción técnica IT-2026-32 “Procedimiento de anulación de puerta en caso de",
-      "avería”, como ampliación de la instrucción anterior.",
-      "En los trenes de las series S 130 y S 730 se está realizando el montaje de un mecanismo que",
-      "impide mecánicamente el accionamiento de la condena de la puerta exterior mientras los ganchos",
-      "de retención de la puerta estén subidos. Adicionalmente se está modificando, para mejorar el",
-      "mecanismo de condena, incorporando un refuerzo que robustece el sistema.",
-      "A fecha de 20 de febrero de 2015, el estado de implantación de dichas modificaciones en la flota",
-      "de trenes de las series S 130 y S 730 es del 66% (29 trenes de un total de 44). Está previsto llegar",
-      "al 100% hacia finales del mes de mayo de 2015."
-    ],
-    "recomendaciones": [],
-    "tags": [
-      "accidente",
-      "arrollamiento",
-      "descarrilamiento",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF070413240315CIAF.pdf"
-    },
-    "similares": [
-      "2013-0044/2013",
-      "2013-0001/2013",
-      "2013-0013/2013",
-      "2013-0062/2013",
-      "2013-0033/2013"
-    ]
-  },
-  {
     "id": "2013-0001/2013",
     "year": 2013,
     "expediente": "0001/2013",
@@ -419,7 +27,10 @@
       "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0001/2013 ocurrido el 09.01.2013\nInforme final\nRESUMEN\nEl día 9 de enero de 2013, a las 11:22 horas, se produce el descarrilamiento del tren de viajeros de\nmedia distancia 13096 de la empresa ferroviaria Renfe Operadora, procedente de Jaén y con destino\nCórdoba. El tren, tras haber sido autorizado a rebasar la señal de entrada y circulando con marcha de\nmaniobras, descarrila del segundo bogie del coche de cabeza en el cambio nº 2 (PK 415+648) de la\nestación de Villafranca de Córdoba (lado Alcázar de San Juan) perteneciente a la línea 400 Alcázar de\nSan Juan – Cádiz.\nComo consecuencia del descarrilamiento no se producen daños personales.\nConclusión: El descarrilamiento se produce por fallo técnico de las instalaciones, debido a la\ndesconexión de ",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "El descarrilamiento se produce por fallo técnico de las instalaciones, debido a la desconexión de la barra de mando del accionamiento eléctrico de agujas con el tirante de maniobra del cambio nº 2, al producirse la rotura del pasador de sujeción del bulón de acople del tirante de maniobra.",
+      "Esto ocasionó que el espadín de la aguja (del lado derecho según el sentido de la marcha) se encontrara acoplado pero no encerrojado, y que al efectuar su paso el primer bogie de la composición, el espadín se abriera provocando el descarrilamiento del segundo bogie."
+    ],
     "recomendaciones": [
       {
         "numero": "01/13-1",
@@ -448,6 +59,69 @@
       "2013-0013/2013",
       "2013-0062/2013",
       "2013-0033/2013"
+    ]
+  },
+  {
+    "id": "2013-0012/2013",
+    "year": 2013,
+    "expediente": "0012/2013",
+    "titulo": "0012/2013 — Estación de San Vicente de la Barquera el vagón Sgh",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2013-01-31",
+    "ubicacion": {
+      "estacion": "San Vicente de la",
+      "provincia": "Cantabria",
+      "lat": 41.2333,
+      "lng": 1.6333
+    },
+    "entidades": [
+      "ADIF",
+      "FEVE",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 31 de enero de 2013, a las 15:36 horas, en la red de ancho métrico (antes Feve) se produce el\ndescarrilamiento del tren de mercancías 9565 de la empresa ferroviaria Renfe Operadora, entre las\nestaciones de Unquera y Pesués (Cantabria), en la línea 770 Valdecilla - La Marga a Oviedo. Circulando\nel tren por una curva a izquierdas de radio reducido se produce el descarrilamiento de los vagones\n1º al 11º de la composición, quedando encarrilados las dos locomotoras y los tres vagones de cola.\n",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 10\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 13\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................13\n3.1.  RESUMEN DE LAS DECLARACIONES ........................................................................................................"
+    },
+    "conclusiones": [],
+    "recomendaciones": [
+      {
+        "numero": "12/13-1",
+        "texto": "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción. Renfe Operadora",
+        "implementador": ""
+      },
+      {
+        "numero": "12/13-2",
+        "texto": "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico. Madrid, 29 de octubre de 2013",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF310113291013CIAF.pdf"
+    },
+    "similares": [
+      "2013-0060/2013",
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013"
     ]
   },
   {
@@ -535,6 +209,815 @@
     ]
   },
   {
+    "id": "2013-0015/2013",
+    "year": 2013,
+    "expediente": "0015/2013",
+    "titulo": "0015/2013 — Estación de Coslada, reinicia su marcha a las 09:02 horas con siete minutos de",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2013-02-26",
+    "ubicacion": {
+      "estacion": "Coslada",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 26 de febrero de 2013, a las 09:05 horas, el tren de cercanías 21809 de la empresa Renfe\nOperadora, procedente de Guadalajara y destino Madrid Príncipe Pío, golpea lateralmente con un\nvehículo de carretera que se había precipitado a la vía desde el paso superior carretero existente en el\nPK 16+100, entre las estaciones de San Fernando de Henares y Coslada, de la línea 930 Madrid-Atocha\nCercanías a San Fernando de Henares.\nEl conductor del vehículo de carretera resultó herido leve.\nConclus",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0015/2013 ocurrido el 26.02.2013",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El accidente se produce por la invasión del gálibo de vía por el vehículo de carretera, al precipitarse",
+      "éste desde un paso superior carretero.",
+      "Por parte del Ayuntamiento de Coslada",
+      "Se realiza la reparación de la barandilla existente en el paso superior y paralela a ésta se coloca una",
+      "barrera de seguridad metálica simple para proporcionar un primer nivel de contención a un vehículo",
+      "fuera de control y la reconducción de su trayectoria."
+    ],
+    "recomendaciones": [
+      {
+        "numero": "15/13-1",
+        "texto": "Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente “Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera”, de la Dirección General de Carreteras del .",
+        "implementador": ""
+      },
+      {
+        "numero": "15/13-2",
+        "texto": "Estudiar la posibilidad de la instalación de caída de objetos a la vía relacionándola con la señalización ferroviaria, en aquellos casos en que los tráficos de carretera y ferroviarios lo aconsejen y las instalaciones existentes lo hagan viable. Madrid, 29 de octubre de 2013",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "colisión",
+      "señalización",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF260213291013CIAF.pdf"
+    },
+    "similares": [
+      "2013-0043/2013",
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013"
+    ]
+  },
+  {
+    "id": "2013-0016/2013",
+    "year": 2013,
+    "expediente": "0016/2013",
+    "titulo": "0016/2013 — Estación de Pitis por el lado Pinar de las Rozas discurre la vía doble de la línea 100 - Hendaya a",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2013-02-27",
+    "ubicacion": {
+      "estacion": "Pitis",
+      "provincia": "Madrid",
+      "lat": 40.525,
+      "lng": -3.875
+    },
+    "entidades": [
+      "ADIF"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 4,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 27 de febrero de 2013 a las 04:10 horas en la línea 100 Hendaya – Madrid Chamartín, entre las\nestaciones de Pitis y Pinar de las Rozas (Madrid), en un tren de trabajos se produce el escape de un\ncastillete autopropulsado de electrificación. Éste inicia deslizamiento hacia Pitis, por efecto de la\npendiente de la vía, y se detiene al chocar con otro tren de trabajos, tras haber recorrido unos 3.400\nmetros a la deriva. Se producen cuatro heridos leves.\nConclusión: El accidente tuvo su origen",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0016/2013 ocurrido el 27.02.2013",
+      "El encargado de trabajos de Adif deberá cerciorarse y",
+      "requerir que, entre el personal de la contrata que realiza",
+      "trabajos de mantenimiento, hay un responsable de",
+      "verificar las correctas operaciones con el material móvil",
+      "que permita una circulación segura.",
+      "Madrid, 29 de octubre de 2013"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "16/13-1",
+        "texto": "El encargado de trabajos de",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF270213291013CIAF.pdf"
+    },
+    "similares": [
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013",
+      "2013-0062/2013"
+    ]
+  },
+  {
+    "id": "2013-0018/2013",
+    "year": 2013,
+    "expediente": "0018/2013",
+    "titulo": "0018/2013 — Estación de VIANA DE CEGA (VALLADOLID)",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2013-03-07",
+    "ubicacion": {
+      "estacion": "VIANA DE CEGA",
+      "provincia": "Valladolid",
+      "lat": 42.5467,
+      "lng": -1.6581
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 7 de marzo de 2013 a las 13:15 horas, en la estación de Viana de Cega (lado Venta de Baños)\nsituada en el PK 234+843 de la línea 100 Madrid - Hendaya, el tren complementario VB688 (material\nvacío) de la empresa ferroviaria Renfe Operadora rebasa indebidamente las señales E2 y R2 (entrada y\nretroceso respectivamente), que se encontraban en indicación de parada al hallarse establecido\nitinerario de entrada hacia la vía 4 para el tren auscultador PD601 de Adif. Se produjo una situación de\nco",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [
+      "Investigación del incidente",
+      "nº 0018/2013 ocurrido el 07.03.2013",
+      "vía 2 banalizada debido a los trabajos de una vagoneta de mantenimiento que ocupaba el circuito de",
+      "vía en la zona de la aguja nº 5 (vía 1).",
+      "Se produce una situación de conato de colisión al quedar enfrentados los trenes a una distancia de",
+      "226 metros y encontrarse la aguja nº 8 en posición invertida, por lo que quedaba comunicado el",
+      "itinerario de la vía 2 a la vía 4.",
+      "El personal de conducción del tren VB688 incumple los siguientes artículos del RGC:",
+      "Artículo 213, al pasar por una señal en anuncio de parada y no ponerse en condiciones de parar",
+      "ante la siguiente señal.",
+      "Artículo 217, al no detenerse ante una señal de parada.",
+      "Artículo 221, al pasar por la baliza previa de la señal E2 y exceder la limitación de velocidad.",
+      "Artículo 320, al no concentrar su atención en la indicación de las señales.",
+      "Además se incumple la Carta Circular de Reglamentación nº 11 de la Dirección de Seguridad en la",
+      "Circulación de Adif, al no iniciar una reducción de velocidad desde que rebasa la baliza previa de la",
+      "señal avanzada E’2 (en indicación de anuncio de parada pasando a una velocidad de 115 km/h), con",
+      "objeto de asegurar el cumplimiento de la orden dada por la señal.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:"
+    ],
+    "recomendaciones": [],
+    "tags": [
+      "incidente",
+      "paso a nivel",
+      "colisión",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "cruzamiento",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF070313140714CIAF.pdf"
+    },
+    "similares": [
+      "2013-0043/2013",
+      "2013-0060/2013",
+      "2013-0052/2013",
+      "2013-0056/2013",
+      "2013-0066/2013"
+    ]
+  },
+  {
+    "id": "2013-0036/2013",
+    "year": 2013,
+    "expediente": "0036/2013",
+    "titulo": "IF 0036/2013 — El día 26 de marzo de 2013, a las 01:00 horas en el PK 122+450 de la línea de alta velocidad 010",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2013-03-26",
+    "ubicacion": {
+      "estacion": "Urda (PK 119+700) y",
+      "provincia": "Madrid",
+      "lat": 39.4167,
+      "lng": -3.4833
+    },
+    "entidades": [
+      "ADIF"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 26 de marzo de 2013, a las 01:00 horas en el PK 122+450 de la línea de alta velocidad 010\nMadrid Puerta de Atocha a Sevilla Santa Justa, entre las estaciones de Urda y Malagón (Toledo), se\nproduce el descarrilamiento de una perfiladora por rotura de un eje motriz. Ésta ocupaba el segundo\nlugar de un tren de trabajos que, procedente de la base de mantenimiento de Mora, circulaba en\nrégimen de vía bloqueada para realizar trabajos de bateo.\nComo consecuencia del descarrilamiento no se produc",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0036/2013 ocurrido el 26.03.2013",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, la",
+      "declaración del implicado, así como el informe particular de Adif, el técnico responsable de la",
+      "investigación concluye que:",
+      "El descarrilamiento se produce por fallo del material móvil. La rotura de un eje motriz de la perfiladora",
+      "es originada por un proceso de carga cíclica de fatiga.",
+      "2/2014:“Pautas para evitar el deterioro de ejes montados",
+      "mantenedoras de maquinaria pesada de vía, se recomienda",
+      "que la DGF inste a dichas empresas para que introduzcan",
+      "los apartados que sean de aplicación de la citada",
+      "recomendación en las instrucciones de mantenimiento de",
+      "rodaje para asegurar el cumplimiento de ésta.",
+      "Madrid, 24 de junio de 2014"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "36/13-1",
+        "texto": "Remitida por la DGF su Recomendación técnica 2/2014:“Pautas para evitar el deterioro de ejes montados del material rodante durante su explotación y mantenimiento” a las empresas propietarias y mantenedoras de maquinaria pesada de vía, se recomienda que la DGF inste a dichas empresas para que introduzcan los apartados que sean de aplicación de la citada recomendación en las instrucciones de mantenimiento de rodaje para asegurar el cumplimiento de ésta. Madrid, 24 de junio de 2014",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF260313240614CIAF1.pdf"
+    },
+    "similares": [
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013",
+      "2013-0062/2013"
+    ]
+  },
+  {
+    "id": "2013-0027/2013",
+    "year": 2013,
+    "expediente": "0027/2013",
+    "titulo": "0027/2013 — Estación de Puertollano al no cerrarse la misma puerta. En esta ocasión se",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2013-04-07",
+    "ubicacion": {
+      "estacion": "Puertollano",
+      "provincia": "Cádiz",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0027/2013 ocurrido el 07.04.2013\nInforme final\nRESUMEN\nEl día 7 de abril de 2013 a la 17:31 horas el tren de larga distancia 2164 de la empresa ferroviaria\nRenfe Operadora, procedente de Madrid Puerta de Atocha y destino Cádiz, cuando circulaba por la vía\nII sufre el desprendimiento de la puerta izquierda del tercer coche en el sentido de la marcha, cuando\nse encontraba en el interior del túnel de Venta La Inés, entre las estaciones de Venta La Inés y\nConquista (Ciudad Real) perteneciente a la línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa de\nalta velocidad.\nSeguidamente el tren de alta velocidad 2361 de la empresa ferroviaria Renfe Operadora, procedente\nde Sevilla Santa Justa y destino Madrid Puerta de Atocha que circulaba por la vía I",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0027/2013 ocurrido el 07.04.2013",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El accidente se produjo por el fallo humano del interventor en ruta del tren 2164, al manipular de",
+      "forma incorrecta el sistema de apertura/cierre manual de la puerta izquierda del coche nº 3, lo que",
+      "provocó que la puerta quedase cerrada y condenada pero no enclavada, lo que ocasionó que al paso",
+      "por el interior del túnel la puerta se desprendiera del coche por diferencia de presión, cayendo sobre la",
+      "vía I y siendo arrollada por el tren 2361 que circulaba en sentido contrario.",
+      "Se ha revisado la instrucción técnica IT-2008-32 “Puertas exteriores coche”.",
+      "Se ha creado la instrucción técnica IT-2026-32 “Procedimiento de anulación de puerta en caso de",
+      "avería”, como ampliación de la instrucción anterior.",
+      "En los trenes de las series S 130 y S 730 se está realizando el montaje de un mecanismo que",
+      "impide mecánicamente el accionamiento de la condena de la puerta exterior mientras los ganchos",
+      "de retención de la puerta estén subidos. Adicionalmente se está modificando, para mejorar el",
+      "mecanismo de condena, incorporando un refuerzo que robustece el sistema.",
+      "A fecha de 20 de febrero de 2015, el estado de implantación de dichas modificaciones en la flota",
+      "de trenes de las series S 130 y S 730 es del 66% (29 trenes de un total de 44). Está previsto llegar",
+      "al 100% hacia finales del mes de mayo de 2015."
+    ],
+    "recomendaciones": [],
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF070413240315CIAF.pdf"
+    },
+    "similares": [
+      "2013-0044/2013",
+      "2013-0001/2013",
+      "2013-0013/2013",
+      "2013-0062/2013",
+      "2013-0033/2013"
+    ]
+  },
+  {
+    "id": "2013-0033/2013",
+    "year": 2013,
+    "expediente": "0033/2013",
+    "titulo": "0033/2013 — Estación de San Sebastián.",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2013-04-20",
+    "ubicacion": {
+      "estacion": "San Sebastián.",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0033/2013 ocurrido el 20.04.2013\nInforme final\nRESUMEN\nEl día 20 de abril de 2013, a las 12:39 horas, en el apeadero de Anoeta (PK 600+200) de la línea\n100 Hendaya – Madrid-Chamartín, el tren de viajeros de larga distancia 535 de la empresa\nferroviaria Renfe Operadora, con origen Barcelona y destino Irún, sin parada prescrita en el\napeadero y circulando por vía 1, arrolla a una persona que cruzaba la vía, por el paso entre andenes\n(PK 600+148), de derecha a izquierda en el sentido de la marcha del tren.\nSe da la circunstancia de que, momentos antes, el tren de viajeros de cercanías 26888, también de\nRenfe Operadora, y circulando en sentido contrario por vía 2, había realizado parada comercial en\ndicho apeadero.\nComo consecuencia del arrollamient",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0033/2013 ocurrido el 20.04.2013",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, al cruzar sin",
+      "percatarse de la llegada del tren.",
+      "Se reitera la recomendación realizada en el expediente",
+      "“Insistir en la implementación de la recomendación",
+      "arrollamiento de personas en plena vía, estación o",
+      "apeadero y paso a nivel. Años 2005-2008, noviembre",
+      "2009; contemplando la situación de las personas de",
+      "movilidad reducida. Esta recomendación dice así: “A la",
+      "vista de la siniestralidad existente en estaciones y",
+      "apeaderos y de la falta de una normativa general que",
+      "establezca los dispositivos de seguridad pertinentes en",
+      "las estaciones, y dada la distinta tipología que éstas",
+      "presentan, sería conveniente que por la autoridad de",
+      "seguridad ferroviaria se estudiara la posibilidad de",
+      "realizar un inventario de las estaciones y apeaderos"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "33/13-1",
+        "texto": "Se reitera la recomendación realizada en el expediente",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "paso a nivel",
+      "arrollamiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "cruzamiento",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF200413250214CIAF.pdf"
+    },
+    "similares": [
+      "2013-0043/2013",
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013"
+    ]
+  },
+  {
+    "id": "2013-0035/2013",
+    "year": 2013,
+    "expediente": "0035/2013",
+    "titulo": "0035/2013 — Estación de Boñar.",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2013-04-28",
+    "ubicacion": {
+      "estacion": "Boñar.",
+      "provincia": "León",
+      "lat": 42.8667,
+      "lng": -5.3167
+    },
+    "entidades": [
+      "ADIF",
+      "FEVE",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 7,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0035/2013 ocurrido el 28.04.2013\nInforme final\nRESUMEN\nEl día 28 de abril de 2013, a las 09:58 horas, entre los apeaderos de Otero y La Mata de la Riba\n(León), en el P.K. 26+700 de la línea 790 La Asunción Universidad (León) a Aranguren perteneciente a\nla red de ancho métrico (antes Feve), se produce la colisión por alcance del automotor 2901 al 2905\nque acoplados formaban el tren 7601. Previamente, el tren sufre una parada de urgencia y queda\ndetenido en el PK 25+504 y, tras desacoplarse los automotores, el 2905 reinicia la marcha y el 2901\nentra en deriva por la fuerte pendiente, produciéndose la colisión por alcance al detenerse el primero\npor otra parada de urgencia.\nComo consecuencia del suceso se producen siete heridos leves.\nConclusión: E",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
+    },
+    "conclusiones": [],
+    "recomendaciones": [
+      {
+        "numero": "35/13-1",
+        "texto": "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación. Madrid, 20 de mayo de 2014",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "colisión",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF280413200514CIAF.pdf"
+    },
+    "similares": [
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013",
+      "2013-0062/2013"
+    ]
+  },
+  {
+    "id": "2013-0048/2013",
+    "year": 2013,
+    "expediente": "0048/2013",
+    "titulo": "IF 0048/2013 — entre Torremejía y Almendralejo (Badajoz), se produce el descarrilamiento de las cuatro ruedas del",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2013-05-20",
+    "ubicacion": {
+      "estacion": "Almendralejo",
+      "provincia": "Badajoz",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 20 de mayo de 2013, a la 11:47 horas, en el PK 25+564 de la línea 516 Mérida - Los Rosales,\nentre Torremejía y Almendralejo (Badajoz), se produce el descarrilamiento de las cuatro ruedas del\nbogie delantero del vagón cisterna que ocupaba la tercera posición del tren de mercancías 83036, con\ntracción de la empresa Renfe Operadora y vagones propiedad de Transfesa.\nComo consecuencia del descarrilamiento no se producen víctimas.\nConclusión: La hipótesis más probable de la causa del accidente ",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 5\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0048/2013 ocurrido el 20.05.2013",
+      "Las mediciones de los parámetros de rodadura de la cisterna descarrilada están dentro de las",
+      "tolerancias permitidas.",
+      "La última toma de datos de la zona realizada por el tren auscultador fue el 20 de febrero de 2013,",
+      "existiendo defectos de nivelación, peralte y alabeo, en las proximidades (a unos 15-20 m) del punto de",
+      "descarrilamiento, incluso con prioridad de actuación preferente (ZUT) en peralte y alabeo.",
+      "Tras el accidente se realizan mediciones de los parámetros de vía cada metro, en el intervalo del",
+      "“punto cero” (+/- 15 m) y los datos tomados referentes al ancho de vía, peralte y alabeo se",
+      "encontraban dentro de las tolerancias permitidas.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "La hipótesis más probable de la causa del accidente es la existencia de defectos de nivelación, peralte",
+      "y alabeo en las proximidades (a unos 15-20 m) del punto de descarrilamiento.",
+      "Establecer procedimientos que aseguren la adopción de",
+      "medidas de corrección de los defectos del estado de la",
+      "vía  detectados  y  catalogados  como  de  tratamiento",
+      "urgente.  Hasta  tanto,  adoptar  las  medidas  necesarias",
+      "para evitar riesgos en las circulaciones."
+    ],
+    "recomendaciones": [
+      {
+        "numero": "48/13-1",
+        "texto": "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones. Madrid, 14 de julio de 2014",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "paso a nivel",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF200513140714CIAF.pdf"
+    },
+    "similares": [
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013",
+      "2013-0062/2013"
+    ]
+  },
+  {
+    "id": "2013-0042/2013",
+    "year": 2013,
+    "expediente": "0042/2013",
+    "titulo": "0042/2013 — Estación de SEVILLA - SANTA JUSTA (SEVILLA)",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2013-05-26",
+    "ubicacion": {
+      "estacion": "SEVILLA - SANTA JUSTA",
+      "provincia": "Sevilla",
+      "lat": 37.3919,
+      "lng": -5.9773
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 26 de mayo de 2013, a las 15:13 horas, se produce el descarrilamiento de la composición vacía\ndel tren de viajeros 39324 de la empresa Renfe Operadora, formada por los automotores 121.010 y\n121.009, efectuando movimiento de entrada, con marcha de maniobra, desde el Centro de\nTratamiento Técnico (CTT) a la vía 10 de la estación de Sevilla Santa Justa, de la línea 400 Alcázar de\nSan Juan a Cádiz.\nDescarrilan en la aguja 18 los cuatro bogies de los dos primeros coches - ocho ejes - del\nautom",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0042/2013 ocurrido el 26.05.2013",
+      "El personal de conducción cumple la normativa vigente en cuanto a título, habilitaciones, reciclaje y",
+      "reconocimiento médico y psicotécnico.",
+      "No se excedió en ningún momento la velocidad máxima permitida de 30 km/h para circular con la",
+      "marcha de maniobras y tirando.",
+      "La media diaria de trenes que circulan por la zona del descarrilamiento es de 70 trenes diarios.",
+      "El descarrilamiento del tren se produce en un trazado de vía con curva de radio reducido.",
+      "Las últimas medidas de los parámetros de rodadura de la unidad 121.009 correspondientes a ancho o",
+      "espesor de pestaña (Sd), altura de pestaña (Sh) e inclinación de la pestaña (Qr) fueron realizadas el",
+      "19/05/2013 y se encontraban dentro de norma.",
+      "Tras el suceso, el 18 de junio de 2013 se realizaron mediciones de la distancia de caras internas (DCI)",
+      "en los bogies del primer coche del automotor de cola y se encontraban dentro de norma.",
+      "De la recogida de datos en vía, se comprueba el ancho de vía en la zona anterior al punto “0” del",
+      "descarrilamiento está fuera de la tolerancia indicada en norma.",
+      "También se verificó el mal estado de la sujeción de la vía, traviesas con grietas y tirafondos flojos.",
+      "El último tratamiento preventivo sobre el desvío 18 se realizó en junio de 2012 y la última intervención",
+      "con maquinaria pesada, en octubre de 2012.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "42/13-1",
+        "texto": "Hacer un plan de inspección específico de los desvíos situados en vías de acceso a instalaciones ferroviarias que soporten un",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "colisión",
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "cruzamiento",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF260513140714CIAF.pdf"
+    },
+    "similares": [
+      "2013-0044/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013",
+      "2013-0062/2013"
+    ]
+  },
+  {
+    "id": "2013-0043/2013",
+    "year": 2013,
+    "expediente": "0043/2013",
+    "titulo": "IF 0043/2013 — EL INCIDENTE FERROVIARIO Nº 0043/2013",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2013-06-04",
+    "ubicacion": {
+      "estacion": "Sant Sadurní d’Anoia",
+      "provincia": "Barcelona",
+      "lat": 41.3725,
+      "lng": 2.1404
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca establece\nincorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d’Anoia y Martorell, de\nla línea 240 Sant Vicent de Calders – L’Hospitalet de Llobregat, bloqueando por error la vía I en vez de\nla vía II, en la cual estaban programados trabajos según el acta semanal.\nEl tren de mercancías LK500 de la empresa ferroviaria Renfe Operadora, con origen en Villaverde\n(Madrid) y destino La Llago",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [
+      "Investigación del incidente",
+      "nº 0043/2013 ocurrido el 04.06.2013",
+      "El cierre intempestivo de la señal 642 (PK 64+073) se debió a la colocación de la barra de shuntado",
+      "por el encargado de trabajos (PK 65+500).",
+      "El uso de la barra de shuntado en este tipo de trabajo no es obligatorio (no está previsto su uso en la",
+      "Consigna C Experimental nº 58) pero en este caso su utilización como medida de protección de los",
+      "trabajos fue fundamental para evitar un posible accidente.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El incidente se produce por fallo humano del jefe del CTC al establecer incorrectamente el bloqueo en",
+      "el trayecto entre Sant Sadurní d’Anoia y Martorell y bloquear por error la vía I en lugar de la vía II.",
+      "Se procedió al relevo del jefe del CTC implicado en el incidente. En aplicación de lo dispuesto en el",
+      "documento “Actuaciones en caso de accidentes o incidentes, investigación y análisis de la DGOI.",
+      "Procedimiento General DGOI-PG-SGS-05 de Adif”, el jefe del CTC ha realizado una jornada correctivo-",
+      "formativa y de concienciación en referencia al RGC, a la Consigna C Experimental nº 58 y artículos de",
+      "12/03/2012 (expediente nº 22/2012) y de otros sucesos acaecidos de similares características, y con el",
+      "fin de reforzar la seguridad en las operaciones de circulación con establecimiento de corte de vía en",
+      "aplicación del régimen de interrupción de la circulación, Adif mediante nota interna recuerda la",
+      "necesidad de aplicar las medidas de seguridad siguientes:"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "43/13-1",
+        "texto": "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos). Madrid, 23 de septiembre de 2014",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "incidente",
+      "colisión",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF040613230914CIAF.pdf"
+    },
+    "similares": [
+      "2013-0060/2013",
+      "2013-0044/2013",
+      "2013-0018/2013",
+      "2013-0052/2013",
+      "2013-0062/2013"
+    ]
+  },
+  {
+    "id": "2013-0044/2013",
+    "year": 2013,
+    "expediente": "0044/2013",
+    "titulo": "IF 0044/2013 — El día 6 de junio de 2013 a las 11:08 horas se produce el descarrilamiento del tren 533 de la empresa",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2013-06-06",
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 6 de junio de 2013 a las 11:08 horas se produce el descarrilamiento del tren 533 de la empresa\nferroviaria Renfe Operadora, al efectuar su paso por el cambiador de ancho de Zaragoza Delicias,\nubicado en la línea 060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias.\nDescarrila la rueda izquierda del séptimo eje, situada en el segundo coche de la composición según el\nsentido de la marcha, al fallar el dispositivo de cambio de ancho debido a la no apertura del cerr",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0044/2013 ocurrido el 06.06.2013",
+      "Actualmente se continua implantando la solución de “cordón de soldadura” a todos los ejes que aún no",
+      "han sido modificados, realizando esta operación en las visitas generales VG que se realizan cada",
+      "Se constata que el estado de implantación de la medida “cordón de soldadura” a fecha de finales de",
+      "julio de 2014 es el siguiente: Serie 120.050 al 67%, serie 120 al 74% y serie 121 al 26 %.",
+      "La previsión por parte de CAF es tener aplicada la solución de la soldadura a toda la flota a finales de",
+      "Actualmente todos los ejes que no han sido modificados con la medida propuesta “cordón de",
+      "soldadura” se les ha aplicado un punto de soldadura con objeto de fijar el par de apriete. Se han",
+      "realizado dos campañas de inspección por ultrasonidos de los tornillos a los que se les ha aplicado el",
+      "punto de soldadura. En la segunda de las campañas no apareció ningún tornillo defectuoso.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
+      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+      "técnico responsable de la investigación concluye que:",
+      "El descarrilamiento se produce por fallo del material móvil, concretamente del dispositivo de cambio",
+      "de ancho de la rueda izquierda descarrilada perteneciente al séptimo eje, según el sentido de la",
+      "marcha, como consecuencia de la no apertura del cerrojo que libera el mecanismo de bloqueo del",
+      "cambio de ancho al encontrarse seccionados por fatiga los tornillos de sujeción del soporte palanca",
+      "Por parte de Renfe Operadora (CAF)",
+      "Con fecha 14.06.2013, CAF/ACTREN presentan un procedimiento de revisión por ultrasonidos de los"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "44/13-1",
+        "texto": "Analizar la posibilidad de adelantar los plazos de implantación de la medida propuesta (“cordón de soldadura”). Madrid, 28 de octubre de 2014",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF060613281014CIAF.pdf"
+    },
+    "similares": [
+      "2013-0043/2013",
+      "2013-0027/2013",
+      "2013-0001/2013",
+      "2013-0013/2013",
+      "2013-0052/2013"
+    ]
+  },
+  {
     "id": "2013-0052/2013",
     "year": 2013,
     "expediente": "0052/2013",
@@ -584,7 +1067,9 @@
       "Impartir una jornada de 8 horas de Reciclaje de Seguridad en Circulación y Simulador,",
       "con especial atención en la detención ante señales que ordenen parda."
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Considerando adecuadas las medidas adoptadas por Renfe Operadora, no se establecen recomendaciones."
+    ],
     "tags": [
       "incidente",
       "colisión",
@@ -604,6 +1089,102 @@
       "2013-0018/2013",
       "2013-0062/2013"
     ]
+  },
+  {
+    "id": "2013-0054/2013",
+    "year": 2013,
+    "expediente": "0054/2013",
+    "titulo": "IF240713200514CIAF",
+    "tipo": "avería",
+    "tipo_suceso": "avería",
+    "gravedad": "fatal",
+    "fecha_suceso": "2013-07-24",
+    "ubicacion": {
+      "estacion": "Ourense",
+      "provincia": "Albacete",
+      "lat": 42.3365,
+      "lng": -7.856
+    },
+    "entidades": [
+      "ADIF",
+      "FEVE",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 147,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente grave\nnº 0054/2013 ocurrido el 24.07.2013\nInforme final\nRESUMEN\nEl día 24 de julio de 2013, a las 20:41 horas, en el PK 84+413 de la línea 082 Bifurcación Coto da\nTorre (Ourense) - Bifurcación A Grandeira (A Coruña) aguja km 85,0, en las proximidades de la\nestación de Santiago de Compostela (A Coruña), se produce un accidente grave por descarrilamiento\nde todos los vehículos del tren de viajeros de larga distancia 150/151, perteneciente a Renfe\nOperadora, con origen Madrid-Chamartín y con destino Ferrol.\nDescarrila toda la composición y los daños, tanto personales como materiales, son catastróficos.\nSe producen 80 fallecidos y numerosos heridos de distinta gravedad.\nConclusión: La causa del accidente fue un exceso de velocidad del tren (circulaba a",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................. 9\n2.1.\nSUCESO ........................................................................................................................................................ 9\n2.1.1. Datos ........................................................................................................................................................... 9\n2.1.2. Descripción del suceso ................................................................................................................................ 9\n2.1.3. Decisión de abrir la investigación .............................................................................................................. 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................................... 12\n2.2.1. Personal ferroviario implicado ...................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente grave",
+      "nº 0054/2013 ocurrido el 24.07.2013",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así",
+      "como los Informes Particulares de Renfe Operadora y Adif, el técnico responsable de la investigación",
+      "La causa del accidente fue un exceso de velocidad del tren (circulaba a 179 km/h) en la curva de",
+      "entrada a Bifurcación A Grandeira (curva de Angrois, limitada a 80 km/h), por no respetar el personal",
+      "de conducción lo establecido en el Libro Horario del tren 150/151 y en el Cuadro de Velocidades",
+      "Máximas de la línea 082.",
+      "Como causa coadyuvante se apunta una falta de atención del personal de conducción al responder",
+      "éste una llamada telefónica de servicio del propio tren, proveniente del interventor, lo que motivó la",
+      "no aplicación del freno de forma adecuada para reducir la velocidad antes de la entrada a dicha curva.",
+      "OBSERVACIONES ADICIONALES",
+      "Sin tener relación con las causas del accidente, se han observado discrepancias no relevantes entre lo",
+      "establecido en el Horario de Tren 150/151 y Cuadro de Velocidades Máximas de la línea 082 y lo",
+      "dispuesto en la realidad (relativas al alcance del ERTMS).",
+      "el 30 de julio de 2013 acordó emitir un avance de las recomendaciones de seguridad que, en su caso,",
+      "se incluirían en el presente informe cuando se concluyera.",
+      "Dichas recomendaciones preliminares, cuyo fin era evitar que pudiera repetirse la situación del accidente",
+      "de Santiago, fueron remitidas a la Dirección General de Ferrocarriles el 1 de agosto de 2013, como",
+      "Autoridad Nacional de Seguridad Ferroviaria, que las trasladó seguidamente a Adif por ser de su"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "54/13-1",
+        "texto": "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad.",
+        "implementador": ""
+      },
+      {
+        "numero": "54/13-2",
+        "texto": "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital. A SUBSECRETARÍA Investigación del accidente grave nº 0054/2013 ocurrido el 24.07.2013 Informe",
+        "implementador": ""
+      },
+      {
+        "numero": "54/13-4",
+        "texto": "Que se analice por la Autoridad Nacional de Seguridad Ferroviaria el restablecimiento de las Comisiones Mixtas de Seguridad en la Circulación, con asistencia de representantes de",
+        "implementador": ""
+      },
+      {
+        "numero": "54/13-5",
+        "texto": "En el proceso de puesta en servicio de nuevas líneas ferroviarias y variantes, incluir un análisis de riesgos específico que recoja la identificación y gestión de los posibles peligros que se deriven de la interacción de los diferentes subsistemas, en condiciones de operación normales y degradadas, y su vinculación con el personal de conducción y circulación que intervenga cuando un tren circula desde el principio hasta el",
+        "implementador": ""
+      },
+      {
+        "numero": "54/13-6",
+        "texto": "Implantar en la reglamentación general, y trasladar a las",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "avería",
+      "descarrilamiento",
+      "factor humano",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "incendio",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2013/IF240713200514CIAF.pdf"
+    },
+    "similares": []
   },
   {
     "id": "2013-0062/2013",
@@ -733,7 +1314,9 @@
       "técnico responsable de la investigación concluye que:",
       "El incidente tuvo su origen en el rebase indebido del tren 81811 de la señal de salida S1/1, en"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+    ],
     "tags": [
       "incidente",
       "colisión",
@@ -756,101 +1339,23 @@
     ]
   },
   {
-    "id": "2013-0033/2013",
+    "id": "2013-0060/2013",
     "year": 2013,
-    "expediente": "0033/2013",
-    "titulo": "0033/2013 — Estación de San Sebastián.",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2013-04-20",
-    "ubicacion": {
-      "estacion": "San Sebastián.",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0033/2013 ocurrido el 20.04.2013\nInforme final\nRESUMEN\nEl día 20 de abril de 2013, a las 12:39 horas, en el apeadero de Anoeta (PK 600+200) de la línea\n100 Hendaya – Madrid-Chamartín, el tren de viajeros de larga distancia 535 de la empresa\nferroviaria Renfe Operadora, con origen Barcelona y destino Irún, sin parada prescrita en el\napeadero y circulando por vía 1, arrolla a una persona que cruzaba la vía, por el paso entre andenes\n(PK 600+148), de derecha a izquierda en el sentido de la marcha del tren.\nSe da la circunstancia de que, momentos antes, el tren de viajeros de cercanías 26888, también de\nRenfe Operadora, y circulando en sentido contrario por vía 2, había realizado parada comercial en\ndicho apeadero.\nComo consecuencia del arrollamient",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0033/2013 ocurrido el 20.04.2013",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, al cruzar sin",
-      "percatarse de la llegada del tren.",
-      "Se reitera la recomendación realizada en el expediente",
-      "“Insistir en la implementación de la recomendación",
-      "arrollamiento de personas en plena vía, estación o",
-      "apeadero y paso a nivel. Años 2005-2008, noviembre",
-      "2009; contemplando la situación de las personas de",
-      "movilidad reducida. Esta recomendación dice así: “A la",
-      "vista de la siniestralidad existente en estaciones y",
-      "apeaderos y de la falta de una normativa general que",
-      "establezca los dispositivos de seguridad pertinentes en",
-      "las estaciones, y dada la distinta tipología que éstas",
-      "presentan, sería conveniente que por la autoridad de",
-      "seguridad ferroviaria se estudiara la posibilidad de",
-      "realizar un inventario de las estaciones y apeaderos"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "33/13-1",
-        "texto": "Se reitera la recomendación realizada en el expediente",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "paso a nivel",
-      "arrollamiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "cruzamiento",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF200413250214CIAF.pdf"
-    },
-    "similares": [
-      "2013-0043/2013",
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013"
-    ]
-  },
-  {
-    "id": "2013-0048/2013",
-    "year": 2013,
-    "expediente": "0048/2013",
-    "titulo": "IF 0048/2013 — entre Torremejía y Almendralejo (Badajoz), se produce el descarrilamiento de las cuatro ruedas del",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "expediente": "0060/2013",
+    "titulo": "0060/2013 — Estación de Requejada se fusionó con el tren 6727,",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
     "gravedad": "leve",
-    "fecha_suceso": "2013-05-20",
+    "fecha_suceso": "2013-09-05",
     "ubicacion": {
-      "estacion": "Almendralejo",
-      "provincia": "Badajoz",
+      "estacion": "Requejada",
+      "provincia": "Cantabria",
       "lat": null,
       "lng": null
     },
     "entidades": [
       "ADIF",
+      "FEVE",
       "Renfe Operadora"
     ],
     "consecuencias": {
@@ -859,58 +1364,66 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El día 20 de mayo de 2013, a la 11:47 horas, en el PK 25+564 de la línea 516 Mérida - Los Rosales,\nentre Torremejía y Almendralejo (Badajoz), se produce el descarrilamiento de las cuatro ruedas del\nbogie delantero del vagón cisterna que ocupaba la tercera posición del tren de mercancías 83036, con\ntracción de la empresa Renfe Operadora y vagones propiedad de Transfesa.\nComo consecuencia del descarrilamiento no se producen víctimas.\nConclusión: La hipótesis más probable de la causa del accidente ",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 5\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+      "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0060/2013 ocurrido el 05.09.2013\nInforme final\nRESUMEN\nEl día 5 de septiembre de 2013 a las 15:44 horas se produjo un conato de colisión en el tramo Mogro\n– Bezana (Cantabria) de la línea 770 RAM Santander – Oviedo, entre el tren de viajeros 6923, con\norigen Puente de San Miguel y con destino Santander y el tren 6725, con origen en Cabezón de la Sal\ny destino Santander, ambos de la empresa ferroviaria Renfe Operadora. El tren 6725 circulaba con\nproblemas eléctricos motivo por el cual en la estación de Requejada se fusionó con el tren 6727,\nyendo en cabeza las tres unidades correspondientes al tren 6725 y detrás las unidades\ncorrespondientes al tren 6727. Circulaban en mando múltiple y con número de tren 6725.\nEl tren 6725 continúa la marcha circ",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
-      "Investigación del accidente",
-      "nº 0048/2013 ocurrido el 20.05.2013",
-      "Las mediciones de los parámetros de rodadura de la cisterna descarrilada están dentro de las",
-      "tolerancias permitidas.",
-      "La última toma de datos de la zona realizada por el tren auscultador fue el 20 de febrero de 2013,",
-      "existiendo defectos de nivelación, peralte y alabeo, en las proximidades (a unos 15-20 m) del punto de",
-      "descarrilamiento, incluso con prioridad de actuación preferente (ZUT) en peralte y alabeo.",
-      "Tras el accidente se realizan mediciones de los parámetros de vía cada metro, en el intervalo del",
-      "“punto cero” (+/- 15 m) y los datos tomados referentes al ancho de vía, peralte y alabeo se",
-      "encontraban dentro de las tolerancias permitidas.",
+      "Investigación del incidente",
+      "nº 0060/2013 ocurrido el 05.09.2013",
       "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
       "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
       "técnico responsable de la investigación concluye que:",
-      "La hipótesis más probable de la causa del accidente es la existencia de defectos de nivelación, peralte",
-      "y alabeo en las proximidades (a unos 15-20 m) del punto de descarrilamiento.",
-      "Establecer procedimientos que aseguren la adopción de",
-      "medidas de corrección de los defectos del estado de la",
-      "vía  detectados  y  catalogados  como  de  tratamiento",
-      "urgente.  Hasta  tanto,  adoptar  las  medidas  necesarias",
-      "para evitar riesgos en las circulaciones."
+      "El incidente tuvo su origen en un fallo combinado del funcionamiento tanto de las instalaciones de vía",
+      "como del material motor. Por un lado el exceso de arenado debido a las múltiples frenadas de",
+      "emergencia del tren 6725 propició una pérdida de shuntado en el circuito de vía. Por otro lado, el",
+      "funcionamiento anómalo del relé encargado de controlar la secuencia de paso de los trenes por los",
+      "circuitos de vía provocó la apertura indebida de la señal B5192, que pasó a indicar vía libre cuando el",
+      "cantón que protegía estaba ocupado por el tren 6725.",
+      "Se suspendió por parte de la Gerencia de Área de Seguridad en la Circulación de Adif la sucesión",
+      "automática de trenes entre las estaciones de Mogro y Bezana desde el viernes 13 de septiembre de 2013.",
+      "Asimismo se cursó aviso a la empresa Alstom para una revisión urgente de los enclavamientos de Mogro,",
+      "Bezana y el puesto de bloqueo que controla la señal B5192. El 17 de septiembre, tras realizarse la",
+      "reparación de la avería y realizar pruebas que verifican el correcto funcionamiento de las instalaciones, se",
+      "reanudó la circulación de trenes con sucesión automática de los mismos entre Mogro y Bezana.",
+      "Por otro lado Adif estudió posibles actuaciones para mitigar el riesgo del fallo detectado en este relé,",
+      "planteando la posibilidad de asumir este control de secuencia de paso por parte de los enclavamientos",
+      "electrónicos en Cabezón de la Sal, Santander, Bezana y Orejo, reemplazando los relés que realizan"
     ],
     "recomendaciones": [
       {
-        "numero": "48/13-1",
-        "texto": "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones. Madrid, 14 de julio de 2014",
+        "numero": "60/13-1",
+        "texto": "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
+        "implementador": ""
+      },
+      {
+        "numero": "60/13-2",
+        "texto": "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante. Renfe Integria",
+        "implementador": ""
+      },
+      {
+        "numero": "60/13-3",
+        "texto": "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes. Madrid, 27 de enero de 2015",
         "implementador": ""
       }
     ],
     "tags": [
-      "accidente",
-      "paso a nivel",
-      "descarrilamiento",
+      "incidente",
+      "colisión",
       "mantenimiento",
       "infraestructura",
       "velocidad",
-      "alcoholemia",
       "leve"
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF200513140714CIAF.pdf"
+      "pdf_local": "pdfs/2013/IF050913270115CIAF.pdf"
     },
     "similares": [
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
+      "2013-0043/2013",
+      "2013-0018/2013",
       "2013-0013/2013",
-      "2013-0062/2013"
+      "2013-0052/2013",
+      "2013-0056/2013"
     ]
   },
   {
@@ -983,328 +1496,6 @@
       "2013-0027/2013",
       "2013-0001/2013",
       "2013-0013/2013"
-    ]
-  },
-  {
-    "id": "2013-0054/2013",
-    "year": 2013,
-    "expediente": "0054/2013",
-    "titulo": "IF240713200514CIAF",
-    "tipo": "avería",
-    "tipo_suceso": "avería",
-    "gravedad": "fatal",
-    "fecha_suceso": "2013-07-24",
-    "ubicacion": {
-      "estacion": "Ourense",
-      "provincia": "Albacete",
-      "lat": 42.3365,
-      "lng": -7.856
-    },
-    "entidades": [
-      "ADIF",
-      "FEVE",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 147,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente grave\nnº 0054/2013 ocurrido el 24.07.2013\nInforme final\nRESUMEN\nEl día 24 de julio de 2013, a las 20:41 horas, en el PK 84+413 de la línea 082 Bifurcación Coto da\nTorre (Ourense) - Bifurcación A Grandeira (A Coruña) aguja km 85,0, en las proximidades de la\nestación de Santiago de Compostela (A Coruña), se produce un accidente grave por descarrilamiento\nde todos los vehículos del tren de viajeros de larga distancia 150/151, perteneciente a Renfe\nOperadora, con origen Madrid-Chamartín y con destino Ferrol.\nDescarrila toda la composición y los daños, tanto personales como materiales, son catastróficos.\nSe producen 80 fallecidos y numerosos heridos de distinta gravedad.\nConclusión: La causa del accidente fue un exceso de velocidad del tren (circulaba a",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................. 9\n2.1.\nSUCESO ........................................................................................................................................................ 9\n2.1.1. Datos ........................................................................................................................................................... 9\n2.1.2. Descripción del suceso ................................................................................................................................ 9\n2.1.3. Decisión de abrir la investigación .............................................................................................................. 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................................... 12\n2.2.1. Personal ferroviario implicado ...................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente grave",
-      "nº 0054/2013 ocurrido el 24.07.2013",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así",
-      "como los Informes Particulares de Renfe Operadora y Adif, el técnico responsable de la investigación",
-      "La causa del accidente fue un exceso de velocidad del tren (circulaba a 179 km/h) en la curva de",
-      "entrada a Bifurcación A Grandeira (curva de Angrois, limitada a 80 km/h), por no respetar el personal",
-      "de conducción lo establecido en el Libro Horario del tren 150/151 y en el Cuadro de Velocidades",
-      "Máximas de la línea 082.",
-      "Como causa coadyuvante se apunta una falta de atención del personal de conducción al responder",
-      "éste una llamada telefónica de servicio del propio tren, proveniente del interventor, lo que motivó la",
-      "no aplicación del freno de forma adecuada para reducir la velocidad antes de la entrada a dicha curva.",
-      "OBSERVACIONES ADICIONALES",
-      "Sin tener relación con las causas del accidente, se han observado discrepancias no relevantes entre lo",
-      "establecido en el Horario de Tren 150/151 y Cuadro de Velocidades Máximas de la línea 082 y lo",
-      "dispuesto en la realidad (relativas al alcance del ERTMS).",
-      "el 30 de julio de 2013 acordó emitir un avance de las recomendaciones de seguridad que, en su caso,",
-      "se incluirían en el presente informe cuando se concluyera.",
-      "Dichas recomendaciones preliminares, cuyo fin era evitar que pudiera repetirse la situación del accidente",
-      "de Santiago, fueron remitidas a la Dirección General de Ferrocarriles el 1 de agosto de 2013, como",
-      "Autoridad Nacional de Seguridad Ferroviaria, que las trasladó seguidamente a Adif por ser de su"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "54/13-1",
-        "texto": "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad.",
-        "implementador": ""
-      },
-      {
-        "numero": "54/13-2",
-        "texto": "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital. A SUBSECRETARÍA Investigación del accidente grave nº 0054/2013 ocurrido el 24.07.2013 Informe",
-        "implementador": ""
-      },
-      {
-        "numero": "54/13-4",
-        "texto": "Que se analice por la Autoridad Nacional de Seguridad Ferroviaria el restablecimiento de las Comisiones Mixtas de Seguridad en la Circulación, con asistencia de representantes de",
-        "implementador": ""
-      },
-      {
-        "numero": "54/13-5",
-        "texto": "En el proceso de puesta en servicio de nuevas líneas ferroviarias y variantes, incluir un análisis de riesgos específico que recoja la identificación y gestión de los posibles peligros que se deriven de la interacción de los diferentes subsistemas, en condiciones de operación normales y degradadas, y su vinculación con el personal de conducción y circulación que intervenga cuando un tren circula desde el principio hasta el",
-        "implementador": ""
-      },
-      {
-        "numero": "54/13-6",
-        "texto": "Implantar en la reglamentación general, y trasladar a las",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "avería",
-      "descarrilamiento",
-      "factor humano",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "incendio",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF240713200514CIAF.pdf"
-    },
-    "similares": []
-  },
-  {
-    "id": "2013-0015/2013",
-    "year": 2013,
-    "expediente": "0015/2013",
-    "titulo": "0015/2013 — Estación de Coslada, reinicia su marcha a las 09:02 horas con siete minutos de",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2013-02-26",
-    "ubicacion": {
-      "estacion": "Coslada",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 26 de febrero de 2013, a las 09:05 horas, el tren de cercanías 21809 de la empresa Renfe\nOperadora, procedente de Guadalajara y destino Madrid Príncipe Pío, golpea lateralmente con un\nvehículo de carretera que se había precipitado a la vía desde el paso superior carretero existente en el\nPK 16+100, entre las estaciones de San Fernando de Henares y Coslada, de la línea 930 Madrid-Atocha\nCercanías a San Fernando de Henares.\nEl conductor del vehículo de carretera resultó herido leve.\nConclus",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0015/2013 ocurrido el 26.02.2013",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
-      "técnico responsable de la investigación concluye que:",
-      "El accidente se produce por la invasión del gálibo de vía por el vehículo de carretera, al precipitarse",
-      "éste desde un paso superior carretero.",
-      "Por parte del Ayuntamiento de Coslada",
-      "Se realiza la reparación de la barandilla existente en el paso superior y paralela a ésta se coloca una",
-      "barrera de seguridad metálica simple para proporcionar un primer nivel de contención a un vehículo",
-      "fuera de control y la reconducción de su trayectoria."
-    ],
-    "recomendaciones": [
-      {
-        "numero": "15/13-1",
-        "texto": "Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente “Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera”, de la Dirección General de Carreteras del .",
-        "implementador": ""
-      },
-      {
-        "numero": "15/13-2",
-        "texto": "Estudiar la posibilidad de la instalación de caída de objetos a la vía relacionándola con la señalización ferroviaria, en aquellos casos en que los tráficos de carretera y ferroviarios lo aconsejen y las instalaciones existentes lo hagan viable. Madrid, 29 de octubre de 2013",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "colisión",
-      "señalización",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF260213291013CIAF.pdf"
-    },
-    "similares": [
-      "2013-0043/2013",
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013"
-    ]
-  },
-  {
-    "id": "2013-0036/2013",
-    "year": 2013,
-    "expediente": "0036/2013",
-    "titulo": "IF 0036/2013 — El día 26 de marzo de 2013, a las 01:00 horas en el PK 122+450 de la línea de alta velocidad 010",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2013-03-26",
-    "ubicacion": {
-      "estacion": "Urda (PK 119+700) y",
-      "provincia": "Madrid",
-      "lat": 39.4167,
-      "lng": -3.4833
-    },
-    "entidades": [
-      "ADIF"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 26 de marzo de 2013, a las 01:00 horas en el PK 122+450 de la línea de alta velocidad 010\nMadrid Puerta de Atocha a Sevilla Santa Justa, entre las estaciones de Urda y Malagón (Toledo), se\nproduce el descarrilamiento de una perfiladora por rotura de un eje motriz. Ésta ocupaba el segundo\nlugar de un tren de trabajos que, procedente de la base de mantenimiento de Mora, circulaba en\nrégimen de vía bloqueada para realizar trabajos de bateo.\nComo consecuencia del descarrilamiento no se produc",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0036/2013 ocurrido el 26.03.2013",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, la",
-      "declaración del implicado, así como el informe particular de Adif, el técnico responsable de la",
-      "investigación concluye que:",
-      "El descarrilamiento se produce por fallo del material móvil. La rotura de un eje motriz de la perfiladora",
-      "es originada por un proceso de carga cíclica de fatiga.",
-      "2/2014:“Pautas para evitar el deterioro de ejes montados",
-      "mantenedoras de maquinaria pesada de vía, se recomienda",
-      "que la DGF inste a dichas empresas para que introduzcan",
-      "los apartados que sean de aplicación de la citada",
-      "recomendación en las instrucciones de mantenimiento de",
-      "rodaje para asegurar el cumplimiento de ésta.",
-      "Madrid, 24 de junio de 2014"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "36/13-1",
-        "texto": "Remitida por la DGF su Recomendación técnica 2/2014:“Pautas para evitar el deterioro de ejes montados del material rodante durante su explotación y mantenimiento” a las empresas propietarias y mantenedoras de maquinaria pesada de vía, se recomienda que la DGF inste a dichas empresas para que introduzcan los apartados que sean de aplicación de la citada recomendación en las instrucciones de mantenimiento de rodaje para asegurar el cumplimiento de ésta. Madrid, 24 de junio de 2014",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF260313240614CIAF1.pdf"
-    },
-    "similares": [
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013",
-      "2013-0062/2013"
-    ]
-  },
-  {
-    "id": "2013-0042/2013",
-    "year": 2013,
-    "expediente": "0042/2013",
-    "titulo": "0042/2013 — Estación de SEVILLA - SANTA JUSTA (SEVILLA)",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2013-05-26",
-    "ubicacion": {
-      "estacion": "SEVILLA - SANTA JUSTA",
-      "provincia": "Sevilla",
-      "lat": 37.3919,
-      "lng": -5.9773
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 26 de mayo de 2013, a las 15:13 horas, se produce el descarrilamiento de la composición vacía\ndel tren de viajeros 39324 de la empresa Renfe Operadora, formada por los automotores 121.010 y\n121.009, efectuando movimiento de entrada, con marcha de maniobra, desde el Centro de\nTratamiento Técnico (CTT) a la vía 10 de la estación de Sevilla Santa Justa, de la línea 400 Alcázar de\nSan Juan a Cádiz.\nDescarrilan en la aguja 18 los cuatro bogies de los dos primeros coches - ocho ejes - del\nautom",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0042/2013 ocurrido el 26.05.2013",
-      "El personal de conducción cumple la normativa vigente en cuanto a título, habilitaciones, reciclaje y",
-      "reconocimiento médico y psicotécnico.",
-      "No se excedió en ningún momento la velocidad máxima permitida de 30 km/h para circular con la",
-      "marcha de maniobras y tirando.",
-      "La media diaria de trenes que circulan por la zona del descarrilamiento es de 70 trenes diarios.",
-      "El descarrilamiento del tren se produce en un trazado de vía con curva de radio reducido.",
-      "Las últimas medidas de los parámetros de rodadura de la unidad 121.009 correspondientes a ancho o",
-      "espesor de pestaña (Sd), altura de pestaña (Sh) e inclinación de la pestaña (Qr) fueron realizadas el",
-      "19/05/2013 y se encontraban dentro de norma.",
-      "Tras el suceso, el 18 de junio de 2013 se realizaron mediciones de la distancia de caras internas (DCI)",
-      "en los bogies del primer coche del automotor de cola y se encontraban dentro de norma.",
-      "De la recogida de datos en vía, se comprueba el ancho de vía en la zona anterior al punto “0” del",
-      "descarrilamiento está fuera de la tolerancia indicada en norma.",
-      "También se verificó el mal estado de la sujeción de la vía, traviesas con grietas y tirafondos flojos.",
-      "El último tratamiento preventivo sobre el desvío 18 se realizó en junio de 2012 y la última intervención",
-      "con maquinaria pesada, en octubre de 2012.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las",
-      "declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "42/13-1",
-        "texto": "Hacer un plan de inspección específico de los desvíos situados en vías de acceso a instalaciones ferroviarias que soporten un",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "colisión",
-      "descarrilamiento",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "cruzamiento",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF260513140714CIAF.pdf"
-    },
-    "similares": [
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013",
-      "2013-0062/2013"
     ]
   },
   {
@@ -1383,69 +1574,6 @@
       "2013-0018/2013",
       "2013-0052/2013",
       "2013-0056/2013"
-    ]
-  },
-  {
-    "id": "2013-0016/2013",
-    "year": 2013,
-    "expediente": "0016/2013",
-    "titulo": "0016/2013 — Estación de Pitis por el lado Pinar de las Rozas discurre la vía doble de la línea 100 - Hendaya a",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2013-02-27",
-    "ubicacion": {
-      "estacion": "Pitis",
-      "provincia": "Madrid",
-      "lat": 40.525,
-      "lng": -3.875
-    },
-    "entidades": [
-      "ADIF"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 4,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 27 de febrero de 2013 a las 04:10 horas en la línea 100 Hendaya – Madrid Chamartín, entre las\nestaciones de Pitis y Pinar de las Rozas (Madrid), en un tren de trabajos se produce el escape de un\ncastillete autopropulsado de electrificación. Éste inicia deslizamiento hacia Pitis, por efecto de la\npendiente de la vía, y se detiene al chocar con otro tren de trabajos, tras haber recorrido unos 3.400\nmetros a la deriva. Se producen cuatro heridos leves.\nConclusión: El accidente tuvo su origen",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0016/2013 ocurrido el 27.02.2013",
-      "El encargado de trabajos de Adif deberá cerciorarse y",
-      "requerir que, entre el personal de la contrata que realiza",
-      "trabajos de mantenimiento, hay un responsable de",
-      "verificar las correctas operaciones con el material móvil",
-      "que permita una circulación segura.",
-      "Madrid, 29 de octubre de 2013"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "16/13-1",
-        "texto": "El encargado de trabajos de",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF270213291013CIAF.pdf"
-    },
-    "similares": [
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013",
-      "2013-0062/2013"
     ]
   },
   {
@@ -1577,7 +1705,9 @@
       "Al tratarse de un fallo humano en la conducción, Renfe Operadora aplicó al maquinista del tren 73101",
       "la Circular Operativa nº 1 de Presidencia (Gestión del fallo humano) en la que se contemplan una serie"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+    ],
     "tags": [
       "incidente",
       "colisión",
@@ -1597,127 +1727,6 @@
       "2013-0018/2013",
       "2013-0052/2013",
       "2013-0056/2013"
-    ]
-  },
-  {
-    "id": "2013-0035/2013",
-    "year": 2013,
-    "expediente": "0035/2013",
-    "titulo": "0035/2013 — Estación de Boñar.",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2013-04-28",
-    "ubicacion": {
-      "estacion": "Boñar.",
-      "provincia": "León",
-      "lat": 42.8667,
-      "lng": -5.3167
-    },
-    "entidades": [
-      "ADIF",
-      "FEVE",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 7,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0035/2013 ocurrido el 28.04.2013\nInforme final\nRESUMEN\nEl día 28 de abril de 2013, a las 09:58 horas, entre los apeaderos de Otero y La Mata de la Riba\n(León), en el P.K. 26+700 de la línea 790 La Asunción Universidad (León) a Aranguren perteneciente a\nla red de ancho métrico (antes Feve), se produce la colisión por alcance del automotor 2901 al 2905\nque acoplados formaban el tren 7601. Previamente, el tren sufre una parada de urgencia y queda\ndetenido en el PK 25+504 y, tras desacoplarse los automotores, el 2905 reinicia la marcha y el 2901\nentra en deriva por la fuerte pendiente, produciéndose la colisión por alcance al detenerse el primero\npor otra parada de urgencia.\nComo consecuencia del suceso se producen siete heridos leves.\nConclusión: E",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
-    },
-    "conclusiones": [],
-    "recomendaciones": [
-      {
-        "numero": "35/13-1",
-        "texto": "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación. Madrid, 20 de mayo de 2014",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "colisión",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF280413200514CIAF.pdf"
-    },
-    "similares": [
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013",
-      "2013-0062/2013"
-    ]
-  },
-  {
-    "id": "2013-0012/2013",
-    "year": 2013,
-    "expediente": "0012/2013",
-    "titulo": "0012/2013 — Estación de San Vicente de la Barquera el vagón Sgh",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2013-01-31",
-    "ubicacion": {
-      "estacion": "San Vicente de la",
-      "provincia": "Cantabria",
-      "lat": 41.2333,
-      "lng": 1.6333
-    },
-    "entidades": [
-      "ADIF",
-      "FEVE",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 31 de enero de 2013, a las 15:36 horas, en la red de ancho métrico (antes Feve) se produce el\ndescarrilamiento del tren de mercancías 9565 de la empresa ferroviaria Renfe Operadora, entre las\nestaciones de Unquera y Pesués (Cantabria), en la línea 770 Valdecilla - La Marga a Oviedo. Circulando\nel tren por una curva a izquierdas de radio reducido se produce el descarrilamiento de los vagones\n1º al 11º de la composición, quedando encarrilados las dos locomotoras y los tres vagones de cola.\n",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 10\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 13\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................13\n3.1.  RESUMEN DE LAS DECLARACIONES ........................................................................................................"
-    },
-    "conclusiones": [],
-    "recomendaciones": [
-      {
-        "numero": "12/13-1",
-        "texto": "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción. Renfe Operadora",
-        "implementador": ""
-      },
-      {
-        "numero": "12/13-2",
-        "texto": "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico. Madrid, 29 de octubre de 2013",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2013/IF310113291013CIAF.pdf"
-    },
-    "similares": [
-      "2013-0060/2013",
-      "2013-0044/2013",
-      "2013-0027/2013",
-      "2013-0001/2013",
-      "2013-0013/2013"
     ]
   }
 ]

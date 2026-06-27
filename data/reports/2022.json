@@ -1,21 +1,23 @@
 [
   {
-    "id": "2022-108/2022",
+    "id": "2022-46/2022",
     "year": 2022,
-    "expediente": "108/2022",
-    "titulo": "IF 108/2022 — El día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif",
+    "expediente": "46/2022",
+    "titulo": "IF 46/2022 — Incidente Operacional - Retroceso no autorizado ocurrido el día",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
     "gravedad": "leve",
-    "fecha_suceso": "2023-02-23",
+    "fecha_suceso": "2022-06-01",
     "ubicacion": {
-      "estacion": "Torelló (Barcelona).",
+      "estacion": "Castellbibal",
       "provincia": "Barcelona",
-      "lat": 41.8167,
-      "lng": 2.2667
+      "lat": null,
+      "lng": null
     },
     "entidades": [
       "ADIF",
+      "Renfe Mercancías",
+      "Renfe Operadora",
       "Renfe Viajeros"
     ],
     "consecuencias": {
@@ -24,46 +26,66 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "Informe Final 108/2022\n1. RESUMEN\nEl día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif.\nAigües - La Tour de Carol, en las inmediaciones de la estación de Manlleu, dejando sin tensión a los\ntrenes de Rodalies 78355 y 78350 que tenían previsto cruzarse en la estación de Torelló, llegando\nrespectivamente desde Manlleu y Sant Quirze de Besora-Montesquiu. En el momento del corte de\ntensión, el tren 78355, que estaba más próximo a la estación de Torelló, tenía establecido el itinerario\nde entrada a la vía 2 de dicha estación, y el tren 78350 tenía prevista su entrada a la vía directa 1 sin\nque su itinerario estuviera todavía establecido. Tras el corte de tensión, ambos trenes continuaron\nsu marcha por inercia hasta su detención, quedando la cabeza del",
-      "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante .........."
+      "resumen": "Informe Final 46/2022\nRESUMEN\nEl día 01/06/2022 a las 11:09 h el tren de Rodalies 77721, que cubría el trayecto entre Terrassa y\nCastellbisbal, realizó un retroceso no autorizado en la vía I del apeadero de El Papiol, y circuló en\nsentido contrario al bloqueo establecido hasta detenerse ante la señal E4 entrada a la estación de\nMolins de Rei.\nEl tren 77721 tenía prevista la rotación en la estación de Castellbibal, debido a las obras de\nimplantación del tercer carril en la L240, que se están llevando a cabo entre las estaciones de\nCastellbisbal y Martorell. Debido a las obras, la mayoría de los servicios con origen Terrassa tienen\nprevista la inversión del sentido en la estación de Castellbisbal, donde se realiza el trasbordo de\nviajeros por carretera.\nDurante el tiempo en el que el tren 77",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante ............."
     },
     "conclusiones": [
+      "Informe Final 46/2022",
       "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
-      "Del análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura,",
-      "el telemando y las instalaciones, salvo en lo que respecta al corte de tensión, se comportaron",
-      "correctamente. En relación con este último se puede extraer los siguientes resultados:",
-      "1.- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los",
-      "trenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción",
-      "hasta su completa detención.",
-      "2.- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su",
-      "llegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que",
-      "el tren 78350 debía pararse ante la señal E2.",
-      "3.- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación",
-      "de Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha",
-      "4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se",
-      "precisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al",
-      "respecto. Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que",
-      "para el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición",
-      "intermedia anterior a dicha señal.",
-      "5.- La recuperación de la tensión se produjo en primer lugar por el tren 78350. Pero al persistir el",
-      "problema de corte de tensión en el tramo Torelló – Manlleu se decidió que entrase en primer lugar a",
-      "la vía 2 para que finalizase allí su recorrido."
+      "A continuación, se presenta el árbol causal empleado en el análisis del suceso, para la determinación",
+      "de los factores causales y los factores contribuyentes identificados durante la investigación del",
+      "retroceso no autorizado en el apeadero de El Papiol.",
+      "Los distintos factores se desarrollan detalladamente en párrafos siguientes de este apartado; para la",
+      "determinación de los factores contribuyentes se han considerado los factores causales en las distintas",
+      "fases temporales de este incidente. En primer lugar, se han tenido en cuenta los días y momentos",
+      "inmediatamente previos al incidente; en segundo lugar, se tienen en cuenta los factores identificados",
+      "en el momento concreto de inicio de la marcha en el apeadero de El Papiol en sentido Molins de Rei;",
+      "y en último lugar, se tienen en cuenta los factores contribuyentes al suceso durante el lapso temporal",
+      "en el que se produjo el movimiento no autorizado.",
+      "Para la correcta comprensión de cómo los factores contribuyentes se relacionan de forma",
+      "concatenada, se han nombrado con letras y números. En el árbol causal presentado en la figura 13 se",
+      "han marcado en color azul los factores causales, en color naranja los factores contribuyentes y en",
+      "color verde los factores contribuyentes sistémicos.",
+      "Se destaca que uno de los factores contribuyentes más relevante y presente en varias fases del suceso",
+      "fue el desvío del foco atencional. La confusión del apeadero de El Papiol con la estación de",
+      "Castellbisbal estuvo relacionada con que, durante las maniobras de rotación, M-77721 tenía puesta",
+      "su atención en un dispositivo electrónico, entre otros factores. Además, el desvío del foco atencional"
     ],
     "recomendaciones": [
       {
-        "numero": "108/2022-1",
-        "texto": "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
+        "numero": "046/2022-01",
+        "texto": "Implementar procedimientos de reincorporación progresiva y adaptación a los puestos de trabajo para el personal de conducción tras periodos largos de inactividad laboral. Tener en cuenta, para ello, posibles acciones formativas adicionales y la revisión de los SGS en relación con los reciclajes sobre la infraestructura tras largos periodos de inactividad laboral.",
         "implementador": ""
       },
       {
-        "numero": "108/2022-2",
-        "texto": "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha.",
+        "numero": "046/2022-02",
+        "texto": "Proseguir y completar el desarrollo de una nueva herramienta de evaluación psicológica, revisando el contenido y los criterios de las pruebas psicológicas y procedimiento de los RM realizados al personal de conducción, tanto en la fase de acceso (habilitación) como de reciclaje (renovación), y en todos aquellos reconocimientos adicionales que se realicen tras periodos de baja prolongada, adecuándolos a los motivos de la baja, con el fin de detectar circunstancias o situaciones incompatibles con ",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-03",
+        "texto": "Potenciar la supervisión y tutela del personal de conducción en sus tareas cotidianas. Estableciendo sistemas parala coordinación, formación y tutela continua que fomenten la comunicación y cultura de confianza. Asimismo, llevar a cabo un análisis de la disponibilidad de medios adecuados en las residencias del personal de conducción para realizar dichas labores de supervisión y tutela, así como de transferencia de conocimientos al personal con menos experiencia.",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-04",
+        "texto": "Reforzar las acciones formativas de acceso y reciclaje con contenidos y formación práctica que permita mejorar la apreciación del riesgo en actividades críticas para la seguridad. Así como incidir en la obligación del personal de conducción de comunicar a la empresa su estado de salud psicofísica, de acuerdo con la DA5ª de la Orden FOM/2872/2010, si considera que podría suponer un riesgo para ejercer sus tareas con garantías de seguridad.",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-05",
+        "texto": "Revisar los procedimientos de comunicación del tren dispuesto en aquellos casos en los que operativamente no convenga la comunicación con el RC, con objeto de evitar inicios de marcha no autorizados.",
+        "implementador": ""
+      },
+      {
+        "numero": "046/2022-06",
+        "texto": "Garantizar el cumplimiento de la RT 1/2020 de la",
         "implementador": ""
       }
     ],
     "tags": [
       "incidente",
-      "colisión",
+      "factor humano",
       "señalización",
       "infraestructura",
       "velocidad",
@@ -71,13 +93,13 @@
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2022/108-221105-if-sn_ciafv2.pdf"
+      "pdf_local": "pdfs/2022/46-220601-if-sn_ciafv2.pdf"
     },
     "similares": [
+      "2022-108/2022",
       "2022-48/2022",
       "2022-70/2022",
-      "2022-107/2022",
-      "2022-46/2022"
+      "2022-107/2022"
     ]
   },
   {
@@ -190,11 +212,23 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "",
+      "resumen": "El responsable de circulación de Manresa (RCM) autorizó al tren 95218 a salir de vía 5. Posteriormente, autorizó al tren 78443 a rebasar la señal de entrada 3023 con un itinerario incompatible. El tren 95218 talonó el desvío nº 19 y circuló por vía 1 de frente al tren 78443. Ambos maquinistas detuvieron los trenes a 40 metros de distancia. Solo hubo daños en el desvío nº 19.",
       "descripcion": ""
     },
-    "conclusiones": [],
-    "recomendaciones": [],
+    "conclusiones": [
+      "Factor causal: Autorización indebida de rebase de señal al tren 78443 sin comprobar si el tren 95218 había iniciado la marcha y liberado la ruta.",
+      "Factor causal: El tren 95218 inició la marcha estando su orden invalidada al no haber salido inmediatamente tras la emisión del primer telefonema.",
+      "Factor contributivo: Situación degradada en la estación originada por decisiones del RCM respecto al traslado de material averiado.",
+      "Factor contributivo: Perturbación en las condiciones de explotación debida a la ocupación del circuito CVA3.",
+      "Factor contributivo: Retraso en la salida del tren 95218 debido al descanso del maquinista.",
+      "Factor sistémico: Peculiaridades del enclavamiento eléctrico de Manresa.",
+      "Factor sistémico: Condiciones de visualización de expedición de trenes en la estación.",
+      "Factor sistémico: Deficiencias en las habilidades asertivas del personal de circulación.",
+      "Factor sistémico: Problemas recurrentes de comunicación entre maquinistas y responsables de circulación."
+    ],
+    "recomendaciones": [
+      "Cuatro recomendaciones establecidas a través de la AESF dirigidas a ADIF, Renfe Viajeros y a las empresas ferroviarias."
+    ],
     "tags": [
       "accidente",
       "colisión",
@@ -269,24 +303,22 @@
     ]
   },
   {
-    "id": "2022-46/2022",
+    "id": "2022-108/2022",
     "year": 2022,
-    "expediente": "46/2022",
-    "titulo": "IF 46/2022 — Incidente Operacional - Retroceso no autorizado ocurrido el día",
+    "expediente": "108/2022",
+    "titulo": "IF 108/2022 — El día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
     "gravedad": "leve",
-    "fecha_suceso": "2022-06-01",
+    "fecha_suceso": "2023-02-23",
     "ubicacion": {
-      "estacion": "Castellbibal",
+      "estacion": "Torelló (Barcelona).",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.8167,
+      "lng": 2.2667
     },
     "entidades": [
       "ADIF",
-      "Renfe Mercancías",
-      "Renfe Operadora",
       "Renfe Viajeros"
     ],
     "consecuencias": {
@@ -295,66 +327,46 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "Informe Final 46/2022\nRESUMEN\nEl día 01/06/2022 a las 11:09 h el tren de Rodalies 77721, que cubría el trayecto entre Terrassa y\nCastellbisbal, realizó un retroceso no autorizado en la vía I del apeadero de El Papiol, y circuló en\nsentido contrario al bloqueo establecido hasta detenerse ante la señal E4 entrada a la estación de\nMolins de Rei.\nEl tren 77721 tenía prevista la rotación en la estación de Castellbibal, debido a las obras de\nimplantación del tercer carril en la L240, que se están llevando a cabo entre las estaciones de\nCastellbisbal y Martorell. Debido a las obras, la mayoría de los servicios con origen Terrassa tienen\nprevista la inversión del sentido en la estación de Castellbisbal, donde se realiza el trasbordo de\nviajeros por carretera.\nDurante el tiempo en el que el tren 77",
-      "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante ............."
+      "resumen": "Informe Final 108/2022\n1. RESUMEN\nEl día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif.\nAigües - La Tour de Carol, en las inmediaciones de la estación de Manlleu, dejando sin tensión a los\ntrenes de Rodalies 78355 y 78350 que tenían previsto cruzarse en la estación de Torelló, llegando\nrespectivamente desde Manlleu y Sant Quirze de Besora-Montesquiu. En el momento del corte de\ntensión, el tren 78355, que estaba más próximo a la estación de Torelló, tenía establecido el itinerario\nde entrada a la vía 2 de dicha estación, y el tren 78350 tenía prevista su entrada a la vía directa 1 sin\nque su itinerario estuviera todavía establecido. Tras el corte de tensión, ambos trenes continuaron\nsu marcha por inercia hasta su detención, quedando la cabeza del",
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante .........."
     },
     "conclusiones": [
-      "Informe Final 46/2022",
       "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO",
-      "A continuación, se presenta el árbol causal empleado en el análisis del suceso, para la determinación",
-      "de los factores causales y los factores contribuyentes identificados durante la investigación del",
-      "retroceso no autorizado en el apeadero de El Papiol.",
-      "Los distintos factores se desarrollan detalladamente en párrafos siguientes de este apartado; para la",
-      "determinación de los factores contribuyentes se han considerado los factores causales en las distintas",
-      "fases temporales de este incidente. En primer lugar, se han tenido en cuenta los días y momentos",
-      "inmediatamente previos al incidente; en segundo lugar, se tienen en cuenta los factores identificados",
-      "en el momento concreto de inicio de la marcha en el apeadero de El Papiol en sentido Molins de Rei;",
-      "y en último lugar, se tienen en cuenta los factores contribuyentes al suceso durante el lapso temporal",
-      "en el que se produjo el movimiento no autorizado.",
-      "Para la correcta comprensión de cómo los factores contribuyentes se relacionan de forma",
-      "concatenada, se han nombrado con letras y números. En el árbol causal presentado en la figura 13 se",
-      "han marcado en color azul los factores causales, en color naranja los factores contribuyentes y en",
-      "color verde los factores contribuyentes sistémicos.",
-      "Se destaca que uno de los factores contribuyentes más relevante y presente en varias fases del suceso",
-      "fue el desvío del foco atencional. La confusión del apeadero de El Papiol con la estación de",
-      "Castellbisbal estuvo relacionada con que, durante las maniobras de rotación, M-77721 tenía puesta",
-      "su atención en un dispositivo electrónico, entre otros factores. Además, el desvío del foco atencional"
+      "Del análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura,",
+      "el telemando y las instalaciones, salvo en lo que respecta al corte de tensión, se comportaron",
+      "correctamente. En relación con este último se puede extraer los siguientes resultados:",
+      "1.- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los",
+      "trenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción",
+      "hasta su completa detención.",
+      "2.- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su",
+      "llegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que",
+      "el tren 78350 debía pararse ante la señal E2.",
+      "3.- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación",
+      "de Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha",
+      "4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se",
+      "precisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al",
+      "respecto. Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que",
+      "para el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición",
+      "intermedia anterior a dicha señal.",
+      "5.- La recuperación de la tensión se produjo en primer lugar por el tren 78350. Pero al persistir el",
+      "problema de corte de tensión en el tramo Torelló – Manlleu se decidió que entrase en primer lugar a",
+      "la vía 2 para que finalizase allí su recorrido."
     ],
     "recomendaciones": [
       {
-        "numero": "046/2022-01",
-        "texto": "Implementar procedimientos de reincorporación progresiva y adaptación a los puestos de trabajo para el personal de conducción tras periodos largos de inactividad laboral. Tener en cuenta, para ello, posibles acciones formativas adicionales y la revisión de los SGS en relación con los reciclajes sobre la infraestructura tras largos periodos de inactividad laboral.",
+        "numero": "108/2022-1",
+        "texto": "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
         "implementador": ""
       },
       {
-        "numero": "046/2022-02",
-        "texto": "Proseguir y completar el desarrollo de una nueva herramienta de evaluación psicológica, revisando el contenido y los criterios de las pruebas psicológicas y procedimiento de los RM realizados al personal de conducción, tanto en la fase de acceso (habilitación) como de reciclaje (renovación), y en todos aquellos reconocimientos adicionales que se realicen tras periodos de baja prolongada, adecuándolos a los motivos de la baja, con el fin de detectar circunstancias o situaciones incompatibles con ",
-        "implementador": ""
-      },
-      {
-        "numero": "046/2022-03",
-        "texto": "Potenciar la supervisión y tutela del personal de conducción en sus tareas cotidianas. Estableciendo sistemas parala coordinación, formación y tutela continua que fomenten la comunicación y cultura de confianza. Asimismo, llevar a cabo un análisis de la disponibilidad de medios adecuados en las residencias del personal de conducción para realizar dichas labores de supervisión y tutela, así como de transferencia de conocimientos al personal con menos experiencia.",
-        "implementador": ""
-      },
-      {
-        "numero": "046/2022-04",
-        "texto": "Reforzar las acciones formativas de acceso y reciclaje con contenidos y formación práctica que permita mejorar la apreciación del riesgo en actividades críticas para la seguridad. Así como incidir en la obligación del personal de conducción de comunicar a la empresa su estado de salud psicofísica, de acuerdo con la DA5ª de la Orden FOM/2872/2010, si considera que podría suponer un riesgo para ejercer sus tareas con garantías de seguridad.",
-        "implementador": ""
-      },
-      {
-        "numero": "046/2022-05",
-        "texto": "Revisar los procedimientos de comunicación del tren dispuesto en aquellos casos en los que operativamente no convenga la comunicación con el RC, con objeto de evitar inicios de marcha no autorizados.",
-        "implementador": ""
-      },
-      {
-        "numero": "046/2022-06",
-        "texto": "Garantizar el cumplimiento de la RT 1/2020 de la",
+        "numero": "108/2022-2",
+        "texto": "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha.",
         "implementador": ""
       }
     ],
     "tags": [
       "incidente",
-      "factor humano",
+      "colisión",
       "señalización",
       "infraestructura",
       "velocidad",
@@ -362,13 +374,13 @@
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2022/46-220601-if-sn_ciafv2.pdf"
+      "pdf_local": "pdfs/2022/108-221105-if-sn_ciafv2.pdf"
     },
     "similares": [
-      "2022-108/2022",
       "2022-48/2022",
       "2022-70/2022",
-      "2022-107/2022"
+      "2022-107/2022",
+      "2022-46/2022"
     ]
   }
 ]

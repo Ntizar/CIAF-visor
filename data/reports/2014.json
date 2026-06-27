@@ -1,5 +1,142 @@
 [
   {
+    "id": "2014-0005/2014",
+    "year": 2014,
+    "expediente": "0005/2014",
+    "titulo": "IF 0005/2014 — Chamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "leve",
+    "fecha_suceso": "2014-01-23",
+    "ubicacion": {
+      "estacion": "Calzada de Bureba (PK",
+      "provincia": "Burgos",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 23 de enero de 2014 a las 11:43 horas, en el PK 422+950 de la línea 100 Hendaya a Madrid-\nChamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L.D.\n282 de la empresa ferroviaria Renfe Operadora, con origen Irún y destino Vigo-Guixar, circula por la\nvía II y arrolla una plataforma de trabajos propiedad de Adif.\nEl jefe del CTC de Miranda de Ebro no bloquea la vía II entre las mencionadas estaciones, estando\nconcedido el bloqueo por telefonema al",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0005/2014 ocurrido el 23.01.2014",
+      "Se procedió al relevo del jefe del CTC implicado en el suceso, adoptándose las medidas descritas en el",
+      "documento “Actuaciones en caso de accidentes o incidentes, investigación y análisis de la DGOI.",
+      "Procedimiento General DGOI-PG-SGS-05 de Adif”.",
+      "En base a los hechos descritos en este informe, en el accidente ocurrido el 12/03/2012 en Socuéllamos",
+      "(expediente nº 22/2012) y en otros sucesos acaecidos de similares características, y con el fin de",
+      "reforzar la seguridad en las operaciones de circulación con establecimiento de corte de vía en",
+      "aplicación del régimen de interrupción de la circulación, Adif mediante nota interna de febrero de 2014",
+      "recordó la necesidad de aplicar las medidas de seguridad siguientes:",
+      "Entre el personal de Gestión de Tráfico, que en todos los casos se garantice el cierre de la señal de",
+      "salida de la vía o vías afectadas, fundamentalmente en líneas o trayectos regulados por CTC. Para",
+      "ello se desactivará, cuando las instalaciones lo permitan, la sucesión automática de trenes, los",
+      "sistemas de formación automática de itinerarios y se tendrá en consideración las posibilidades que",
+      "permite el enclavamiento para  garantizar el cierre de la señal de salida.",
+      "Entre el personal de Mantenimiento, aumentar el refuerzo en el terreno con la colocación de útiles",
+      "de cortocircuito (se incluye manual de uso de shunt de cortocircuito H07-RNF de la firma CATU) en",
+      "aquellos trayectos en los que se cuente para la detección de la presencia de trenes con circuito de",
+      "vía eléctrico, y en los que no se disponga del mismo con el uso y colocación en el eje de la vía de",
+      "la señal de parada regulada en el artículo 217 figura G del RGC."
+    ],
+    "recomendaciones": [
+      {
+        "numero": "05/14-1",
+        "texto": "Se reitera la recomendación",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "arrollamiento",
+      "colisión",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "leve"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2014/IF230114270115CIAF.pdf"
+    },
+    "similares": [
+      "2014-0026/2014",
+      "2014-0036/2014",
+      "2014-0044/2014",
+      "2014-0041/2014",
+      "2014-0052/2014"
+    ]
+  },
+  {
+    "id": "2014-0026/2014",
+    "year": 2014,
+    "expediente": "0026/2014",
+    "titulo": "IF 0026/2014 — El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2014-04-15",
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "COMSA Rail Transport"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria\nComsa Rail Transport, procedente de Valença do Minho (Portugal) y con destino A Coruña San Diego,\ncompuesto por una locomotora y 13 vagones (plataformas PMMC) que circulaban vacíos, descarriló en\nel PK 17+896 de la línea 824 Redondela de Galicia a Santiago de Compostela, al pasar por el cambio\nnº 6 en la Bifurcación Arcade descarrilando el segundo bogie del séptimo vagón y el primer bogie del\nvagón",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+    },
+    "conclusiones": [],
+    "recomendaciones": [
+      {
+        "numero": "26/14-1",
+        "texto": "Considerando adecuadas las medidas adoptadas por Takargo y GMF y consistentes en: − Modificación de los planes de mantenimiento introduciendo una operación a los 18 meses en la que se comprueban los valores de los parámetros de rodadura. Además se implanta el uso de la plantilla de visitador en las inspecciones VS. − Revisión de los valores de los parámetros de rodadura de todos los vagones de la misma serie. se trasladan a la",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2014/150428140415IFCIAF.pdf"
+    },
+    "similares": [
+      "2014-0036/2014",
+      "2014-0044/2014",
+      "2014-0041/2014",
+      "2014-0052/2014",
+      "2014-0051/2014"
+    ]
+  },
+  {
     "id": "2014-0034/2014",
     "year": 2014,
     "expediente": "0034/2014",
@@ -73,63 +210,6 @@
       "2014-0037/2014",
       "2014-0042/2014",
       "2014-0053/2014"
-    ]
-  },
-  {
-    "id": "2014-0026/2014",
-    "year": 2014,
-    "expediente": "0026/2014",
-    "titulo": "IF 0026/2014 — El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2014-04-15",
-    "ubicacion": {
-      "estacion": "",
-      "provincia": "Madrid",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "COMSA Rail Transport"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria\nComsa Rail Transport, procedente de Valença do Minho (Portugal) y con destino A Coruña San Diego,\ncompuesto por una locomotora y 13 vagones (plataformas PMMC) que circulaban vacíos, descarriló en\nel PK 17+896 de la línea 824 Redondela de Galicia a Santiago de Compostela, al pasar por el cambio\nnº 6 en la Bifurcación Arcade descarrilando el segundo bogie del séptimo vagón y el primer bogie del\nvagón",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [],
-    "recomendaciones": [
-      {
-        "numero": "26/14-1",
-        "texto": "Considerando adecuadas las medidas adoptadas por Takargo y GMF y consistentes en: − Modificación de los planes de mantenimiento introduciendo una operación a los 18 meses en la que se comprueban los valores de los parámetros de rodadura. Además se implanta el uso de la plantilla de visitador en las inspecciones VS. − Revisión de los valores de los parámetros de rodadura de todos los vagones de la misma serie. se trasladan a la",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2014/150428140415IFCIAF.pdf"
-    },
-    "similares": [
-      "2014-0036/2014",
-      "2014-0044/2014",
-      "2014-0041/2014",
-      "2014-0052/2014",
-      "2014-0051/2014"
     ]
   },
   {
@@ -289,6 +369,169 @@
     ]
   },
   {
+    "id": "2014-0041/2014",
+    "year": 2014,
+    "expediente": "0041/2014",
+    "titulo": "IF 0041/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2014-08-06",
+    "ubicacion": {
+      "estacion": "",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Operadora",
+      "Renfe Viajeros"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0041/2014 ocurrido el 06.08.2014\n150922-140806-IF-CIAF\nRESUMEN\nEl día 6 de agosto de 2014 a las 22:05 horas, el maquinista del tren 922 de larga distancia (locomotora\n252 y 28 coches) de la empresa ferroviaria Renfe Viajeros, procedente de Barcelona Sants y destino\nVigo, informa al CRC que se ha detenido en el PK 390+500, en plena vía en el trayecto Ballobar –\nPeñalba de la línea 050 Madrid – Puerta de Atocha a Límite Adif TP-Ferro, por una avería. Una vez el\ntren está detenido el maquinista informó de que se había producido un incendio en el pasillo de la\nlocomotora y que no podía apagarlo. Para sofocar el incendio se movilizó personal de infraestructuras\nde Adif, personal de Renfe Viajeros, servicios de emergencia y bomberos.\nNo se producen da",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ...................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0041/2014 ocurrido el 06.08.2014",
+      "Reconsiderar el plan de mantenimiento de",
+      "intervenciones de mantenimiento que se",
+      "consideren adecuadas, la verificación del",
+      "estado del apriete de los conectores del",
+      "conmutador del sistema Q1, dejando",
+      "registro documental de dicha operación.",
+      "consideren adecuadas, una inspección",
+      "visual para verificar la ausencia de fugas",
+      "de aceite en la zona del conexionado del",
+      "transformador principal.",
+      "Mejorar el sistema de detección de incendio",
+      "instalado en estas locomotoras, para que",
+      "dicho sistema sea capaz de detectar el inicio",
+      "de incendios de similar naturaleza.",
+      "Madrid, 22 de septiembre de 2015"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "41/14-1",
+        "texto": "Reconsiderar el plan de mantenimiento de las locomotoras 252 Alta Velocidad incorporando al mismo, en las intervenciones de mantenimiento que se consideren adecuadas, la verificación del estado del apriete de los conectores del conmutador del sistema Q1, dejando registro documental de dicha operación. Asimismo se realizarán, en las intervenciones de mantenimiento que se consideren adecuadas, una inspección visual para verificar la ausencia de fugas de aceite en la zona del conexionado del transf",
+        "implementador": ""
+      },
+      {
+        "numero": "41/14-2",
+        "texto": "Mejorar el sistema de detección de incendio instalado en estas locomotoras, para que dicho sistema sea capaz de detectar el inicio de incendios de similar naturaleza. Madrid, 22 de septiembre de 2015",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "cruzamiento",
+      "incendio",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2014/150922140806IFCIAF.pdf"
+    },
+    "similares": [
+      "2014-0026/2014",
+      "2014-0036/2014",
+      "2014-0044/2014",
+      "2014-0052/2014",
+      "2014-0053/2014"
+    ]
+  },
+  {
+    "id": "2014-0042/2014",
+    "year": 2014,
+    "expediente": "0042/2014",
+    "titulo": "IF 0042/2014 — SOBRE EL INCIDENTE FERROVIARIO Nº 0042/2014",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2014-08-11",
+    "ubicacion": {
+      "estacion": "Pancorbo.",
+      "provincia": "Burgos",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Viajeros"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0042/2014 ocurrido el 11.08.2014\n151022-140811-IF-CIAF\nRESUMEN\nEl día 11 de agosto de 2014 a las 11:06 horas, se estaban realizando trabajos en el apartadero de\nPancorbo (Burgos) en la vía 1 a la altura de los cambios 5 y 7. El tren de larga distancia 4087 de la\nempresa ferroviaria Renfe Viajeros realizó parada de emergencia a la entrada del apartadero de\nPancorbo (Burgos), lado Madrid, al realizarle unos operarios señales de parada a mano para que\ndetuviera la marcha. Dichos operarios se encontraban trabajando en el cambio nº 5. Los trabajos se\nrealizaban al amparo de la consigna ATO nº 38 y del punto 223 del acta semanal de trabajos.\nComo consecuencia del incidente no se produjeron daños personales ni materiales.\nConclusión: El suceso se produ",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ...................................."
+    },
+    "conclusiones": [
+      "Investigación del incidente",
+      "nº 0042/2014 ocurrido el 11.08.2014",
+      "motivado al considerar el encargado de trabajos que los operarios que se encontraban en la aguja 5",
+      "no estaban bajo su responsabilidad y además que el trabajo de éstos no afectaba a la vía 1, debido a",
+      "que el encargado de trabajos desconocía el alcance del punto 223 del acta semanal de trabajos.",
+      "Como factor coadyuvante se apunta el hecho de que el equipo de trabajo de la aguja nº 5 tampoco",
+      "colocó los útiles de cortocircuitado ni las señales portátiles de parada, lo que hubiera detenido el tren,",
+      "incumpliéndose el artículo 343 del RGC.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el",
+      "mantenimiento del material rodante o de la infraestructura ferroviaria",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del",
+      "sistema de gestión de la seguridad",
+      "En el punto 223 del acta semanal de trabajos se relacionan una serie de actividades de diferente",
+      "índole de forma muy general sin indicar claramente las ubicaciones de las operaciones y el alcance de",
+      "las mismas. Además la modalidad de trabajo contemplada es del tipo EC, lo que implicaría la no",
+      "afección de los trabajos a la zona de agujas.",
+      "Es por ello que; si bien Adif dispone de una guía de referencia para la confección de actas semanales",
+      "de trabajos, en la que se especifica las consideraciones generales y comunes de dichas actas; en este",
+      "caso no se cumplimentó de forma adecuada.",
+      "Por otro lado la Consigna ATO nº 38 - CTO nº 63 refleja las operaciones de forma muy general incluso"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "42/14-1",
+        "texto": "Realizar una campaña de control específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos).",
+        "implementador": ""
+      },
+      {
+        "numero": "42/14-2",
+        "texto": "Realizar una campaña de control específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos). Madrid, 22 de octubre de 2015",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "incidente",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2014/151022140811IFCIAF.pdf"
+    },
+    "similares": [
+      "2014-0034/2014",
+      "2014-0037/2014",
+      "2014-0053/2014",
+      "2014-0005/2014"
+    ]
+  },
+  {
     "id": "2014-0044/2014",
     "year": 2014,
     "expediente": "0044/2014",
@@ -378,24 +621,24 @@
     ]
   },
   {
-    "id": "2014-0041/2014",
+    "id": "2014-0051/2014",
     "year": 2014,
-    "expediente": "0041/2014",
-    "titulo": "IF 0041/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "expediente": "0051/2014",
+    "titulo": "IF 0051/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2014-08-06",
+    "gravedad": "leve",
+    "fecha_suceso": "2014-09-02",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Unquera",
+      "provincia": "Asturias",
+      "lat": 43.3833,
+      "lng": -4.4167
     },
     "entidades": [
       "ADIF",
-      "Renfe Operadora",
-      "Renfe Viajeros"
+      "FEVE",
+      "Renfe Mercancías"
     ],
     "consecuencias": {
       "victimas_mortales": 0,
@@ -403,61 +646,57 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0041/2014 ocurrido el 06.08.2014\n150922-140806-IF-CIAF\nRESUMEN\nEl día 6 de agosto de 2014 a las 22:05 horas, el maquinista del tren 922 de larga distancia (locomotora\n252 y 28 coches) de la empresa ferroviaria Renfe Viajeros, procedente de Barcelona Sants y destino\nVigo, informa al CRC que se ha detenido en el PK 390+500, en plena vía en el trayecto Ballobar –\nPeñalba de la línea 050 Madrid – Puerta de Atocha a Límite Adif TP-Ferro, por una avería. Una vez el\ntren está detenido el maquinista informó de que se había producido un incendio en el pasillo de la\nlocomotora y que no podía apagarlo. Para sofocar el incendio se movilizó personal de infraestructuras\nde Adif, personal de Renfe Viajeros, servicios de emergencia y bomberos.\nNo se producen da",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ...................................."
+      "resumen": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho\nmétrico (SAM) de la empresa ferroviaria Renfe Mercancías, procedente de Santander y destino El\nBerrón, detiene su marcha en el PK 451+450 de la línea RAM 770 Santander – Oviedo, tras haber\ncirculado descarrilado 107 metros. Descarrilaron los dos bogies traseros de ambas locomotoras por\nremonte del carril.\nComo consecuencia del accidente no hubo víctimas mortales ni heridos.\nConclusión: El accidente",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado ...................................."
     },
     "conclusiones": [
       "Investigación del accidente",
-      "nº 0041/2014 ocurrido el 06.08.2014",
-      "Reconsiderar el plan de mantenimiento de",
-      "intervenciones de mantenimiento que se",
-      "consideren adecuadas, la verificación del",
-      "estado del apriete de los conectores del",
-      "conmutador del sistema Q1, dejando",
-      "registro documental de dicha operación.",
-      "consideren adecuadas, una inspección",
-      "visual para verificar la ausencia de fugas",
-      "de aceite en la zona del conexionado del",
-      "transformador principal.",
-      "Mejorar el sistema de detección de incendio",
-      "instalado en estas locomotoras, para que",
-      "dicho sistema sea capaz de detectar el inicio",
-      "de incendios de similar naturaleza.",
-      "Madrid, 22 de septiembre de 2015"
+      "nº 0051/2014 ocurrido el 02.09.2014",
+      "El remonte de las ruedas exteriores que llevaron al descarrilamiento del tren se puede explicar por el",
+      "hecho de que el punto “0” se encontrase en una curva de radio reducido y con un fuerte descenso del",
+      "peralte lo que, unido a la baja velocidad del tren (que provoca que las ruedas exteriores se",
+      "descarguen), facilitaría dicho remonte de las ruedas.",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el",
+      "Investigador Responsable concluye que:",
+      "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes",
+      "relacionados con las acciones de las personas implicadas o las condiciones del",
+      "material rodante o de las instalaciones técnicas",
+      "El accidente se produjo por la existencia de defectos en la geometría de la vía, concretamente alabeos,",
+      "ocasionados por un drenaje insuficiente de la plataforma.",
+      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el",
+      "mantenimiento del material rodante o de la infraestructura ferroviaria",
+      "En la zona del accidente estaba establecida una LTV a 30 km/h por deformación de la vía por",
+      "inestabilidad de la plataforma. Las labores de mantenimiento no fueron suficientes para restablecer las",
+      "condiciones adecuadas de circulación que llevase a la supresión de la LTV.",
+      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del",
+      "sistema de gestión de la seguridad"
     ],
     "recomendaciones": [
       {
-        "numero": "41/14-1",
-        "texto": "Reconsiderar el plan de mantenimiento de las locomotoras 252 Alta Velocidad incorporando al mismo, en las intervenciones de mantenimiento que se consideren adecuadas, la verificación del estado del apriete de los conectores del conmutador del sistema Q1, dejando registro documental de dicha operación. Asimismo se realizarán, en las intervenciones de mantenimiento que se consideren adecuadas, una inspección visual para verificar la ausencia de fugas de aceite en la zona del conexionado del transf",
-        "implementador": ""
-      },
-      {
-        "numero": "41/14-2",
-        "texto": "Mejorar el sistema de detección de incendio instalado en estas locomotoras, para que dicho sistema sea capaz de detectar el inicio de incendios de similar naturaleza. Madrid, 22 de septiembre de 2015",
+        "numero": "51/14-1",
+        "texto": "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo. Madrid, 24 de noviembre de 2015",
         "implementador": ""
       }
     ],
     "tags": [
       "accidente",
-      "señalización",
+      "descarrilamiento",
       "mantenimiento",
       "infraestructura",
       "velocidad",
       "alcoholemia",
-      "cruzamiento",
-      "incendio",
-      "fatal"
+      "leve"
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2014/150922140806IFCIAF.pdf"
+      "pdf_local": "pdfs/2014/151124140902IFCIAF1.pdf"
     },
     "similares": [
       "2014-0026/2014",
       "2014-0036/2014",
       "2014-0044/2014",
-      "2014-0052/2014",
-      "2014-0053/2014"
+      "2014-0041/2014",
+      "2014-0052/2014"
     ]
   },
   {
@@ -543,86 +782,6 @@
     ]
   },
   {
-    "id": "2014-0042/2014",
-    "year": 2014,
-    "expediente": "0042/2014",
-    "titulo": "IF 0042/2014 — SOBRE EL INCIDENTE FERROVIARIO Nº 0042/2014",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2014-08-11",
-    "ubicacion": {
-      "estacion": "Pancorbo.",
-      "provincia": "Burgos",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Viajeros"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0042/2014 ocurrido el 11.08.2014\n151022-140811-IF-CIAF\nRESUMEN\nEl día 11 de agosto de 2014 a las 11:06 horas, se estaban realizando trabajos en el apartadero de\nPancorbo (Burgos) en la vía 1 a la altura de los cambios 5 y 7. El tren de larga distancia 4087 de la\nempresa ferroviaria Renfe Viajeros realizó parada de emergencia a la entrada del apartadero de\nPancorbo (Burgos), lado Madrid, al realizarle unos operarios señales de parada a mano para que\ndetuviera la marcha. Dichos operarios se encontraban trabajando en el cambio nº 5. Los trabajos se\nrealizaban al amparo de la consigna ATO nº 38 y del punto 223 del acta semanal de trabajos.\nComo consecuencia del incidente no se produjeron daños personales ni materiales.\nConclusión: El suceso se produ",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ...................................."
-    },
-    "conclusiones": [
-      "Investigación del incidente",
-      "nº 0042/2014 ocurrido el 11.08.2014",
-      "motivado al considerar el encargado de trabajos que los operarios que se encontraban en la aguja 5",
-      "no estaban bajo su responsabilidad y además que el trabajo de éstos no afectaba a la vía 1, debido a",
-      "que el encargado de trabajos desconocía el alcance del punto 223 del acta semanal de trabajos.",
-      "Como factor coadyuvante se apunta el hecho de que el equipo de trabajo de la aguja nº 5 tampoco",
-      "colocó los útiles de cortocircuitado ni las señales portátiles de parada, lo que hubiera detenido el tren,",
-      "incumpliéndose el artículo 343 del RGC.",
-      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el",
-      "mantenimiento del material rodante o de la infraestructura ferroviaria",
-      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del",
-      "sistema de gestión de la seguridad",
-      "En el punto 223 del acta semanal de trabajos se relacionan una serie de actividades de diferente",
-      "índole de forma muy general sin indicar claramente las ubicaciones de las operaciones y el alcance de",
-      "las mismas. Además la modalidad de trabajo contemplada es del tipo EC, lo que implicaría la no",
-      "afección de los trabajos a la zona de agujas.",
-      "Es por ello que; si bien Adif dispone de una guía de referencia para la confección de actas semanales",
-      "de trabajos, en la que se especifica las consideraciones generales y comunes de dichas actas; en este",
-      "caso no se cumplimentó de forma adecuada.",
-      "Por otro lado la Consigna ATO nº 38 - CTO nº 63 refleja las operaciones de forma muy general incluso"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "42/14-1",
-        "texto": "Realizar una campaña de control específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos).",
-        "implementador": ""
-      },
-      {
-        "numero": "42/14-2",
-        "texto": "Realizar una campaña de control específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos). Madrid, 22 de octubre de 2015",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "incidente",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2014/151022140811IFCIAF.pdf"
-    },
-    "similares": [
-      "2014-0034/2014",
-      "2014-0037/2014",
-      "2014-0053/2014",
-      "2014-0005/2014"
-    ]
-  },
-  {
     "id": "2014-0053/2014",
     "year": 2014,
     "expediente": "0053/2014",
@@ -702,24 +861,23 @@
     ]
   },
   {
-    "id": "2014-0051/2014",
+    "id": "2014-0064/2014",
     "year": 2014,
-    "expediente": "0051/2014",
-    "titulo": "IF 0051/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "expediente": "0064/2014",
+    "titulo": "IF 0064/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2014-09-02",
+    "gravedad": "fatal",
+    "fecha_suceso": "2014-10-11",
     "ubicacion": {
-      "estacion": "Unquera",
-      "provincia": "Asturias",
-      "lat": 43.3833,
-      "lng": -4.4167
+      "estacion": "Barakaldo",
+      "provincia": "Madrid",
+      "lat": 43.2967,
+      "lng": -2.9833
     },
     "entidades": [
       "ADIF",
-      "FEVE",
-      "Renfe Mercancías"
+      "Tracción Rail"
     ],
     "consecuencias": {
       "victimas_mortales": 0,
@@ -727,38 +885,16 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho\nmétrico (SAM) de la empresa ferroviaria Renfe Mercancías, procedente de Santander y destino El\nBerrón, detiene su marcha en el PK 451+450 de la línea RAM 770 Santander – Oviedo, tras haber\ncirculado descarrilado 107 metros. Descarrilaron los dos bogies traseros de ambas locomotoras por\nremonte del carril.\nComo consecuencia del accidente no hubo víctimas mortales ni heridos.\nConclusión: El accidente",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado ...................................."
+      "resumen": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria\nTracción Rail, procedente de Bilbao Mercancías y destino Valencia Fuente de San Luis, cuando\ncirculaba a la altura del apartadero de Sestao (estación Desertu-Barakaldo) de la línea 720 Abando\nIndalecio Prieto-Santurtzi, descarrila el segundo eje del primer bogie del vagón (plataforma PMMC)\nque circulaba en último lugar de la composición. A continuación, descarrila el primer eje del primer\nbogie y",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción de los hechos ..................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ....................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........................."
     },
     "conclusiones": [
       "Investigación del accidente",
-      "nº 0051/2014 ocurrido el 02.09.2014",
-      "El remonte de las ruedas exteriores que llevaron al descarrilamiento del tren se puede explicar por el",
-      "hecho de que el punto “0” se encontrase en una curva de radio reducido y con un fuerte descenso del",
-      "peralte lo que, unido a la baja velocidad del tren (que provoca que las ruedas exteriores se",
-      "descarguen), facilitaría dicho remonte de las ruedas.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el",
-      "Investigador Responsable concluye que:",
-      "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes",
-      "relacionados con las acciones de las personas implicadas o las condiciones del",
-      "material rodante o de las instalaciones técnicas",
-      "El accidente se produjo por la existencia de defectos en la geometría de la vía, concretamente alabeos,",
-      "ocasionados por un drenaje insuficiente de la plataforma.",
-      "4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el",
-      "mantenimiento del material rodante o de la infraestructura ferroviaria",
-      "En la zona del accidente estaba establecida una LTV a 30 km/h por deformación de la vía por",
-      "inestabilidad de la plataforma. Las labores de mantenimiento no fueron suficientes para restablecer las",
-      "condiciones adecuadas de circulación que llevase a la supresión de la LTV.",
-      "4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del",
-      "sistema de gestión de la seguridad"
+      "nº 0064/2014 ocurrido el 11.10.2014",
+      "No se establecen recomendaciones",
+      "Madrid, 28 de junio de 2016"
     ],
-    "recomendaciones": [
-      {
-        "numero": "51/14-1",
-        "texto": "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo. Madrid, 24 de noviembre de 2015",
-        "implementador": ""
-      }
-    ],
+    "recomendaciones": [],
     "tags": [
       "accidente",
       "descarrilamiento",
@@ -766,11 +902,12 @@
       "infraestructura",
       "velocidad",
       "alcoholemia",
-      "leve"
+      "cruzamiento",
+      "fatal"
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2014/151124140902IFCIAF1.pdf"
+      "pdf_local": "pdfs/2014/160628141011IFCIAF.pdf"
     },
     "similares": [
       "2014-0026/2014",
@@ -955,143 +1092,6 @@
       "2014-0036/2014",
       "2014-0044/2014",
       "2014-0041/2014"
-    ]
-  },
-  {
-    "id": "2014-0064/2014",
-    "year": 2014,
-    "expediente": "0064/2014",
-    "titulo": "IF 0064/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2014-10-11",
-    "ubicacion": {
-      "estacion": "Barakaldo",
-      "provincia": "Madrid",
-      "lat": 43.2967,
-      "lng": -2.9833
-    },
-    "entidades": [
-      "ADIF",
-      "Tracción Rail"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria\nTracción Rail, procedente de Bilbao Mercancías y destino Valencia Fuente de San Luis, cuando\ncirculaba a la altura del apartadero de Sestao (estación Desertu-Barakaldo) de la línea 720 Abando\nIndalecio Prieto-Santurtzi, descarrila el segundo eje del primer bogie del vagón (plataforma PMMC)\nque circulaba en último lugar de la composición. A continuación, descarrila el primer eje del primer\nbogie y",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción de los hechos ..................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ....................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0064/2014 ocurrido el 11.10.2014",
-      "No se establecen recomendaciones",
-      "Madrid, 28 de junio de 2016"
-    ],
-    "recomendaciones": [],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "cruzamiento",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2014/160628141011IFCIAF.pdf"
-    },
-    "similares": [
-      "2014-0026/2014",
-      "2014-0036/2014",
-      "2014-0044/2014",
-      "2014-0041/2014",
-      "2014-0052/2014"
-    ]
-  },
-  {
-    "id": "2014-0005/2014",
-    "year": 2014,
-    "expediente": "0005/2014",
-    "titulo": "IF 0005/2014 — Chamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "leve",
-    "fecha_suceso": "2014-01-23",
-    "ubicacion": {
-      "estacion": "Calzada de Bureba (PK",
-      "provincia": "Burgos",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Operadora"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "El día 23 de enero de 2014 a las 11:43 horas, en el PK 422+950 de la línea 100 Hendaya a Madrid-\nChamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L.D.\n282 de la empresa ferroviaria Renfe Operadora, con origen Irún y destino Vigo-Guixar, circula por la\nvía II y arrolla una plataforma de trabajos propiedad de Adif.\nEl jefe del CTC de Miranda de Ebro no bloquea la vía II entre las mencionadas estaciones, estando\nconcedido el bloqueo por telefonema al",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0005/2014 ocurrido el 23.01.2014",
-      "Se procedió al relevo del jefe del CTC implicado en el suceso, adoptándose las medidas descritas en el",
-      "documento “Actuaciones en caso de accidentes o incidentes, investigación y análisis de la DGOI.",
-      "Procedimiento General DGOI-PG-SGS-05 de Adif”.",
-      "En base a los hechos descritos en este informe, en el accidente ocurrido el 12/03/2012 en Socuéllamos",
-      "(expediente nº 22/2012) y en otros sucesos acaecidos de similares características, y con el fin de",
-      "reforzar la seguridad en las operaciones de circulación con establecimiento de corte de vía en",
-      "aplicación del régimen de interrupción de la circulación, Adif mediante nota interna de febrero de 2014",
-      "recordó la necesidad de aplicar las medidas de seguridad siguientes:",
-      "Entre el personal de Gestión de Tráfico, que en todos los casos se garantice el cierre de la señal de",
-      "salida de la vía o vías afectadas, fundamentalmente en líneas o trayectos regulados por CTC. Para",
-      "ello se desactivará, cuando las instalaciones lo permitan, la sucesión automática de trenes, los",
-      "sistemas de formación automática de itinerarios y se tendrá en consideración las posibilidades que",
-      "permite el enclavamiento para  garantizar el cierre de la señal de salida.",
-      "Entre el personal de Mantenimiento, aumentar el refuerzo en el terreno con la colocación de útiles",
-      "de cortocircuito (se incluye manual de uso de shunt de cortocircuito H07-RNF de la firma CATU) en",
-      "aquellos trayectos en los que se cuente para la detección de la presencia de trenes con circuito de",
-      "vía eléctrico, y en los que no se disponga del mismo con el uso y colocación en el eje de la vía de",
-      "la señal de parada regulada en el artículo 217 figura G del RGC."
-    ],
-    "recomendaciones": [
-      {
-        "numero": "05/14-1",
-        "texto": "Se reitera la recomendación",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "arrollamiento",
-      "colisión",
-      "descarrilamiento",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "leve"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2014/IF230114270115CIAF.pdf"
-    },
-    "similares": [
-      "2014-0026/2014",
-      "2014-0036/2014",
-      "2014-0044/2014",
-      "2014-0041/2014",
-      "2014-0052/2014"
     ]
   }
 ]

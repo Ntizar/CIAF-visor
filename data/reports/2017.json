@@ -1,93 +1,5 @@
 [
   {
-    "id": "2017-0012/2017",
-    "year": 2017,
-    "expediente": "0012/2017",
-    "titulo": "IF 0012/2017 — El día 13 de febrero de 2017, a las 22:10 horas, el tren de viajeros de media distancia 17025 de la",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2017-02-13",
-    "ubicacion": {
-      "estacion": "Torrijos y suprimido.",
-      "provincia": "Badajoz",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Mercancías",
-      "Renfe Operadora",
-      "Renfe Viajeros"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0012/2017 ocurrido el 13.02.2017\n180424-170213-IF-SN-CIAF .doc\n1. RESUMEN\nEl día 13 de febrero de 2017, a las 22:10 horas, el tren de viajeros de media distancia 17025 de la\nempresa ferroviaria Renfe Viajeros, procedente de Badajoz y con destino Madrid Atocha, arrolla un\nvehículo de carretera que se encontraba detenido en el paso a nivel clase A existente en el PK 90+594,\nentre las estaciones de Erustes y Torrijos, de la línea 500 Bifurcación Planetario a Valencia de Alcántara,\nen el término municipal de Santo Domingo-Caudilla (Toledo).\nSe encontró una persona fallecida fuera de la caja de la vía, presuntamente como consecuencia del\naccidente.\nConclusión: El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por parte del",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ........................................................................................................................................................... 6\n2.1.2. Descripción del suceso ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación ................................................................................................................. 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ............................"
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0012/2017 ocurrido el 13.02.2017",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se",
-      "4.3.1. Causas  directas e inmediatas del suceso, incluidos los factores coadyuvantes",
-      "relacionados con las acciones de las personas implicadas o las condiciones del material",
-      "rodante o de las instalaciones técnicas",
-      "El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por parte del vehículo de",
-      "carretera. Éste se encontraba detenido y sin luces en la zona central del paso a nivel cuando el tren se",
-      "aproximaba y siguió allí hasta ser arrollado.",
-      "4.3.2. Causas  subyacentes relacionadas con las cualificaciones del personal ferroviario y el",
-      "mantenimiento del material rodante o de la infraestructura ferroviaria",
-      "El paso a nivel no disponía de toda la señalización fija vertical en el camino, no cumpliéndose lo",
-      "dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001. (Recomendación 12/17-1)",
-      "4.3.3. Causas raíces relacionadas con las condiciones del marco normativo y la aplicación",
-      "del sistema de gestión de la seguridad",
-      "La investigación de este accidente ha detectado deficiencias reseñables en la señalización viaria del",
-      "paso a nivel. Asimismo, se tiene conocimiento de otros sucesos en los que confluyen las mismas",
-      "circunstancias de una señalización viaria deficiente y no conforme a la normativa vigente.",
-      "Por otro lado, los ayuntamientos son generalmente los titulares de dichos caminos y por tanto",
-      "responsables de su señalización. Se considera que la limitación en los recursos económicos disponibles"
-    ],
-    "recomendaciones": [
-      {
-        "numero": "12/17-1",
-        "texto": "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
-      },
-      {
-        "numero": "12/17-2",
-        "texto": "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o bien la Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en lo relativo al estado de los caminos de acceso a éstos y su conservación. Madrid, 24 de abril de 2018",
-        "implementador": ""
-      }
-    ],
-    "tags": [
-      "accidente",
-      "paso a nivel",
-      "arrollamiento",
-      "colisión",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2017/180424-170213-if-sn-ciaf_.pdf"
-    },
-    "similares": [
-      "2017-0001/2017",
-      "2017-0025/2017",
-      "2017-0024/2017",
-      "2017-0030/2017",
-      "2017-0035/2017"
-    ]
-  },
-  {
     "id": "2017-0001/2017",
     "year": 2017,
     "expediente": "0001/2017",
@@ -237,7 +149,18 @@
       "de protección del tren, a una dotación mínima en la cabina de conducción de un maquinista y",
       "una segunda persona debidamente habilitada, salvo que la empresa ferroviaria establezca en su"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      {
+        "numero": "7/17 - 1",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+        "contenido": "Agilizar la tramitación del Proyecto “B.L.A.U. con C.T.C. y sistema de protección ASFA digital en el tramo Arahal – Fuente Piedra”, en la actualidad en fase de supervisión, a fin de que con la ejecución de las obras correspondientes se proceda a la supresión del bloqueo telefónico actual sustituyéndolo por un BLAU telemandado desde el CTC de Sevilla."
+      },
+      {
+        "numero": "7/17 - 2",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / RENFE VIAJEROS",
+        "contenido": "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, adecuando el contenido práctico para la habilitación de infraestructura a lo relativo a circulación por éste y por otros tramos que tengan características similares (señalización mecánica sin sistema de protección del tren)."
+      }
+    ],
     "tags": [
       "incidente",
       "paso a nivel",
@@ -261,24 +184,25 @@
     ]
   },
   {
-    "id": "2017-0025/2017",
+    "id": "2017-0012/2017",
     "year": 2017,
-    "expediente": "0025/2017",
-    "titulo": "IF 0025/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "expediente": "0012/2017",
+    "titulo": "IF 0012/2017 — El día 13 de febrero de 2017, a las 22:10 horas, el tren de viajeros de media distancia 17025 de la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
     "gravedad": "fatal",
-    "fecha_suceso": "2017-05-23",
+    "fecha_suceso": "2017-02-13",
     "ubicacion": {
-      "estacion": "Izarra.",
-      "provincia": "Álava",
+      "estacion": "Torrijos y suprimido.",
+      "provincia": "Badajoz",
       "lat": null,
       "lng": null
     },
     "entidades": [
       "ADIF",
-      "Low Cost Rail",
-      "Renfe Operadora"
+      "Renfe Mercancías",
+      "Renfe Operadora",
+      "Renfe Viajeros"
     ],
     "consecuencias": {
       "victimas_mortales": 0,
@@ -286,46 +210,49 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0025/2017 ocurrido el 23.05.2017\n181219-170523-IF-SN_CIAF.doc\nRESUMEN\nEl día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK\n183+815 de la línea 700 Intermodal Abando Indalecio Prieto a Casetas. Seguidamente se encarrila\nen el PK 184+871 y vuelve a descarrilar, a las 12:31 horas en el PK 185+880. Ambos\ndescarrilamientos se producen en las proximidades de la estación de Inoso-Oiardo (Álava).\nEl tren, procedente de Valencia Fuente de San Luis Mercancías y con destino Bilbao Mercancías,\nestaba operado por la empresa ferroviaria Low Cost Rail y compuesto por la locomotora 95 71 0 333\n333-3, y 23 vagones de la empresa Transfesa.\nEl tren 90073 descarrila en el PK 183+815 del segundo eje del vagón Laagrss 43 71 437",
-      "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................6\n2.1. SUCESO.......................................................................................................................................................6\n2.1.1.Datos...........................................................................................................................................................6\n2.1.2.Descripción del suceso.................................................................................................................................6\n2.1.3.Decisión de abrir la investigación...............................................................................................................10\n2.2. CIRCUNSTANCIAS DEL SUCESO..........................................................................................................10\n2.2.1.Personal ferroviario implicado............................................."
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0012/2017 ocurrido el 13.02.2017\n180424-170213-IF-SN-CIAF .doc\n1. RESUMEN\nEl día 13 de febrero de 2017, a las 22:10 horas, el tren de viajeros de media distancia 17025 de la\nempresa ferroviaria Renfe Viajeros, procedente de Badajoz y con destino Madrid Atocha, arrolla un\nvehículo de carretera que se encontraba detenido en el paso a nivel clase A existente en el PK 90+594,\nentre las estaciones de Erustes y Torrijos, de la línea 500 Bifurcación Planetario a Valencia de Alcántara,\nen el término municipal de Santo Domingo-Caudilla (Toledo).\nSe encontró una persona fallecida fuera de la caja de la vía, presuntamente como consecuencia del\naccidente.\nConclusión: El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por parte del",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ........................................................................................................................................................... 6\n2.1.2. Descripción del suceso ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación ................................................................................................................. 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ............................"
     },
     "conclusiones": [
       "Investigación del accidente",
-      "nº 0025/2017 ocurrido el 23.05.2017",
-      "En aplicación del Procedimiento General SGS-PG12 (Gestión de los certificados y las habilitaciones del",
-      "personal que realiza labores relacionadas con la seguridad en la circulación), el Director de Seguridad",
-      "de Low Cost Rail acuerda, el 24 de mayo de 2017, instruir un expediente informativo al maquinista.",
-      "Con fecha 28 de mayo de 2017, tras la información facilitada por maquinista y revisado su",
-      "expediente personal, el Director de Seguridad de Low Cost Rail cierra el expediente informativo, “sin",
-      "otras consecuencias que las de apercibir a todo el personal de conducción sobre la necesidad de que",
-      "extremen su diligencia en la prestación de sus servicios de conducción”.",
-      "Por parte de Transfesa.",
-      "Teniendo en cuenta los últimos descarrilamientos ocurridos en Portugal, desde el pasado 3/05/2018",
-      "Transfesa como EEM certificada según el Reglamento 445/2011 y asociada a estos vagones tipo",
-      "Laagrss ha tomado la decisión de proceder, antes de la salida del tren, a la inspección de los órganos",
-      "de suspensión que forman parte de todos los vagones que en la actualidad desarrollan el tráfico",
-      "Constanti e Alfarelos – TMIP, y complementariamente a las que deben realizar las empresas",
-      "ferroviarias a la salida del tren.",
-      "Este tipo de inspección, se está llevando a cabo en los puntos Alfarelos (Portugal) y Constanti",
-      "(España) y bajo las consistencias referidas en la Norma Técnica de Mantenimiento DT-NTM.001-14",
-      "que forma parte del Sistema de Gestión de Mantenimiento de Transfesa como EEM.",
-      "Adicionalmente, Transfesa (EEM) va a realizar a modo de investigación y medida preventiva"
+      "nº 0012/2017 ocurrido el 13.02.2017",
+      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se",
+      "4.3.1. Causas  directas e inmediatas del suceso, incluidos los factores coadyuvantes",
+      "relacionados con las acciones de las personas implicadas o las condiciones del material",
+      "rodante o de las instalaciones técnicas",
+      "El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por parte del vehículo de",
+      "carretera. Éste se encontraba detenido y sin luces en la zona central del paso a nivel cuando el tren se",
+      "aproximaba y siguió allí hasta ser arrollado.",
+      "4.3.2. Causas  subyacentes relacionadas con las cualificaciones del personal ferroviario y el",
+      "mantenimiento del material rodante o de la infraestructura ferroviaria",
+      "El paso a nivel no disponía de toda la señalización fija vertical en el camino, no cumpliéndose lo",
+      "dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001. (Recomendación 12/17-1)",
+      "4.3.3. Causas raíces relacionadas con las condiciones del marco normativo y la aplicación",
+      "del sistema de gestión de la seguridad",
+      "La investigación de este accidente ha detectado deficiencias reseñables en la señalización viaria del",
+      "paso a nivel. Asimismo, se tiene conocimiento de otros sucesos en los que confluyen las mismas",
+      "circunstancias de una señalización viaria deficiente y no conforme a la normativa vigente.",
+      "Por otro lado, los ayuntamientos son generalmente los titulares de dichos caminos y por tanto",
+      "responsables de su señalización. Se considera que la limitación en los recursos económicos disponibles"
     ],
     "recomendaciones": [
       {
-        "numero": "25/17-1",
-        "texto": "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos. Agencia Estatal de Seguridad Ferroviaria TRANSFESA - Empresa Operadora",
+        "numero": "12/17-1",
+        "texto": "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel. Agencia Estatal de Seguridad Ferroviaria (",
         "implementador": ""
       },
       {
-        "numero": "25/17-2",
-        "texto": "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos. Madrid, 19 de diciembre de 2018",
+        "numero": "12/17-2",
+        "texto": "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o bien la Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en lo relativo al estado de los caminos de acceso a éstos y su conservación. Madrid, 24 de abril de 2018",
         "implementador": ""
       }
     ],
     "tags": [
       "accidente",
-      "descarrilamiento",
+      "paso a nivel",
+      "arrollamiento",
+      "colisión",
+      "señalización",
       "mantenimiento",
       "infraestructura",
       "velocidad",
@@ -334,14 +261,103 @@
     ],
     "enlaces": {
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2017/181219-170523-if-sn_ciaf.pdf"
+      "pdf_local": "pdfs/2017/180424-170213-if-sn-ciaf_.pdf"
     },
     "similares": [
-      "2017-0012/2017",
       "2017-0001/2017",
+      "2017-0025/2017",
       "2017-0024/2017",
       "2017-0030/2017",
       "2017-0035/2017"
+    ]
+  },
+  {
+    "id": "2017-0020/2017",
+    "year": 2017,
+    "expediente": "0020/2017",
+    "titulo": "IF 0020/2017 — El incidente que se investiga tuvo lugar el día 23 de marzo de 2017, a las 10:59 horas en la estación",
+    "tipo": "incidente",
+    "tipo_suceso": "incidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2017-03-23",
+    "ubicacion": {
+      "estacion": "MADRID CHAMARTÍN (MADRID)",
+      "provincia": "Madrid",
+      "lat": 40.4726,
+      "lng": -3.6825
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Viajeros"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del Incidente\nnº 0020/2017 ocurrido el 23.03.2017\n191217-170323-IF-SN_CIAF.docx\n1. RESUMEN\nEl incidente que se investiga tuvo lugar el día 23 de marzo de 2017, a las 10:59 horas en la estación\nde Madrid Chamartín, cuando el tren de cercanías 31116 de RENFE VIAJEROS, procedente de Villalba\nde Guadarrama con destino Aeropuerto – Barajas T4, circula por vía 10 de señal S1/10A en indicación\nde anuncio de parada a señal S1/10 en indicación de parada y rebasa indebidamente esta última,\nprovocando la actuación del frenado de emergencia por el sistema ASFA que hace que el tren se detenga\na 31 m de la señal rebasada y a 47 m de la travesía T72.\nSimultáneamente el tren 91963, también de RENFE VIAJEROS, procedente de Madrid Chamartín con\ndestino Madrid Príncipe Pío que hab",
+      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.............................................................................................................. 6\n2.1. SUCESO............................................................................................................................6\n2.1.1. Datos............................................................................................................................ 6\n2.1.2. Descripción del suceso................................................................................................... 7\n2.1.3. Decisión de abrir la investigación.................................................................................. 10\n2.2. CIRCUNSTANCIAS DEL SUCESO....................................................................................10\n2.2.1. Personal Ferroviario implicado ...................................................................................... 10\n2.2.2. Material rodante ....................................................."
+    },
+    "conclusiones": [
+      "Investigación del Incidente",
+      "nº 0020/2017 ocurrido el 23.03.2017",
+      "RECOMENDACIONES DE SEGURIDAD",
+      "En los cursos de formación o reciclaje",
+      "impartidos al personal de conducción,",
+      "conocimiento de la infraestructura, debe",
+      "mantener constantemente la atención a",
+      "incompatibilidades entre itinerarios por",
+      "deslizamiento en salidas hacia la travesía",
+      "Establecer dentro del SGS de ADIF los",
+      "procedimientos generales y específicos",
+      "alcance y nivel de detalle a seguir en la",
+      "elaboración de las Consignas que regulan",
+      "la operatividad (Consignas A) en base al",
+      "análisis de riesgo previamente realizado",
+      "Madrid, 17 de diciembre de 2019"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "20/2017 - 1",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+        "implementador": "RENFE",
+        "texto": "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía."
+      },
+      {
+        "numero": "20/2017 - 2",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+        "implementador": "ADIF",
+        "texto": "Estudiar la generación de incompatibilidades entre itinerarios por deslizamiento en salidas hacia la travesía T72, teniendo en cuenta las limitaciones de velocidad establecidas."
+      },
+      {
+        "numero": "20/2017 - 3",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+        "implementador": "ADIF",
+        "texto": "Establecer dentro del SGS de ADIF los procedimientos generales y específicos necesarios que definan los procesos, alcance y nivel de detalle a seguir en la elaboración de las Consignas que regulan la operatividad (Consignas A) en base al análisis de riesgo previamente realizado."
+      }
+    ],
+    "tags": [
+      "incidente",
+      "colisión",
+      "factor humano",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2017/191217-170323-if-sn_ciaf.pdf"
+    },
+    "similares": [
+      "2017-0007/2017",
+      "2017-0024/2017",
+      "2017-0043/2017",
+      "2017-0038/2017",
+      "2017-0040/2017"
     ]
   },
   {
@@ -436,6 +452,164 @@
     ]
   },
   {
+    "id": "2017-0025/2017",
+    "year": 2017,
+    "expediente": "0025/2017",
+    "titulo": "IF 0025/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2017-05-23",
+    "ubicacion": {
+      "estacion": "Izarra.",
+      "provincia": "Álava",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Low Cost Rail",
+      "Renfe Operadora"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0025/2017 ocurrido el 23.05.2017\n181219-170523-IF-SN_CIAF.doc\nRESUMEN\nEl día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK\n183+815 de la línea 700 Intermodal Abando Indalecio Prieto a Casetas. Seguidamente se encarrila\nen el PK 184+871 y vuelve a descarrilar, a las 12:31 horas en el PK 185+880. Ambos\ndescarrilamientos se producen en las proximidades de la estación de Inoso-Oiardo (Álava).\nEl tren, procedente de Valencia Fuente de San Luis Mercancías y con destino Bilbao Mercancías,\nestaba operado por la empresa ferroviaria Low Cost Rail y compuesto por la locomotora 95 71 0 333\n333-3, y 23 vagones de la empresa Transfesa.\nEl tren 90073 descarrila en el PK 183+815 del segundo eje del vagón Laagrss 43 71 437",
+      "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................6\n2.1. SUCESO.......................................................................................................................................................6\n2.1.1.Datos...........................................................................................................................................................6\n2.1.2.Descripción del suceso.................................................................................................................................6\n2.1.3.Decisión de abrir la investigación...............................................................................................................10\n2.2. CIRCUNSTANCIAS DEL SUCESO..........................................................................................................10\n2.2.1.Personal ferroviario implicado............................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0025/2017 ocurrido el 23.05.2017",
+      "En aplicación del Procedimiento General SGS-PG12 (Gestión de los certificados y las habilitaciones del",
+      "personal que realiza labores relacionadas con la seguridad en la circulación), el Director de Seguridad",
+      "de Low Cost Rail acuerda, el 24 de mayo de 2017, instruir un expediente informativo al maquinista.",
+      "Con fecha 28 de mayo de 2017, tras la información facilitada por maquinista y revisado su",
+      "expediente personal, el Director de Seguridad de Low Cost Rail cierra el expediente informativo, “sin",
+      "otras consecuencias que las de apercibir a todo el personal de conducción sobre la necesidad de que",
+      "extremen su diligencia en la prestación de sus servicios de conducción”.",
+      "Por parte de Transfesa.",
+      "Teniendo en cuenta los últimos descarrilamientos ocurridos en Portugal, desde el pasado 3/05/2018",
+      "Transfesa como EEM certificada según el Reglamento 445/2011 y asociada a estos vagones tipo",
+      "Laagrss ha tomado la decisión de proceder, antes de la salida del tren, a la inspección de los órganos",
+      "de suspensión que forman parte de todos los vagones que en la actualidad desarrollan el tráfico",
+      "Constanti e Alfarelos – TMIP, y complementariamente a las que deben realizar las empresas",
+      "ferroviarias a la salida del tren.",
+      "Este tipo de inspección, se está llevando a cabo en los puntos Alfarelos (Portugal) y Constanti",
+      "(España) y bajo las consistencias referidas en la Norma Técnica de Mantenimiento DT-NTM.001-14",
+      "que forma parte del Sistema de Gestión de Mantenimiento de Transfesa como EEM.",
+      "Adicionalmente, Transfesa (EEM) va a realizar a modo de investigación y medida preventiva"
+    ],
+    "recomendaciones": [
+      {
+        "numero": "25/17-1",
+        "texto": "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos. Agencia Estatal de Seguridad Ferroviaria TRANSFESA - Empresa Operadora",
+        "implementador": ""
+      },
+      {
+        "numero": "25/17-2",
+        "texto": "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos. Madrid, 19 de diciembre de 2018",
+        "implementador": ""
+      }
+    ],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2017/181219-170523-if-sn_ciaf.pdf"
+    },
+    "similares": [
+      "2017-0012/2017",
+      "2017-0001/2017",
+      "2017-0024/2017",
+      "2017-0030/2017",
+      "2017-0035/2017"
+    ]
+  },
+  {
+    "id": "2017-0030/2017",
+    "year": 2017,
+    "expediente": "0030/2017",
+    "titulo": "IF 0030/2017 — El día 13 de julio de 2017 a las 17:43 horas en el p",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2017-07-13",
+    "ubicacion": {
+      "estacion": "Pradrell",
+      "provincia": "Madrid",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "Renfe Mercancías",
+      "Renfe Viajeros"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 0,
+      "heridos": 0,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0030/2017 ocurrido el 13.07.2017\n191022-170713-IF-SN_CIAF.doc\n1. RESUMEN\nEl día 13 de julio de 2017 a las 17:43 horas en el p.k. 544+649 (plena vía) de la línea 210 Miraflores –\nTarragona, entre las estaciones de Els Guiamets y Marçá-Falset, una vez pasado el apeadero de\nCapçanes (Tarragona), se produce el descarrilamiento de los vagones 10º al 15º del tren de\nmercancías 55850, de la empresa Renfe Mercancías, procedente de Samper y con destino Tarragona\nMercaderíes. El tren queda fraccionado en dos partes, la primera compuesta por la locomotora y 12\nvagones, con 3 (10º, 11º y 12º) descarrilados y la segunda por 5 vagones, con otros 3 (13º, 14º y\n15º) descarrilados.\nComo consecuencia del descarrilamiento no se producen víctimas, pero si daños mat",
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado ............................................................."
+    },
+    "conclusiones": [
+      "Investigación del accidente",
+      "nº 0030/2017 ocurrido el 13.07.2017",
+      "MEDIDAS ADOPTADAS",
+      "Desde la fecha del suceso Adif ha acometido actuaciones concretas y puntuales en la línea 210, en el",
+      "tramo comprendido entre Flix y Reus, con el fin de minimizar los sucesos que por fallo de la",
+      "infraestructura se venían sucediendo.",
+      "Así pues, hasta agosto de 2019 se han realizado actuaciones de mejora en los túneles nº 73",
+      "(L´Argentera), 50 (Flix) y también en los 51, 52, 53, 62, 63 y 77. Se han sustituido carril y traviesas en",
+      "800 m en Capsanes y traviesas en 1.230 metros entre Els Guiamets y Falset. Se ha mejorado el trazado",
+      "(alineación y nivelación con maquinaria pesada) entre Flix y Reus y nivelación de desvíos en las",
+      "estaciones de Les Borges del Camp, Riudecanyes y Marça-Falset. Se han sustituido desvíos en las",
+      "estaciones de Ascó y Flix. También se ha realizado tratamiento de trincheras en 485 metros en el",
+      "ámbito de Ascó y Riudecanyes.",
+      "Está previsto continuar con trabajos de mejora en las anualidades 2019 y 2020 que comprenden:",
+      "sustitución de desvíos en Ascó; la renovación de determinadas vías en Reus y Ascó; sustitución de",
+      "traviesas en determinadas zonas y puntos; sustitución de carril en 19.000 metros y el tratamiento de",
+      "trincheras en Ascó, Guiamets y Riudecanyes. Asimismo, está previsto la redacción del proyecto",
+      "constructivo para la rehabilitación parcial de vía y otros túneles entre Faió y Reus.",
+      "Con anterioridad a este suceso, la Agencia Estatal de Seguridad Ferroviaria (en adelante AESF), realizó",
+      "una auditoría del “Plan de mantenimiento preventivo en el ámbito territorial de la Jefatura Provincial de"
+    ],
+    "recomendaciones": [],
+    "tags": [
+      "accidente",
+      "descarrilamiento",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2017/191022-170713-if-sn_ciaf.pdf"
+    },
+    "similares": [
+      "2017-0012/2017",
+      "2017-0001/2017",
+      "2017-0025/2017",
+      "2017-0024/2017",
+      "2017-0020/2017"
+    ]
+  },
+  {
     "id": "2017-0043/2017",
     "year": 2017,
     "expediente": "0043/2017",
@@ -520,6 +694,61 @@
     ]
   },
   {
+    "id": "2017-0035/2017",
+    "year": 2017,
+    "expediente": "0035/2017",
+    "titulo": "IF 0035/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la",
+    "tipo": "accidente",
+    "tipo_suceso": "accidente",
+    "gravedad": "fatal",
+    "fecha_suceso": "2017-07-28",
+    "ubicacion": {
+      "estacion": "FRANÇA (BARCELONA)",
+      "provincia": "Barcelona",
+      "lat": null,
+      "lng": null
+    },
+    "entidades": [
+      "ADIF",
+      "FEVE",
+      "Renfe Viajeros"
+    ],
+    "consecuencias": {
+      "victimas_mortales": 3,
+      "heridos": 1,
+      "danos_materiales": true
+    },
+    "analisis": {
+      "resumen": "",
+      "descripcion": ""
+    },
+    "conclusiones": [],
+    "recomendaciones": [],
+    "tags": [
+      "accidente",
+      "colisión",
+      "descarrilamiento",
+      "factor humano",
+      "señalización",
+      "mantenimiento",
+      "infraestructura",
+      "velocidad",
+      "alcoholemia",
+      "fatal"
+    ],
+    "enlaces": {
+      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+      "pdf_local": "pdfs/2017/191217-170728-if-sn_ciaf.pdf"
+    },
+    "similares": [
+      "2017-0012/2017",
+      "2017-0001/2017",
+      "2017-0025/2017",
+      "2017-0024/2017",
+      "2017-0040/2017"
+    ]
+  },
+  {
     "id": "2017-0038/2017",
     "year": 2017,
     "expediente": "0038/2017",
@@ -569,7 +798,11 @@
       "triple fallo simultáneo, excepto en el enclavamiento de Puebla de Sanabria que se produjo por",
       "un doble fallo. El nivel de integridad de seguridad exigido a estas instalaciones (EN-50129) es"
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF-DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002-SC-R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente.",
+      "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc.",
+      "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación."
+    ],
     "tags": [
       "incidente",
       "factor humano",
@@ -664,205 +897,6 @@
       "2017-0038/2017",
       "2017-0020/2017",
       "2017-0035/2017"
-    ]
-  },
-  {
-    "id": "2017-0030/2017",
-    "year": 2017,
-    "expediente": "0030/2017",
-    "titulo": "IF 0030/2017 — El día 13 de julio de 2017 a las 17:43 horas en el p",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2017-07-13",
-    "ubicacion": {
-      "estacion": "Pradrell",
-      "provincia": "Madrid",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Mercancías",
-      "Renfe Viajeros"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0030/2017 ocurrido el 13.07.2017\n191022-170713-IF-SN_CIAF.doc\n1. RESUMEN\nEl día 13 de julio de 2017 a las 17:43 horas en el p.k. 544+649 (plena vía) de la línea 210 Miraflores –\nTarragona, entre las estaciones de Els Guiamets y Marçá-Falset, una vez pasado el apeadero de\nCapçanes (Tarragona), se produce el descarrilamiento de los vagones 10º al 15º del tren de\nmercancías 55850, de la empresa Renfe Mercancías, procedente de Samper y con destino Tarragona\nMercaderíes. El tren queda fraccionado en dos partes, la primera compuesta por la locomotora y 12\nvagones, con 3 (10º, 11º y 12º) descarrilados y la segunda por 5 vagones, con otros 3 (13º, 14º y\n15º) descarrilados.\nComo consecuencia del descarrilamiento no se producen víctimas, pero si daños mat",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado ............................................................."
-    },
-    "conclusiones": [
-      "Investigación del accidente",
-      "nº 0030/2017 ocurrido el 13.07.2017",
-      "MEDIDAS ADOPTADAS",
-      "Desde la fecha del suceso Adif ha acometido actuaciones concretas y puntuales en la línea 210, en el",
-      "tramo comprendido entre Flix y Reus, con el fin de minimizar los sucesos que por fallo de la",
-      "infraestructura se venían sucediendo.",
-      "Así pues, hasta agosto de 2019 se han realizado actuaciones de mejora en los túneles nº 73",
-      "(L´Argentera), 50 (Flix) y también en los 51, 52, 53, 62, 63 y 77. Se han sustituido carril y traviesas en",
-      "800 m en Capsanes y traviesas en 1.230 metros entre Els Guiamets y Falset. Se ha mejorado el trazado",
-      "(alineación y nivelación con maquinaria pesada) entre Flix y Reus y nivelación de desvíos en las",
-      "estaciones de Les Borges del Camp, Riudecanyes y Marça-Falset. Se han sustituido desvíos en las",
-      "estaciones de Ascó y Flix. También se ha realizado tratamiento de trincheras en 485 metros en el",
-      "ámbito de Ascó y Riudecanyes.",
-      "Está previsto continuar con trabajos de mejora en las anualidades 2019 y 2020 que comprenden:",
-      "sustitución de desvíos en Ascó; la renovación de determinadas vías en Reus y Ascó; sustitución de",
-      "traviesas en determinadas zonas y puntos; sustitución de carril en 19.000 metros y el tratamiento de",
-      "trincheras en Ascó, Guiamets y Riudecanyes. Asimismo, está previsto la redacción del proyecto",
-      "constructivo para la rehabilitación parcial de vía y otros túneles entre Faió y Reus.",
-      "Con anterioridad a este suceso, la Agencia Estatal de Seguridad Ferroviaria (en adelante AESF), realizó",
-      "una auditoría del “Plan de mantenimiento preventivo en el ámbito territorial de la Jefatura Provincial de"
-    ],
-    "recomendaciones": [],
-    "tags": [
-      "accidente",
-      "descarrilamiento",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2017/191022-170713-if-sn_ciaf.pdf"
-    },
-    "similares": [
-      "2017-0012/2017",
-      "2017-0001/2017",
-      "2017-0025/2017",
-      "2017-0024/2017",
-      "2017-0020/2017"
-    ]
-  },
-  {
-    "id": "2017-0020/2017",
-    "year": 2017,
-    "expediente": "0020/2017",
-    "titulo": "IF 0020/2017 — El incidente que se investiga tuvo lugar el día 23 de marzo de 2017, a las 10:59 horas en la estación",
-    "tipo": "incidente",
-    "tipo_suceso": "incidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2017-03-23",
-    "ubicacion": {
-      "estacion": "MADRID CHAMARTÍN (MADRID)",
-      "provincia": "Madrid",
-      "lat": 40.4726,
-      "lng": -3.6825
-    },
-    "entidades": [
-      "ADIF",
-      "Renfe Viajeros"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 0,
-      "heridos": 0,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del Incidente\nnº 0020/2017 ocurrido el 23.03.2017\n191217-170323-IF-SN_CIAF.docx\n1. RESUMEN\nEl incidente que se investiga tuvo lugar el día 23 de marzo de 2017, a las 10:59 horas en la estación\nde Madrid Chamartín, cuando el tren de cercanías 31116 de RENFE VIAJEROS, procedente de Villalba\nde Guadarrama con destino Aeropuerto – Barajas T4, circula por vía 10 de señal S1/10A en indicación\nde anuncio de parada a señal S1/10 en indicación de parada y rebasa indebidamente esta última,\nprovocando la actuación del frenado de emergencia por el sistema ASFA que hace que el tren se detenga\na 31 m de la señal rebasada y a 47 m de la travesía T72.\nSimultáneamente el tren 91963, también de RENFE VIAJEROS, procedente de Madrid Chamartín con\ndestino Madrid Príncipe Pío que hab",
-      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.............................................................................................................. 6\n2.1. SUCESO............................................................................................................................6\n2.1.1. Datos............................................................................................................................ 6\n2.1.2. Descripción del suceso................................................................................................... 7\n2.1.3. Decisión de abrir la investigación.................................................................................. 10\n2.2. CIRCUNSTANCIAS DEL SUCESO....................................................................................10\n2.2.1. Personal Ferroviario implicado ...................................................................................... 10\n2.2.2. Material rodante ....................................................."
-    },
-    "conclusiones": [
-      "Investigación del Incidente",
-      "nº 0020/2017 ocurrido el 23.03.2017",
-      "RECOMENDACIONES DE SEGURIDAD",
-      "En los cursos de formación o reciclaje",
-      "impartidos al personal de conducción,",
-      "conocimiento de la infraestructura, debe",
-      "mantener constantemente la atención a",
-      "incompatibilidades entre itinerarios por",
-      "deslizamiento en salidas hacia la travesía",
-      "Establecer dentro del SGS de ADIF los",
-      "procedimientos generales y específicos",
-      "alcance y nivel de detalle a seguir en la",
-      "elaboración de las Consignas que regulan",
-      "la operatividad (Consignas A) en base al",
-      "análisis de riesgo previamente realizado",
-      "Madrid, 17 de diciembre de 2019"
-    ],
-    "recomendaciones": [],
-    "tags": [
-      "incidente",
-      "colisión",
-      "factor humano",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2017/191217-170323-if-sn_ciaf.pdf"
-    },
-    "similares": [
-      "2017-0007/2017",
-      "2017-0024/2017",
-      "2017-0043/2017",
-      "2017-0038/2017",
-      "2017-0040/2017"
-    ]
-  },
-  {
-    "id": "2017-0035/2017",
-    "year": 2017,
-    "expediente": "0035/2017",
-    "titulo": "IF 0035/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la",
-    "tipo": "accidente",
-    "tipo_suceso": "accidente",
-    "gravedad": "fatal",
-    "fecha_suceso": "2017-07-28",
-    "ubicacion": {
-      "estacion": "FRANÇA (BARCELONA)",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
-    },
-    "entidades": [
-      "ADIF",
-      "FEVE",
-      "Renfe Viajeros"
-    ],
-    "consecuencias": {
-      "victimas_mortales": 3,
-      "heridos": 1,
-      "danos_materiales": true
-    },
-    "analisis": {
-      "resumen": "",
-      "descripcion": ""
-    },
-    "conclusiones": [],
-    "recomendaciones": [],
-    "tags": [
-      "accidente",
-      "colisión",
-      "descarrilamiento",
-      "factor humano",
-      "señalización",
-      "mantenimiento",
-      "infraestructura",
-      "velocidad",
-      "alcoholemia",
-      "fatal"
-    ],
-    "enlaces": {
-      "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
-      "pdf_local": "pdfs/2017/191217-170728-if-sn_ciaf.pdf"
-    },
-    "similares": [
-      "2017-0012/2017",
-      "2017-0001/2017",
-      "2017-0025/2017",
-      "2017-0024/2017",
-      "2017-0040/2017"
     ]
   },
   {
