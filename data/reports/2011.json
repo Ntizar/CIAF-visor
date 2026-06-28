@@ -21,7 +21,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El día 4 de enero de 2011, a las 19:20 horas, el tren de viajeros de larga distancia 621 de Renfe Operadora descarriló al efectuar su paso por el cambiador de ancho de Zaragoza Delicias. El descarrilamiento afectó a la rueda derecha del segundo eje del primer bogie, la cual no realizó el cambio de ancho debido a defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de bloqueo. La rueda quedó en ancho convencional, remontó el carril de guiado y circuló por el exterior del carril derecho hasta detenerse aproximadamente 25 metros después del punto de descarrilamiento.",
@@ -81,7 +86,18 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "hora": "19:20",
+    "pk": "305+740",
+    "tramo": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias",
+    "trenes": [
+      {
+        "numero": "621",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "El día 4 de enero de 2011, a las 19:20 horas, el tren de viajeros de larga distancia 621 de Renfe Operadora descarriló al efectuar su paso por el cambiador de ancho de Zaragoza Delicias. El descarrilamiento afectó a la rueda derecha del segundo eje del primer bogie, la cual no realizó el cambio de ancho debido a defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de bloqueo. La rueda quedó en ancho convencional, remontó el carril de guiado y circuló por el exterior del carril derecho hasta detenerse aproximadamente 25 metros después del punto de descarrilamiento."
   },
   {
     "id": "2011-0003/2011",
@@ -95,8 +111,8 @@
     "ubicacion": {
       "estacion": "Osuna.",
       "provincia": "Almería",
-      "lat": null,
-      "lng": null
+      "lat": 37.2373532,
+      "lng": -5.1033306
     },
     "entidades": [
       "ADIF",
@@ -179,7 +195,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ocurrido el 7 de marzo de 2011 en Flaçà (Girona) consistió en un conato de colisión entre dos trenes de Renfe Operadora tras el rebase indebido de una señal en parada por parte del tren de viajeros 212. No se registraron víctimas ni daños materiales, aunque el maquinista actuó basándose en una indicación errónea de vía libre proporcionada por el sistema ASFA. La causa principal fue el incumplimiento de las órdenes de la señal por parte del personal de conducción, siendo factor coadyuvante el funcionamiento anómalo del sistema de seguridad ASFA.",
@@ -238,7 +259,23 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "21:22",
+    "pk": "PK 224+794",
+    "tramo": "270 Barcelona San Andrés Condal - Cerbere",
+    "trenes": [
+      {
+        "numero": "212",
+        "operador": "Renfe Operadora",
+        "tipo": "Viajeros de larga distancia"
+      },
+      {
+        "numero": "93580",
+        "operador": "Renfe Operadora",
+        "tipo": "Mercancías"
+      }
+    ],
+    "resumen_verificado": "El incidente ocurrido el 7 de marzo de 2011 en Flaçà (Girona) consistió en un conato de colisión entre dos trenes de Renfe Operadora tras el rebase indebido de una señal en parada por parte del tren de viajeros 212. No se registraron víctimas ni daños materiales, aunque el maquinista actuó basándose en una indicación errónea de vía libre proporcionada por el sistema ASFA. La causa principal fue el incumplimiento de las órdenes de la señal por parte del personal de conducción, siendo factor coadyuvante el funcionamiento anómalo del sistema de seguridad ASFA."
   },
   {
     "id": "2011-12/2011",
@@ -335,7 +372,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 5 de abril de 2011 en la estación de Rubí (Barcelona) que provocó el descarrilamiento del tren de mercancías 91103 sin causar víctimas mortales ni heridos, aunque sí daños materiales en la infraestructura y el material rodante. La causa principal fue el rebase indebido de la señal de salida S1/1 en indicación de parada por parte del personal de conducción, lo que permitió al tren acceder a un cambiador de hilo no dispuesto para su ancho de vía.",
@@ -394,7 +436,23 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "hora": "15:30",
+    "pk": "PK 6+707 (Cambiador de hilo CH6)",
+    "tramo": "246 Mollet Sant Fost - Castellbisbal",
+    "trenes": [
+      {
+        "numero": "91103",
+        "operador": "Renfe Operadora",
+        "tipo": "mercancías"
+      },
+      {
+        "numero": "28548",
+        "operador": "Renfe Operadora",
+        "tipo": "cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 5 de abril de 2011 en la estación de Rubí (Barcelona) que provocó el descarrilamiento del tren de mercancías 91103 sin causar víctimas mortales ni heridos, aunque sí daños materiales en la infraestructura y el material rodante. La causa principal fue el rebase indebido de la señal de salida S1/1 en indicación de parada por parte del personal de conducción, lo que permitió al tren acceder a un cambiador de hilo no dispuesto para su ancho de vía."
   },
   {
     "id": "2011-0017/2011",
@@ -418,7 +476,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren 15400 ocurrido el 23 de abril de 2011 en L’Hospitalet de Llobregat no provocó víctimas ni daños materiales graves. La causa principal fue la rotura del último eje de la composición, originada por una fisura producida por un arco eléctrico derivado del mal funcionamiento de la toma de tierra.",
@@ -482,7 +545,18 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "hora": "09:28",
+    "pk": "PK 675+220",
+    "tramo": "200 Barcelona Sants – Madrid Chamartín",
+    "trenes": [
+      {
+        "numero": "15400",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de media distancia (UT 470100 / Tipo 140)"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren 15400 ocurrido el 23 de abril de 2011 en L’Hospitalet de Llobregat no provocó víctimas ni daños materiales graves. La causa principal fue la rotura del último eje de la composición, originada por una fisura producida por un arco eléctrico derivado del mal funcionamiento de la toma de tierra."
   },
   {
     "id": "2011-0018/2011",
@@ -506,7 +580,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 18,
+      "victimas_heridos": 18,
+      "victimas_total": 18
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en el paso a nivel clase A entre Villargordo y Grañena, donde el tren 18032 arrolló a una furgoneta que invadió la vía. El suceso provocó la muerte del conductor del vehículo y daños materiales en el tren, sin que la actuación del maquinista fuera imputable. La causa principal del accidente fue la invasión del paso a nivel por parte del vehículo en el momento del paso del tren.",
@@ -554,7 +633,23 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "hora": "09:49",
+    "pk": "PK 110+000",
+    "tramo": "262 Barcelona Sagrera – Bifurcación Clot",
+    "trenes": [
+      {
+        "numero": "28913",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      },
+      {
+        "numero": "37507",
+        "operador": "Renfe Operadora",
+        "tipo": "material vacío del tren 00476"
+      }
+    ],
+    "resumen_verificado": "El 28 de abril de 2011, en el apeadero de El Clot-Aragó (Barcelona), se produjo una colisión por alcance entre dos trenes de Renfe Operadora. El suceso causó dieciocho heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal de conducción, al no respetar la marcha a la vista reglamentaria."
   },
   {
     "id": "2011-0023/2011",
@@ -578,7 +673,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 16 de mayo de 2011, en la estación de Los Gavilanes (Madrid), se produjo un incidente consistente en un conato de colisión entre dos trenes de alta velocidad de Renfe Operadora. No hubo víctimas ni daños materiales, aunque se registraron retrasos en la circulación. La causa principal fue el rebase indebido de la señal de parada por parte del tren 5180, agravado por el fallo simultáneo de los sistemas de seguridad LZB y ASFA Digital.",
@@ -615,7 +715,23 @@
       "2011-0028/2011",
       "2011-0062/2011",
       "2011-0061/2011"
-    ]
+    ],
+    "hora": "19:03",
+    "pk": "PK 12+379",
+    "tramo": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+    "trenes": [
+      {
+        "numero": "5180",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de alta velocidad (Talgo S-112)"
+      },
+      {
+        "numero": "8182",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "El 16 de mayo de 2011, en la estación de Los Gavilanes (Madrid), se produjo un incidente consistente en un conato de colisión entre dos trenes de alta velocidad de Renfe Operadora. No hubo víctimas ni daños materiales, aunque se registraron retrasos en la circulación. La causa principal fue el rebase indebido de la señal de parada por parte del tren 5180, agravado por el fallo simultáneo de los sistemas de seguridad LZB y ASFA Digital."
   },
   {
     "id": "2011-0031/2011",
@@ -639,7 +755,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista.",
@@ -693,7 +814,18 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "16:19",
+    "pk": "PK 45+104",
+    "tramo": "130 Gijón-Cercanías a Venta de Baños",
+    "trenes": [
+      {
+        "numero": "ER201",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El 24 de mayo de 2011, un descarrilamiento del tren de mercancías ER201 ocurrió entre las estaciones de Santa Lucía y Villamanín (León), sin causar víctimas mortales ni heridos, aunque provocando daños materiales significativos en el material rodante y la infraestructura. La causa principal fue un fallo de la infraestructura derivado de la falta de balasto, consecuencia de una ejecución incompleta de los trabajos de mantenimiento programados la noche anterior. Esta deficiencia permitió el desplazamiento y desalineación de la vía al paso del tren, agravado por la entrega de la vía al control de tráfico sin advertir sobre las anomalías existentes."
   },
   {
     "id": "2011-0024/2011",
@@ -717,7 +849,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0024/2011 ocurrido el 30.05.2011\nInforme final\nRESUMEN\nEl día 30 de mayo de 2011, a las 07:20 horas, en el PK 224+556 de la línea de alta velocidad\n50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro, a la entrada de la estación de Calatayud, lado\nZaragoza, se produce el descarrilamiento del tren de viajeros de media distancia 8476 de la empresa\nferroviaria Renfe Operadora. Descarrilan los cuatro ejes del primer coche de la composición, en el\nsentido de la marcha.\nNo se produjeron daños personales como consecuencia del descarrilamiento.\nConclusión: El accidente tuvo su origen en un fallo técnico de las instalaciones, al no\nfuncionar adecuadamente el desvío S1 CAL 2.\nRecomendaciones:\nDestinatario final\nNúmero\nRecomendación\nDirección General de\nFerr",
@@ -769,7 +906,18 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "07:20",
+    "pk": "PK 224+556",
+    "tramo": "50 Madrid Puerta de Atocha a Límite Adif- TP Ferro",
+    "trenes": [
+      {
+        "numero": "8476",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de media distancia (Avant), serie 104"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren 8476 de Renfe Operadora ocurrió el 30 de mayo de 2011 en la estación de Calatayud (Zaragoza), sin causar víctimas mortales ni heridos, aunque provocó daños materiales en el material rodante y la infraestructura. La causa principal del suceso fue un fallo técnico en el desvío S1 CAL 2, que no funcionó adecuadamente al no comprobarse su posición."
   },
   {
     "id": "2011-0026/2011",
@@ -792,7 +940,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 95053 ocurrido el 23 de mayo de 2010 entre Pozuelo y Príncipe Pío (Madrid) no provocó víctimas mortales ni heridos, aunque sí daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue el decalado de la rueda derecha del primer eje del duodécimo vagón, probablemente debido a un mal calado de dicha rueda.",
@@ -844,7 +997,18 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2011/IF010611310112CIAF.pdf"
     },
-    "similares": []
+    "similares": [],
+    "hora": "16:00",
+    "pk": "PK 27+510",
+    "tramo": "11 Ferrol - Gijón",
+    "trenes": [
+      {
+        "numero": "9203",
+        "operador": "Feve",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El incidente ferroviario ocurrido el 1 de junio de 2011 en la estación de Trasona (Asturias) provocó el escape a la deriva de ocho plataformas portabobinas vacías, sin causar víctimas ni daños materiales. La causa principal fue el incumplimiento normativo por parte del personal ferroviario, que no realizó correctamente el frenado y el corte del material, ni modificó la posición de las agujas para contener el deslizamiento."
   },
   {
     "id": "2011-0028/2011",
@@ -868,7 +1032,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0028/2011 ocurrido el 10.06.2011\nInforme final\nRESUMEN\nEl día 10 de junio de 2011, a las 09:50 horas, en el PK 11+100 de la línea de alta velocidad 10 Madrid–\nPuerta de Atocha a Sevilla–Santa Justa, el tren de viajeros 2071 arrolla un tubo metálico que cruza\nsobre las vías, al desviarse de la hinca dirigida que se estaba realizando para el soterramiento de una\nlínea eléctrica.\nConclusión: El accidente tuvo su origen al simultanear los trabajos que afectaban al cruce\nsubterráneo de la plataforma de la vía con la circulación de trenes, incumpliéndose las condiciones de\nseguridad estipuladas en la autorización de ejecución de dichos trabajos.\nRecomendaciones:\nDestinatario final\nNúmero\nRecomendación\n28/11-1\nEn todas las autorizaciones de obras, que ",
@@ -923,7 +1092,23 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "09:50",
+    "pk": "PK 11+100",
+    "tramo": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+    "trenes": [
+      {
+        "numero": "2071",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de alta velocidad Tipo 300"
+      },
+      {
+        "numero": "2100",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de alta velocidad"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 10 de junio de 2011 en el PK 11+100 de la línea Madrid-Sevilla, donde el tren 2071 arrolló un tubo metálico que invadió el gálibo de la vía. El suceso no causó víctimas mortales ni heridos, pero provocó daños materiales en el material rodante y la infraestructura, además de graves interrupciones en la circulación. La causa principal fue el incumplimiento de las condiciones de seguridad de la autorización de obras, al simultanear trabajos de hinca dirigida con la circulación de trenes en horario comercial."
   },
   {
     "id": "2011-0032/2011",
@@ -937,8 +1122,8 @@
     "ubicacion": {
       "estacion": "Siete Picos",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.781549,
+      "lng": -4.0333834
     },
     "entidades": [
       "ADIF",
@@ -947,7 +1132,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 26 de junio de 2009, en la estación de Humanes (Madrid), se produjo un conato de colisión entre dos trenes de cercanías que no causó víctimas ni daños materiales. La causa principal del incidente fue el fallo humano de la jefa de circulación, quien estableció incorrectamente el itinerario de salida del tren HU171.",
@@ -997,7 +1187,23 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "11:58",
+    "pk": "PK 7+165",
+    "tramo": "116 Los Cotos a Cercedilla",
+    "trenes": [
+      {
+        "numero": "21907",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      },
+      {
+        "numero": "S1 (442002)",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de socorro"
+      }
+    ],
+    "resumen_verificado": "El 30 de junio de 2011, entre las estaciones de Siete Picos y Puerto de Navacerrada, se produjo el descarrilamiento de dos trenes de cercanías sin causar víctimas ni heridos graves. Las consecuencias se limitaron a daños materiales en el material rodante y en la infraestructura de la vía. La causa principal del accidente fue el fallo técnico de la infraestructura debido al mal estado de las traviesas de madera, la clavazón y el balasto."
   },
   {
     "id": "2011-0043/2011",
@@ -1011,8 +1217,8 @@
     "ubicacion": {
       "estacion": "Canfranc",
       "provincia": "Huesca",
-      "lat": null,
-      "lng": null
+      "lat": 42.7533689,
+      "lng": -0.4796771
     },
     "entidades": [
       "ADIF",
@@ -1021,7 +1227,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 54583 ocurrido el 11 de julio de 2011 en Villanúa (Huesca) no provocó víctimas mortales ni heridos, aunque causó daños materiales significativos en la infraestructura y el material rodante. La causa principal del suceso fue el fallo de la infraestructura debido a un mal estado general de la vía, caracterizado por el deterioro de traviesas, desgaste excesivo de carriles y contaminación del balasto. Estos defectos provocaron valores de peraltes, alabeos y sobreanchos fuera de tolerancia que favorecieron el remonte de la rueda y el posterior descarrilamiento.",
@@ -1048,7 +1259,18 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "11:53",
+    "pk": "PK 11+758",
+    "tramo": "204 Bif. Canfranc - Canfranc",
+    "trenes": [
+      {
+        "numero": "54583",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías 54583 ocurrido el 11 de julio de 2011 en Villanúa (Huesca) no provocó víctimas mortales ni heridos, aunque causó daños materiales significativos en la infraestructura y el material rodante. La causa principal del suceso fue el fallo de la infraestructura debido a un mal estado general de la vía, caracterizado por el deterioro de traviesas, desgaste excesivo de carriles y contaminación del balasto. Estos defectos provocaron valores de peraltes, alabeos y sobreanchos fuera de tolerancia que favorecieron el remonte de la rueda y el posterior descarrilamiento."
   },
   {
     "id": "2011-0044/2011",
@@ -1072,7 +1294,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 97845 ocurrido el 13 de julio de 2011 entre las estaciones de Teruel y Caparrates no provocó víctimas mortales ni heridos, aunque sí cuantiosos daños materiales en el material rodante y la infraestructura. La causa principal fue una confluencia de factores que incluyeron el mal estado de la vía, con fuertes alabeos y baches, y una inadecuada estiba de la carga en el noveno vagón. Estas condiciones, sumadas a un trazado desfavorable con curva cerrada y rampa pronunciada, provocaron el remonte y posterior descarrilamiento de la rueda derecha del primer eje.",
@@ -1111,7 +1338,18 @@
       "2011-0007/2011",
       "2011-0025/2011",
       "2011-0028/2011"
-    ]
+    ],
+    "hora": "21:45",
+    "pk": "PK 137+810",
+    "tramo": "610 Sagunto – Bif. Teruel",
+    "trenes": [
+      {
+        "numero": "97845",
+        "operador": "Logitren",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías 97845 ocurrido el 13 de julio de 2011 entre las estaciones de Teruel y Caparrates no provocó víctimas mortales ni heridos, aunque sí cuantiosos daños materiales en el material rodante y la infraestructura. La causa principal fue una confluencia de factores que incluyeron el mal estado de la vía, con fuertes alabeos y baches, y una inadecuada estiba de la carga en el noveno vagón. Estas condiciones, sumadas a un trazado desfavorable con curva cerrada y rampa pronunciada, provocaron el remonte y posterior descarrilamiento de la rueda derecha del primer eje."
   },
   {
     "id": "2011-0036/2011",
@@ -1125,8 +1363,8 @@
     "ubicacion": {
       "estacion": "Villaluenga-Yuncler.",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.032306,
+      "lng": -3.902171
     },
     "entidades": [
       "ADIF",
@@ -1135,7 +1373,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 13 de julio de 2009 en el paso a nivel particular de Jaca (Huesca), donde el tren 15653 arrolló a un camión articulado. La colisión provocó heridos leves en el conductor del vehículo y una viajera, además de daños materiales significativos en el tren y la infraestructura. La causa principal del siniestro fue la ocupación indebida del gálibo de la vía por parte del camión, que invadió el paso a nivel sin respetar la señalización de stop.",
@@ -1190,7 +1433,18 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "16:25",
+    "pk": "PK 66+480",
+    "tramo": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+    "trenes": [
+      {
+        "numero": "17016",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de media distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 20 de julio de 2011 en Bargas (Toledo), donde el tren 17016 arrolló a un operario que realizaba trabajos de mantenimiento en un puente. La consecuencia fue la muerte de la persona afectada y leves daños materiales en el material rodante. La causa principal fue el incumplimiento de la normativa reglamentaria al encontrarse el trabajador dentro del gálibo de la vía durante el paso del tren."
   },
   {
     "id": "2011-0040/2011",
@@ -1214,7 +1468,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 27 de agosto de 2011 en la estación de Granollers-Centre (Barcelona), donde el tren de cercanías 28480 rebasó una señal de parada y descarriló. El suceso no provocó víctimas mortales ni heridos, aunque causó daños materiales en la infraestructura y el material rodante, además de interrumpir la circulación durante varias horas. La causa principal fue el incumplimiento de las órdenes de la señal por parte del personal de conducción, derivado de la confusión del maquinista con la indicación de vía libre de otra señal.",
@@ -1250,7 +1509,18 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "hora": "21:27",
+    "pk": "PK 134+932",
+    "tramo": "270 Bifurcación Sagrera - Cerbere",
+    "trenes": [
+      {
+        "numero": "28480",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 27 de agosto de 2011 en la estación de Granollers-Centre (Barcelona), donde el tren de cercanías 28480 rebasó una señal de parada y descarriló. El suceso no provocó víctimas mortales ni heridos, aunque causó daños materiales en la infraestructura y el material rodante, además de interrumpir la circulación durante varias horas. La causa principal fue el incumplimiento de las órdenes de la señal por parte del personal de conducción, derivado de la confusión del maquinista con la indicación de vía libre de otra señal."
   },
   {
     "id": "2011-0047/2011",
@@ -1274,7 +1544,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0047/2011 ocurrido el 12.10.2011\nInforme final\nRESUMEN\nEl día 12 de octubre de 2011, a las 17:40 horas, en la estación de Vilamalla, de la línea 270 Bifurcación\nSagrera a Cerbere, se produce el descarrilamiento del tren 15837 de viajeros de media distancia, de\nancho convencional, perteneciente a la empresa ferroviaria Renfe Operadora. Descarrilan los dos\nprimeros ejes del primer bogie y una rueda del segundo bogie. El descarrilamiento se produce en el\ncambio nº5 que se encontraba en posición inadecuada para ancho convencional\nUn viajero resulta herido de carácter leve.\nConclusión: El accidente tuvo su origen cuando un fallo técnico de las instalaciones no fue\ndebidamente gestionado por el personal afectado; en primer lugar por el jefe de circula",
@@ -1336,7 +1611,18 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0063/2011"
-    ]
+    ],
+    "hora": "17:40",
+    "pk": "PK 241+083",
+    "tramo": "270 Bifurcación Sagrera a Cerbere",
+    "trenes": [
+      {
+        "numero": "15837",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de media distancia, de ancho convencional, serie 470"
+      }
+    ],
+    "resumen_verificado": "El día 12 de octubre de 2011, a las 17:40 horas, en la estación de Vilamalla, se produce el descarrilamiento del tren 15837 de viajeros de media distancia de Renfe Operadora. El descarrilamiento ocurre al pasar el tren por el cambio nº5, que se encontraba en posición invertida y orientado hacia una vía de ancho UIC, incompatible con el ancho convencional del tren. El accidente tuvo su origen en un fallo técnico de las instalaciones no debidamente gestionado por el jefe de circulación, quien autorizó un rebase sobre un itinerario inexistente, y por el personal de conducción, al transitar por un tramo con interrupción total."
   },
   {
     "id": "2011-0049/2011",
@@ -1360,7 +1646,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 26 de octubre de 2011 en la estación de Sant Pol de Mar (Barcelona), que provocó el descarrilamiento de un tren de cercanías sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y la infraestructura. La causa principal fue el incumplimiento de las órdenes de señalización por parte del maquinista, quien rebasó una señal en parada y realizó posteriormente un retroceso no autorizado sobre una aguja talonada.",
@@ -1413,7 +1704,23 @@
       "2011-0051/2011",
       "2011-0063/2011",
       "2011-0007/2011"
-    ]
+    ],
+    "hora": "16:24",
+    "pk": "PK 44+979",
+    "tramo": "276 Bifurcación Sagrera a Maçanet-Massanes",
+    "trenes": [
+      {
+        "numero": "25736",
+        "operador": "Renfe Operadora",
+        "tipo": "Cercanías"
+      },
+      {
+        "numero": "25639",
+        "operador": "Renfe Operadora",
+        "tipo": "Cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 26 de octubre de 2011 en la estación de Sant Pol de Mar (Barcelona), que provocó el descarrilamiento de un tren de cercanías sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y la infraestructura. La causa principal fue el incumplimiento de las órdenes de señalización por parte del maquinista, quien rebasó una señal en parada y realizó posteriormente un retroceso no autorizado sobre una aguja talonada."
   },
   {
     "id": "2011-0050/2011",
@@ -1436,7 +1743,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 24 de septiembre de 2009 en el apeadero de Cazoña (Santander) provocó la rotura de un eje en el tren 6722 sin causar víctimas ni daños materiales graves. La causa principal fue una fisura previa en el eje, originada por entallas producidas durante un proceso de calado, que se propagó hasta la rotura completa de la mangueta.",
@@ -1472,7 +1784,23 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2011/IF271011240712CIAF.pdf"
     },
-    "similares": []
+    "similares": [],
+    "hora": "14:25",
+    "pk": "540+075",
+    "tramo": "24 Santander - Bilbao",
+    "trenes": [
+      {
+        "numero": "6803",
+        "operador": "Feve",
+        "tipo": "Regional de viajeros / UTDE"
+      },
+      {
+        "numero": "6414",
+        "operador": "Feve",
+        "tipo": "Regional de viajeros"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 27 de octubre de 2011 en la estación de Astillero (Cantabria), donde el tren 6803 de Feve rebasó una señal de parada provocando el descarrilamiento parcial del primer bogie. No se registraron víctimas mortales ni heridos, aunque se produjeron daños materiales en la infraestructura y el material rodante. La causa principal del suceso fue el incumplimiento por parte del personal de conducción de las órdenes de las señales, al no detenerse ante la indicación de parada de la señal S1/1L."
   },
   {
     "id": "2011-0051/2011",
@@ -1496,7 +1824,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del vagón cisterna del tren de mercancías 83036 ocurrió el 20 de mayo de 2013 entre Torremejía y Almendralejo (Badajoz), sin causar víctimas ni daños materiales graves. La causa principal identificada fue la existencia de defectos de nivelación, peralte y alabeo en la vía en las proximidades del punto de suceso.",
@@ -1543,7 +1876,23 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "10:43",
+    "pk": "PK 110+311",
+    "tramo": "268 Bif. Aragó – Barcelona Sant Andreu Comtal",
+    "trenes": [
+      {
+        "numero": "37537",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia (material vacío de tren 874)"
+      },
+      {
+        "numero": "274",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 5 de noviembre de 2011 en la Bifurcación Sagrera de Barcelona, donde el tren 37537 rebasó indebidamente una señal de parada, generando una situación de conato de colisión con otro tren. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en la circulación. La causa principal fue el incumplimiento de las órdenes de la señal por parte del personal de conducción."
   },
   {
     "id": "2011-0062/2011",
@@ -1557,8 +1906,8 @@
     "ubicacion": {
       "estacion": "Loriguilla",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 39.4905062,
+      "lng": -0.5722427
     },
     "entidades": [
       "ADIF",
@@ -1567,7 +1916,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora.",
@@ -1616,7 +1970,28 @@
       "2011-0063/2011",
       "2011-0007/2011",
       "2011-0025/2011"
-    ]
+    ],
+    "hora": "07:52",
+    "pk": null,
+    "tramo": "310 Aranjuez – Valencia Estació del Nord",
+    "trenes": [
+      {
+        "numero": "24406",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de cercanías"
+      },
+      {
+        "numero": "24403",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de cercanías"
+      },
+      {
+        "numero": "24404",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "El 15 de diciembre de 2011, un descarrilamiento ocurrió en la línea 310 entre Aldaia y Valencia, provocado por la colisión del tren 24406 con un barrón soporte del captador ASFA desprendido del tren anterior. El suceso no causó víctimas mortales ni heridos, aunque generó daños materiales cuantificados en 27.431,69 euros y alteraciones en la circulación. La causa principal del accidente fue un fallo técnico del material rodante, consistente en la rotura y desprendimiento del barrón de sujeción del captador ASFA debido a fatiga y oxidación."
   },
   {
     "id": "2011-0061/2011",
@@ -1640,7 +2015,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 10 de junio de 2011 en el PK 11+100 de la línea Madrid-Sevilla, donde el tren 2071 arrolló un tubo metálico que invadió el gálibo de la vía. El suceso no causó víctimas mortales ni heridos, pero provocó daños materiales en el material rodante y la infraestructura, además de graves interrupciones en la circulación. La causa principal fue el incumplimiento de las condiciones de seguridad de la autorización de obras, al simultanear trabajos de hinca dirigida con la circulación de trenes en horario comercial.",
@@ -1693,7 +2073,28 @@
       "2011-0028/2011",
       "2011-0062/2011",
       "2011-0023/2011"
-    ]
+    ],
+    "hora": "05:29",
+    "pk": null,
+    "tramo": "900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)",
+    "trenes": [
+      {
+        "numero": "20204",
+        "operador": "Renfe Operadora",
+        "tipo": "Cercanías (Tipo 120A)"
+      },
+      {
+        "numero": "20004",
+        "operador": "Renfe Operadora",
+        "tipo": "Cercanías (Tipo 120A)"
+      },
+      {
+        "numero": "20207",
+        "operador": "Renfe Operadora",
+        "tipo": "Cercanías (Tipo 120A)"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 19 de diciembre de 2011 en la estación de Madrid Chamartín que provocó la suspensión de la circulación y retrasos en 90 trenes, sin causar víctimas ni daños materiales. La causa principal fue un fallo humano consistente en la conexión incorrecta de los conectores de las agujas 9 y 27 durante trabajos de mantenimiento, lo que generó una discordancia entre las señales y la posición real de las vías. Esta situación se vio agravada por la ausencia de pruebas de concordancia en campo y la falta de identificación clara de los conectores."
   },
   {
     "id": "2011-0063/2011",
@@ -1717,7 +2118,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 11 de noviembre de 2010, entre las estaciones de Algemesí y Benifaió, se produjo el descarrilamiento del tren de mercancías COX26, sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y retrasos significativos en la circulación. La causa principal del suceso fue un fallo técnico del material rodante, concretamente el fallo mecánico de un rodamiento que provocó la pérdida de la caja de grasa y la posterior basculación del vagón.",
@@ -1772,6 +2178,17 @@
       "2011-0049/2011",
       "2011-0051/2011",
       "2011-0007/2011"
-    ]
+    ],
+    "hora": "11:38",
+    "pk": null,
+    "tramo": "060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias",
+    "trenes": [
+      {
+        "numero": "533",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia (serie 120 de CAF)"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren 533 de Renfe Operadora ocurrió el 27 de diciembre de 2011 en el cambiador de ancho de Zaragoza Delicias, sin causar víctimas mortales ni heridos, aunque provocó daños materiales en el material rodante y la infraestructura. La causa principal fue el fallo del sistema de cambio de ancho debido al desenroscamiento de los tornillos de sujeción del mecanismo de bloqueo de una rueda, lo que impidió su adaptación al ancho UIC."
   }
 ]

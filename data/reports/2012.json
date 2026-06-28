@@ -20,7 +20,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 9,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 9,
+      "victimas_heridos": 9,
+      "victimas_total": 9
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 12 de enero de 2012 en la estación de San Claudio (Oviedo), donde el tren 1301 rebasó indebidamente una señal de parada y colisionó frontalmente con el tren 3720. La colisión provocó el descarrilamiento parcial del tren entrante y causó nueve heridos de carácter leve, sin fallecidos. La causa principal del suceso fue el incumplimiento de las órdenes de señalización por parte del personal de conducción del tren 1301.",
@@ -72,7 +77,23 @@
       "2012-0074/2012",
       "2012-0035/2012",
       "2012-0005/2012"
-    ]
+    ],
+    "hora": "14:19",
+    "pk": "5+265",
+    "tramo": "12 Oviedo - San Esteban",
+    "trenes": [
+      {
+        "numero": "1301",
+        "operador": "Feve",
+        "tipo": "Tren regional de viajeros"
+      },
+      {
+        "numero": "3720",
+        "operador": "Feve",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 12 de enero de 2012 en la estación de San Claudio (Oviedo), donde el tren 1301 rebasó indebidamente una señal de parada y colisionó frontalmente con el tren 3720. La colisión provocó el descarrilamiento parcial del tren entrante y causó nueve heridos de carácter leve, sin fallecidos. La causa principal del suceso fue el incumplimiento de las órdenes de señalización por parte del personal de conducción del tren 1301."
   },
   {
     "id": "2012-0005/2012",
@@ -95,7 +116,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías EB904 ocurrió el 15 de enero de 2012 en la estación de Trubia (Asturias), sin causar víctimas mortales ni heridos, aunque provocó daños materiales valorados en aproximadamente 98.000 euros. La causa principal del accidente fue el fallo técnico de la infraestructura, derivado de una alineación y nivelación de vía deficientes, baches considerables y contaminación del balasto.",
@@ -153,7 +179,18 @@
       "2012-0004/2012",
       "2012-0074/2012",
       "2012-0035/2012"
-    ]
+    ],
+    "hora": "08:12",
+    "pk": "PK 298+108",
+    "tramo": "12 San Esteban de Pravia – Collanzo",
+    "trenes": [
+      {
+        "numero": "EB904",
+        "operador": "Feve",
+        "tipo": "Tren especial de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías EB904 ocurrió el 15 de enero de 2012 en la estación de Trubia (Asturias), sin causar víctimas mortales ni heridos, aunque provocó daños materiales valorados en aproximadamente 98.000 euros. La causa principal del accidente fue el fallo técnico de la infraestructura, derivado de una alineación y nivelación de vía deficientes, baches considerables y contaminación del balasto."
   },
   {
     "id": "2012-0007/2012",
@@ -167,8 +204,8 @@
     "ubicacion": {
       "estacion": "Barcelona Estació de",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.4309797,
+      "lng": 2.1831056
     },
     "entidades": [
       "ADIF",
@@ -260,7 +297,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 5,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 1,
+      "victimas_leves": 10,
+      "victimas_heridos": 11,
+      "victimas_total": 11
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 30 de enero de 2009 en la estación de Sodupe, que provocó la muerte de un joven de 18 años al ser arrollado por el tren 8604. La causa principal del siniestro fue la acción de la víctima, quien sorteó las barreras bajadas y las señales de protección para cruzar la vía a pesar de la proximidad del tren. No se identificaron fallos en el material rodante, las instalaciones ni en la actuación del maquinista, quien cumplió con los protocolos de seguridad establecidos.",
@@ -319,7 +361,18 @@
       "2012-0061/2012",
       "2012-0064/2012",
       "2012-0022/2012"
-    ]
+    ],
+    "hora": "09:43",
+    "pk": null,
+    "tramo": "",
+    "trenes": [
+      {
+        "numero": "28867",
+        "operador": "Renfe Operadora",
+        "tipo": "cercanías"
+      }
+    ],
+    "resumen_verificado": "El 9 de febrero de 2012, un tren de cercanías colisionó con la topera de la vía 4 en la estación de Mataró (Barcelona). El suceso provocó 11 heridos, uno de ellos grave, y daños materiales significativos en el material rodante y la infraestructura. La causa principal del accidente fue un fallo humano del maquinista, derivado del incumplimiento de las señales de parada y la falta de atención durante la conducción."
   },
   {
     "id": "2012-0022/2012",
@@ -343,7 +396,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 12 de marzo de 2012 en la estación de Socuéllamos, donde el tren 222 arrolló maquinaria y herramientas de una brigada de mantenimiento sin causar víctimas mortales ni heridos. Las consecuencias se limitaron a daños materiales en el material rodante y en las instalaciones, además de retrasos en la circulación. La causa principal fue el fallo humano del personal de circulación, que estableció un itinerario por una vía ocupada, y del encargado de los trabajos, que no tomó las medidas de seguridad pertinentes.",
@@ -404,7 +462,23 @@
       "2012-0061/2012",
       "2012-0010/2012",
       "2012-0007/2012"
-    ]
+    ],
+    "hora": "11:30",
+    "pk": "188+690",
+    "tramo": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "trenes": [
+      {
+        "numero": "222",
+        "operador": "Renfe Operadora",
+        "tipo": "Larga distancia (Tipo 180 A)"
+      },
+      {
+        "numero": "18080",
+        "operador": "Renfe Operadora",
+        "tipo": "Media distancia (Tipo 160 A)"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 12 de marzo de 2012 en la estación de Socuéllamos, donde el tren 222 arrolló maquinaria y herramientas de una brigada de mantenimiento sin causar víctimas mortales ni heridos. Las consecuencias se limitaron a daños materiales en el material rodante y en las instalaciones, además de retrasos en la circulación. La causa principal fue el fallo humano del personal de circulación, que estableció un itinerario por una vía ocupada, y del encargado de los trabajos, que no tomó las medidas de seguridad pertinentes."
   },
   {
     "id": "2012-0028/2012",
@@ -491,7 +565,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia) el 4 de marzo de 2020, que no provocó víctimas ni daños materiales. La causa principal fue el fallo humano del Responsable de Circulación, quien expidió un tren sin establecer el bloqueo correspondiente al desactivar parcialmente los automatismos de seguridad. Este error generó una situación de riesgo de colisión frontal que fue evitada gracias a la intervención inmediata del controlador.",
@@ -542,7 +621,23 @@
       "2012-0045/2012",
       "2012-0076/2012",
       "2012-0040/2012"
-    ]
+    ],
+    "hora": "23:58",
+    "pk": "16+973",
+    "tramo": "214 La Cartuja a CIM de Zaragoza",
+    "trenes": [
+      {
+        "numero": "99561",
+        "operador": "Logitren",
+        "tipo": "Mercancías (T100)"
+      },
+      {
+        "numero": "91182",
+        "operador": "Renfe Operadora",
+        "tipo": "Pasajeros"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 26 de abril de 2012 en la estación de Río Huerva (Zaragoza), donde el tren de mercancías 99561 rebasó indebidamente una señal en parada, provocando un conato de colisión con el tren 91182. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos operativos. La causa principal fue el incumplimiento de la orden de parada por parte del personal de conducción del tren 99561."
   },
   {
     "id": "2012-0034/2012",
@@ -634,7 +729,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 11 de mayo de 2012 en Narón (La Coruña), donde el tren de cercanías 1903 colisionó con un pino caído sobre la vía. El suceso provocó el descarrilamiento y vuelco del material rodante, sin causar víctimas mortales ni heridos, aunque generó daños materiales significativos. La causa principal del accidente fue la colisión con el obstáculo, derivado de la caída del árbol por fuertes ráfagas de viento y el estado de pudrición de sus raíces.",
@@ -661,7 +761,18 @@
       "2012-0004/2012",
       "2012-0074/2012",
       "2012-0005/2012"
-    ]
+    ],
+    "hora": "20:34",
+    "pk": null,
+    "tramo": "11 Ferrol - Gijón",
+    "trenes": [
+      {
+        "numero": "1903",
+        "operador": "Feve",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 11 de mayo de 2012 en Narón (La Coruña), donde el tren de cercanías 1903 colisionó con un pino caído sobre la vía. El suceso provocó el descarrilamiento y vuelco del material rodante, sin causar víctimas mortales ni heridos, aunque generó daños materiales significativos. La causa principal del accidente fue la colisión con el obstáculo, derivado de la caída del árbol por fuertes ráfagas de viento y el estado de pudrición de sus raíces."
   },
   {
     "id": "2012-0040/2012",
@@ -685,7 +796,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 23 de mayo de 2012 en la estación de Tocón-Montefrío (Granada), donde el tren 13946 entró a vía desviada a velocidad excesiva talonando una aguja. No se registraron víctimas ni daños materiales en la infraestructura o el material rodante. La causa principal fue el incumplimiento por parte del maquinista de la indicación de anuncio de precaución de la señal de avanzada.",
@@ -718,7 +834,23 @@
       "2012-0045/2012",
       "2012-0076/2012",
       "2012-0030/2012"
-    ]
+    ],
+    "hora": "21:20",
+    "pk": "88+612",
+    "tramo": "426 Granada a Fuente de Piedra",
+    "trenes": [
+      {
+        "numero": "13946",
+        "operador": "Renfe Operadora",
+        "tipo": "Media distancia (Tipo 160 A)"
+      },
+      {
+        "numero": "175",
+        "operador": "Renfe Operadora",
+        "tipo": "Larga distancia Talgo (Tipo 200A)"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 23 de mayo de 2012 en la estación de Tocón-Montefrío (Granada), donde el tren 13946 entró a vía desviada a velocidad excesiva talonando una aguja. No se registraron víctimas ni daños materiales en la infraestructura o el material rodante. La causa principal fue el incumplimiento por parte del maquinista de la indicación de anuncio de precaución de la señal de avanzada."
   },
   {
     "id": "2012-0041/2012",
@@ -742,7 +874,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 20 de abril de 2013 en el apeadero de Anoeta (Guipúzcoa), donde un tren de larga distancia arrolló a una persona que cruzaba las vías. La consecuencia fue el fallecimiento de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó sin percatarse de la llegada del tren debido a la obstrucción de su visibilidad por otro tren estacionado.",
@@ -797,7 +934,18 @@
       "2012-0064/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ]
+    ],
+    "hora": "14:32",
+    "pk": null,
+    "tramo": "210 Miraflores - Tarragona",
+    "trenes": [
+      {
+        "numero": "92559",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El 1 de junio de 2012, en Falset (Tarragona), se produjo un descarrilamiento del tren de mercancías 92559 que causó importantes daños materiales en la infraestructura y el material rodante, sin registrar víctimas mortales ni heridos. La causa principal del accidente fue un fallo de la infraestructura derivado de la incorrecta disposición de un cupón de vía que no cumplía la normativa vigente."
   },
   {
     "id": "2012-0045/2012",
@@ -821,7 +969,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente de conato de colisión por alcance ocurrido el 15 de junio de 2012 en la estación de Arévalo (Ávila). No se registraron víctimas ni daños materiales, ya que los trenes se encontraban a más de 15 kilómetros de distancia cuando se detuvieron. La causa principal fue un fallo humano del maquinista del tren 90602, quien reanudó la marcha sin recibir la orden de marcha correspondiente.",
@@ -851,7 +1004,23 @@
       "2012-0076/2012",
       "2012-0040/2012",
       "2012-0030/2012"
-    ]
+    ],
+    "hora": "07:17",
+    "pk": "PK 169+839 / PK 169+893",
+    "tramo": "100 Madrid - Hendaya",
+    "trenes": [
+      {
+        "numero": "90602",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      },
+      {
+        "numero": "82202",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "Incidente de conato de colisión por alcance ocurrido el 15 de junio de 2012 en la estación de Arévalo (Ávila). No se registraron víctimas ni daños materiales, ya que los trenes se encontraban a más de 15 kilómetros de distancia cuando se detuvieron. La causa principal fue un fallo humano del maquinista del tren 90602, quien reanudó la marcha sin recibir la orden de marcha correspondiente."
   },
   {
     "id": "2012-0050/2012",
@@ -875,7 +1044,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 24 de septiembre de 2009 en el apeadero de Cazoña (Santander) provocó la rotura de un eje en el tren 6722 sin causar víctimas ni daños materiales graves. La causa principal fue una fisura previa en el eje, originada por entallas producidas durante un proceso de calado, que se propagó hasta la rotura completa de la mangueta.",
@@ -935,7 +1109,18 @@
       "2012-0061/2012",
       "2012-0064/2012",
       "2012-0010/2012"
-    ]
+    ],
+    "hora": "08:51",
+    "pk": null,
+    "tramo": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón",
+    "trenes": [
+      {
+        "numero": "601",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "El 21 de junio de 2012, un descarrilamiento del tren 601 de Renfe Operadora ocurrió en el cambiador de ancho de Plasencia de Jalón (Zaragoza), sin causar víctimas mortales ni heridos. Las consecuencias se limitaron a daños materiales en el material rodante y la infraestructura, además de la interrupción de la circulación durante varias horas. La causa principal fue el fallo del sistema de cambio de ancho debido a la falta de engrase en el mecanismo de enclavamiento de la rueda izquierda del octavo eje."
   },
   {
     "id": "2012-0047/2012",
@@ -959,7 +1144,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren 534 de Renfe Operadora ocurrió el 1 de julio de 2012 en el cambiador de ancho de Zaragoza Delicias, sin causar víctimas mortales ni heridos, aunque provocó daños materiales en el material rodante y la infraestructura. La causa principal fue la rotura de los tornillos de fijación del soporte de la palanca del dispositivo de seguridad, lo que impidió el desencerrojamiento y el cambio de ancho de la rueda izquierda del noveno eje.",
@@ -1008,7 +1198,18 @@
       "2012-0064/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ]
+    ],
+    "hora": "09:42",
+    "pk": "337+395",
+    "tramo": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+    "trenes": [
+      {
+        "numero": "534",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren 534 de Renfe Operadora ocurrió el 1 de julio de 2012 en el cambiador de ancho de Zaragoza Delicias, sin causar víctimas mortales ni heridos, aunque provocó daños materiales en el material rodante y la infraestructura. La causa principal fue la rotura de los tornillos de fijación del soporte de la palanca del dispositivo de seguridad, lo que impidió el desencerrojamiento y el cambio de ancho de la rueda izquierda del noveno eje."
   },
   {
     "id": "2012-0051/2012",
@@ -1032,7 +1233,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del vagón cisterna del tren de mercancías 83036 ocurrió el 20 de mayo de 2013 entre Torremejía y Almendralejo (Badajoz), sin causar víctimas ni daños materiales graves. La causa principal identificada fue la existencia de defectos de nivelación, peralte y alabeo en la vía en las proximidades del punto de suceso.",
@@ -1095,7 +1301,18 @@
       "2012-0061/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ]
+    ],
+    "hora": "00:07",
+    "pk": "PK 393+525",
+    "tramo": "400 Alcázar de San Juan - Cádiz",
+    "trenes": [
+      {
+        "numero": "CGX10",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El 19 de julio de 2012, un descarrilamiento del tren de mercancías CGX10 ocurrió entre las estaciones de Villa del Río y Montoro (Córdoba), provocando daños materiales significativos en la infraestructura y el material rodante, pero sin víctimas mortales ni heridos. La causa principal fue un fallo técnico derivado del sobrecalentamiento de la caja de grasa del eje 39, que provocó la rotura de la mangueta, agravado por una gestión inadecuada de la incidencia por parte del personal de circulación. Esta gestión deficiente se vio facilitada por la falta de comunicación inmediata vía tren tierra, lo que impidió detener el tren antes de que se produjera el descarrilamiento."
   },
   {
     "id": "2012-0053/2012",
@@ -1119,7 +1336,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 30 de septiembre de 2010 en la estación de Redondela (Pontevedra) que provocó un conato de colisión entre dos trenes de Renfe Operadora sin causar víctimas ni daños materiales. La causa principal fue el rebase indebido de la señal de salida 1S/I en indicación de parada por parte del tren 620, debido al incumplimiento de las órdenes de las señales por parte del personal de conducción.",
@@ -1151,7 +1373,23 @@
       "2012-0045/2012",
       "2012-0076/2012",
       "2012-0040/2012"
-    ]
+    ],
+    "hora": "14:15",
+    "pk": null,
+    "tramo": "900 Madrid – Chamartín / Madrid – Atocha Cercanías",
+    "trenes": [
+      {
+        "numero": "4141",
+        "operador": "Renfe Operadora",
+        "tipo": "Larga distancia"
+      },
+      {
+        "numero": "21232",
+        "operador": "Renfe Operadora",
+        "tipo": "Cercanías"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 26 de julio de 2012 en la estación de Atocha-Cercanías (Madrid) que provocó un conato de colisión entre dos trenes sin causar víctimas ni daños materiales significativos. La causa principal fue el fallo humano de la agente de circulación, quien entregó indebidamente la autorización de rebase de señal sin que el itinerario estuviera establecido ni autorizado."
   },
   {
     "id": "2012-0061/2012",
@@ -1175,7 +1413,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 10 de junio de 2011 en el PK 11+100 de la línea Madrid-Sevilla, donde el tren 2071 arrolló un tubo metálico que invadió el gálibo de la vía. El suceso no causó víctimas mortales ni heridos, pero provocó daños materiales en el material rodante y la infraestructura, además de graves interrupciones en la circulación. La causa principal fue el incumplimiento de las condiciones de seguridad de la autorización de obras, al simultanear trabajos de hinca dirigida con la circulación de trenes en horario comercial.",
@@ -1256,7 +1499,18 @@
       "2012-0064/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ]
+    ],
+    "hora": "03:07",
+    "pk": "51+800",
+    "tramo": "200 Madrid Chamartín – Barcelona Estación de Francia",
+    "trenes": [
+      {
+        "numero": "82658",
+        "operador": "Renfe Operadora",
+        "tipo": "Mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías 82658 ocurrido el 6 de septiembre de 2012 entre Almudévar y Tardienta no causó víctimas, pero provocó daños materiales en la infraestructura y material rodante. La causa principal fue la rotura de la mangueta del segundo eje del vagón decimocuarto, derivada del agarrotamiento del rodamiento por superar el plazo de mantenimiento, agravada por un fallo del detector de ejes calientes que asignó erróneamente la alarma al tren siguiente."
   },
   {
     "id": "2012-0064/2012",
@@ -1268,10 +1522,10 @@
     "gravedad": "leve",
     "fecha_suceso": "2012-10-08",
     "ubicacion": {
-      "estacion": "Zuera y la vía liberada.",
+      "estacion": "Francia",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 43.262,
+      "lng": -2.925
     },
     "entidades": [
       "ADIF",
@@ -1280,7 +1534,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren.",
@@ -1335,7 +1594,18 @@
       "2012-0061/2012",
       "2012-0074/2012",
       "2012-0010/2012"
-    ]
+    ],
+    "hora": "07:48",
+    "pk": null,
+    "tramo": "200 Madrid Chamartín – Barcelona Estación de Francia",
+    "trenes": [
+      {
+        "numero": "15640",
+        "operador": "Renfe Operadora",
+        "tipo": "Media distancia (automotor 596)"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 8 de octubre de 2012 entre las estaciones de Villanueva de Gállego y Zuera, que no provocó víctimas ni daños en la infraestructura. La causa principal fue la rotura catastrófica de un eje motor debido a una fisura inicial generada por arcos eléctricos, probablemente por contacto con equipos de soldadura."
   },
   {
     "id": "2012-0071/2012",
@@ -1424,7 +1694,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 6 de diciembre de 2012 en la estación de Laviana (Asturias) provocó la deriva de una composición durante más de 12 kilómetros sin causar víctimas ni daños materiales. La causa principal fue el fallo del material rodante debido a la ineficacia simultánea de los sistemas de freno neumático y de estacionamiento.",
@@ -1486,7 +1761,18 @@
       "2012-0034/2012",
       "2012-0035/2012",
       "2012-0005/2012"
-    ]
+    ],
+    "hora": "02:35",
+    "pk": "PK 49+700",
+    "tramo": "61 Gijón - Laviana",
+    "trenes": [
+      {
+        "numero": "4945",
+        "operador": "Feve",
+        "tipo": "Unidad de Tren Eléctrico (UTE)"
+      }
+    ],
+    "resumen_verificado": "El incidente ferroviario ocurrido el 6 de diciembre de 2012 en la estación de Laviana (Asturias) provocó la deriva de una composición durante más de 12 kilómetros sin causar víctimas ni daños materiales. La causa principal fue el fallo del material rodante debido a la ineficacia simultánea de los sistemas de freno neumático y de estacionamiento."
   },
   {
     "id": "2012-0076/2012",
@@ -1510,7 +1796,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 21 de diciembre de 2012 en la estación de Valencia-Font de Sant Lluis, donde el tren 1112 rebasó indebidamente una señal en parada, provocando un conato de colisión con el tren 10596. El suceso no causó víctimas ni daños materiales, aunque generó retrasos en la circulación. La causa principal fue el incumplimiento de la orden de parada por parte del maquinista, quien perdió la concentración debido a una avería en la cabina.",
@@ -1536,7 +1827,23 @@
       "2012-0045/2012",
       "2012-0040/2012",
       "2012-0030/2012"
-    ]
+    ],
+    "hora": "11:15",
+    "pk": "PK 2+000",
+    "tramo": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+    "trenes": [
+      {
+        "numero": "1112",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      },
+      {
+        "numero": "10596",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 21 de diciembre de 2012 en la estación de Valencia-Font de Sant Lluis, donde el tren 1112 rebasó indebidamente una señal en parada, provocando un conato de colisión con el tren 10596. El suceso no causó víctimas ni daños materiales, aunque generó retrasos en la circulación. La causa principal fue el incumplimiento de la orden de parada por parte del maquinista, quien perdió la concentración debido a una avería en la cabina."
   },
   {
     "id": "2012-0077/2012",
@@ -1561,7 +1868,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El día 24 de diciembre de 2012, a las 01:00 horas, se produce el descarrilamiento del tren de mercancías 97161 de la empresa ferroviaria Activa Rail, en la estación de Lezama (Álava) de la línea 700. Descarrila el primer eje del primer bogie del segundo vagón, produciéndose el corte de la composición. El suceso se atribuye a un fallo de la infraestructura por peraltes y alabeos fuera de tolerancia, agravado por intensas lluvias y la altura mínima de pestaña de las ruedas.",
@@ -1598,6 +1910,17 @@
       "2012-0061/2012",
       "2012-0010/2012",
       "2012-0022/2012"
-    ]
+    ],
+    "hora": "01:00",
+    "pk": "194+047",
+    "tramo": "700 Intermodal Abando Indalecio Prieto a Casetas",
+    "trenes": [
+      {
+        "numero": "97161",
+        "operador": "Activa Rail",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El día 24 de diciembre de 2012, a las 01:00 horas, se produce el descarrilamiento del tren de mercancías 97161 de la empresa ferroviaria Activa Rail, en la estación de Lezama (Álava) de la línea 700. Descarrila el primer eje del primer bogie del segundo vagón, produciéndose el corte de la composición. El suceso se atribuye a un fallo de la infraestructura por peraltes y alabeos fuera de tolerancia, agravado por intensas lluvias y la altura mínima de pestaña de las ruedas."
   }
 ]

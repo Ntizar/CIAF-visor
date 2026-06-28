@@ -21,7 +21,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 1 de enero de 2009 en la estación de Sitges, que provocó la muerte de un hombre al ser arrollado por el tren 28467. Las consecuencias incluyeron la fatalidad de la víctima y la interceptación de la vía, aunque no se registraron daños materiales en la infraestructura. La causa principal del siniestro fue el acercamiento de la víctima al tren antes de que este hubiera quedado completamente detenido.",
@@ -68,7 +73,18 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0059/2009"
-    ]
+    ],
+    "hora": "08:13",
+    "pk": "P.K. 643,230",
+    "tramo": "200 Madrid Chamartín - Barcelona Sants",
+    "trenes": [
+      {
+        "numero": "28467",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 1 de enero de 2009 en la estación de Sitges, que provocó la muerte de un hombre al ser arrollado por el tren 28467. Las consecuencias incluyeron la fatalidad de la víctima y la interceptación de la vía, aunque no se registraron daños materiales en la infraestructura. La causa principal del siniestro fue el acercamiento de la víctima al tren antes de que este hubiera quedado completamente detenido."
   },
   {
     "id": "2009-0002/2009",
@@ -93,7 +109,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en el paso a nivel de la estación de Vila-real (Castellón), donde un tren de viajeros arrolló a un motocarro. Como consecuencia del impacto, falleció el único ocupante del vehículo y se produjeron daños materiales en el tren y la vía. La causa principal del siniestro fue la irrupción del vehículo en el paso a nivel cuando las semibarreras ya se encontraban bajadas y las señales indicaban la proximidad del tren.",
@@ -143,7 +164,18 @@
       "2009-0045/2009",
       "2009-0059/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "10:57",
+    "pk": null,
+    "tramo": "144 San Juan de Nieva – Villabona (Oviedo)",
+    "trenes": [
+      {
+        "numero": "22321",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías (automotor 463010-9)"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 14 de enero de 2009 en un paso a nivel de la estación de Avilés, que provocó la muerte de una mujer al ser arrollada por el tren de cercanías 22321. La causa principal del siniestro fue la decisión de la víctima de sortear las barreras bajadas y cruzar la vía cuando los sistemas de protección ya estaban activos."
   },
   {
     "id": "2009-0003/2009",
@@ -166,7 +198,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en la estación de Getafe Industrial (Madrid) que provocó la muerte de una persona al ser arrollada por el tren 17000. La causa principal del siniestro fue el cruce de la vía por parte de la víctima en un lugar no habilitado para ello, impidiendo al maquinista evitar el impacto a pesar de aplicar el freno de emergencia. No se registraron daños materiales en el material rodante ni en la infraestructura, aunque se produjeron interrupciones en la circulación.",
@@ -224,7 +261,23 @@
       "2009-0013/2009",
       "2009-0028/2009",
       "2009-0065/2009"
-    ]
+    ],
+    "hora": "12:08",
+    "pk": "P.K.15, 057",
+    "tramo": "61 Gijón - Laviana",
+    "trenes": [
+      {
+        "numero": "5412",
+        "operador": "FEVE",
+        "tipo": "tren de cercanías"
+      },
+      {
+        "numero": "TR901",
+        "operador": "FEVE",
+        "tipo": "tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "Incidente ferroviario ocurrido el 20 de enero de 2009 en la estación de La Florida, donde el tren de cercanías 5412 rebasó una señal de parada provocando un conato de colisión. El suceso no causó víctimas mortales ni lesiones, aunque se registraron daños materiales en la aguja de la vía y retrasos en otros trenes. La causa principal fue el incumplimiento del reglamento de circulación por parte del maquinista, quien no hizo caso a la indicación de parada de la señal de salida."
   },
   {
     "id": "2009-0004/2009",
@@ -248,7 +301,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Incidente ferroviario ocurrido el 20 de enero de 2009 en la estación de La Florida, donde el tren de cercanías 5412 rebasó una señal de parada provocando un conato de colisión. El suceso no causó víctimas mortales ni lesiones, aunque se registraron daños materiales en la aguja de la vía y retrasos en otros trenes. La causa principal fue el incumplimiento del reglamento de circulación por parte del maquinista, quien no hizo caso a la indicación de parada de la señal de salida.",
@@ -309,7 +367,18 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0059/2009"
-    ]
+    ],
+    "hora": "13:46",
+    "pk": null,
+    "tramo": "276 Barcelona Sagrera a Macanet-Massanes",
+    "trenes": [
+      {
+        "numero": "25630",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 20 de enero de 2009 entre Tordera y Blanes, donde un tren de cercanías arrolló a un peatón que cruzaba la vía. El suceso provocó la muerte inmediata de la víctima y la interrupción de la circulación durante aproximadamente tres horas. La causa principal del accidente fue la invasión del galibo de la vía por parte de la víctima, quien utilizó un antiguo paso a nivel ya suprimido."
   },
   {
     "id": "2009-0005/2009",
@@ -333,7 +402,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 22 de enero de 2009 en la estación de Gavá, donde un tren de Renfe Operadora arrolló a un peatón que cruzaba las vías por un lugar no habilitado. El suceso provocó la muerte de una persona y no generó daños materiales en la infraestructura o el material rodante. La causa principal del accidente fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó sin percatarse de la aproximación del tren.",
@@ -392,7 +466,18 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0059/2009"
-    ]
+    ],
+    "hora": "07:03",
+    "pk": "PK 663,700",
+    "tramo": "200 Barcelona Sants - Madrid Chamartín",
+    "trenes": [
+      {
+        "numero": "30744",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de media distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 22 de enero de 2009 en la estación de Gavá, donde un tren de Renfe Operadora arrolló a un peatón que cruzaba las vías por un lugar no habilitado. El suceso provocó la muerte de una persona y no generó daños materiales en la infraestructura o el material rodante. La causa principal del accidente fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó sin percatarse de la aproximación del tren."
   },
   {
     "id": "2009-0007/2009",
@@ -415,7 +500,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 30 de enero de 2009 en la estación de Sodupe, que provocó la muerte de un joven de 18 años al ser arrollado por el tren 8604. La causa principal del siniestro fue la acción de la víctima, quien sorteó las barreras bajadas y las señales de protección para cruzar la vía a pesar de la proximidad del tren. No se identificaron fallos en el material rodante, las instalaciones ni en la actuación del maquinista, quien cumplió con los protocolos de seguridad establecidos.",
@@ -452,7 +542,18 @@
       "2009-0012/2009",
       "2009-0013/2009",
       "2009-0017/2009"
-    ]
+    ],
+    "hora": "19:58",
+    "pk": null,
+    "tramo": "24 Santander - Bilbao",
+    "trenes": [
+      {
+        "numero": "8604",
+        "operador": "Feve",
+        "tipo": "Tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 30 de enero de 2009 en la estación de Sodupe, que provocó la muerte de un joven de 18 años al ser arrollado por el tren 8604. La causa principal del siniestro fue la acción de la víctima, quien sorteó las barreras bajadas y las señales de protección para cruzar la vía a pesar de la proximidad del tren. No se identificaron fallos en el material rodante, las instalaciones ni en la actuación del maquinista, quien cumplió con los protocolos de seguridad establecidos."
   },
   {
     "id": "2009-0010/2009",
@@ -476,7 +577,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 30 de enero de 2009 en la estación de Sodupe, que provocó la muerte de un joven de 18 años al ser arrollado por el tren 8604. La causa principal del siniestro fue la acción de la víctima, quien sorteó las barreras bajadas y las señales de protección para cruzar la vía a pesar de la proximidad del tren. No se identificaron fallos en el material rodante, las instalaciones ni en la actuación del maquinista, quien cumplió con los protocolos de seguridad establecidos.",
@@ -519,7 +625,23 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "19:49",
+    "pk": "P.K. 551+790",
+    "tramo": "100 Madrid- Hendaya",
+    "trenes": [
+      {
+        "numero": "16005",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de media distancia"
+      },
+      {
+        "numero": "57656",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El 2 de febrero de 2009, una colisión lateral entre un tren de media distancia y uno de mercancías ocurrió en el túnel de Osina, cerca de Zegama. El suceso provocó heridas leves a una pasajera y daños materiales en el tren de viajeros. La causa principal identificada fue el defecto de la vía debido a valores incorrectos de peralte y entrecalle."
   },
   {
     "id": "2009-0011/2009",
@@ -543,7 +665,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 12 de febrero de 2009 en Cerdanyola del Vallés, donde la maquinaria de vía MQ577 rebasó una señal de parada y talonó un cambio, quedando enfrentada a un tren de mercancías a 400 metros. El suceso no provocó víctimas ni daños materiales graves, aunque interrumpió la circulación y causó retrasos en otros servicios. La causa principal fue el rebase indebido de la señalización por parte de un tren cuya tripulación carecía de la habilitación reglamentaria para conducir.",
@@ -608,7 +735,23 @@
       "2009-0045/2009",
       "2009-0064/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "22:07",
+    "pk": "351+200",
+    "tramo": "224 Cerdanyola Universitat – Cerdanyola del Vallés",
+    "trenes": [
+      {
+        "numero": "53584",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      },
+      {
+        "numero": "MQ577",
+        "operador": "Adif",
+        "tipo": "Maquinaria de vía"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 12 de febrero de 2009 en Cerdanyola del Vallés, donde la maquinaria de vía MQ577 rebasó una señal de parada y talonó un cambio, quedando enfrentada a un tren de mercancías a 400 metros. El suceso no provocó víctimas ni daños materiales graves, aunque interrumpió la circulación y causó retrasos en otros servicios. La causa principal fue el rebase indebido de la señalización por parte de un tren cuya tripulación carecía de la habilitación reglamentaria para conducir."
   },
   {
     "id": "2009-0009/2009",
@@ -631,7 +774,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 14 de febrero de 2009 en la estación de Lieres, donde el tren 5714 rebasó una señal de parada provocando el talonamiento de un desvío y un conato de colisión sin causar víctimas. La causa principal fue un malentendido en la comunicación entre el maquinista y el centro de control, evidenciado por la falta de registro de la autorización de rebase en los libros del CTC. Se recomienda mejorar los sistemas de comunicación y auditar el cumplimiento de los procedimientos de registro de órdenes.",
@@ -689,7 +837,23 @@
       "2009-0013/2009",
       "2009-0003/2009",
       "2009-0028/2009"
-    ]
+    ],
+    "hora": "14:10",
+    "pk": "P.K. 340,807",
+    "tramo": "21 Oviedo-Santander",
+    "trenes": [
+      {
+        "numero": "5714",
+        "operador": "Feve",
+        "tipo": "tren de cercanías"
+      },
+      {
+        "numero": "5901",
+        "operador": "Feve",
+        "tipo": "tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 14 de febrero de 2009 en la estación de Lieres, donde el tren 5714 rebasó una señal de parada provocando el talonamiento de un desvío y un conato de colisión sin causar víctimas. La causa principal fue un malentendido en la comunicación entre el maquinista y el centro de control, evidenciado por la falta de registro de la autorización de rebase en los libros del CTC. Se recomienda mejorar los sistemas de comunicación y auditar el cumplimiento de los procedimientos de registro de órdenes."
   },
   {
     "id": "2009-0012/2009",
@@ -713,7 +877,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
@@ -763,7 +932,18 @@
       "2009-0045/2009",
       "2009-0059/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "17:29",
+    "pk": "PK 175,050",
+    "tramo": "810 Vigo – Monforte de Lemos",
+    "trenes": [
+      {
+        "numero": "12703",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de media distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 22 de febrero de 2009 entre las estaciones de Chapela y Vigo, que provocó la muerte de una persona al ser arrollada por el tren 12703. La causa principal del siniestro fue la invasión de la caja de la vía por parte de la víctima, quien intentaba recoger un objeto cuando el tren circulaba a 80 km/h."
   },
   {
     "id": "2009-0013/2009",
@@ -786,7 +966,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 14,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de viajeros 6500 de Feve ocurrió el 23 de febrero de 2009 entre los apeaderos de Ozanes y Soto Dueñas, provocando 14 heridos y daños materiales considerables. La causa principal fue la circulación a una velocidad superior a la permitida en una curva, debido a la distracción del maquinista por problemas de visibilidad en la pantalla de conducción.",
@@ -831,7 +1016,18 @@
       "2009-0002/2009",
       "2009-0007/2009",
       "2009-0003/2009"
-    ]
+    ],
+    "hora": "12:30",
+    "pk": "P.K. 378,130",
+    "tramo": "21 Oviedo Santander",
+    "trenes": [
+      {
+        "numero": "6500",
+        "operador": "Feve",
+        "tipo": "Tren de viajeros / Tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de viajeros 6500 de Feve ocurrió el 23 de febrero de 2009 entre los apeaderos de Ozanes y Soto Dueñas, provocando 14 heridos y daños materiales considerables. La causa principal fue la circulación a una velocidad superior a la permitida en una curva, debido a la distracción del maquinista por problemas de visibilidad en la pantalla de conducción."
   },
   {
     "id": "2009-0015/2009",
@@ -855,7 +1051,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098 de Renfe Operadora arrolló a una joven de 19 años en el apeadero de Platja de Castelldefels. La víctima había bajado del tren 28387, estacionado en la vía I, e intentó cruzar las vías por detrás de la composición hacia la vía II, sin percatarse de la proximidad del tren 18098. Fue golpeada por el frontal del tren y falleció poco después mientras era atendida por los servicios sanitarios. El maquinista actuó correctamente aplicando el freno de emergencia al ver a la víctima en el gálibo de la vía.",
@@ -892,7 +1093,23 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0059/2009"
-    ]
+    ],
+    "hora": "21:49",
+    "pk": null,
+    "tramo": "200 Madrid Chamartín - Barcelona Sants",
+    "trenes": [
+      {
+        "numero": "18098",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros / Media distancia"
+      },
+      {
+        "numero": "28387",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren estacionado"
+      }
+    ],
+    "resumen_verificado": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098 de Renfe Operadora arrolló a una joven de 19 años en el apeadero de Platja de Castelldefels. La víctima había bajado del tren 28387, estacionado en la vía I, e intentó cruzar las vías por detrás de la composición hacia la vía II, sin percatarse de la proximidad del tren 18098. Fue golpeada por el frontal del tren y falleció poco después mientras era atendida por los servicios sanitarios. El maquinista actuó correctamente aplicando el freno de emergencia al ver a la víctima en el gálibo de la vía."
   },
   {
     "id": "2009-0017/2009",
@@ -916,7 +1133,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en la estación de Algemesí, que provocó la muerte de un hombre de 77 años al ser arrollado por el tren 24048. La causa principal fue el cruce del paso a nivel por parte de la víctima, quien hizo caso omiso de las señales ópticas y acústicas de prohibición de paso. No se establecieron recomendaciones adicionales dado que el paso a nivel provisional ya había sido sustituido por un paso inferior seguro.",
@@ -961,7 +1183,18 @@
       "2009-0045/2009",
       "2009-0059/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "14:10",
+    "pk": "P.K. 81,494",
+    "tramo": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "trenes": [
+      {
+        "numero": "24048",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en la estación de Algemesí, que provocó la muerte de un hombre de 77 años al ser arrollado por el tren 24048. La causa principal fue el cruce del paso a nivel por parte de la víctima, quien hizo caso omiso de las señales ópticas y acústicas de prohibición de paso. No se establecieron recomendaciones adicionales dado que el paso a nivel provisional ya había sido sustituido por un paso inferior seguro."
   },
   {
     "id": "2009-0018/2009",
@@ -985,7 +1218,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en el paso a nivel clase A entre Villargordo y Grañena, donde el tren 18032 arrolló a una furgoneta que invadió la vía. El suceso provocó la muerte del conductor del vehículo y daños materiales en el tren, sin que la actuación del maquinista fuera imputable. La causa principal del accidente fue la invasión del paso a nivel por parte del vehículo en el momento del paso del tren.",
@@ -1041,7 +1279,18 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "22:25",
+    "pk": null,
+    "tramo": "402 Espeluy Aguja Km. 340.1 - Jaén",
+    "trenes": [
+      {
+        "numero": "18032",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros / Tren de media distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en el paso a nivel clase A entre Villargordo y Grañena, donde el tren 18032 arrolló a una furgoneta que invadió la vía. El suceso provocó la muerte del conductor del vehículo y daños materiales en el tren, sin que la actuación del maquinista fuera imputable. La causa principal del accidente fue la invasión del paso a nivel por parte del vehículo en el momento del paso del tren."
   },
   {
     "id": "2009-0019/2009",
@@ -1065,7 +1314,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 7 de abril de 2009 en la estación de Las Navas del Marqués (Ávila), donde el tren 407 arrolló a una niña de 13 años que cruzaba entre andenes. La víctima falleció en el hospital, no habiendo daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue el tránsito de la víctima por el paso entre andenes sin percatarse de la circulación del tren, circunstancia que pudo verse agravada por la presencia simultánea de otro tren en la vía contigua.",
@@ -1098,7 +1352,23 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "20:04",
+    "pk": "P.K. 83,700",
+    "tramo": "100 Madrid - Hendaya",
+    "trenes": [
+      {
+        "numero": "407",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      },
+      {
+        "numero": "18006",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 7 de abril de 2009 en la estación de Las Navas del Marqués (Ávila), donde el tren 407 arrolló a una niña de 13 años que cruzaba entre andenes. La víctima falleció en el hospital, no habiendo daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue el tránsito de la víctima por el paso entre andenes sin percatarse de la circulación del tren, circunstancia que pudo verse agravada por la presencia simultánea de otro tren en la vía contigua."
   },
   {
     "id": "2009-0022/2009",
@@ -1122,7 +1392,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 17 de abril de 2009, en la estación de El Caleyo (Asturias), se produjo una colisión frontal entre dos trenes de cercanías de Renfe-Operadora. El suceso no causó víctimas mortales ni heridos, limitándose las consecuencias a daños materiales en la parte frontal de ambos automotores. La causa principal del accidente fue el rebase indevido de la señal de parada por parte del tren 22126, debido al incumplimiento de las órdenes de señalización por parte del personal de conducción.",
@@ -1158,7 +1433,23 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "18:40",
+    "pk": null,
+    "tramo": "130 Gijón Cercanías – Venta de Baños",
+    "trenes": [
+      {
+        "numero": "22126",
+        "operador": "Renfe-Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      },
+      {
+        "numero": "22347",
+        "operador": "Renfe-Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "El 17 de abril de 2009, en la estación de El Caleyo (Asturias), se produjo una colisión frontal entre dos trenes de cercanías de Renfe-Operadora. El suceso no causó víctimas mortales ni heridos, limitándose las consecuencias a daños materiales en la parte frontal de ambos automotores. La causa principal del accidente fue el rebase indevido de la señal de parada por parte del tren 22126, debido al incumplimiento de las órdenes de señalización por parte del personal de conducción."
   },
   {
     "id": "2009-0025/2009",
@@ -1172,8 +1463,8 @@
     "ubicacion": {
       "estacion": "Maçanet-",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.7774422,
+      "lng": 2.7309252
     },
     "entidades": [
       "ADIF",
@@ -1182,7 +1473,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 5 de junio de 2009 en el paso a nivel de la estación de Maçanet-Massanes (Gerona), donde un tren de mercancías arrolló un automóvil. El suceso provocó la muerte del conductor del vehículo y daños materiales menores en la locomotora. La causa principal fue el cruce indebido del automóvil, que sorteó las barreras bajadas, posiblemente confundido por la circulación previa de otro tren sin interrupción de las señales de seguridad.",
@@ -1226,7 +1522,18 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0059/2009"
-    ]
+    ],
+    "hora": "22:42",
+    "pk": null,
+    "tramo": "270 Barcelona San Andrés Condal a Cerbere",
+    "trenes": [
+      {
+        "numero": "93559",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 5 de junio de 2009 en el paso a nivel de la estación de Maçanet-Massanes (Gerona), donde un tren de mercancías arrolló un automóvil. El suceso provocó la muerte del conductor del vehículo y daños materiales menores en la locomotora. La causa principal fue el cruce indebido del automóvil, que sorteó las barreras bajadas, posiblemente confundido por la circulación previa de otro tren sin interrupción de las señales de seguridad."
   },
   {
     "id": "2009-0027/2009",
@@ -1250,7 +1557,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 18 de junio de 2009 en la estación de Madrid Chamartín, donde un tren de cercanías rebasó indebidamente una señal de parada provocando un conato de colisión con otro tren. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en la circulación. La causa principal fue el incumplimiento de las órdenes de señalización por parte del personal de conducción del tren 27209.",
@@ -1285,7 +1597,23 @@
       "2009-0038/2009",
       "2009-0064/2009",
       "2009-0012/2009"
-    ]
+    ],
+    "hora": "08:20",
+    "pk": "P.K. 0+00, vía 10",
+    "tramo": "100 Hendaya – Madrid Chamartín",
+    "trenes": [
+      {
+        "numero": "27209",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      },
+      {
+        "numero": "752",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 18 de junio de 2009 en la estación de Madrid Chamartín, donde un tren de cercanías rebasó indebidamente una señal de parada provocando un conato de colisión con otro tren. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en la circulación. La causa principal fue el incumplimiento de las órdenes de señalización por parte del personal de conducción del tren 27209."
   },
   {
     "id": "2009-0028/2009",
@@ -1308,7 +1636,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 22 de junio de 2009 en el paso a nivel de Infiesto (Asturias), donde un tren arrolló a un peatón que cruzaba las vías a pesar de que las barreras estaban bajadas. El suceso provocó la muerte de una persona de 90 años, sin causar daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, actuando correctamente el personal ferroviario y los sistemas de seguridad.",
@@ -1341,7 +1674,18 @@
       "2009-0002/2009",
       "2009-0013/2009",
       "2009-0007/2009"
-    ]
+    ],
+    "hora": "09:20",
+    "pk": null,
+    "tramo": "21 Oviedo - Santander",
+    "trenes": [
+      {
+        "numero": "5950",
+        "operador": "Feve",
+        "tipo": "Tren de viajeros / Tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 22 de junio de 2009 en el paso a nivel de Infiesto (Asturias), donde un tren arrolló a un peatón que cruzaba las vías a pesar de que las barreras estaban bajadas. El suceso provocó la muerte de una persona de 90 años, sin causar daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, actuando correctamente el personal ferroviario y los sistemas de seguridad."
   },
   {
     "id": "2009-0032/2009",
@@ -1365,7 +1709,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 26 de junio de 2009, en la estación de Humanes (Madrid), se produjo un conato de colisión entre dos trenes de cercanías que no causó víctimas ni daños materiales. La causa principal del incidente fue el fallo humano de la jefa de circulación, quien estableció incorrectamente el itinerario de salida del tren HU171.",
@@ -1406,7 +1755,23 @@
       "2009-0064/2009",
       "2009-0012/2009",
       "2009-0017/2009"
-    ]
+    ],
+    "hora": "10:29",
+    "pk": "P.K. 22+800, vía 1",
+    "tramo": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+    "trenes": [
+      {
+        "numero": "HU171",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      },
+      {
+        "numero": "LU110",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "El 26 de junio de 2009, en la estación de Humanes (Madrid), se produjo un conato de colisión entre dos trenes de cercanías que no causó víctimas ni daños materiales. La causa principal del incidente fue el fallo humano de la jefa de circulación, quien estableció incorrectamente el itinerario de salida del tren HU171."
   },
   {
     "id": "2009-0030/2009",
@@ -1430,7 +1795,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 61,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia) el 4 de marzo de 2020, que no provocó víctimas ni daños materiales. La causa principal fue el fallo humano del Responsable de Circulación, quien expidió un tren sin establecer el bloqueo correspondiente al desactivar parcialmente los automatismos de seguridad. Este error generó una situación de riesgo de colisión frontal que fue evitada gracias a la intervención inmediata del controlador.",
@@ -1484,7 +1854,23 @@
       "2009-0045/2009",
       "2009-0059/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "07:36",
+    "pk": "P.K. 7+612",
+    "tramo": "L/920, Móstoles – El Soto Parla (Línea C-5 de Cercanías Madrid)",
+    "trenes": [
+      {
+        "numero": "27319",
+        "operador": "Renfe-Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      },
+      {
+        "numero": "27321",
+        "operador": "Renfe-Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "El 26 de junio de 2009, en la estación de Aluche (Madrid), un tren de cercanías colisionó con otro estacionado tras un retroceso indebido del primero. El suceso provocó 61 heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal del accidente fue el retroceso no autorizado del tren 27319, realizado por iniciativa propia del maquinista."
   },
   {
     "id": "2009-0031/2009",
@@ -1508,7 +1894,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista.",
@@ -1558,7 +1949,18 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "16:54",
+    "pk": "P.K. 67+916",
+    "tramo": "420 Bif. Las Maravillas – Algeciras",
+    "trenes": [
+      {
+        "numero": "149",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 6 de julio de 2009 en el paso a nivel entre Ronda y Setenil (Málaga), donde el tren 149 arrolló a un automóvil que invadió la vía a pesar de las señales de advertencia. El suceso provocó la muerte de la conductora del vehículo y daños materiales en el tren y el coche. La causa principal del accidente fue la invasión del gálibo de la vía por parte del automóvil, que cruzó ignorando las señales acústicas y luminosas que indicaban la proximidad del tren."
   },
   {
     "id": "2009-0033/2009",
@@ -1572,8 +1974,8 @@
     "ubicacion": {
       "estacion": "Orejo”",
       "provincia": "Cantabria",
-      "lat": null,
-      "lng": null
+      "lat": 43.3994195,
+      "lng": -3.7381598
     },
     "entidades": [
       "FEVE"
@@ -1581,7 +1983,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 8 de julio de 2009 en el paso a nivel de Villaverde de Pontones (Ribamontán al Monte, Cantabria), donde un tren de mercancías arrolló un vehículo detenido en la vía. El suceso provocó la muerte del conductor del automóvil y daños materiales en el tren y la infraestructura. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que ignoró las señales de parada del paso a nivel.",
@@ -1633,7 +2040,18 @@
       "2009-0013/2009",
       "2009-0007/2009",
       "2009-0028/2009"
-    ]
+    ],
+    "hora": "18:21",
+    "pk": null,
+    "tramo": "24 Santander - Bilbao",
+    "trenes": [
+      {
+        "numero": "9687",
+        "operador": "FEVE",
+        "tipo": "tren de mercancías (T50)"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 8 de julio de 2009 en el paso a nivel de Villaverde de Pontones (Ribamontán al Monte, Cantabria), donde un tren de mercancías arrolló un vehículo detenido en la vía. El suceso provocó la muerte del conductor del automóvil y daños materiales en el tren y la infraestructura. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que ignoró las señales de parada del paso a nivel."
   },
   {
     "id": "2009-0036/2009",
@@ -1657,7 +2075,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 13 de julio de 2009 en el paso a nivel particular de Jaca (Huesca), donde el tren 15653 arrolló a un camión articulado. La colisión provocó heridos leves en el conductor del vehículo y una viajera, además de daños materiales significativos en el tren y la infraestructura. La causa principal del siniestro fue la ocupación indebida del gálibo de la vía por parte del camión, que invadió el paso a nivel sin respetar la señalización de stop.",
@@ -1708,7 +2131,18 @@
       "2009-0066/2009",
       "2009-0068/2009",
       "2009-0069/2009"
-    ]
+    ],
+    "hora": "18:44",
+    "pk": null,
+    "tramo": "204 Bifurcación Huesca Cambiador - Canfranc",
+    "trenes": [
+      {
+        "numero": "15653",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de media distancia (Tren tipo 120 A)"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 13 de julio de 2009 en el paso a nivel particular de Jaca (Huesca), donde el tren 15653 arrolló a un camión articulado. La colisión provocó heridos leves en el conductor del vehículo y una viajera, además de daños materiales significativos en el tren y la infraestructura. La causa principal del siniestro fue la ocupación indebida del gálibo de la vía por parte del camión, que invadió el paso a nivel sin respetar la señalización de stop."
   },
   {
     "id": "2009-0038/2009",
@@ -1732,7 +2166,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 27 de julio de 2009 en la Bifurcación Clot de Barcelona, donde el tren 15052 rebasó indebidamente una señal de parada provocando un conato de colisión con el tren 25552. El suceso no dejó víctimas ni daños materiales, aunque generó retrasos en la circulación. La causa principal fue el incumplimiento de las órdenes de señalización por parte del personal de conducción.",
@@ -1775,7 +2214,23 @@
       "2009-0045/2009",
       "2009-0064/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "20:16",
+    "pk": "P.K. 102+700- PB Barcelona Marina",
+    "tramo": "262 Barcelona Sagrera - Bif. Clot",
+    "trenes": [
+      {
+        "numero": "15052",
+        "operador": "Renfe Operadora",
+        "tipo": "Media distancia / Tipo 120 A"
+      },
+      {
+        "numero": "25552",
+        "operador": null,
+        "tipo": "Media distancia"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 27 de julio de 2009 en la Bifurcación Clot de Barcelona, donde el tren 15052 rebasó indebidamente una señal de parada provocando un conato de colisión con el tren 25552. El suceso no dejó víctimas ni daños materiales, aunque generó retrasos en la circulación. La causa principal fue el incumplimiento de las órdenes de señalización por parte del personal de conducción."
   },
   {
     "id": "2009-0045/2009",
@@ -1799,7 +2254,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El día 24 de agosto de 2009, a las 16:57 horas, el tren de viajeros de cercanías 25163, de Renfe Operadora, arrolla a una mujer que cruzaba en silla de ruedas por el paso entarimado entre andenes de la estación de Sant Feliú de Llobregat. El accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima, pudiendo contribuir a este el deficiente estado de conservación del pavimento del paso.",
@@ -1854,7 +2314,18 @@
       "2009-0038/2009",
       "2009-0059/2009",
       "2009-0064/2009"
-    ]
+    ],
+    "hora": "16:57",
+    "pk": "P.K. 89+150",
+    "tramo": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+    "trenes": [
+      {
+        "numero": "25163",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "El día 24 de agosto de 2009, a las 16:57 horas, el tren de viajeros de cercanías 25163, de Renfe Operadora, arrolla a una mujer que cruzaba en silla de ruedas por el paso entarimado entre andenes de la estación de Sant Feliú de Llobregat. El accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima, pudiendo contribuir a este el deficiente estado de conservación del pavimento del paso."
   },
   {
     "id": "2009-0046/2009",
@@ -1878,7 +2349,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
@@ -1934,7 +2410,23 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "13:33",
+    "pk": "PK 22+600",
+    "tramo": "310 Aranjuez/Valencia- Estación del Nord",
+    "trenes": [
+      {
+        "numero": "18160",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de media distancia"
+      },
+      {
+        "numero": "14501",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros"
+      }
+    ],
+    "resumen_verificado": "El 28 de agosto de 2009, un descarrilamiento ocurrió en la estación de El Rebollar (Valencia) al accionar indebidamente la aguja nº 2 mientras el tren 18160 circulaba sobre ella. El suceso no provocó víctimas mortales ni heridos, aunque se registraron daños materiales limitados en el material rodante y la infraestructura. La causa principal del accidente fue el accionamiento indebido de la aguja por parte de la responsable de circulación, quien actuó antes de que el tren hubiera liberado completamente el cambio."
   },
   {
     "id": "2009-0047/2009",
@@ -1958,7 +2450,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 31 de agosto de 2009 en la estación de San Cristóbal Industrial (Madrid), donde el tren de viajeros 20072 rebasó indebidamente una señal de parada, provocando un conato de colisión con un tren de mercancías. No se registraron víctimas ni daños materiales, aunque se interrumpió la circulación. La causa principal fue el incumplimiento por parte del personal de conducción de las órdenes de las señales, agravado por la no activación automática del sistema ASFA.",
@@ -1991,7 +2488,23 @@
       "2009-0038/2009",
       "2009-0064/2009",
       "2009-0012/2009"
-    ]
+    ],
+    "hora": "18:14",
+    "pk": "P.K. 10+200, vía 1",
+    "tramo": "300 Madrid Chamartín – Valencia Estación del Nord",
+    "trenes": [
+      {
+        "numero": "20072",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de cercanías"
+      },
+      {
+        "numero": "91038",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 31 de agosto de 2009 en la estación de San Cristóbal Industrial (Madrid), donde el tren de viajeros 20072 rebasó indebidamente una señal de parada, provocando un conato de colisión con un tren de mercancías. No se registraron víctimas ni daños materiales, aunque se interrumpió la circulación. La causa principal fue el incumplimiento por parte del personal de conducción de las órdenes de las señales, agravado por la no activación automática del sistema ASFA."
   },
   {
     "id": "2009-0054/2009",
@@ -2015,7 +2528,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 93614 ocurrido el 17 de septiembre de 2009 en la estación de Zumárraga no provocó víctimas, aunque causó daños materiales por valor de casi un millón de euros. La causa principal del suceso fue el exceso de peralte y las variaciones de la vía, que se encontraban fuera de las tolerancias establecidas.",
@@ -2071,7 +2589,18 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "16:00",
+    "pk": "PK 566+856",
+    "tramo": "Tolosa - Zumárraga",
+    "trenes": [
+      {
+        "numero": "93614",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías 93614 ocurrido el 17 de septiembre de 2009 en la estación de Zumárraga no provocó víctimas, aunque causó daños materiales por valor de casi un millón de euros. La causa principal del suceso fue el exceso de peralte y las variaciones de la vía, que se encontraban fuera de las tolerancias establecidas."
   },
   {
     "id": "2009-0050/2009",
@@ -2094,7 +2623,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 24 de septiembre de 2009 en el apeadero de Cazoña (Santander) provocó la rotura de un eje en el tren 6722 sin causar víctimas ni daños materiales graves. La causa principal fue una fisura previa en el eje, originada por entallas producidas durante un proceso de calado, que se propagó hasta la rotura completa de la mangueta.",
@@ -2155,7 +2689,18 @@
       "2009-0003/2009",
       "2009-0063/2009",
       "2009-0009/2009"
-    ]
+    ],
+    "hora": "13:50",
+    "pk": null,
+    "tramo": "Oviedo-Santander (L-21)",
+    "trenes": [
+      {
+        "numero": "6722",
+        "operador": "FEVE",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "El incidente ferroviario ocurrido el 24 de septiembre de 2009 en el apeadero de Cazoña (Santander) provocó la rotura de un eje en el tren 6722 sin causar víctimas ni daños materiales graves. La causa principal fue una fisura previa en el eje, originada por entallas producidas durante un proceso de calado, que se propagó hasta la rotura completa de la mangueta."
   },
   {
     "id": "2009-0052/2009",
@@ -2178,7 +2723,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 1,
+      "victimas_leves": 0,
+      "victimas_heridos": 1,
+      "victimas_total": 2
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 28 de septiembre de 2009 en el paso a nivel de Los Limoneros (Cartagena, Murcia), donde un tren de FEVE arrolló a un automóvil. El suceso provocó la muerte de una mujer y heridas graves al conductor, además de daños materiales en ambos vehículos. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel a pesar de que las señales de advertencia del tren estaban activadas.",
@@ -2222,7 +2772,18 @@
       "2009-0012/2009",
       "2009-0013/2009",
       "2009-0017/2009"
-    ]
+    ],
+    "hora": "13:35",
+    "pk": null,
+    "tramo": "nº 45 Cartagena – Los Nietos",
+    "trenes": [
+      {
+        "numero": "91724",
+        "operador": "FEVE",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 28 de septiembre de 2009 en el paso a nivel de Los Limoneros (Cartagena, Murcia), donde un tren de FEVE arrolló a un automóvil. El suceso provocó la muerte de una mujer y heridas graves al conductor, además de daños materiales en ambos vehículos. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel a pesar de que las señales de advertencia del tren estaban activadas."
   },
   {
     "id": "2009-0055/2009",
@@ -2246,7 +2807,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 8 de octubre de 2009 en el paso a nivel clase C entre Monforte de Lemos y Canabal (Lugo), que provocó la muerte de un hombre de 83 años. El suceso tuvo su origen en la actuación imprudente de la víctima, que cruzó la vía a pesar de que las semibarreras estaban bajadas y la señalización alertaba de la proximidad del tren. No se establecieron recomendaciones adicionales al constatarse el correcto funcionamiento de las instalaciones y la actuación del maquinista.",
@@ -2281,7 +2847,18 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "18:30",
+    "pk": "P.K. 0+851",
+    "tramo": "810 Vigo – Monforte de Lemos",
+    "trenes": [
+      {
+        "numero": "50284",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 8 de octubre de 2009 en el paso a nivel clase C entre Monforte de Lemos y Canabal (Lugo), que provocó la muerte de un hombre de 83 años. El suceso tuvo su origen en la actuación imprudente de la víctima, que cruzó la vía a pesar de que las semibarreras estaban bajadas y la señalización alertaba de la proximidad del tren. No se establecieron recomendaciones adicionales al constatarse el correcto funcionamiento de las instalaciones y la actuación del maquinista."
   },
   {
     "id": "2009-0056/2009",
@@ -2305,7 +2882,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren.",
@@ -2349,7 +2931,23 @@
       "2009-0045/2009",
       "2009-0059/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "11:19",
+    "pk": null,
+    "tramo": "300 Madrid (Chamartín)- Valencia (estación del Nord)",
+    "trenes": [
+      {
+        "numero": "24228",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      },
+      {
+        "numero": "24225",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 16 de octubre de 2009 en el paso a nivel de la estación de Alfafar-Benetússer, donde el tren de cercanías 24228 arrolló a una mujer de 78 años que cruzaba las vías. La única consecuencia fue la muerte de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue la actuación de la víctima, que irrumpió en el paso a nivel cuando las semibarreras ya estaban bajadas y la señalización alertaba de la proximidad del tren."
   },
   {
     "id": "2009-0057/2009",
@@ -2363,8 +2961,8 @@
     "ubicacion": {
       "estacion": "L’Hospitalet de",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.3595118,
+      "lng": 2.0996318
     },
     "entidades": [
       "ADIF",
@@ -2373,7 +2971,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El 23 de octubre de 2009, en Cornellá de Llobregat, se produjo un arrollamiento fatal que causó la muerte de una persona al transitar por la zona de libre gálibo de la vía 1. La causa principal del suceso fue la actuación de la víctima, quien invadió la zona de circulación del tren de cercanías 25143. No se registraron daños materiales en el material rodante ni en la infraestructura.",
@@ -2423,7 +3026,18 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0059/2009"
-    ]
+    ],
+    "hora": "12:30",
+    "pk": "P.K. 94+316",
+    "tramo": "240 Sant Vicent de Calders - L’Hospitalet de Llobregat",
+    "trenes": [
+      {
+        "numero": "25143",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías (Tipo 120 A)"
+      }
+    ],
+    "resumen_verificado": "El 23 de octubre de 2009, en Cornellá de Llobregat, se produjo un arrollamiento fatal que causó la muerte de una persona al transitar por la zona de libre gálibo de la vía 1. La causa principal del suceso fue la actuación de la víctima, quien invadió la zona de circulación del tren de cercanías 25143. No se registraron daños materiales en el material rodante ni en la infraestructura."
   },
   {
     "id": "2009-0059/2009",
@@ -2447,7 +3061,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 2,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 2
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren.",
@@ -2484,7 +3103,18 @@
       "2009-0066/2009",
       "2009-0068/2009",
       "2009-0069/2009"
-    ]
+    ],
+    "hora": "12:41",
+    "pk": null,
+    "tramo": "140 Bif. Tudela Veguín – El Entrego",
+    "trenes": [
+      {
+        "numero": "22211",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren."
   },
   {
     "id": "2009-0060/2009",
@@ -2508,7 +3138,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El 2 de junio de 2020 en La Hiniesta (Zamora) se produjo un accidente ferroviario grave tras la colisión de un tren Alvia con un vehículo que había caído desde un paso superior, resultando en dos fallecidos y siete heridos. La causa principal fue el accidente de tráfico que provocó la precipitación del vehículo al gálibo de la vía, agravado por deficiencias en el mantenimiento del sistema de contención del paso superior.",
@@ -2558,7 +3193,18 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "19:34",
+    "pk": null,
+    "tramo": "810 Monforte de Lemos- Vigo",
+    "trenes": [
+      {
+        "numero": "283",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 1 de diciembre de 2009 en el paso a nivel de la estación de O Porriño (Pontevedra), que provocó la muerte de un peatón. La investigación concluye que la causa principal fue la actuación de la víctima, quien cruzó la vía a pesar de que las semibarreras estaban bajadas y la señalización alertaba de la llegada del tren."
   },
   {
     "id": "2009-0064/2009",
@@ -2582,7 +3228,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren.",
@@ -2651,7 +3302,23 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0066/2009"
-    ]
+    ],
+    "hora": "08:40",
+    "pk": null,
+    "tramo": "270 Cerbère – Barcelona Sant Andreu Comtal",
+    "trenes": [
+      {
+        "numero": "10371",
+        "operador": "Renfe Operadora",
+        "tipo": "larga distancia"
+      },
+      {
+        "numero": "30557",
+        "operador": "Renfe Operadora",
+        "tipo": "media distancia"
+      }
+    ],
+    "resumen_verificado": "El incidente de conato de colisión ocurrido el 6 de diciembre de 2009 en la estación de Granollers Centre (Barcelona) no provocó víctimas ni daños materiales. La causa principal fue la expedición indebida del tren 10371 por el personal de circulación, que incumplió las normas del bloqueo telefónico al autorizar la salida con el cantón ocupado. Este error se vio agravado por deficiencias en la comunicación de órdenes y en la gestión de las instalaciones durante los trabajos de mantenimiento."
   },
   {
     "id": "2009-0063/2009",
@@ -2675,7 +3342,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 11 de noviembre de 2010, entre las estaciones de Algemesí y Benifaió, se produjo el descarrilamiento del tren de mercancías COX26, sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y retrasos significativos en la circulación. La causa principal del suceso fue un fallo técnico del material rodante, concretamente el fallo mecánico de un rodamiento que provocó la pérdida de la caja de grasa y la posterior basculación del vagón.",
@@ -2724,7 +3396,23 @@
       "2009-0038/2009",
       "2009-0050/2009",
       "2009-0064/2009"
-    ]
+    ],
+    "hora": "21:32",
+    "pk": "P.K. 495+043",
+    "tramo": "160 Santander - Palencia",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": "Renfe Operadora",
+        "tipo": "Locomotora aislada"
+      },
+      {
+        "numero": null,
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 11 de diciembre de 2009 en la estación de Renedo (Cantabria), donde el tren AE 147 rebasó indebidamente una señal de parada, talonando un desvío y provocando un conato de colisión con otro tren. El suceso no causó víctimas ni heridos, aunque generó daños materiales en las instalaciones y retrasos en el tráfico ferroviario. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal de conducción."
   },
   {
     "id": "2009-0062/2009",
@@ -2748,7 +3436,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora.",
@@ -2804,7 +3497,18 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "18:27",
+    "pk": "P.K. 164+429",
+    "tramo": "100 Madrid – Hendaya",
+    "trenes": [
+      {
+        "numero": "17212",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de media distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 13 de diciembre de 2009 en el paso a nivel del apeadero de Orbita-Espinosa (Ávila), donde el tren 17212 arrolló un vehículo que cruzaba la vía. El suceso provocó la muerte de un ocupante del automóvil y daños materiales en el tren. La causa principal fue el cruce del vehículo por el paso a nivel en el momento de la llegada del tren, agravado por una señalización de carretera incompleta y no conforme a la normativa vigente."
   },
   {
     "id": "2009-0065/2009",
@@ -2818,8 +3522,8 @@
     "ubicacion": {
       "estacion": "Navia",
       "provincia": "Asturias",
-      "lat": null,
-      "lng": null
+      "lat": 43.5275049,
+      "lng": -6.6755155
     },
     "entidades": [
       "FEVE"
@@ -2827,7 +3531,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 1,
+      "victimas_heridos": 1,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 15 de diciembre de 2009 entre Navia y Piñera Villaoril (Asturias), donde el tren de viajeros 3102 colisionó con un desprendimiento de rocas. La colisión provocó el descarrilamiento de la unidad de cabeza, causando daños materiales considerables en el material rodante y una herida leve al maquinista. La causa principal del suceso fue la colisión directa con las rocas caídas desde la trinchera, a pesar de la actuación correcta del conductor.",
@@ -2881,7 +3590,18 @@
       "2009-0002/2009",
       "2009-0013/2009",
       "2009-0007/2009"
-    ]
+    ],
+    "hora": "17:27",
+    "pk": "P.K. 191+222",
+    "tramo": "L/ 11 Ferrol-Oviedo",
+    "trenes": [
+      {
+        "numero": "3102",
+        "operador": "FEVE",
+        "tipo": "Tren regular de viajeros"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 15 de diciembre de 2009 entre Navia y Piñera Villaoril (Asturias), donde el tren de viajeros 3102 colisionó con un desprendimiento de rocas. La colisión provocó el descarrilamiento de la unidad de cabeza, causando daños materiales considerables en el material rodante y una herida leve al maquinista. La causa principal del suceso fue la colisión directa con las rocas caídas desde la trinchera, a pesar de la actuación correcta del conductor."
   },
   {
     "id": "2009-0066/2009",
@@ -2905,7 +3625,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 20 de diciembre de 2009 en el paso a nivel de Sant Guim de Freixenet (Lérida), donde un tren de Renfe Operadora arrolló a un niño de nueve años que cruzaba las vías corriendo. El suceso provocó la muerte de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del accidente fue la actuación de la víctima, quien ignoró las señales de alerta y las semibarreras bajadas al intentar cruzar cuando ya circulaba el tren.",
@@ -2955,7 +3680,18 @@
       "2009-0038/2009",
       "2009-0045/2009",
       "2009-0059/2009"
-    ]
+    ],
+    "hora": "17:07",
+    "pk": null,
+    "tramo": "220 Lérida Pirineos – L’Hospitalet de Llobregat",
+    "trenes": [
+      {
+        "numero": "15624",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de media distancia (UT 440235, Tipo 140)"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 20 de diciembre de 2009 en el paso a nivel de Sant Guim de Freixenet (Lérida), donde un tren de Renfe Operadora arrolló a un niño de nueve años que cruzaba las vías corriendo. El suceso provocó la muerte de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del accidente fue la actuación de la víctima, quien ignoró las señales de alerta y las semibarreras bajadas al intentar cruzar cuando ya circulaba el tren."
   },
   {
     "id": "2009-0068/2009",
@@ -2979,7 +3715,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 28 de diciembre de 2009, un descarrilamiento en la estación de Pedrera (Sevilla) provocó daños materiales por 9.883 euros sin causar víctimas. La causa principal fue la autorización indebida de rebase de señal por parte de la responsable de circulación, quien no verificó la incorrecta posición de las agujas que impedía la apertura automática de la señal.",
@@ -3025,7 +3766,18 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0069/2009"
-    ]
+    ],
+    "hora": "20:10",
+    "pk": "P.K. 94+716",
+    "tramo": "422 Bif. Utrera- Puente de Piedra",
+    "trenes": [
+      {
+        "numero": "13924",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de media distancia"
+      }
+    ],
+    "resumen_verificado": "El 28 de diciembre de 2009, un descarrilamiento en la estación de Pedrera (Sevilla) provocó daños materiales por 9.883 euros sin causar víctimas. La causa principal fue la autorización indebida de rebase de señal por parte de la responsable de circulación, quien no verificó la incorrecta posición de las agujas que impedía la apertura automática de la señal."
   },
   {
     "id": "2009-0069/2009",
@@ -3049,7 +3801,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 30 de diciembre de 2009 en la estación de Fuenmayor (La Rioja), donde el tren 930 colisionó con una roca desprendida de la ladera. El suceso provocó el descarrilamiento de la locomotora y los cuatro primeros coches, causando daños materiales considerables en el material rodante y la infraestructura, aunque no hubo víctimas mortales ni heridos. La causa principal del accidente fue la colisión con la roca, cuyo impacto superó la capacidad de la malla metálica de protección existente.",
@@ -3097,6 +3854,17 @@
       "2009-0059/2009",
       "2009-0066/2009",
       "2009-0068/2009"
-    ]
+    ],
+    "hora": "03:08",
+    "pk": "P.K. 92+020",
+    "tramo": "700 Intermodal Abando Indalecio Prieto – Casetas",
+    "trenes": [
+      {
+        "numero": "930",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 30 de diciembre de 2009 en la estación de Fuenmayor (La Rioja), donde el tren 930 colisionó con una roca desprendida de la ladera. El suceso provocó el descarrilamiento de la locomotora y los cuatro primeros coches, causando daños materiales considerables en el material rodante y la infraestructura, aunque no hubo víctimas mortales ni heridos. La causa principal del accidente fue la colisión con la roca, cuyo impacto superó la capacidad de la malla metálica de protección existente."
   }
 ]

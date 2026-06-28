@@ -332,8 +332,8 @@
     "ubicacion": {
       "estacion": "Arcos de Jalón",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.2157666,
+      "lng": -2.2753018
     },
     "entidades": [
       "ADIF",

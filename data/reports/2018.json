@@ -21,7 +21,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "MINISTERIO\nTRANSPORTES,\nMOVILIDAD\nAGENDA URBANA\nSUBSECRETARÍA\nInvestigación del incidente\nnº 0025/2018 ocurrido el 01.07.2018\n200421-180701-IF_CIAF\n1. RESUMEN\nEl incidente por fallo en las instalaciones de seguridad, tiene lugar el día 1 de julio de 2018, a las 20:02\nhoras, en la estación de Pedralba (Zamora), pk 113+475 de la línea 822 Zamora - A Coruña, estando la\nestación con mando central.\nEl tren Alvia 258, de RENFE VIAJEROS, procedente de Madrid Chamartín con destino Pontevedra, tiene\nprevisto realizar el cruce en la estación de Pedralba con el tren 253 también de RENFE VIAJEROS,\nprocedente de Pontevedra con destino Madrid Chamartín, según itinerario que establece el puesto de\nmando de Ourense conforme la Consigna A1275 de esta estación.\nEl mal funcionamiento del enclavamiento se pro",
@@ -67,7 +72,31 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2018/200421-180701-if-sn_ciaf_.pdf"
     },
-    "similares": []
+    "similares": [],
+    "hora": "20:02",
+    "pk": "113+475",
+    "tramo": "822 Zamora - A Coruña",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": "RENFE VIAJEROS",
+        "tipo": null,
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      },
+      {
+        "numero": null,
+        "operador": "RENFE VIAJEROS",
+        "tipo": null,
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 1 de julio de 2018 en la estación de Pedralba (Zamora) que no provocó víctimas ni daños materiales. La causa principal fue el mal funcionamiento del enclavamiento debido a derivaciones en el cableado de señalización, que provocaron el encendido incorrecto de una señal de vía libre."
   },
   {
     "id": "2018-0046/2018",
@@ -93,7 +122,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 6,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 6,
+      "victimas_leves": 46,
+      "victimas_heridos": 52,
+      "victimas_total": 53
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
@@ -146,6 +180,21 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2018/200723-181120-if-sn_ciaf.pdf"
     },
-    "similares": []
+    "similares": [],
+    "hora": "06:15",
+    "pk": "321+017",
+    "tramo": "220 de Lleida Pirineus a L´Hospitalet de Llobregat",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": "Renfe Viajeros (Rodalies de Catalunya)",
+        "tipo": "Tren de cercanías",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "El 20 de noviembre de 2018, un accidente ferroviario en Vacarisses provocó un fallecido y 52 heridos tras la colisión del tren con rocas desprendidas por el colapso de un muro de contención. La causa principal fue el fallo de la infraestructura debido al desmoronamiento del muro, agravado por la escorrentía de aguas pluviales y deficiencias en los procedimientos de mantenimiento y gestión de riesgos de Adif."
   }
 ]

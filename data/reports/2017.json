@@ -11,8 +11,8 @@
     "ubicacion": {
       "estacion": "San",
       "provincia": "Álava",
-      "lat": null,
-      "lng": null
+      "lat": 43.33,
+      "lng": -3.81
     },
     "entidades": [
       "ADIF",
@@ -21,7 +21,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0001/2017 ocurrido el 06.01.2017\n180718-170106-IF.doc\nRESUMEN\nEl día 6 de enero de 2017 a las 20:57 horas, en plena vía (p.k. 477+265), en el trayecto entre las\nestaciones de Nanclares y Manzanos, de la línea 100 Hendaya-Madrid Chamartín, el tren de viajeros de\nlarga distancia 312 de la empresa ferroviaria Renfe Viajeros procedente de Irún y destino Lisboa Santa\nApolonia descarrila debido a una rotura de carril.\nComo consecuencia del accidente no se produjeron víctimas mortales ni heridos.\nSe produjeron daños materiales en el tren y en la infraestructura de la vía (carril, traviesas, sujeciones,\netc.) debido a los metros que circuló el tren descarrilado.\nConclusión:\nComo causa directa del accidente se determina que se produjo por fallo de la inf",
@@ -96,7 +101,18 @@
       "2017-0024/2017",
       "2017-0030/2017",
       "2017-0035/2017"
-    ]
+    ],
+    "hora": "20:57",
+    "pk": "477+265",
+    "tramo": "100 Hendaya-Madrid Chamartín",
+    "trenes": [
+      {
+        "numero": "312",
+        "operador": null,
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "El 6 de enero de 2017, en Nanclares (Álava), un tren de viajeros descarriló al circular por el trayecto Nanclares-Manzanos, provocando daños materiales en el tren y la infraestructura sin causar víctimas. La causa principal del accidente fue la rotura del carril derecho debido a una fisura transversal progresiva interna de origen interno, conocida como \"mancha oval\", producto de un defecto de fabricación."
   },
   {
     "id": "2017-0007/2017",
@@ -207,7 +223,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
@@ -269,7 +290,22 @@
       "2017-0024/2017",
       "2017-0030/2017",
       "2017-0035/2017"
-    ]
+    ],
+    "hora": "22:10",
+    "pk": null,
+    "tramo": "500 Bifurcación Planetario a Valencia de Alcántara",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "Tren de viajeros de media distancia",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 13 de febrero de 2017 en el paso a nivel de Santo Domingo-Caudilla (Toledo), que provocó una víctima mortal y daños materiales en el tren. La causa principal fue la invasión del gálibo por parte de un vehículo detenido sin luces en la vía. Como causa raíz se identificó la deficiente señalización del camino de acceso, responsabilidad del ayuntamiento titular."
   },
   {
     "id": "2017-0020/2017",
@@ -293,7 +329,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del Incidente\nnº 0020/2017 ocurrido el 23.03.2017\n191217-170323-IF-SN_CIAF.docx\n1. RESUMEN\nEl incidente que se investiga tuvo lugar el día 23 de marzo de 2017, a las 10:59 horas en la estación\nde Madrid Chamartín, cuando el tren de cercanías 31116 de RENFE VIAJEROS, procedente de Villalba\nde Guadarrama con destino Aeropuerto – Barajas T4, circula por vía 10 de señal S1/10A en indicación\nde anuncio de parada a señal S1/10 en indicación de parada y rebasa indebidamente esta última,\nprovocando la actuación del frenado de emergencia por el sistema ASFA que hace que el tren se detenga\na 31 m de la señal rebasada y a 47 m de la travesía T72.\nSimultáneamente el tren 91963, también de RENFE VIAJEROS, procedente de Madrid Chamartín con\ndestino Madrid Príncipe Pío que hab",
@@ -358,7 +399,31 @@
       "2017-0043/2017",
       "2017-0038/2017",
       "2017-0040/2017"
-    ]
+    ],
+    "hora": "10:59",
+    "pk": "0+000",
+    "tramo": "200 Madrid Chamartín – Barcelona Estación de Francia",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "Cercanías",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      },
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "Material vacío",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 23 de marzo de 2017 en la estación de Madrid Chamartín, donde un tren de cercanías rebasó indebidamente una señal de parada con riesgo de colisión, sin causar víctimas ni daños materiales. La causa principal fue un déficit de atención del maquinista, que utilizó la velocidad prefijada en lugar de la conducción manual, incumpliendo los procedimientos de seguridad establecidos."
   },
   {
     "id": "2017-0024/2017",
@@ -382,7 +447,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0024/2017 ocurrido el 12.05.2017\n190125-170512-IF-SN_CIAF.doc\nRESUMEN\nEl día 12 de mayo de 2017 a las 10:23 horas, en el puesto de bloqueo y adelantamiento (PBA) de\nBrazatortas (p.k. 225+430) de la línea de alta velocidad 010 Madrid Puerta de Atocha a Sevilla Santa\nJusta, el tren de viajeros de larga distancia AVE 0043 de la empresa ferroviaria Renfe Viajeros\nprocedente de Sevilla Santa Justa y destino Barcelona Sants, descarrila al paso por el cruzamiento del\ndesvío 514 del (PBA) de Brazatortas, ocasionado por la rotura del corazón de punta móvil del\ncruzamiento, circulando descarrilado el rodal nº 8 del tren 0043 durante 3.489 metros hasta su\ndetención.\nComo consecuencia del accidente no se produjeron víctimas mortales ni heridos.\nSe produjero",
@@ -449,7 +519,22 @@
       "2017-0025/2017",
       "2017-0030/2017",
       "2017-0020/2017"
-    ]
+    ],
+    "hora": "10:23:50",
+    "pk": "225+965",
+    "tramo": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "Viajeros de larga distancia",
+        "serie": null,
+        "unidad": null,
+        "velocidad": "268 km/h",
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "El 12 de mayo de 2017, el tren AVE 0043 descarriló en el desvío 514 de la estación de Brazatortas (Ciudad Real) debido a la rotura por fatiga de la punta móvil del corazón del cruzamiento. El incidente no causó víctimas mortales ni heridos, aunque provocó daños materiales significativos en el material rodante y la infraestructura. La causa principal se atribuye a un fallo de la infraestructura, agravado por deficiencias en los procedimientos de mantenimiento y supervisión de los aparatos de vía."
   },
   {
     "id": "2017-0025/2017",
@@ -463,8 +548,8 @@
     "ubicacion": {
       "estacion": "Izarra.",
       "provincia": "Álava",
-      "lat": null,
-      "lng": null
+      "lat": 42.9527247,
+      "lng": -2.8985342
     },
     "entidades": [
       "ADIF",
@@ -474,7 +559,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0025/2017 ocurrido el 23.05.2017\n181219-170523-IF-SN_CIAF.doc\nRESUMEN\nEl día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK\n183+815 de la línea 700 Intermodal Abando Indalecio Prieto a Casetas. Seguidamente se encarrila\nen el PK 184+871 y vuelve a descarrilar, a las 12:31 horas en el PK 185+880. Ambos\ndescarrilamientos se producen en las proximidades de la estación de Inoso-Oiardo (Álava).\nEl tren, procedente de Valencia Fuente de San Luis Mercancías y con destino Bilbao Mercancías,\nestaba operado por la empresa ferroviaria Low Cost Rail y compuesto por la locomotora 95 71 0 333\n333-3, y 23 vagones de la empresa Transfesa.\nEl tren 90073 descarrila en el PK 183+815 del segundo eje del vagón Laagrss 43 71 437",
@@ -533,7 +623,22 @@
       "2017-0024/2017",
       "2017-0030/2017",
       "2017-0035/2017"
-    ]
+    ],
+    "hora": "12:29",
+    "pk": null,
+    "tramo": "línea 700 Intermodal Abando Indalecio Prieto a Casetas",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": "Low Cost Rail",
+        "tipo": "mercancías",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 23 de mayo de 2017 en las proximidades de la estación de Inoso-Oiardo (Álava), que provocó el descarrilamiento de un vagón sin causar víctimas. La causa principal se atribuye a un fallo técnico por rotura de la suspensión del material rodante, agravado por un plan de mantenimiento inadecuado para las condiciones de explotación."
   },
   {
     "id": "2017-0030/2017",
@@ -558,7 +663,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia) el 4 de marzo de 2020, que no provocó víctimas ni daños materiales. La causa principal fue el fallo humano del Responsable de Circulación, quien expidió un tren sin establecer el bloqueo correspondiente al desactivar parcialmente los automatismos de seguridad. Este error generó una situación de riesgo de colisión frontal que fue evitada gracias a la intervención inmediata del controlador.",
@@ -607,7 +717,22 @@
       "2017-0025/2017",
       "2017-0024/2017",
       "2017-0020/2017"
-    ]
+    ],
+    "hora": "17:43",
+    "pk": "544+649",
+    "tramo": "210 Miraflores – Tarragona",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "mercancías",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "El 13 de julio de 2017 en Capçanes (Tarragona) se produjo un descarrilamiento de seis vagones de un tren de mercancías que no causó víctimas, aunque generó importantes daños materiales. La causa principal fue la deformación de la vía, resultado de tensiones residuales y factores ambientales, agravada por el incumplimiento de los procedimientos de vigilancia y auscultación geométrica por parte de Adif."
   },
   {
     "id": "2017-0043/2017",
@@ -631,7 +756,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0043/2017 ocurrido el 25.07.2017\n190426-170725-IF_CIAF .doc\n1. RESUMEN\nEl día 25 de julio de 2017 en la estación de Torralba (Soria) de la línea 200 Madrid Chamartín a\nBarcelona Estació França, el tren 90957 (locomotora aislada UIC 937113340114) de la empresa\nFerrovial Railway, procedente de Pla de Vilanoveta (Lérida) y con destino Sigüenza (Guadalajara), a su\nllegada a la estación mencionada encuentra la señal avanzada en indicación de anuncio de parada y,\nseguidamente, rebasa la señal de entrada, a las 20:25 horas, en indicación de parada.\nLa locomotora circulaba con el sistema ASFA analógico desconectado desde origen y con un maquinista\n(título de conducción de vehículos ferroviarios categoría B), conocedor de la línea y un operador de\nmaquin",
@@ -691,7 +821,22 @@
       "2017-0038/2017",
       "2017-0040/2017",
       "2017-0020/2017"
-    ]
+    ],
+    "hora": "20:25",
+    "pk": "PK 157+696",
+    "tramo": "200 Madrid Chamartín a Barcelona Estació França",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "locomotora aislada",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "El incidente ferroviario ocurrido el 25 de julio de 2017 en la estación de Torralba (Soria) consistió en el rebase indebido de una señal y la posterior deriva de una locomotora aislada, sin causar víctimas ni daños materiales. La causa principal fue la falta de atención del personal de conducción al rebasar la señal, agravada por la rotura de la transmisión cardan del compresor que inutilizó el freno automático. Como factores subyacentes se identificaron la circulación con el sistema ASFA desconectado y la insuficiente aplicación del freno de estacionamiento sin uso de calces antideriva."
   },
   {
     "id": "2017-0035/2017",
@@ -705,8 +850,8 @@
     "ubicacion": {
       "estacion": "FRANÇA (BARCELONA)",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.9277228,
+      "lng": 2.2823448
     },
     "entidades": [
       "ADIF",
@@ -716,7 +861,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 1,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 10,
+      "victimas_leves": 50,
+      "victimas_heridos": 60,
+      "victimas_total": 60
     },
     "analisis": {
       "resumen": "El 28 de julio de 2017, un tren de Rodalies colisionó contra la topera de la estación de França en Barcelona, provocando 60 heridos y daños materiales significativos. La causa directa fue la falta de aplicación del freno por parte del maquinista, quien perdió la consciencia presumiblemente debido a un estado de somnolencia derivado de un descanso insuficiente.",
@@ -746,7 +896,18 @@
       "2017-0025/2017",
       "2017-0024/2017",
       "2017-0040/2017"
-    ]
+    ],
+    "hora": "07:24",
+    "pk": "685+400",
+    "tramo": "200 Madrid Chamartín – Barcelona Estació de França",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": "Rodalies de Catalunya (Renfe)",
+        "tipo": null
+      }
+    ],
+    "resumen_verificado": "El 28 de julio de 2017, un tren de Rodalies colisionó contra la topera de la estación de França en Barcelona, provocando 60 heridos y daños materiales significativos. La causa directa fue la falta de aplicación del freno por parte del maquinista, quien perdió la consciencia presumiblemente debido a un estado de somnolencia derivado de un descanso insuficiente."
   },
   {
     "id": "2017-0038/2017",
@@ -770,7 +931,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0038/2017 ocurrido el 12.08.2017\n190628-170812–IF_CIAF\n1. RESUMEN\nEl incidente tiene lugar el día 12 de agosto de 2017 a las 11:55 horas, en la estación de Puebla de\nSanabria, pk 106+871 de la línea 822 Zamora - A Coruña, cuando encontrándose la estación en\nmando local, el tren de viajeros 154 de RENFE VIAJEROS, con origen Madrid Chamartín y destino\nFerrol, con paso directo y sin parada establecida, entra en la estación y tras pasar por las señales\navanzada E’1 y de entrada E1, ambas en indicación de vía libre, se encuentra con el desvío 17\norientado a vía desviada por fallo en las instalaciones de seguridad. El maquinista se da cuenta de esta\nsituación y actúa sobre el sistema de frenado de emergencia del tren, deteniendo el mismo en vía 5 a\nla",
@@ -823,7 +989,31 @@
       "2017-0043/2017",
       "2017-0040/2017",
       "2017-0020/2017"
-    ]
+    ],
+    "hora": "11:55",
+    "pk": null,
+    "tramo": "822 Zamora - A Coruña",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": "RENFE VIAJEROS",
+        "tipo": "Larga Distancia",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      },
+      {
+        "numero": null,
+        "operador": "RENFE VIAJEROS",
+        "tipo": "Mercancías/Pasajeros",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 12 de agosto de 2017 en la estación de Puebla de Sanabria (Zamora), donde el tren 154 de RENFE VIAJEROS entró en vía desviada por fallo en las instalaciones de seguridad. No se registraron víctimas ni daños materiales, aunque el maquinista detuvo el tren mediante frenado de emergencia. La causa principal fue el mal funcionamiento de los diodos de protección del relé de comprobación de la aguja 17, defecto derivado de una modificación tecnológica de 2008 ejecutada sin supervisión adecuada."
   },
   {
     "id": "2017-0040/2017",
@@ -849,7 +1039,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0040/2017 ocurrido el 21.08.2017\n190726-170821-IF_CIAF.doc\nRESUMEN\nEl día 21 de agosto de 2017 a las 08:51 horas, el tren de mercancías 90979 de la empresa ferroviaria\nTransitia Rail que procedía de Barcelona Casa Antúnez y con destino Azuqueca de Henares, rebasa la\nseñal de entrada Nº 11 en indicación de parada, de la estación de Lleida Pirineus de la línea 200\nMadrid Chamartín-Barcelona estación de Francia.\nDe forma simultánea, el tren 15622 de media distancia de la empresa ferroviaria Renfe Viajeros, con\norigen en Lleida Pirineus y destino L`Hospitalet de Llobregat (línea 220 Lleida Pirineus- L`Hospitalet de\nLlobregat), efectuaba salida desde la vía 5A de la estación de Lleida Pirineus en sentido Manresa,\npasando la señal de salida S2/5A en i",
@@ -897,7 +1092,31 @@
       "2017-0038/2017",
       "2017-0020/2017",
       "2017-0035/2017"
-    ]
+    ],
+    "hora": "08:51",
+    "pk": "p.k. 1+144",
+    "tramo": "200 Madrid Chamartín-Barcelona Estación de Francia",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "mercancías",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      },
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "media distancia",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "El 21 de agosto de 2017 en la estación de Lleida-Pirineus se produjo un incidente con conato de colisión entre un tren de mercancías y uno de viajeros que no dejó heridos ni daños materiales. La causa principal fue el rebasamiento de la señal de parada por parte del tren de mercancías debido a la falta de atención del maquinista y a la confusión entre señales. Este error se vio agravado por deficiencias en el sistema de gestión de seguridad de la empresa ferroviaria, que no informó adecuadamente al personal sobre las condiciones de circulación degradada."
   },
   {
     "id": "2017-0055/2017",
@@ -923,7 +1142,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 31,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 2,
+      "victimas_leves": 29,
+      "victimas_heridos": 31,
+      "victimas_total": 31
     },
     "analisis": {
       "resumen": "MINISTERIO DE\nTRANSPORTES,\nMOVILIDAD Y\nAGENDA\nURBANA\nSUBSECRETARÍA\nInvestigación del accidente\nnº 0055/2017 ocurrido el 29.11.2017\n200124-171129-IF_IR.doc\nRESUMEN\nEl día 29 de noviembre de 2017 a las 10:10 horas, en plena vía (p.k. 20+350), en el trayecto entre\nlas estaciones de El Sorbito y Arahal de la línea 422 Bif. Utrera a Fuente de la Piedra, el tren de\nviajeros de media distancia 13901 de la empresa ferroviaria Renfe Viajeros procedente de Málaga\ncon destino Sevilla, descarrila debido a la falta de consolidación y desguarnecido de la vía producido\npor la acumulación de agua en el terreno al producirse el desbordamiento de los cauces próximos a\nla misma.\nComo consecuencia del accidente se produjeron 31 heridos, de los cuales 29 fueron leves y 2 graves.\nSe produjeron cuantiosos daños ",
@@ -989,6 +1213,17 @@
       "2017-0025/2017",
       "2017-0024/2017",
       "2017-0030/2017"
-    ]
+    ],
+    "hora": "10:10",
+    "pk": "20+350",
+    "tramo": "422 Bif. Utrera a Fuente de la Piedra",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "tren de viajeros de media distancia"
+      }
+    ],
+    "resumen_verificado": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable."
   }
 ]

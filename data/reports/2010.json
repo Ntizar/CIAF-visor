@@ -21,7 +21,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 3,
+      "victimas_heridos": 3,
+      "victimas_total": 3
     },
     "analisis": {
       "resumen": "Investigación del accidente\nnº 0006/2010 ocurrido el 10.01.2010\nSECRETARIA DE ESTADO\nDE TRANSPORTES\nSECRETARÍA GENERAL DE\nTRANSPORTES\nInforme final\nRESUMEN\nEl día 10 de enero de 2010, a las 19:49 horas se produce el descarrilamiento del tren de viajeros 112,\nde la empresa ferroviaria Renfe Operadora, en el P.K. 568+250 de la línea 400 Alcázar de San Juan –\nCádiz a 4,4 km del cambiador de ancho de Majarabique , a la altura de la Bif. de San Bernardo, poco\nantes de la entrada a la estación de Sevilla  Santa Justa (lado Córdoba).\nConclusión: El descarrilamiento se produce por fallo en el proceso de cambio de ancho, al no quedar\nla rueda izquierda del primer eje del vehículo motriz de cola en el ancho de vía requerido. Este fallo,\nposiblemente, fue producido por la acumulación de nieve helada ",
@@ -96,7 +101,18 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "19:49",
+    "pk": "P.K. 568+250",
+    "tramo": "400 Alcázar de San Juan – Cádiz",
+    "trenes": [
+      {
+        "numero": "112",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia (TALGO Alvia serie 130)"
+      }
+    ],
+    "resumen_verificado": "El 10 de enero de 2010, un descarrilamiento del tren 112 de Renfe Operadora ocurrió en Majarabique (Sevilla), provocando tres heridos leves y daños materiales significativos. La causa principal fue un fallo en el proceso de cambio de ancho debido a la acumulación de nieve helada en el mecanismo de la rodadura, que impidió el enclavamiento correcto de las ruedas. Esta situación no fue detectada por el sistema de alarma por estar inoperativo, lo que permitió la circulación del tren en condiciones inseguras hasta su detención."
   },
   {
     "id": "2010-0002/2010",
@@ -120,7 +136,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en el paso a nivel de la estación de Vila-real (Castellón), donde un tren de viajeros arrolló a un motocarro. Como consecuencia del impacto, falleció el único ocupante del vehículo y se produjeron daños materiales en el tren y la vía. La causa principal del siniestro fue la irrupción del vehículo en el paso a nivel cuando las semibarreras ya se encontraban bajadas y las señales indicaban la proximidad del tren.",
@@ -155,7 +176,28 @@
       "2010-0062/2010",
       "2010-0063/2010",
       "2010-0064/2010"
-    ]
+    ],
+    "hora": "18:26",
+    "pk": "P.K. 62+902",
+    "tramo": "600 Valencia – San Vicente de Calders",
+    "trenes": [
+      {
+        "numero": "264",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      },
+      {
+        "numero": "24391",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías"
+      },
+      {
+        "numero": "24346",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 15 de enero de 2010 en el paso a nivel de la estación de Vila-real (Castellón), donde un tren de viajeros arrolló a un motocarro. Como consecuencia del impacto, falleció el único ocupante del vehículo y se produjeron daños materiales en el tren y la vía. La causa principal del siniestro fue la irrupción del vehículo en el paso a nivel cuando las semibarreras ya se encontraban bajadas y las señales indicaban la proximidad del tren."
   },
   {
     "id": "2010-0003/2010",
@@ -179,7 +221,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en la estación de Getafe Industrial (Madrid) que provocó la muerte de una persona al ser arrollada por el tren 17000. La causa principal del siniestro fue el cruce de la vía por parte de la víctima en un lugar no habilitado para ello, impidiendo al maquinista evitar el impacto a pesar de aplicar el freno de emergencia. No se registraron daños materiales en el material rodante ni en la infraestructura, aunque se produjeron interrupciones en la circulación.",
@@ -215,7 +262,23 @@
       "2010-0062/2010",
       "2010-0063/2010",
       "2010-0064/2010"
-    ]
+    ],
+    "hora": "21:06",
+    "pk": "P.K. 13+860",
+    "tramo": "300 Madrid – Valencia",
+    "trenes": [
+      {
+        "numero": "17000",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de media distancia"
+      },
+      {
+        "numero": "20091",
+        "operador": "Cercanías",
+        "tipo": "tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 15 de enero de 2010 en la estación de Getafe Industrial (Madrid) que provocó la muerte de una persona al ser arrollada por el tren 17000. La causa principal del siniestro fue el cruce de la vía por parte de la víctima en un lugar no habilitado para ello, impidiendo al maquinista evitar el impacto a pesar de aplicar el freno de emergencia. No se registraron daños materiales en el material rodante ni en la infraestructura, aunque se produjeron interrupciones en la circulación."
   },
   {
     "id": "2010-0008/2010",
@@ -239,7 +302,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren 27239 de Renfe Operadora ocurrió el 11 de febrero de 2010 en la estación de Pinar de Las Rozas (Madrid). El suceso no causó víctimas ni heridos, pero provocó daños materiales cuantificados en aproximadamente 71.400 euros en el material rodante y la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío nº 6 y de un ancho de vía superior al máximo permitido.",
@@ -298,7 +366,18 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "19:10",
+    "pk": "P.K. 20+658",
+    "tramo": "100 Madrid - Hendaya",
+    "trenes": [
+      {
+        "numero": "27239",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de cercanías (Tipo 140N)"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren 27239 de Renfe Operadora ocurrió el 11 de febrero de 2010 en la estación de Pinar de Las Rozas (Madrid). El suceso no causó víctimas ni heridos, pero provocó daños materiales cuantificados en aproximadamente 71.400 euros en el material rodante y la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío nº 6 y de un ancho de vía superior al máximo permitido."
   },
   {
     "id": "2010-0014/2010",
@@ -322,7 +401,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 5 de marzo de 2010 en la estación de Dueñas (Palencia), que provocó la muerte de un operario al ser arrollado por el tren 751. La causa principal fue la invasión del gálibo de la vía por parte del trabajador sin la autorización del encargado de los trabajos.",
@@ -381,7 +465,18 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "01:37",
+    "pk": "P.K. 278+952",
+    "tramo": "100 Madrid Chamartín – Hendaya",
+    "trenes": [
+      {
+        "numero": "751",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 5 de marzo de 2010 en la estación de Dueñas (Palencia), que provocó la muerte de un operario al ser arrollado por el tren 751. La causa principal fue la invasión del gálibo de la vía por parte del trabajador sin la autorización del encargado de los trabajos."
   },
   {
     "id": "2010-0016/2010",
@@ -405,7 +500,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista.",
@@ -453,7 +553,23 @@
       "2010-0033/2010",
       "2010-0039/2010",
       "2010-0032/2010"
-    ]
+    ],
+    "hora": "01:58",
+    "pk": "P.K. 76+396 (Señal de salida S1/4)",
+    "tramo": "700 Casetas - Intermodal Abando Indalecio Prieto",
+    "trenes": [
+      {
+        "numero": "933",
+        "operador": "Renfe Operadora",
+        "tipo": "Larga distancia"
+      },
+      {
+        "numero": "54654",
+        "operador": "Renfe Operadora",
+        "tipo": "Mercancías"
+      }
+    ],
+    "resumen_verificado": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista."
   },
   {
     "id": "2010-0017/2010",
@@ -476,7 +592,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "...................................................................................................................................... 3\nHECHOS INMEDIATOS DEL SUCESO\n.......................................................................................... 3\n2.1. SUCESO\n................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO\n..................................................",
@@ -538,7 +659,18 @@
       "2010-0050/2010",
       "2010-0044/2010",
       "2010-0028/2010"
-    ]
+    ],
+    "hora": "09:15",
+    "pk": null,
+    "tramo": "31 León - Bilbao",
+    "trenes": [
+      {
+        "numero": "7403",
+        "operador": "FEVE",
+        "tipo": "Tren de viajeros de cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 11 de marzo de 2010 en el paso a nivel de Villaquilambre (León), donde un tren de FEVE arrolló a un automóvil que invadió la vía. El suceso provocó la muerte de la conductora del vehículo y daños materiales en el tren y el coche. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera."
   },
   {
     "id": "2010-0018/2010",
@@ -562,7 +694,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en el paso a nivel clase A entre Villargordo y Grañena, donde el tren 18032 arrolló a una furgoneta que invadió la vía. El suceso provocó la muerte del conductor del vehículo y daños materiales en el tren, sin que la actuación del maquinista fuera imputable. La causa principal del accidente fue la invasión del paso a nivel por parte del vehículo en el momento del paso del tren.",
@@ -627,7 +764,23 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "00:33",
+    "pk": "172+050",
+    "tramo": "100 Madrid Chamartín – Hendaya",
+    "trenes": [
+      {
+        "numero": "58242",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de mercancías"
+      },
+      {
+        "numero": "58244",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El día 26 de marzo de 2010, a las 00:33 horas, se produjo una colisión por alcance entre los trenes de mercancías 58242 y 58244 de Renfe Operadora en las proximidades de la estación de Arévalo (Ávila). El tren 58242, parado ante la señal de entrada E2 en indicación de parada, fue alcanzado por el tren 58244, que circulaba con indicación de vía libre en la señal avanzada 1734 debido a un fallo técnico en la señalización fija. Este fallo fue consecuencia de los cambios en el enclavamiento de la estación para la realización de pruebas de software y tarjetas, realizados sin la verificación en campo de la concordancia del estado de las señales y sin la interrupción completa de las circulaciones."
   },
   {
     "id": "2010-0020/2010",
@@ -651,7 +804,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 8 de abril de 2010 en la terminal de contenedores de Silla (Valencia) durante maniobras de acoplamiento. El suceso provocó la muerte de un operario y el descarrilamiento de dos vagones debido a la colisión entre un corte en movimiento y material estacionado. La causa principal fue el incumplimiento de las normas del Reglamento General de Circulación por parte del personal interviniente y la ubicación inadecuada del agente fallecido en el momento del impacto.",
@@ -686,7 +844,23 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "11:25",
+    "pk": null,
+    "tramo": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "trenes": [
+      {
+        "numero": "310051",
+        "operador": "Renfe Operadora",
+        "tipo": "Locomotora de maniobras"
+      },
+      {
+        "numero": "N/A",
+        "operador": "Adif",
+        "tipo": "Material estacionado"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 8 de abril de 2010 en la terminal de contenedores de Silla (Valencia) durante maniobras de acoplamiento. El suceso provocó la muerte de un operario y el descarrilamiento de dos vagones debido a la colisión entre un corte en movimiento y material estacionado. La causa principal fue el incumplimiento de las normas del Reglamento General de Circulación por parte del personal interviniente y la ubicación inadecuada del agente fallecido en el momento del impacto."
   },
   {
     "id": "2010-0026/2010",
@@ -710,7 +884,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 95053 ocurrido el 23 de mayo de 2010 entre Pozuelo y Príncipe Pío (Madrid) no provocó víctimas mortales ni heridos, aunque sí daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue el decalado de la rueda derecha del primer eje del duodécimo vagón, probablemente debido a un mal calado de dicha rueda.",
@@ -737,7 +916,18 @@
       "2010-0062/2010",
       "2010-0063/2010",
       "2010-0064/2010"
-    ]
+    ],
+    "hora": "22:54",
+    "pk": "P.K. 5+114",
+    "tramo": "910 Madrid-Atocha Cercanías - Pinar de las Rozas",
+    "trenes": [
+      {
+        "numero": "95053",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías 95053 ocurrido el 23 de mayo de 2010 entre Pozuelo y Príncipe Pío (Madrid) no provocó víctimas mortales ni heridos, aunque sí daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue el decalado de la rueda derecha del primer eje del duodécimo vagón, probablemente debido a un mal calado de dicha rueda."
   },
   {
     "id": "2010-0028/2010",
@@ -760,7 +950,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías FR 901 ocurrido el 14 de junio de 2010 en Ortigueira (A Coruña) no provocó víctimas mortales ni heridos, aunque causó daños materiales cuantificados en más de 200.000 euros y la interrupción de la vía. La causa principal del accidente fue la circulación del tren con un exceso de velocidad del 28% respecto al límite permitido en la curva afectada. Como factor subyacente se identificó el incorrecto establecimiento de la velocidad máxima del tramo, que no se ajustaba a los parámetros geométricos de la infraestructura.",
@@ -813,7 +1008,18 @@
       "2010-0044/2010",
       "2010-0038/2010",
       "2010-0018/2010"
-    ]
+    ],
+    "hora": "08:32",
+    "pk": "P.K. 43+559",
+    "tramo": "11 Ferrol - Gijón",
+    "trenes": [
+      {
+        "numero": "FR 901",
+        "operador": "Feve",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías FR 901 ocurrido el 14 de junio de 2010 en Ortigueira (A Coruña) no provocó víctimas mortales ni heridos, aunque causó daños materiales cuantificados en más de 200.000 euros y la interrupción de la vía. La causa principal del accidente fue la circulación del tren con un exceso de velocidad del 28% respecto al límite permitido en la curva afectada. Como factor subyacente se identificó el incorrecto establecimiento de la velocidad máxima del tramo, que no se ajustaba a los parámetros geométricos de la infraestructura."
   },
   {
     "id": "2010-0030/2010",
@@ -827,8 +1033,8 @@
     "ubicacion": {
       "estacion": "trenes del apeadero",
       "provincia": "Alicante",
-      "lat": null,
-      "lng": null
+      "lat": 37.3118846,
+      "lng": -6.8410777
     },
     "entidades": [
       "ADIF",
@@ -837,7 +1043,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 10,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 10,
+      "victimas_leves": 7,
+      "victimas_heridos": 17,
+      "victimas_total": 17
     },
     "analisis": {
       "resumen": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia) el 4 de marzo de 2020, que no provocó víctimas ni daños materiales. La causa principal fue el fallo humano del Responsable de Circulación, quien expidió un tren sin establecer el bloqueo correspondiente al desactivar parcialmente los automatismos de seguridad. Este error generó una situación de riesgo de colisión frontal que fue evitada gracias a la intervención inmediata del controlador.",
@@ -882,7 +1093,23 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "23:23",
+    "pk": null,
+    "tramo": "200 Madrid Chamartín – Barcelona Sants",
+    "trenes": [
+      {
+        "numero": "1202",
+        "operador": "Renfe Operadora",
+        "tipo": "Larga distancia (Alaris)"
+      },
+      {
+        "numero": "28391",
+        "operador": "Renfe Operadora",
+        "tipo": "Cercanías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 23 de junio de 2010 en el apeadero de Platja de Castelldefels (Barcelona), que provocó 12 muertos, 10 heridos graves y 7 leves. La causa principal fue la invasión del gálibo de la vía por parte de viajeros que cruzaron las vías por un lugar no autorizado, sin percatarse de la llegada del tren Alaris 1202."
   },
   {
     "id": "2010-0031/2010",
@@ -896,8 +1123,8 @@
     "ubicacion": {
       "estacion": "VITORIA – GASTEIZ (ÁLAVA)",
       "provincia": "Álava",
-      "lat": null,
-      "lng": null
+      "lat": 42.8505845,
+      "lng": -2.66145
     },
     "entidades": [
       "ADIF",
@@ -906,7 +1133,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista.",
@@ -965,7 +1197,18 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "00:28",
+    "pk": null,
+    "tramo": "100 Madrid Chamartín – Hendaya",
+    "trenes": [
+      {
+        "numero": "407",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de larga distancia (tren-hotel ELIPSOS)"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 26 de junio de 2010 en la estación de Vitoria-Gasteiz, que provocó cinco heridos leves. La causa principal fue la indicación de operaciones terminadas por parte de la agente de acompañamiento antes de finalizar la subida de viajeros."
   },
   {
     "id": "2010-0032/2010",
@@ -989,7 +1232,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 26 de junio de 2009, en la estación de Humanes (Madrid), se produjo un conato de colisión entre dos trenes de cercanías que no causó víctimas ni daños materiales. La causa principal del incidente fue el fallo humano de la jefa de circulación, quien estableció incorrectamente el itinerario de salida del tren HU171.",
@@ -1037,7 +1285,23 @@
       "2010-0033/2010",
       "2010-0039/2010",
       "2010-0016/2010"
-    ]
+    ],
+    "hora": "09:07",
+    "pk": "361+100",
+    "tramo": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+    "trenes": [
+      {
+        "numero": "25122",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías (material vacío para maniobra)"
+      },
+      {
+        "numero": "28708",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "El incidente ferroviario ocurrido el 29 de junio de 2010 en la estación de Sant Andreu Arenal (Barcelona) consistió en un conato de colisión entre una maniobra de material vacío y un tren de cercanías. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en la circulación. La causa principal fue el rebase indebido de la señal de retroceso R3 por parte de la maniobra, debido al incumplimiento de las órdenes de señalización por parte del personal de conducción."
   },
   {
     "id": "2010-0033/2010",
@@ -1062,7 +1326,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 8 de julio de 2009 en el paso a nivel de Villaverde de Pontones (Ribamontán al Monte, Cantabria), donde un tren de mercancías arrolló un vehículo detenido en la vía. El suceso provocó la muerte del conductor del automóvil y daños materiales en el tren y la infraestructura. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que ignoró las señales de parada del paso a nivel.",
@@ -1109,7 +1378,28 @@
       "2010-0046/2010",
       "2010-0053/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "10:01",
+    "pk": "P.K. 20+655",
+    "tramo": "920 Móstoles-El Soto - Parla",
+    "trenes": [
+      {
+        "numero": "27753",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías (material vacío en maniobra)"
+      },
+      {
+        "numero": "19819",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías"
+      },
+      {
+        "numero": "19828",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de cercanías"
+      }
+    ],
+    "resumen_verificado": "El incidente ocurrido el 5 de julio de 2010 en la estación de Móstoles – El Soto (Madrid) consistió en un conato de colisión al rebasar indebidamente un tren vacío la señal de parada 1721. No se registraron víctimas ni daños materiales, ya que el maquinista detuvo la composición a tiempo. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren."
   },
   {
     "id": "2010-0036/2010",
@@ -1133,7 +1423,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 13 de julio de 2009 en el paso a nivel particular de Jaca (Huesca), donde el tren 15653 arrolló a un camión articulado. La colisión provocó heridos leves en el conductor del vehículo y una viajera, además de daños materiales significativos en el tren y la infraestructura. La causa principal del siniestro fue la ocupación indebida del gálibo de la vía por parte del camión, que invadió el paso a nivel sin respetar la señalización de stop.",
@@ -1197,7 +1492,18 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "15:51",
+    "pk": "P.K. 230+862",
+    "tramo": "700 Intermodal Abando Indalecio Prieto-Casetas",
+    "trenes": [
+      {
+        "numero": "436",
+        "operador": "Renfe Operadora",
+        "tipo": "tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren 436 de Renfe Operadora ocurrió el 10 de julio de 2010 en Aracaldo (Álava), sin causar víctimas ni heridos. La causa principal fue el fallo técnico del material rodante, derivado de la rotura por fatiga del casquillo deslizante de una rueda. El suceso provocó daños materiales en la infraestructura y el tren, además de la interrupción del tráfico ferroviario durante aproximadamente 16 horas."
   },
   {
     "id": "2010-0038/2010",
@@ -1220,7 +1526,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 27 de julio de 2009 en la Bifurcación Clot de Barcelona, donde el tren 15052 rebasó indebidamente una señal de parada provocando un conato de colisión con el tren 25552. El suceso no dejó víctimas ni daños materiales, aunque generó retrasos en la circulación. La causa principal fue el incumplimiento de las órdenes de señalización por parte del personal de conducción.",
@@ -1278,7 +1589,18 @@
       "2010-0044/2010",
       "2010-0028/2010",
       "2010-0018/2010"
-    ]
+    ],
+    "hora": "12:41",
+    "pk": "P.K. 148+845",
+    "tramo": "11 Ferrol–Gijón",
+    "trenes": [
+      {
+        "numero": "9121",
+        "operador": "Feve",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento del tren de mercancías 9121 ocurrido el 14 de julio de 2010 entre Ribadeo y Vegadeo no causó víctimas, pero provocó daños materiales significativos en la infraestructura y el material rodante. La causa principal fue la circulación del tren a una velocidad superior a la permitida, agravada por un incorrecto establecimiento de la velocidad máxima del tramo."
   },
   {
     "id": "2010-0039/2010",
@@ -1302,7 +1624,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de alta velocidad 80 Madrid Chamartín – Valladolid Campo Grande, se produce un conato de colisión entre los trenes de viajeros de larga distancia 4141 y 8168, ambos de la empresa ferroviaria Renfe Operadora, cuando el primero rebasa indebidamente la señal de entrada E1, que se encontraba en indicación de parada. El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
@@ -1349,7 +1676,23 @@
       "2010-0033/2010",
       "2010-0032/2010",
       "2010-0016/2010"
-    ]
+    ],
+    "hora": "15:41",
+    "pk": null,
+    "tramo": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+    "trenes": [
+      {
+        "numero": "4141",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      },
+      {
+        "numero": "8168",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de larga distancia"
+      }
+    ],
+    "resumen_verificado": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de alta velocidad 80 Madrid Chamartín – Valladolid Campo Grande, se produce un conato de colisión entre los trenes de viajeros de larga distancia 4141 y 8168, ambos de la empresa ferroviaria Renfe Operadora, cuando el primero rebasa indebidamente la señal de entrada E1, que se encontraba en indicación de parada. El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
   },
   {
     "id": "2010-0044/2010",
@@ -1372,7 +1715,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 9 de agosto de 2010 en el paso a nivel de Cabezón de la Sal (Cantabria), donde el tren 6502 de Feve arrolló a un vehículo agrícola. El suceso provocó la muerte del conductor de la motosegadora y daños materiales en el tren y el vehículo. La causa principal del accidente fue la invasión del gálibo de la vía por parte del vehículo agrícola, que cruzó el paso a nivel sin percatarse de la llegada del tren.",
@@ -1427,7 +1775,18 @@
       "2010-0028/2010",
       "2010-0038/2010",
       "2010-0017/2010"
-    ]
+    ],
+    "hora": "17:00",
+    "pk": null,
+    "tramo": "1021 Oviedo – Santander",
+    "trenes": [
+      {
+        "numero": "6502",
+        "operador": "Feve",
+        "tipo": "Tren regular de viajeros"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 9 de agosto de 2010 en el paso a nivel de Cabezón de la Sal (Cantabria), donde el tren 6502 de Feve arrolló a un vehículo agrícola. El suceso provocó la muerte del conductor de la motosegadora y daños materiales en el tren y el vehículo. La causa principal del accidente fue la invasión del gálibo de la vía por parte del vehículo agrícola, que cruzó el paso a nivel sin percatarse de la llegada del tren."
   },
   {
     "id": "2010-0046/2010",
@@ -1451,7 +1810,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
@@ -1479,7 +1843,23 @@
       "2010-0064/2010",
       "2010-0033/2010",
       "2010-0039/2010"
-    ]
+    ],
+    "hora": "20:04",
+    "pk": "250+950",
+    "tramo": "800 A Coruña - León",
+    "trenes": [
+      {
+        "numero": "82214",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      },
+      {
+        "numero": "LK289",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción."
   },
   {
     "id": "2010-0047/2010",
@@ -1493,8 +1873,8 @@
     "ubicacion": {
       "estacion": "El Sorbito",
       "provincia": "Almería",
-      "lat": null,
-      "lng": null
+      "lat": 37.3372397,
+      "lng": -6.6574505
     },
     "entidades": [
       "ADIF",
@@ -1503,7 +1883,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 18 de agosto de 2010 en el paso a nivel clase B entre las estaciones de Utrera y El Sorbito (Sevilla). El suceso provocó la muerte del conductor del vehículo de carretera que fue arrollado por el tren 13926. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que irrumpió en el paso a nivel a pesar de que los dispositivos de protección estaban activados.",
@@ -1559,7 +1944,18 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "12:16",
+    "pk": null,
+    "tramo": "422 Bif. Utrera a Fuente de Piedra",
+    "trenes": [
+      {
+        "numero": "13926",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de media distancia"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 18 de agosto de 2010 en el paso a nivel clase B entre las estaciones de Utrera y El Sorbito (Sevilla). El suceso provocó la muerte del conductor del vehículo de carretera que fue arrollado por el tren 13926. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que irrumpió en el paso a nivel a pesar de que los dispositivos de protección estaban activados."
   },
   {
     "id": "2010-0049/2010",
@@ -1583,7 +1979,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Investigación del accidente\nnº 0049/2010 ocurrido el 06.09.2010\nSECRETARÍA DE ESTADO\nDE TRANSPORTES\nSECRETARÍA GENERAL DE\nTRANSPORTES\nInforme final\nRESUMEN\nEl día 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015, de la empresa ferroviaria\nRenfe Operadora, arrolla a un camión dumper que invade el paso a nivel provisional por obras, situado\nen el PK 24+420 de la línea 510 Aljucén - Cáceres, entre las estaciones de Aldea del Cano y Aljucén\n(Badajoz). Tras el impacto, el camión queda montado de su eje delantero entre el segundo y el tercer\ncoche del tren que, a su vez, resulta totalmente descarrilado. Como consecuencia del accidente,\nfallecen una pasajera y el conductor del camión, único ocupante del vehículo. Además, el maquinista y\notro pasajero resultan heridos graves.\n",
@@ -1660,7 +2061,18 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "12:35",
+    "pk": null,
+    "tramo": "510 Aljucén - Cáceres",
+    "trenes": [
+      {
+        "numero": "17015",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de viajeros de media distancia (automotor 598.017-2)"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 6 de septiembre de 2010 en el paso a nivel provisional de Carmonita (Badajoz), donde un camión invadió el gálibo de la vía al circular sin las cadenas de seguridad echadas. La colisión provocó la muerte de una pasajera y el conductor del camión, además de heridos graves y daños materiales significativos. La causa principal del siniestro fue la invasión del gálibo por parte del vehículo, que cruzó el paso a nivel cuando el tren se aproximaba y las medidas de protección no estaban activadas."
   },
   {
     "id": "2010-0050/2010",
@@ -1683,7 +2095,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 24 de septiembre de 2009 en el apeadero de Cazoña (Santander) provocó la rotura de un eje en el tren 6722 sin causar víctimas ni daños materiales graves. La causa principal fue una fisura previa en el eje, originada por entallas producidas durante un proceso de calado, que se propagó hasta la rotura completa de la mangueta.",
@@ -1740,7 +2157,18 @@
       "2010-0044/2010",
       "2010-0028/2010",
       "2010-0038/2010"
-    ]
+    ],
+    "hora": "17:02",
+    "pk": null,
+    "tramo": "1031 León – Bilbao",
+    "trenes": [
+      {
+        "numero": "8939",
+        "operador": "Feve",
+        "tipo": "Tren regular de viajeros"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 7 de septiembre de 2010 en el paso a nivel de Zalla (Vizcaya), que provocó la muerte de una mujer al ser arrollada por el tren 8939. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó el paso a nivel cuando los dispositivos de protección ya se encontraban en funcionamiento."
   },
   {
     "id": "2010-0053/2010",
@@ -1764,7 +2192,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 30 de septiembre de 2010 en la estación de Redondela (Pontevedra) que provocó un conato de colisión entre dos trenes de Renfe Operadora sin causar víctimas ni daños materiales. La causa principal fue el rebase indebido de la señal de salida 1S/I en indicación de parada por parte del tren 620, debido al incumplimiento de las órdenes de las señales por parte del personal de conducción.",
@@ -1818,7 +2251,23 @@
       "2010-0039/2010",
       "2010-0032/2010",
       "2010-0016/2010"
-    ]
+    ],
+    "hora": "08:09",
+    "pk": "PK 166+800",
+    "tramo": "Línea 810 Vigo - Monforte de Lemos",
+    "trenes": [
+      {
+        "numero": "620",
+        "operador": "Renfe Operadora",
+        "tipo": "Alvia tipo 200A"
+      },
+      {
+        "numero": "651",
+        "operador": "Renfe Operadora",
+        "tipo": "Locomotora 333406"
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 30 de septiembre de 2010 en la estación de Redondela (Pontevedra) que provocó un conato de colisión entre dos trenes de Renfe Operadora sin causar víctimas ni daños materiales. La causa principal fue el rebase indebido de la señal de salida 1S/I en indicación de parada por parte del tren 620, debido al incumplimiento de las órdenes de las señales por parte del personal de conducción."
   },
   {
     "id": "2010-0056/2010",
@@ -1841,7 +2290,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren.",
@@ -1897,7 +2351,23 @@
     "similares": [
       "2010-0028/2010",
       "2010-0038/2010"
-    ]
+    ],
+    "hora": "15:25",
+    "pk": "PK 1+057 (Señal S2/P de Gijón)",
+    "tramo": "61 Gijón - Laviana",
+    "trenes": [
+      {
+        "numero": "4519",
+        "operador": "Feve",
+        "tipo": "Tren de viajeros de cercanías, tipo 100 (UTE 3638 en cabeza)"
+      },
+      {
+        "numero": "5418",
+        "operador": "Feve",
+        "tipo": "Tren de viajeros de cercanías, tipo 100 (UTE 3636 en cabeza)"
+      }
+    ],
+    "resumen_verificado": "El 19 de octubre de 2010, entre las estaciones de Gijón y Sotiello (Asturias), se produjo un conato de colisión entre dos trenes de cercanías de Feve que no causó víctimas ni daños materiales. La causa principal fue la autorización del rebase de la señal de salida hacia un cantón ya ocupado por otro tren debido a una avería en el sistema de bloqueo."
   },
   {
     "id": "2010-0062/2010",
@@ -1921,7 +2391,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora.",
@@ -1981,7 +2456,18 @@
       "2010-0026/2010",
       "2010-0046/2010",
       "2010-0063/2010"
-    ]
+    ],
+    "hora": "18:20",
+    "pk": "P.K. 524+416",
+    "tramo": "800 A Coruña - León",
+    "trenes": [
+      {
+        "numero": "81729",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora."
   },
   {
     "id": "2010-0063/2010",
@@ -2005,7 +2491,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El 11 de noviembre de 2010, entre las estaciones de Algemesí y Benifaió, se produjo el descarrilamiento del tren de mercancías COX26, sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y retrasos significativos en la circulación. La causa principal del suceso fue un fallo técnico del material rodante, concretamente el fallo mecánico de un rodamiento que provocó la pérdida de la caja de grasa y la posterior basculación del vagón.",
@@ -2068,7 +2559,23 @@
       "2010-0026/2010",
       "2010-0062/2010",
       "2010-0064/2010"
-    ]
+    ],
+    "hora": "01:35",
+    "pk": "PK 89+850",
+    "tramo": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "trenes": [
+      {
+        "numero": "COX26",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      },
+      {
+        "numero": "82501",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías peligrosas"
+      }
+    ],
+    "resumen_verificado": "El 11 de noviembre de 2010, entre las estaciones de Algemesí y Benifaió, se produjo el descarrilamiento del tren de mercancías COX26, sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y retrasos significativos en la circulación. La causa principal del suceso fue un fallo técnico del material rodante, concretamente el fallo mecánico de un rodamiento que provocó la pérdida de la caja de grasa y la posterior basculación del vagón."
   },
   {
     "id": "2010-0064/2010",
@@ -2092,7 +2599,12 @@
     "consecuencias": {
       "victimas_mortales": 0,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 1
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren.",
@@ -2138,6 +2650,17 @@
       "2010-0026/2010",
       "2010-0046/2010",
       "2010-0062/2010"
-    ]
+    ],
+    "hora": "10:31",
+    "pk": null,
+    "tramo": "120 Vilar Formoso – Medina del Campo",
+    "trenes": [
+      {
+        "numero": "58727",
+        "operador": "Renfe Operadora",
+        "tipo": "Tren de mercancías"
+      }
+    ],
+    "resumen_verificado": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren."
   }
 ]

@@ -11,8 +11,8 @@
     "ubicacion": {
       "estacion": "Bifurcación Cerrato",
       "provincia": "Burgos",
-      "lat": null,
-      "lng": null
+      "lat": 41.9619946,
+      "lng": -4.4771599
     },
     "entidades": [
       "ADIF",

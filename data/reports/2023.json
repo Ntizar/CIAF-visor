@@ -11,8 +11,8 @@
     "ubicacion": {
       "estacion": "Valencia",
       "provincia": "Valencia",
-      "lat": null,
-      "lng": null
+      "lat": 39.453,
+      "lng": -0.352
     },
     "entidades": [
       "ADIF",

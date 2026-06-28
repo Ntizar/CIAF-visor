@@ -72,7 +72,12 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 0,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 0,
+      "victimas_graves": 0,
+      "victimas_leves": 0,
+      "victimas_heridos": 0,
+      "victimas_total": 0
     },
     "analisis": {
       "resumen": "El incidente tiene lugar el día 9 de diciembre de 2019 a las 16:35 horas, en el PK 92+898 de la Línea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat, estación de Cornellá, al rebasar indebidamente el tren 25045 la señal de entrada E1 en indicación de parada, con riesgo de colisión por alcance con el tren 95951 precedente. El Responsable de Circulación del CTC de Barcelona establece itinerario a vía 4 para el tren 95951 precedente. Con el tren 95951 aún detenido ante la señal E1, el tren 25045 pasa por la baliza previa de la señal E1, recibiendo en el equipo embarcado la indicación de anuncio de parada. El tren 95951 inicia la marcha y, tras su paso por la señal E1, ésta vuelve a cambiar su indicación a la de parada. Segundos después el tren 25045 rebasa indebidamente la señal E1 en indicación de parada y se detiene por activación del frenado de emergencia ASFA. Reanuda la marcha 39 segundos después de su parada hasta quedar estacionado en la vía 2 de la estación.",
@@ -121,6 +126,30 @@
     "similares": [
       "2019-12/2019",
       "2019-12/2019"
-    ]
+    ],
+    "hora": "16:35",
+    "pk": "92+898",
+    "tramo": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+    "trenes": [
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "Tren de Cercanías",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      },
+      {
+        "numero": null,
+        "operador": null,
+        "tipo": "Material vacío",
+        "serie": null,
+        "unidad": null,
+        "velocidad": null,
+        "viajeros": null
+      }
+    ],
+    "resumen_verificado": "Incidente ocurrido el 9 de diciembre de 2019 en la estación de Cornellá (Barcelona), donde el tren 25045 rebasó indebidamente una señal de parada con riesgo de colisión. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos operativos. La causa principal fue el error del maquinista al no mantener la marcha a la vista y confundir la indicación del sistema ASFA transmitida para el tren precedente."
   }
 ]
