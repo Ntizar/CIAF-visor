@@ -84,9 +84,9 @@
       "descripcion": ""
     },
     "conclusiones": [
-      "Causas directas e inmediatas del suceso: (cd1) Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando lugar al rebase indebido de la señal de entrada E1 en indicación de parada.",
-      "Factores contribuyentes en relación con la actuación de las personas: (fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa de la señal E1 fuese equivalente a la indicación de la propia señal E1, lo que propicia su rebase indebido. (fc2) No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E’1, superando la velocidad máxima de 40 km/h permitida bajo estas condiciones.",
-      "Factores contribuyentes en relación con el material rodante, instalaciones técnicas e infraestructura: (fc3) Al paso por la baliza previa de la señal E1, la información recibida en cabina por el maquinista del tren 25045 es la información transmitida por dicha baliza de acuerdo con la orden de la señal E1 para el tren 95951 precedente, que se encontraba detenido en el mismo cantón al haber rebasado el primero la señal avanzada E’1, lo que confundió al maquinista del 25045, considerándola erróneamente como propia."
+      "(cd1) Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando lugar al rebase indebido de la señal de entrada E1 en indicación de parada.",
+      "(fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa de la señal E1 fuese equivalente a la indicación de la propia señal E1, lo que propicia su rebase indebido. (fc2) No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E’1, superando la velocidad máxima de 40 km/h permitida bajo estas condiciones.",
+      "(fc3) Al paso por la baliza previa de la señal E1, la información recibida en cabina por el maquinista del tren 25045 es la información transmitida por dicha baliza de acuerdo con la orden de la señal E1 para el tren 95951 precedente, que se encontraba detenido en el mismo cantón al haber rebasado el primero la señal avanzada E’1, lo que confundió al maquinista del 25045, considerándola erróneamente como propia."
     ],
     "recomendaciones": [
       {

@@ -78,26 +78,14 @@
       "descripcion": ""
     },
     "conclusiones": [
-      "CONCLUSIONS",
-      "Involved staff, both dispatcher and drivers, comply with existing regulations with regard to",
-      "licences, habitation, training, health and psycho-technical requirements.",
+      "CONCLUSIONS Involved staff, both dispatcher and drivers, comply with existing regulations with regard to licences, habitation, training, health and psycho-technical requirements.",
       "Signalling and command and control systems worked correctly, according to their design.",
       "Rolling stock worked correctly.",
-      "Infrastructure worked correctly according to safety requirements, with an only failure consisting",
-      "in the lack of verification of switch A1 at Xeraco station, caused by the poor condition of the",
-      "clutch of its engine.",
+      "Infrastructure worked correctly according to safety requirements, with an only failure consisting in the lack of verification of switch A1 at Xeraco station, caused by the poor condition of the clutch of its engine.",
       "Communications worked correctly.",
-      "When train #24294 stopped in track #2 of Xeraco station, because the failure in switch A1, the",
-      "dispatcher at Control Centre disabled the automatic system (GRP) at Xeraco and Gandía",
-      "Mercancías, but not at Tavernes. As it was still working, GRP at Tavernes kept on issuing",
-      "automatic blocking and dispatching orders, setting the exit itinerary for train #24279 (from track",
-      "#2 of Tavernes, bound to Xeraco), ignoring the manual exiting authorizations that the dispatcher",
-      "was issuing to train #24294 at Xeraco.",
-      "The dispatcher didn’t comply with Railway Circulation Regulation (article 4.2.1.2) when he",
-      "manually dispatched train #24294 with a signal passing authorization, without having verified",
-      "that the line blocking was clear (it had been blocked by Tavernes GRP system).",
-      "Also, by forgetting to disable GRP at Tavernes, he didn’t comply with rule AOI 28/17 regarding to",
-      "GRP systems, that states that in the event of incidents or malfunctions GRP must be disabled “in"
+      "When train #24294 stopped in track #2 of Xeraco station, because the failure in switch A1, the dispatcher at Control Centre disabled the automatic system (GRP) at Xeraco and Gandía Mercancías, but not at Tavernes. As it was still working, GRP at Tavernes kept on issuing automatic blocking and dispatching orders, setting the exit itinerary for train #24279 (from track #2 of Tavernes, bound to Xeraco), ignoring the manual exiting authorizations that the dispatcher was issuing to train #24294 at Xeraco.",
+      "The dispatcher didn’t comply with Railway Circulation Regulation (article 4.2.1.2) when he manually dispatched train #24294 with a signal passing authorization, without having verified that the line blocking was clear (it had been blocked by Tavernes GRP system).",
+      "Also, by forgetting to disable GRP at Tavernes, he didn’t comply with rule AOI 28/17 regarding to GRP systems, that states that in the event of incidents or malfunctions GRP must be disabled “in"
     ],
     "recomendaciones": [
       "En los procesos de formación incidir en que funcionando el BAU, debe asegurarse previamente el bloqueo automático del trayecto por el RC en todos los casos en que expida un tren con autorización de rebase de la señal de salida.",
