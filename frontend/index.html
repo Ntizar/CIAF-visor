@@ -405,6 +405,11 @@
                 <div class="legend-item"><span class="legend-dot" style="background:#CB1823"></span> Accidente</div>
                 <div class="legend-item"><span class="legend-dot" style="background:#e65100"></span> Incidente</div>
                 <div class="legend-item"><span class="legend-dot" style="background:#3463AC"></span> Avería</div>
+                <div style="margin-top:6px;border-top:1px solid #ddd;padding-top:4px">
+                    <div class="legend-item"><span style="display:inline-block;width:20px;height:3px;background:#1A4488;border-radius:2px;opacity:0.6"></span> Red ADIF (WMS)</div>
+                    <div class="legend-item"><span class="legend-dot" style="background:#ff6b00"></span> Límites velocidad</div>
+                    <div class="legend-item"><span style="display:inline-block;width:20px;height:3px;background:#1A4488;border-radius:2px;opacity:0.5;border-top:1px dashed #1A4488"></span> Tramificación</div>
+                </div>
             </div>
         </div>
 
@@ -552,14 +557,14 @@
 
 <!-- Footer -->
 <footer class="app-footer">
-    Datos: <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener">CIAF / Ministerio de Transportes</a>
+    Datos: <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener">CIAF / Ministerio de Transportes</a> · Infraestructura: <a href="https://ideadif.adif.es" target="_blank" rel="noopener">© ADIF</a>
 </footer>
 
 <script>
 // ===== GLOBAL STATE =====
 let allReports = [];
 let filteredReports = [];
-let map, markersLayer, trainTracksLayer;
+let map, markersLayer;
 
 // ===== INIT =====
 async function init() {
@@ -757,6 +762,8 @@ function setupSearch() {
 }
 
 // ===== MAP =====
+let adifWmsLayer, ltvLayer, tramificacionLayer;
+
 function initMap() {
     map = L.map('map').setView([40.0, -3.5], 6);
     L.tileLayer('https://www.ign.es/wmts/ign-base?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=IGNBase-gris&STYLE=default&TILEMATRIXSET=GoogleMapsCompatible&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&FORMAT=image/jpeg', {
@@ -767,14 +774,35 @@ function initMap() {
     markersLayer = L.markerClusterGroup({ maxClusterRadius: 50 });
     map.addLayer(markersLayer);
 
-    trainTracksLayer = L.layerGroup();
-    loadTrainTracks();
+    // === Capa WMS: Red Ferroviaria ADIF (INSPIRE) ===
+    adifWmsLayer = L.tileLayer.wms('https://ideadif.adif.es/services/wms', {
+        layers: 'TN.RailTransportNetwork.RailwayLink',
+        format: 'image/png',
+        transparent: true,
+        version: '1.3.0',
+        crs: L.CRS.EPSG3857,
+        attribution: '© ADIF — Red de Transporte Ferroviario',
+        maxZoom: 18
+    });
+
+    // === Capa LTV: Límites Temporales de Velocidad (ArcGIS) ===
+    ltvLayer = L.layerGroup();
+    loadLTV();
+
+    // === Capa Tramificación Común ADIF (WFS) ===
+    tramificacionLayer = L.layerGroup();
+    loadTramificacion();
 
     const overlays = {
-        'Informes': markersLayer,
-        'Vías de tren': trainTracksLayer
+        'Informes CIAF': markersLayer,
+        '🛤️ Red ferroviaria ADIF': adifWmsLayer,
+        '⚠️ Limitaciones velocidad (LTV)': ltvLayer,
+        '🏗️ Tramificación ADIF': tramificacionLayer
     };
     L.control.layers(null, overlays, { position: 'topright' }).addTo(map);
+
+    // Activar capa ADIF por defecto
+    adifWmsLayer.addTo(map);
 
     updateMapMarkers();
 }
@@ -821,39 +849,101 @@ function updateMapMarkers() {
     });
 }
 
-async function loadTrainTracks() {
+// ===== CAPA LTV: Límites Temporales de Velocidad (ArcGIS FeatureServer) =====
+async function loadLTV() {
     try {
-        const resp = await fetch('data/train-tracks.geojson');
-        if (!resp.ok) throw new Error('GeoJSON no encontrado');
-        const data = await resp.json();
-        data.features.forEach(f => {
-            const coords = f.geometry.coordinates.map(c => [c[1], c[0]]);
-            if (coords.length < 2) return;
-            const props = f.properties || {};
-            const color = props.color || '#3463AC';
-            const weight = props.weight || 2;
-            L.polyline(coords, { color, weight, opacity: 0.6 }).addTo(trainTracksLayer);
+        const url = 'https://services7.arcgis.com/XTupIrLX53AjaJqO/arcgis/rest/services/LTV_2/FeatureServer/0/query';
+        const params = new URLSearchParams({
+            where: '1=1',
+            outFields: 'CODLINEA,DESCLINEA,RESTRICCIONVELOCIDAD,MOTIVO,PKINI,PKFIN,DESCPSINI,DESCPSFIN,HORAVIGORLTV,FECHAVIGORLTV,TIPOTREN,VIAS,OBSERVACIONES',
+            outSR: '4326',
+            f: 'json',
+            resultRecordCount: 2000
         });
-        console.log(`Vías de tren cargadas: ${data.features.length} tramos`);
+        const resp = await fetch(`${url}?${params}`);
+        const data = await resp.json();
+        if (!data.features) throw new Error('Sin datos LTV');
+
+        const ltvIcon = L.divIcon({
+            className: '',
+            html: '<div style="width:10px;height:10px;background:#ff6b00;border-radius:50%;border:2px solid white;box-shadow:0 1px 4px rgba(0,0,0,0.5)"></div>',
+            iconSize: [10, 10], iconAnchor: [5, 5]
+        });
+
+        data.features.forEach(f => {
+            const a = f.attributes;
+            if (!a.X || !a.Y) return;
+            const vel = a.RESTRICCIONVELOCIDAD || '—';
+            const marker = L.marker([a.Y, a.X], { icon: ltvIcon });
+            marker.bindPopup(`
+                <div class="popup-content">
+                    <h4>⚠️ Limitación de Velocidad</h4>
+                    <p><span class="detail-label">Línea:</span> ${a.DESCLINEA || a.CODLINEA || '—'}</p>
+                    <p><span class="detail-label">Velocidad:</span> <strong style="color:#CB1823">${vel} km/h</strong></p>
+                    <p><span class="detail-label">Tramo:</span> ${a.DESCPSINI || ''} → ${a.DESCPSFIN || ''}</p>
+                    <p><span class="detail-label">PK:</span> ${a.PKINI || '—'} — ${a.PKFIN || '—'}</p>
+                    <p><span class="detail-label">Motivo:</span> ${a.MOTIVO || '—'}</p>
+                    <p><span class="detail-label">Tipo tren:</span> ${a.TIPOTREN || '—'}</p>
+                    <p><span class="detail-label">Vías:</span> ${a.VIAS || '—'}</p>
+                    <p><span class="detail-label">Vigente desde:</span> ${a.HORAVIGORLTV || '—'}</p>
+                    ${a.OBSERVACIONES ? `<p><span class="detail-label">Obs:</span> ${a.OBSERVACIONES}</p>` : ''}
+                </div>
+            `, { maxWidth: 320 });
+            ltvLayer.addLayer(marker);
+        });
+        console.log(`LTV cargadas: ${data.features.length} restricciones`);
     } catch (e) {
-        console.warn('Error cargando vías de tren:', e);
-        try {
-            const query = `[out:json][timeout:30]; way["railway"="rail"](36.0,-9.5,44.0,3.5); out body; >; out skel qt;`;
-            const resp = await fetch('https://overpass-api.de/api/interpreter', {
-                method: 'POST',
-                body: 'data=' + encodeURIComponent(query),
-                headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+        console.warn('Error cargando LTV:', e);
+    }
+}
+
+// ===== CAPA TRAMIFICACIÓN COMÚN ADIF (WFS) =====
+async function loadTramificacion() {
+    try {
+        // Cargar tramos en servicio
+        const url = 'https://ideadif.adif.es/gservices/Tramificacion/wfs';
+        const params = new URLSearchParams({
+            service: 'WFS',
+            version: '2.0.0',
+            request: 'GetFeature',
+            typeName: 'Tramificacion:TramosServicio',
+            outputFormat: 'application/json',
+            srsName: 'EPSG:4326',
+            count: 5000
+        });
+        const resp = await fetch(`${url}?${params}`);
+        const data = await resp.json();
+        if (!data.features) throw new Error('Sin datos Tramificación');
+
+        data.features.forEach(f => {
+            const geom = f.geometry;
+            if (!geom) return;
+            const coords = geom.coordinates;
+            if (!coords) return;
+
+            // Handle MultiLineString or LineString
+            let lines = [];
+            if (geom.type === 'MultiLineString') {
+                lines = coords;
+            } else if (geom.type === 'LineString') {
+                lines = [coords];
+            }
+
+            const props = f.properties || {};
+            lines.forEach(line => {
+                const latlngs = line.map(c => [c[1], c[0]]);
+                if (latlngs.length < 2) return;
+                L.polyline(latlngs, {
+                    color: '#1A4488',
+                    weight: 3,
+                    opacity: 0.5,
+                    dashArray: '6,4'
+                }).addTo(tramificacionLayer);
             });
-            const data = await resp.json();
-            const nodes = {};
-            data.elements.filter(e => e.type === 'node').forEach(n => { nodes[n.id] = [n.lat, n.lon]; });
-            data.elements.filter(e => e.type === 'way').forEach(way => {
-                const coords = way.nodes.map(id => nodes[id]).filter(Boolean);
-                if (coords.length > 1) {
-                    L.polyline(coords, { color: '#CB1823', weight: 2, opacity: 0.6 }).addTo(trainTracksLayer);
-                }
-            });
-        } catch (e2) { console.warn('Fallback Overpass también falló:', e2); }
+        });
+        console.log(`Tramificación ADIF cargada: ${data.features.length} tramos`);
+    } catch (e) {
+        console.warn('Error cargando Tramificación ADIF:', e);
     }
 }
 
