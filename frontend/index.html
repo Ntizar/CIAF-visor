@@ -774,13 +774,12 @@ function initMap() {
     markersLayer = L.markerClusterGroup({ maxClusterRadius: 50 });
     map.addLayer(markersLayer);
 
-    // === Capa WMS: Red Ferroviaria ADIF (INSPIRE) ===
-    adifWmsLayer = L.tileLayer.wms('https://ideadif.adif.es/services/wms', {
-        layers: 'TN.RailTransportNetwork.RailwayLink',
+    // === Capa WMS: Red Ferroviaria ADIF (Tramificación) ===
+    adifWmsLayer = L.tileLayer.wms('https://ideadif.adif.es/gservices/Tramificacion/wms', {
+        layers: 'Tramificacion:TramificacionComun',
         format: 'image/png',
         transparent: true,
         version: '1.3.0',
-        crs: L.CRS.EPSG3857,
         attribution: '© ADIF — Red de Transporte Ferroviario',
         maxZoom: 18
     });
@@ -805,6 +804,19 @@ function initMap() {
     adifWmsLayer.addTo(map);
 
     updateMapMarkers();
+
+    // Click en mapa vacío → buscar informe más cercano
+    map.on('click', function(e) {
+        let nearest = null, minDist = Infinity;
+        filteredReports.forEach((r, i) => {
+            if (!r.lat || !r.lng) return;
+            const d = map.distance(e.latlng, L.latLng(r.lat, r.lng));
+            if (d < minDist) { minDist = d; nearest = i; }
+        });
+        if (nearest !== null && minDist < 5000) {
+            showDetailPanel(nearest);
+        }
+    });
 }
 
 function getMarkerColor(type) {
@@ -857,6 +869,7 @@ async function loadLTV() {
             where: '1=1',
             outFields: 'CODLINEA,DESCLINEA,RESTRICCIONVELOCIDAD,MOTIVO,PKINI,PKFIN,DESCPSINI,DESCPSFIN,HORAVIGORLTV,FECHAVIGORLTV,TIPOTREN,VIAS,OBSERVACIONES',
             outSR: '4326',
+            returnGeometry: 'true',
             f: 'json',
             resultRecordCount: 2000
         });
@@ -872,9 +885,9 @@ async function loadLTV() {
 
         data.features.forEach(f => {
             const a = f.attributes;
-            if (!a.X || !a.Y) return;
+            if (!f.geometry || !f.geometry.x || !f.geometry.y) return;
             const vel = a.RESTRICCIONVELOCIDAD || '—';
-            const marker = L.marker([a.Y, a.X], { icon: ltvIcon });
+            const marker = L.marker([f.geometry.y, f.geometry.x], { icon: ltvIcon });
             marker.bindPopup(`
                 <div class="popup-content">
                     <h4>⚠️ Limitación de Velocidad</h4>
@@ -1290,7 +1303,7 @@ async function renderMemorias() {
                 <div class="memoria-detail">
                     <h3>Memoria ${year}</h3>
                     <p>No hay datos disponibles para ${year}.</p>
-                    <a href="pdfs/memorias/CIAF_Memoria_${year}.pdf" target="_blank" rel="noopener" class="memoria-ciaf-btn">📄 Descargar memoria PDF →</a>
+                    <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/memorias-anuales/memoriasanuales" target="_blank" rel="noopener" class="memoria-ciaf-btn">📄 Descargar memoria PDF →</a>
                 </div>`;
             return;
         }
@@ -1330,7 +1343,7 @@ async function renderMemorias() {
                 <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:0.5rem">
                     <h3>${m.title || 'Memoria ' + year}</h3>
                     <div style="display:flex;gap:0.5rem;flex-wrap:wrap">
-                        <a href="pdfs/memorias/CIAF_Memoria_${year}.pdf" target="_blank" rel="noopener" class="memoria-ciaf-btn">📄 Descargar memoria PDF →</a>
+                        <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/memorias-anuales/memoriasanuales" target="_blank" rel="noopener" class="memoria-ciaf-btn">📄 Descargar memoria PDF →</a>
                         <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="memoria-ciaf-btn" style="background:#666">🌐 Fuente oficial →</a>
                     </div>
                 </div>
