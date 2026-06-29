@@ -11,8 +11,8 @@
     "ubicacion": {
       "estacion": "Pedralba",
       "provincia": "Zamora",
-      "lat": 39.55,
-      "lng": -0.7167,
+      "lat": 41.989119,
+      "lng": -6.550495,
       "lugar": "Estación de Pedralba"
     },
     "entidades": [
@@ -98,8 +98,8 @@
     "ubicacion": {
       "estacion": "línea 220 de Lleida Pirineus a L'Hospitalet de Llobregat",
       "provincia": "Barcelona",
-      "lat": 42.4984,
-      "lng": -6.5663,
+      "lat": 41.56546,
+      "lng": 1.951414,
       "lugar": "p.k. 321+017, línea 220 de Lleida Pirineus a L'Hospitalet de Llobregat"
     },
     "entidades": [

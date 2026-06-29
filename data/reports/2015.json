@@ -111,8 +111,8 @@
     "ubicacion": {
       "estacion": "A Susana",
       "provincia": "A Coruña",
-      "lat": 43.33,
-      "lng": -3.81,
+      "lat": 42.869461,
+      "lng": -8.54712,
       "lugar": "Estación de A Susana"
     },
     "entidades": [
@@ -273,8 +273,8 @@
     "ubicacion": {
       "estacion": "Madrid Chamartín",
       "provincia": "Madrid",
-      "lat": 40.4726,
-      "lng": -3.6825,
+      "lat": 40.713736,
+      "lng": -3.794579,
       "lugar": "Estación de Madrid Chamartín"
     },
     "entidades": [
@@ -599,8 +599,8 @@
     "ubicacion": {
       "estacion": "Vicálvaro",
       "provincia": "Madrid",
-      "lat": 40.4121,
-      "lng": -3.5712,
+      "lat": 40.40335,
+      "lng": -3.685494,
       "lugar": "Estación de Vicálvaro"
     },
     "entidades": [
@@ -693,8 +693,8 @@
     "ubicacion": {
       "estacion": "Estación de Tardienta",
       "provincia": "Huesca",
-      "lat": 42.1316,
-      "lng": -0.4081,
+      "lat": 41.397976,
+      "lng": 1.107508,
       "lugar": "Estación de Tardienta"
     },
     "entidades": [

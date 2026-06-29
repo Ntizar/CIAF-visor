@@ -81,8 +81,8 @@
     "ubicacion": {
       "estacion": "Avilés",
       "provincia": "Asturias",
-      "lat": 39.9372616,
-      "lng": -0.1004465,
+      "lat": 43.559101,
+      "lng": -5.92129,
       "lugar": "Estación de Avilés"
     },
     "entidades": [
@@ -235,8 +235,8 @@
     "ubicacion": {
       "estacion": "Entre Tordera y Blanes",
       "provincia": "Barcelona",
-      "lat": 43.3,
-      "lng": -5.85,
+      "lat": 41.744429,
+      "lng": 2.69368,
       "lugar": "Entre Tordera y Blanes"
     },
     "entidades": [
@@ -462,8 +462,8 @@
     "ubicacion": {
       "estacion": "Túnel de Osina",
       "provincia": "Guipúzcoa",
-      "lat": 42.8988,
-      "lng": -2.1697,
+      "lat": 42.974839,
+      "lng": -2.313338,
       "lugar": "Túnel de Osina"
     },
     "entidades": [
@@ -1034,8 +1034,8 @@
     "ubicacion": {
       "estacion": "P.K. 137",
       "provincia": "Jaén",
-      "lat": 38.0833,
-      "lng": -3.0833,
+      "lat": 37.965894,
+      "lng": -3.783939,
       "lugar": "Paso a Nivel Clase A, P.K. 137,803, entre Villargordo y Grañena"
     },
     "entidades": [
@@ -1362,8 +1362,8 @@
     "ubicacion": {
       "estacion": "Madrid Chamartín",
       "provincia": "Madrid",
-      "lat": 40.4726,
-      "lng": -3.6825,
+      "lat": 40.524098,
+      "lng": -3.882556,
       "lugar": "Estación de Madrid Chamartín"
     },
     "entidades": [
@@ -1682,8 +1682,8 @@
     "ubicacion": {
       "estacion": "Paso a nivel entre Ronda y Setenil",
       "provincia": "Málaga",
-      "lat": 39.9625,
-      "lng": -0.2605,
+      "lat": 36.785492,
+      "lng": -5.143116,
       "lugar": "Paso a nivel entre Ronda y Setenil"
     },
     "entidades": [
@@ -1984,8 +1984,8 @@
     "ubicacion": {
       "estacion": "Sant Feliú de Llobregat",
       "provincia": "Barcelona",
-      "lat": 41.4378,
-      "lng": 2.1877,
+      "lat": 41.396977,
+      "lng": 2.03599,
       "lugar": "Estación de Sant Feliú de Llobregat"
     },
     "entidades": [
@@ -2063,8 +2063,8 @@
     "ubicacion": {
       "estacion": "El Rebollar",
       "provincia": "Valencia",
-      "lat": 42.4984436,
-      "lng": -6.5663176,
+      "lat": 40.033064,
+      "lng": -3.618547,
       "lugar": "Estación de El Rebollar"
     },
     "entidades": [
@@ -2478,8 +2478,8 @@
     "ubicacion": {
       "estacion": "Monforte de Lemos",
       "provincia": "Lugo",
-      "lat": 42.3365,
-      "lng": -7.856,
+      "lat": 42.525181,
+      "lng": -7.504582,
       "lugar": "Paso a nivel, clase C, P.K. 0+851, entre las estaciones de Canabal y Monforte de Lemos"
     },
     "entidades": [
@@ -2788,8 +2788,8 @@
     "ubicacion": {
       "estacion": "O Porriño",
       "provincia": "Pontevedra",
-      "lat": 42.1618,
-      "lng": -8.6353,
+      "lat": 42.075004,
+      "lng": -8.423906,
       "lugar": "Paso a nivel, clase C, P.K. 151+433, estación de O Porriño"
     },
     "entidades": [
@@ -3059,8 +3059,8 @@
     "ubicacion": {
       "estacion": "Orbita - Espinosa",
       "provincia": "Ávila",
-      "lat": 43.2707175,
-      "lng": -8.225834,
+      "lat": 41.176095,
+      "lng": -4.790809,
       "lugar": "Paso a nivel, clase A, P.K. 164+429, apeadero de Orbita - Espinosa"
     },
     "entidades": [
@@ -3288,8 +3288,8 @@
     "ubicacion": {
       "estacion": "Pedrera",
       "provincia": "Sevilla",
-      "lat": 37.3333,
-      "lng": -4.6833,
+      "lat": 37.219327,
+      "lng": -4.881576,
       "lugar": "Estación de Pedrera"
     },
     "entidades": [

@@ -11,8 +11,8 @@
     "ubicacion": {
       "estacion": "Majarabique",
       "provincia": "Sevilla",
-      "lat": 37.8845813,
-      "lng": -4.7760138,
+      "lat": 37.413301,
+      "lng": -5.955673,
       "lugar": "Majarabique"
     },
     "entidades": [
@@ -366,8 +366,8 @@
     "ubicacion": {
       "estacion": "Estación de Dueñas",
       "provincia": "Palencia",
-      "lat": 42.2167,
-      "lng": -4.4333,
+      "lat": 41.873733,
+      "lng": -4.540391,
       "lugar": "Estación de Dueñas"
     },
     "entidades": [
@@ -448,8 +448,8 @@
     "ubicacion": {
       "estacion": "Logroño",
       "provincia": "La Rioja",
-      "lat": 42.4611,
-      "lng": -2.4453,
+      "lat": 42.054813,
+      "lng": -1.593009,
       "lugar": "Estación de Logroño"
     },
     "entidades": [
@@ -608,8 +608,8 @@
     "ubicacion": {
       "estacion": "Estación de Arévalo",
       "provincia": "Ávila",
-      "lat": 41.0667,
-      "lng": -4.7167,
+      "lat": 41.176095,
+      "lng": -4.790809,
       "lugar": "Estación de Arévalo"
     },
     "entidades": [
@@ -943,8 +943,8 @@
     "ubicacion": {
       "estacion": "Platja de Castelldefels",
       "provincia": "Barcelona",
-      "lat": 39.0331946,
-      "lng": -0.2152033,
+      "lat": 41.271256,
+      "lng": 1.96998,
       "lugar": "Apeadero de Platja de Castelldefels"
     },
     "entidades": [
@@ -1106,8 +1106,8 @@
     "ubicacion": {
       "estacion": "Sant Andreu Arenal",
       "provincia": "Barcelona",
-      "lat": 40.2562378,
-      "lng": -3.827886,
+      "lat": 41.476995,
+      "lng": 2.186551,
       "lugar": "Estación de Sant Andreu Arenal"
     },
     "entidades": [
@@ -1263,8 +1263,8 @@
     "ubicacion": {
       "estacion": "entre Ugao-Miraballes y Llodio",
       "provincia": "Álava",
-      "lat": 42.5667,
-      "lng": -0.55,
+      "lat": 43.160985,
+      "lng": -2.929483,
       "lugar": "P.K. 230+862, entre Ugao-Miraballes y Llodio"
     },
     "entidades": [
@@ -1587,8 +1587,8 @@
     "ubicacion": {
       "estacion": "Ponferrada",
       "provincia": "León",
-      "lat": 42.5981,
-      "lng": -5.5667,
+      "lat": 42.547151,
+      "lng": -6.661421,
       "lugar": "Estación de Ponferrada"
     },
     "entidades": [
@@ -1664,8 +1664,8 @@
     "ubicacion": {
       "estacion": "P.K. 8+579",
       "provincia": "Sevilla",
-      "lat": 37.3372397,
-      "lng": -6.6574505,
+      "lat": 37.197555,
+      "lng": -5.753074,
       "lugar": "Paso a nivel clase B, P.K. 8+579"
     },
     "entidades": [
@@ -1931,8 +1931,8 @@
     "ubicacion": {
       "estacion": "Estación de Redondela",
       "provincia": "Pontevedra",
-      "lat": 42.4288,
-      "lng": -8.6453,
+      "lat": 42.075004,
+      "lng": -8.423906,
       "lugar": "Estación de Redondela"
     },
     "entidades": [
@@ -2180,8 +2180,8 @@
     "ubicacion": {
       "estacion": "Entre las estaciones de Algemesí y Benifaió",
       "provincia": "Valencia",
-      "lat": 39.2831,
-      "lng": -0.575,
+      "lat": 39.284256,
+      "lng": -0.429985,
       "lugar": "Entre las estaciones de Algemesí y Benifaió"
     },
     "entidades": [
@@ -2290,8 +2290,8 @@
     "ubicacion": {
       "estacion": "Fuentes de Oñoro",
       "provincia": "Salamanca",
-      "lat": 40.9833,
-      "lng": -5.7,
+      "lat": 40.593246,
+      "lng": -6.829264,
       "lugar": "Paso a nivel, clase A, P.K. 122+116"
     },
     "entidades": [

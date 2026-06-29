@@ -96,8 +96,8 @@
     "ubicacion": {
       "estacion": "Elx Parc",
       "provincia": "Alicante",
-      "lat": 38.3452,
-      "lng": -0.4939,
+      "lat": 38.257694,
+      "lng": -0.720584,
       "lugar": "Estación de Elx Parc"
     },
     "entidades": [
@@ -175,8 +175,8 @@
     "ubicacion": {
       "estacion": "Mont-Roig del Camp",
       "provincia": "Tarragona",
-      "lat": 37.2667,
-      "lng": -5.55,
+      "lat": 41.10458,
+      "lng": 1.10094,
       "lugar": "Mont-Roig del Camp"
     },
     "entidades": [
@@ -259,8 +259,8 @@
     "ubicacion": {
       "estacion": "Torrejón de Ardoz",
       "provincia": "Madrid",
-      "lat": 40.4556,
-      "lng": -3.4822,
+      "lat": 41.546657,
+      "lng": 0.814995,
       "lugar": "Estación de Torrejón de Ardoz"
     },
     "entidades": [
@@ -348,8 +348,8 @@
     "ubicacion": {
       "estacion": "Hernani",
       "provincia": "Guipúzcoa",
-      "lat": 43.4174,
-      "lng": -3.8421,
+      "lat": 43.272851,
+      "lng": -1.962242,
       "lugar": "Estación de Hernani"
     },
     "entidades": [
@@ -539,8 +539,8 @@
     "ubicacion": {
       "estacion": "Estación de Boñar",
       "provincia": "León",
-      "lat": 42.8667,
-      "lng": -5.3167,
+      "lat": 43.201436,
+      "lng": -3.169331,
       "lugar": "Estación de Boñar"
     },
     "entidades": [
@@ -636,8 +636,8 @@
     "ubicacion": {
       "estacion": "Estación de O Porriño",
       "provincia": "Pontevedra",
-      "lat": 42.898,
-      "lng": -2.13,
+      "lat": 42.075004,
+      "lng": -8.423906,
       "lugar": "Estación de O Porriño"
     },
     "entidades": [
@@ -756,8 +756,8 @@
     "ubicacion": {
       "estacion": ", Canto del Estillero",
       "provincia": "Asturias",
-      "lat": 42.5981,
-      "lng": -5.5667,
+      "lat": 43.062391,
+      "lng": -5.738947,
       "lugar": "Túnel No 15, Canto del Estillero"
     },
     "entidades": [
@@ -846,8 +846,8 @@
     "ubicacion": {
       "estacion": "Cheste",
       "provincia": "Valencia",
-      "lat": 43.2833,
-      "lng": -5.7833,
+      "lat": 39.96459,
+      "lng": -3.486043,
       "lugar": "Estación de Cheste"
     },
     "entidades": [

@@ -94,8 +94,8 @@
     "ubicacion": {
       "estacion": "Aguadulce",
       "provincia": "Sevilla",
-      "lat": 37.2373532,
-      "lng": -5.1033306,
+      "lat": 37.219327,
+      "lng": -4.881576,
       "lugar": "Paso a nivel clase A, PK 87+782"
     },
     "entidades": [
@@ -641,8 +641,8 @@
     "ubicacion": {
       "estacion": "entre las estaciones de Santa Lucía y Villamanín",
       "provincia": "León",
-      "lat": 42.8,
-      "lng": -5.8333,
+      "lat": 42.922248,
+      "lng": -5.651325,
       "lugar": "PK 45+104, entre las estaciones de Santa Lucía y Villamanín"
     },
     "entidades": [
@@ -1115,8 +1115,8 @@
     "ubicacion": {
       "estacion": "entre las estaciones de Teruel y Caparrates",
       "provincia": "Teruel",
-      "lat": 41.15,
-      "lng": -1.2667,
+      "lat": 40.314626,
+      "lng": -1.014108,
       "lugar": "PK 137+810, entre las estaciones de Teruel y Caparrates"
     },
     "entidades": [
@@ -1195,8 +1195,8 @@
     "ubicacion": {
       "estacion": "entre las estaciones de Villaluenga-Yuncler y Villamiel de Toledo",
       "provincia": "Toledo",
-      "lat": 40.032306,
-      "lng": -3.902171,
+      "lat": 39.97872,
+      "lng": -4.282803,
       "lugar": "PK 66+480, entre las estaciones de Villaluenga-Yuncler y Villamiel de Toledo"
     },
     "entidades": [
@@ -1360,8 +1360,8 @@
     "ubicacion": {
       "estacion": "Vilamalla",
       "provincia": "Girona",
-      "lat": 41.9794,
-      "lng": 2.8193,
+      "lat": 42.234164,
+      "lng": 2.97345,
       "lugar": "Estación de Vilamalla"
     },
     "entidades": [
@@ -1674,8 +1674,8 @@
     "ubicacion": {
       "estacion": "Valencia Sant Isidre",
       "provincia": "Valencia",
-      "lat": 43.2707,
-      "lng": -8.2258,
+      "lat": 39.499144,
+      "lng": -0.653887,
       "lugar": "Valencia Sant Isidre"
     },
     "entidades": [

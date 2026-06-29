@@ -244,8 +244,8 @@
     "ubicacion": {
       "estacion": "Mataró",
       "provincia": "Barcelona",
-      "lat": 41.5373,
-      "lng": 2.4474,
+      "lat": 41.615942,
+      "lng": 2.670446,
       "lugar": "Estación de Mataró"
     },
     "entidades": [
@@ -318,8 +318,8 @@
     "ubicacion": {
       "estacion": "Socuéllamos",
       "provincia": "Ciudad Real",
-      "lat": 39.2833,
-      "lng": -3.0,
+      "lat": 39.281299,
+      "lng": -2.74434,
       "lugar": "Estación de Socuéllamos"
     },
     "entidades": [
@@ -765,8 +765,8 @@
     "ubicacion": {
       "estacion": "Túnel no 73 de L’Argentera",
       "provincia": "Tarragona",
-      "lat": 41.3,
-      "lng": 0.74,
+      "lat": 41.133572,
+      "lng": 0.871009,
       "lugar": "Túnel no 73 de L’Argentera"
     },
     "entidades": [
@@ -843,8 +843,8 @@
     "ubicacion": {
       "estacion": "Arévalo",
       "provincia": "Ávila",
-      "lat": 41.0667,
-      "lng": -4.7167,
+      "lat": 41.176095,
+      "lng": -4.790809,
       "lugar": "Estación de Arévalo"
     },
     "entidades": [
@@ -1248,8 +1248,8 @@
     "ubicacion": {
       "estacion": "Entre las estaciones de Almudévar y Tardienta",
       "provincia": "Huesca",
-      "lat": 42.0833,
-      "lng": -0.5333,
+      "lat": 41.397976,
+      "lng": 1.107508,
       "lugar": "Entre las estaciones de Almudévar y Tardienta"
     },
     "entidades": [
@@ -1356,8 +1356,8 @@
     "ubicacion": {
       "estacion": "Entre las estaciones Villanueva de Gállego y Zuera",
       "provincia": "Huesca",
-      "lat": 43.262,
-      "lng": -2.925,
+      "lat": 41.905363,
+      "lng": -0.749098,
       "lugar": "Entre las estaciones Villanueva de Gállego y Zuera"
     },
     "entidades": [
@@ -1440,8 +1440,8 @@
     "ubicacion": {
       "estacion": "Entre las estaciones de Miguelturra y Pozuelo de Calatrava",
       "provincia": "Ciudad Real",
-      "lat": 42.05,
-      "lng": -0.4,
+      "lat": 38.967108,
+      "lng": -3.876239,
       "lugar": "Entre las estaciones de Miguelturra y Pozuelo de Calatrava"
     },
     "entidades": [
@@ -1675,8 +1675,8 @@
     "ubicacion": {
       "estacion": "Lezama",
       "provincia": "Álava",
-      "lat": 43.2667,
-      "lng": -2.8333,
+      "lat": 43.0134,
+      "lng": -2.976472,
       "lugar": "Estación de Lezama"
     },
     "entidades": [

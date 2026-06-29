@@ -91,8 +91,8 @@
     "ubicacion": {
       "estacion": "cambio no 6 de la Bifurcación Arcade",
       "provincia": "Pontevedra",
-      "lat": 40.4333,
-      "lng": -3.8167,
+      "lat": 42.526345,
+      "lng": -8.64841,
       "lugar": "PK 17+896, cambio no 6 de la Bifurcación Arcade"
     },
     "entidades": [
@@ -407,8 +407,8 @@
     "ubicacion": {
       "estacion": "entre Ballobar y Peñalba",
       "provincia": "Huesca",
-      "lat": 42.898,
-      "lng": -2.13,
+      "lat": 41.540333,
+      "lng": 0.054767,
       "lugar": "Plena vía entre Ballobar y Peñalba"
     },
     "entidades": [
@@ -487,8 +487,8 @@
     "ubicacion": {
       "estacion": "Apartadero de Pancorbo",
       "provincia": "Burgos",
-      "lat": 41.9913,
-      "lng": -6.7066,
+      "lat": 42.624103,
+      "lng": -3.169457,
       "lugar": "Apartadero de Pancorbo"
     },
     "entidades": [
@@ -652,8 +652,8 @@
     "ubicacion": {
       "estacion": "Unquera (Cantabria) y el apeadero de Colombres",
       "provincia": "Asturias",
-      "lat": 43.3833,
-      "lng": -4.4167,
+      "lat": 43.384025,
+      "lng": -4.546685,
       "lugar": "Entre la estación de Unquera (Cantabria) y el apeadero de Colombres (Asturias)"
     },
     "entidades": [
@@ -733,8 +733,8 @@
     "ubicacion": {
       "estacion": "Entre las estaciones de Santa María de la Alameda y Las Nava",
       "provincia": "Ávila",
-      "lat": 41.3725,
-      "lng": 2.1404,
+      "lat": 40.571143,
+      "lng": -4.292006,
       "lugar": "Entre las estaciones de Santa María de la Alameda y Las Navas del Marqués"
     },
     "entidades": [
@@ -827,8 +827,8 @@
     "ubicacion": {
       "estacion": "Barcelona Estació de França",
       "provincia": "Barcelona",
-      "lat": 42.2851,
-      "lng": -8.6097,
+      "lat": 41.385478,
+      "lng": 2.192077,
       "lugar": "Barcelona Estació de França"
     },
     "entidades": [

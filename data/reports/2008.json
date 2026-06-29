@@ -309,8 +309,8 @@
     "ubicacion": {
       "estacion": "Salbio",
       "provincia": "Álava",
-      "lat": 40.3028,
-      "lng": -3.7248,
+      "lat": 43.084401,
+      "lng": -3.001647,
       "lugar": "Apeadero de Salbio"
     },
     "entidades": [
@@ -462,8 +462,8 @@
     "ubicacion": {
       "estacion": "Puente ferroviario sobre el río Besós",
       "provincia": "Barcelona",
-      "lat": 41.4536,
-      "lng": 2.2438,
+      "lat": 41.615942,
+      "lng": 2.670446,
       "lugar": "Puente ferroviario sobre el río Besós"
     },
     "entidades": [
@@ -758,8 +758,8 @@
     "ubicacion": {
       "estacion": "línea 200 Madrid-Barcelona",
       "provincia": "Zaragoza",
-      "lat": 41.3167,
-      "lng": -2.05,
+      "lat": 41.629782,
+      "lng": 0.505764,
       "lugar": "P.K. 214,220, paso a nivel tipo A, línea 200 Madrid-Barcelona"
     },
     "entidades": [
@@ -834,8 +834,8 @@
     "ubicacion": {
       "estacion": "Nord",
       "provincia": "Albacete",
-      "lat": 39.4553,
-      "lng": -0.3697,
+      "lat": 39.281299,
+      "lng": -2.74434,
       "lugar": "P.K. 202,400"
     },
     "entidades": [
@@ -979,8 +979,8 @@
     "ubicacion": {
       "estacion": "Hernani Centro",
       "provincia": "Guipúzcoa",
-      "lat": 43.135,
-      "lng": -2.074,
+      "lat": 43.274996,
+      "lng": -1.958403,
       "lugar": "Hernani Centro"
     },
     "entidades": [
@@ -1198,8 +1198,8 @@
     "ubicacion": {
       "estacion": "entre las estaciones de Santa Cruz de la Zarza y Ocaña",
       "provincia": "Toledo",
-      "lat": 40.0167,
-      "lng": -3.0167,
+      "lat": 40.033064,
+      "lng": -3.618547,
       "lugar": "P.K. 36,950, entre las estaciones de Santa Cruz de la Zarza y Ocaña"
     },
     "entidades": [
@@ -1279,8 +1279,8 @@
     "ubicacion": {
       "estacion": "entre las estaciones de El Priorato y Lora del Río",
       "provincia": "Sevilla",
-      "lat": 43.4174057,
-      "lng": -3.8420589,
+      "lat": 37.657952,
+      "lng": -5.538682,
       "lugar": "P.K. 511,635, entre las estaciones de El Priorato y Lora del Río"
     },
     "entidades": [
@@ -1356,8 +1356,8 @@
     "ubicacion": {
       "estacion": "P.K. 149,950 de la línea 200 Madrid-Barcelona, junto a un centro de ocio denominado Imperial Drink y su aparcamiento.",
       "provincia": "Huesca",
-      "lat": 41.8667,
-      "lng": 0.2833,
+      "lat": 41.755467,
+      "lng": 0.441746,
       "lugar": "P.K. 149,950"
     },
     "entidades": [
@@ -1426,8 +1426,8 @@
     "ubicacion": {
       "estacion": "línea 276 Barcelona Sagrera a Maçanet-Massanes",
       "provincia": "Barcelona",
-      "lat": 40.4333,
-      "lng": -3.8167,
+      "lat": 41.615942,
+      "lng": 2.670446,
       "lugar": "P.K. 26,100, línea 276 Barcelona Sagrera a Maçanet-Massanes"
     },
     "entidades": [
@@ -1808,8 +1808,8 @@
     "ubicacion": {
       "estacion": "línea 436 Fuengirola-Málaga",
       "provincia": "Málaga",
-      "lat": 40.2524,
-      "lng": -3.9242,
+      "lat": 36.681155,
+      "lng": -4.495352,
       "lugar": "P.K. 8,870, línea 436 Fuengirola-Málaga"
     },
     "entidades": [
@@ -1951,8 +1951,8 @@
     "ubicacion": {
       "estacion": "Estación de Dueñas",
       "provincia": "Palencia",
-      "lat": 42.2167,
-      "lng": -4.4333,
+      "lat": 41.873733,
+      "lng": -4.540391,
       "lugar": "Estación de Dueñas"
     },
     "entidades": [
@@ -2101,8 +2101,8 @@
     "ubicacion": {
       "estacion": "Martorell",
       "provincia": "Barcelona",
-      "lat": 41.9913107,
-      "lng": -6.7065989,
+      "lat": 41.453898,
+      "lng": 1.9821,
       "lugar": "Martorell"
     },
     "entidades": [
@@ -2332,8 +2332,8 @@
     "ubicacion": {
       "estacion": "entre los apeaderos de San Fernando de Cádiz y Puerto Real",
       "provincia": "Cádiz",
-      "lat": 43.3,
-      "lng": -4.2333,
+      "lat": 36.48842,
+      "lng": -6.162659,
       "lugar": "P.K. 140,750 entre los apeaderos de San Fernando de Cádiz y Puerto Real"
     },
     "entidades": [
@@ -2535,8 +2535,8 @@
     "ubicacion": {
       "estacion": "La Encina",
       "provincia": "Alicante",
-      "lat": 38.3667,
-      "lng": -0.7167,
+      "lat": 38.873473,
+      "lng": -1.115174,
       "lugar": "P.K. 375.740, salida de la estación de La Encina"
     },
     "entidades": [
@@ -2829,8 +2829,8 @@
     "ubicacion": {
       "estacion": "Paso a nivel de la estación Santa María de Huerta",
       "provincia": "Soria",
-      "lat": 41.2667,
-      "lng": -2.1833,
+      "lat": 41.629782,
+      "lng": 0.505764,
       "lugar": "Paso a nivel de la estación Santa María de Huerta"
     },
     "entidades": [
@@ -2908,8 +2908,8 @@
     "ubicacion": {
       "estacion": "Villalba de Guadarrama",
       "provincia": "Madrid",
-      "lat": 42.279914,
-      "lng": -8.6163366,
+      "lat": 40.602681,
+      "lng": -4.09965,
       "lugar": "Estación de Villalba de Guadarrama"
     },
     "entidades": [
@@ -3099,8 +3099,8 @@
     "ubicacion": {
       "estacion": "Hostalric",
       "provincia": "Gerona",
-      "lat": 43.2833,
-      "lng": -5.7833,
+      "lat": 41.768148,
+      "lng": 2.672221,
       "lugar": "Apeadero de Hostalric"
     },
     "entidades": [
@@ -3320,8 +3320,8 @@
     "ubicacion": {
       "estacion": "Paso a nivel clase A, entre Almagro y el apeadero de El Campillo",
       "provincia": "Ciudad Real",
-      "lat": 41.7,
-      "lng": -5.75,
+      "lat": 39.060744,
+      "lng": -3.598973,
       "lugar": "Paso a nivel clase A, P.K. 226,669"
     },
     "entidades": [
@@ -3396,8 +3396,8 @@
     "ubicacion": {
       "estacion": "Paso a nivel clase C, en la población de Monforte de Lemos, carretera de Monforte a Neiras",
       "provincia": "Lugo",
-      "lat": 37.8884,
-      "lng": -4.7794,
+      "lat": 42.525181,
+      "lng": -7.504582,
       "lugar": "Paso a nivel clase C, P.K. 2,455"
     },
     "entidades": [
@@ -3621,8 +3621,8 @@
     "ubicacion": {
       "estacion": "entre Ribaforada y Tudela de Navarra",
       "provincia": "Navarra",
-      "lat": 42.5289,
-      "lng": -1.6739,
+      "lat": 42.054813,
+      "lng": -1.593009,
       "lugar": "Plena vía, P.K. 70,200 entre Ribaforada y Tudela de Navarra"
     },
     "entidades": [
@@ -3693,8 +3693,8 @@
     "ubicacion": {
       "estacion": "Tembleque",
       "provincia": "Toledo",
-      "lat": 39.7,
-      "lng": -3.1167,
+      "lat": 39.728055,
+      "lng": -3.500808,
       "lugar": "Estación de Tembleque"
     },
     "entidades": [
@@ -3769,8 +3769,8 @@
     "ubicacion": {
       "estacion": "entre las estaciones de Vitoria y Alegría de Álava",
       "provincia": "Álava",
-      "lat": 41.5333,
-      "lng": 1.8333,
+      "lat": 42.841973,
+      "lng": -2.678634,
       "lugar": "Plena vía, P.K. 494,315, entre las estaciones de Vitoria y Alegría de Álava"
     },
     "entidades": [

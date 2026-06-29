@@ -11,8 +11,8 @@
     "ubicacion": {
       "estacion": ", en el trayecto Nanclares-Manzanos",
       "provincia": "Álava",
-      "lat": 43.3224,
-      "lng": -1.9839,
+      "lat": 42.819691,
+      "lng": -2.789826,
       "lugar": "En plena vía, en el trayecto Nanclares-Manzanos"
     },
     "entidades": [
@@ -182,8 +182,8 @@
     "ubicacion": {
       "estacion": "Paso a nivel clase A",
       "provincia": "Toledo",
-      "lat": 38.8190843,
-      "lng": -5.1183293,
+      "lat": 39.97872,
+      "lng": -4.282803,
       "lugar": "Paso a nivel clase A (PK 90+594)"
     },
     "entidades": [
@@ -383,8 +383,8 @@
     "ubicacion": {
       "estacion": "Puesto de Bloqueo y Adelantamiento (PBA) de Brazatortas",
       "provincia": "Ciudad Real",
-      "lat": 40.4065,
-      "lng": -3.692,
+      "lat": 38.736152,
+      "lng": -4.085163,
       "lugar": "Puesto de Bloqueo y Adelantamiento (PBA) de Brazatortas"
     },
     "entidades": [
@@ -570,8 +570,8 @@
     "ubicacion": {
       "estacion": "Capçanes",
       "provincia": "Tarragona",
-      "lat": 39.0332,
-      "lng": -0.2152,
+      "lat": 41.106373,
+      "lng": 0.786605,
       "lugar": "Capçanes"
     },
     "entidades": [
@@ -660,8 +660,8 @@
     "ubicacion": {
       "estacion": "Torralba",
       "provincia": "Soria",
-      "lat": 41.7636,
-      "lng": -2.4649,
+      "lat": 41.731709,
+      "lng": 0.442112,
       "lugar": "Estación de Torralba"
     },
     "entidades": [
@@ -753,8 +753,8 @@
     "ubicacion": {
       "estacion": "Estación de França",
       "provincia": "Barcelona",
-      "lat": 41.9277228,
-      "lng": 2.2823448,
+      "lat": 41.385478,
+      "lng": 2.192077,
       "lugar": "Estación de França, Barcelona"
     },
     "entidades": [
@@ -936,8 +936,8 @@
     "ubicacion": {
       "estacion": "Lleida-Pirineus",
       "provincia": "Lleida",
-      "lat": 41.6137,
-      "lng": 0.6276,
+      "lat": 40.481912,
+      "lng": -3.677735,
       "lugar": "Estación de Lleida-Pirineus"
     },
     "entidades": [
@@ -1052,8 +1052,8 @@
     "ubicacion": {
       "estacion": ", entre El Sorbito y Arahal",
       "provincia": "Sevilla",
-      "lat": 39.3333,
-      "lng": -3.4833,
+      "lat": 37.226577,
+      "lng": -5.598049,
       "lugar": "En plena vía, entre El Sorbito y Arahal"
     },
     "entidades": [
