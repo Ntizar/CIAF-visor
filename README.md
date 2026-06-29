@@ -27,7 +27,6 @@ Un sistema completo para:
 |--------|----------|---------|--------|
 | Informes de accidentes | 269 JSONs (de ~294 PDFs) | 2007-2025 | [transportes.gob.es](https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados) |
 | Memorias anuales | 17 PDFs | 2008-2024 | [transportes.gob.es](https://www.transportes.gob.es/organos-colegiados/ciaf/memorias-anuales/memoriasanuales) |
-| Base de datos Excel | 278 registros | 2007-2025 | Proporcionada por usuario |
 | Vías de tren | Red ferroviaria España | Actual | OpenStreetMap (Overpass API) |
 | Coordenadas estaciones | 355 estaciones | Actual | ADIF LTV FeatureServer |
 
