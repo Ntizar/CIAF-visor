@@ -411,7 +411,7 @@
                     <div class="legend-item"><span style="display:inline-block;width:8px;height:8px;background:#e65100;transform:rotate(45deg);border:1px solid white"></span> LTV 31-60 km/h</div>
                     <div class="legend-item"><span style="display:inline-block;width:8px;height:8px;background:#f9a825;border:1px solid white;border-radius:1px"></span> LTV 61-120 km/h</div>
                     <div class="legend-item"><span style="display:inline-block;width:8px;height:8px;background:#2e7d32;border:1px solid white;border-radius:50%"></span> LTV &gt;120 km/h</div>
-                    <div class="legend-item"><span style="display:inline-block;width:20px;height:3px;background:#1A4488;border-radius:2px;opacity:0.5;border-top:1px dashed #1A4488"></span> Tramificación</div>
+
                 </div>
             </div>
         </div>
@@ -765,7 +765,7 @@ function setupSearch() {
 }
 
 // ===== MAP =====
-let adifWmsLayer, ltvLayer, tramificacionLayer;
+let adifWmsLayer, ltvLayer;
 
 function initMap() {
     map = L.map('map').setView([40.0, -3.5], 6);
@@ -777,7 +777,7 @@ function initMap() {
     markersLayer = L.markerClusterGroup({ maxClusterRadius: 50 });
     map.addLayer(markersLayer);
 
-    // === Capa WMS: Red Ferroviaria ADIF (Tramificación) ===
+    // === Capa WMS: Red Ferroviaria ADIF ===
     adifWmsLayer = L.tileLayer.wms('https://ideadif.adif.es/gservices/Tramificacion/wms', {
         layers: 'Tramificacion:TramificacionComun',
         format: 'image/png',
@@ -791,16 +791,12 @@ function initMap() {
     ltvLayer = L.layerGroup();
     loadLTV();
 
-    // === Capa Tramificación Común ADIF (WFS) ===
-    tramificacionLayer = L.layerGroup();
-    loadTramificacion();
 
 
     const overlays = {
         'Informes CIAF': markersLayer,
         '🛤️ Red ferroviaria ADIF': adifWmsLayer,
-        '⚠️ Limitaciones velocidad (LTV)': ltvLayer,
-        '🏗️ Tramificación ADIF': tramificacionLayer
+        '⚠️ Limitaciones velocidad (LTV)': ltvLayer
     };
     L.control.layers(null, overlays, { position: 'topright' }).addTo(map);
 
@@ -928,55 +924,7 @@ async function loadLTV() {
     }
 }
 
-// ===== CAPA TRAMIFICACIÓN COMÚN ADIF (WFS) =====
-async function loadTramificacion() {
-    try {
-        // Cargar tramos en servicio
-        const url = 'https://ideadif.adif.es/gservices/Tramificacion/wfs';
-        const params = new URLSearchParams({
-            service: 'WFS',
-            version: '2.0.0',
-            request: 'GetFeature',
-            typeName: 'Tramificacion:TramosServicio',
-            outputFormat: 'application/json',
-            srsName: 'EPSG:4326',
-            count: 5000
-        });
-        const resp = await fetch(`${url}?${params}`);
-        const data = await resp.json();
-        if (!data.features) throw new Error('Sin datos Tramificación');
 
-        data.features.forEach(f => {
-            const geom = f.geometry;
-            if (!geom) return;
-            const coords = geom.coordinates;
-            if (!coords) return;
-
-            // Handle MultiLineString or LineString
-            let lines = [];
-            if (geom.type === 'MultiLineString') {
-                lines = coords;
-            } else if (geom.type === 'LineString') {
-                lines = [coords];
-            }
-
-            const props = f.properties || {};
-            lines.forEach(line => {
-                const latlngs = line.map(c => [c[1], c[0]]);
-                if (latlngs.length < 2) return;
-                L.polyline(latlngs, {
-                    color: '#1A4488',
-                    weight: 3,
-                    opacity: 0.5,
-                    dashArray: '6,4'
-                }).addTo(tramificacionLayer);
-            });
-        });
-        console.log(`Tramificación ADIF cargada: ${data.features.length} tramos`);
-    } catch (e) {
-        console.warn('Error cargando Tramificación ADIF:', e);
-    }
-}
 
 // ===== DASHBOARD =====
 function renderDashboard() {
