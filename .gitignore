@@ -1,9 +1,3 @@
-# PDFs originales (muy pesados, ~200MB)
-pdfs/
-
-# Imágenes extraídas (pesadas)
-data/images/
-
 # Archivos temporales
 *.tmp
 *.log
@@ -16,4 +10,3 @@ Thumbs.db
 
 # Datos temporales de procesamiento
 data/parse_errors.json
-scripts/test_parser.py
