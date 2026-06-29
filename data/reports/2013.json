@@ -1135,8 +1135,8 @@
     "ubicacion": {
       "estacion": "Lleida Pirineus",
       "provincia": "Lleida",
-      "lat": 41.629782,
-      "lng": 0.505764,
+      "lat": 41.614761,
+      "lng": 0.626784,
       "lugar": "Estación de Lleida Pirineus"
     },
     "entidades": [
@@ -1315,8 +1315,8 @@
     "ubicacion": {
       "estacion": "Entre Salomó y Valls",
       "provincia": "Tarragona",
-      "lat": 41.546657,
-      "lng": 0.814995,
+      "lat": 42.041939,
+      "lng": -0.579677,
       "lugar": "Entre Salomó y Valls"
     },
     "entidades": [
@@ -1641,8 +1641,8 @@
     "ubicacion": {
       "estacion": "Puesto de bloqueo de Río Duero",
       "provincia": "Valladolid",
-      "lat": 41.65,
-      "lng": 1.4167,
+      "lat": 42.217596,
+      "lng": -5.099282,
       "lugar": "Puesto de bloqueo de Río Duero"
     },
     "entidades": [

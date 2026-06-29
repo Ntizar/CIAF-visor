@@ -1596,8 +1596,8 @@
     "ubicacion": {
       "estacion": "Estación de Aluche",
       "provincia": "Madrid",
-      "lat": 39.0331946,
-      "lng": -0.2152033,
+      "lat": 40.392356,
+      "lng": -3.75711,
       "lugar": "Estación de Aluche"
     },
     "entidades": [
@@ -1755,8 +1755,8 @@
     "ubicacion": {
       "estacion": "Ribamontán al Monte",
       "provincia": "Cantabria",
-      "lat": 43.3994195,
-      "lng": -3.7381598,
+      "lat": 43.4112444,
+      "lng": -3.7036647,
       "lugar": "Paso a nivel, clase C, no 23, P.K. 551+254, Villaverde de Pontones"
     },
     "entidades": [
@@ -1906,8 +1906,8 @@
     "ubicacion": {
       "estacion": "Barcelona",
       "provincia": "Barcelona",
-      "lat": 37.8884,
-      "lng": -4.7794,
+      "lat": 41.38258,
+      "lng": 2.177073,
       "lugar": "Bif. Clot"
     },
     "entidades": [
@@ -2315,10 +2315,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-09-24",
     "ubicacion": {
-      "estacion": "Santander",
+      "estacion": "Cazoña",
       "provincia": "Cantabria",
-      "lat": 43.4667,
-      "lng": -3.8333,
+      "lat": 43.4542471,
+      "lng": -3.8403963,
       "lugar": "Apeadero de Cazoña"
     },
     "entidades": [
@@ -3214,8 +3214,8 @@
     "ubicacion": {
       "estacion": "Sant Guim de Freixenet",
       "provincia": "Lérida",
-      "lat": 41.65,
-      "lng": 1.4167,
+      "lat": 41.657569,
+      "lng": 1.420806,
       "lugar": "Paso a nivel, clase C, P.K. 253+775, en el apeadero de Sant Guim de Freixenet"
     },
     "entidades": [

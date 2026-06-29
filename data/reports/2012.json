@@ -91,8 +91,8 @@
     "ubicacion": {
       "estacion": "Trubia",
       "provincia": "Asturias",
-      "lat": 41.4933,
-      "lng": 2.0345,
+      "lat": 43.348564,
+      "lng": -5.967582,
       "lugar": "Estación de Trubia"
     },
     "entidades": [
@@ -467,8 +467,8 @@
     "ubicacion": {
       "estacion": "Río Huerva",
       "provincia": "Zaragoza",
-      "lat": 39.0332,
-      "lng": -0.2152,
+      "lat": 41.691585,
+      "lng": -0.910127,
       "lugar": "Estación de Río Huerva"
     },
     "entidades": [
@@ -918,10 +918,10 @@
     "gravedad": "menor",
     "fecha_suceso": "2012-06-21",
     "ubicacion": {
-      "estacion": "Cambiador de Plasencia de Jalón",
+      "estacion": "Plasencia de Jalón",
       "provincia": "Zaragoza",
-      "lat": 43.4667,
-      "lng": -3.8333,
+      "lat": 41.6870286,
+      "lng": -1.2643871,
       "lugar": "Cambiador de Plasencia de Jalón"
     },
     "entidades": [

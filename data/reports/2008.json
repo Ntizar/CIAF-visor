@@ -758,8 +758,8 @@
     "ubicacion": {
       "estacion": "línea 200 Madrid-Barcelona",
       "provincia": "Zaragoza",
-      "lat": 41.629782,
-      "lng": 0.505764,
+      "lat": 41.691585,
+      "lng": -0.910127,
       "lugar": "P.K. 214,220, paso a nivel tipo A, línea 200 Madrid-Barcelona"
     },
     "entidades": [
@@ -2258,8 +2258,8 @@
     "ubicacion": {
       "estacion": "Plena vía",
       "provincia": "Málaga",
-      "lat": 37.8884,
-      "lng": -4.7794,
+      "lat": 36.764791,
+      "lng": -4.442201,
       "lugar": "P.K 14,250"
     },
     "entidades": [
@@ -2829,8 +2829,8 @@
     "ubicacion": {
       "estacion": "Paso a nivel de la estación Santa María de Huerta",
       "provincia": "Soria",
-      "lat": 41.629782,
-      "lng": 0.505764,
+      "lat": 41.263109,
+      "lng": -2.176422,
       "lugar": "Paso a nivel de la estación Santa María de Huerta"
     },
     "entidades": [
