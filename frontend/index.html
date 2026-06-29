@@ -1251,7 +1251,6 @@ function showDetailPanel(reportIdx) {
         </div>
 
         <div class="detail-section" style="display:flex;gap:0.5rem;flex-wrap:wrap">
-            ${r.enlaces && r.enlaces.pdf_local ? `<a href="${r.enlaces.pdf_local}" target="_blank" rel="noopener" class="detail-link-btn">📄 Ver PDF del informe →</a>` : ''}
             <a href="${r.enlaces && r.enlaces.ciaf_web ? r.enlaces.ciaf_web : 'https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados'}" target="_blank" rel="noopener" class="detail-link-btn" style="background:var(--kz-rojo)">🌐 Fuente oficial CIAF →</a>
         </div>
     `;
