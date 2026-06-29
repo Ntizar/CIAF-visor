@@ -9,8 +9,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2023-01-30",
     "ubicacion": {
-      "estacion": "Cerdanyola del Vallés",
-      "provincia": "Valencia",
+      "estacion": "Córdoba",
+      "provincia": "Córdoba",
       "lat": 39.453,
       "lng": -0.352
     },
@@ -24,7 +24,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "Incidente ocurrido el 12 de febrero de 2009 en Cerdanyola del Vallés, donde la maquinaria de vía MQ577 rebasó una señal de parada y talonó un cambio, quedando enfrentada a un tren de mercancías a 400 metros. El suceso no provocó víctimas ni daños materiales graves, aunque interrumpió la circulación y causó retrasos en otros servicios. La causa principal fue el rebase indebido de la señalización por parte de un tren cuya tripulación carecía de la habilitación reglamentaria para conducir.",
+      "resumen": "El 30 de enero de 2023, un incendio en el cambiador de ancho de Alcolea (Córdoba) provocó tres heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal fue una avería en el pararrayos del tren, agravada por la falta de diagnóstico oportuno y los sucesivos reenganches de tensión autorizados por el telemando.",
       "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................10\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante ............."
     },
     "conclusiones": [
@@ -170,8 +170,8 @@
     "gravedad": "menor",
     "fecha_suceso": "2023-11-26",
     "ubicacion": {
-      "estacion": "Lleida",
-      "provincia": "Madrid",
+      "estacion": "Atocha-Cercanías",
+      "provincia": "Desconocida",
       "lat": 40.4065,
       "lng": -3.692
     },
@@ -185,7 +185,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "Incidente ocurrido el 11 de julio de 2013 en la estación de Lleida Pirineus, donde el tren de mercancías 80382 rebasó indebidamente una señal de parada, provocando un conato de colisión con el tren regional 15626. No se registraron víctimas ni daños materiales, aunque la vía quedó interceptada durante más de una hora. La causa principal fue el incumplimiento de la orden de parada por parte del personal de conducción del tren de mercancías.",
+      "resumen": "El 26 de noviembre de 2023, un descarrilamiento parcial del tren 00271 en la estación de Atocha-Cercanías (Madrid) provocó 14 heridos leves y daños materiales significativos. La causa principal fue la rotura del espadín derecho T10A de la travesía T10, fenómeno agravado por la alta intensidad de tráfico y las características singulares del diseño de la vía. Este fallo estructural se vio favorecido por una gestión sistémica del ciclo de vida de los elementos críticos que priorizó la disponibilidad de medios sobre los estudios de riesgo en el mantenimiento preventivo.",
       "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................13\n3.1.3. Interceptación de la vía ...............................................................................................................................13\n3.1.4. Personal y entidades ..................................................................................................................................13\n3.1.5. Material rodante ............."
     },
     "conclusiones": [],

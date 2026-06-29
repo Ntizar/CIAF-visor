@@ -29,7 +29,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "MINISTERIO\nTRANSPORTES,\nMOVILIDAD\nAGENDA URBANA\nSUBSECRETARÍA\nInvestigación del incidente\nnº 0025/2018 ocurrido el 01.07.2018\n200421-180701-IF_CIAF\n1. RESUMEN\nEl incidente por fallo en las instalaciones de seguridad, tiene lugar el día 1 de julio de 2018, a las 20:02\nhoras, en la estación de Pedralba (Zamora), pk 113+475 de la línea 822 Zamora - A Coruña, estando la\nestación con mando central.\nEl tren Alvia 258, de RENFE VIAJEROS, procedente de Madrid Chamartín con destino Pontevedra, tiene\nprevisto realizar el cruce en la estación de Pedralba con el tren 253 también de RENFE VIAJEROS,\nprocedente de Pontevedra con destino Madrid Chamartín, según itinerario que establece el puesto de\nmando de Ourense conforme la Consigna A1275 de esta estación.\nEl mal funcionamiento del enclavamiento se pro",
+      "resumen": "Incidente ocurrido el 1 de julio de 2018 en la estación de Pedralba (Zamora) que no provocó víctimas ni daños materiales. La causa principal fue el mal funcionamiento del enclavamiento debido a derivaciones en el cableado de señalización, que provocaron el encendido incorrecto de una señal de vía libre.",
       "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO. ................................................................................................................ 9\n2.1. SUCESO. ............................................................................................................................. 9\n2.1.1. Datos .................................................................................................................................. 9\n2.1.2. Descripción del suceso ......................................................................................................... 9\n2.1.3. Decisión de abrir la investigación ........................................................................................ 13\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 13\n2.2.1. Personal Ferroviario implicado ............................................................................................ 13\n2.2.2. Material rodante .............."
     },
     "conclusiones": [
@@ -95,8 +95,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2018-11-20",
     "ubicacion": {
-      "estacion": "Ponferrada",
-      "provincia": "León",
+      "estacion": "Vacarisses",
+      "provincia": "Barcelona",
       "lat": 42.4984,
       "lng": -6.5663
     },
@@ -117,7 +117,7 @@
       "victimas_total": 53
     },
     "analisis": {
-      "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
+      "resumen": "El 20 de noviembre de 2018, un accidente ferroviario en Vacarisses provocó un fallecido y 52 heridos tras la colisión del tren con rocas desprendidas por el colapso de un muro de contención. La causa principal fue el fallo de la infraestructura debido al desmoronamiento del muro, agravado por la escorrentía de aguas pluviales y deficiencias en los procedimientos de mantenimiento y gestión de riesgos de Adif.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ........................................................................................................... 7\n2.1.\nSUCESO ................................................................................................................................ 7\n2.1.1.\nDatos ............................................................................................................................. 7\n2.1.2.\nDescripción del suceso .................................................................................................... 8\n2.1.3.\nDecisión de abrir la investigación ................................................................................... 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................ 12\n2.2.1.\nPersonal ferroviario ....................................................................................................... 12\n2.2.2.\nLos trenes y su composición .................."
     },
     "conclusiones": [

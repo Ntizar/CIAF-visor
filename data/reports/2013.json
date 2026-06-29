@@ -29,7 +29,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0001/2013 ocurrido el 09.01.2013\nInforme final\nRESUMEN\nEl día 9 de enero de 2013, a las 11:22 horas, se produce el descarrilamiento del tren de viajeros de\nmedia distancia 13096 de la empresa ferroviaria Renfe Operadora, procedente de Jaén y con destino\nCórdoba. El tren, tras haber sido autorizado a rebasar la señal de entrada y circulando con marcha de\nmaniobras, descarrila del segundo bogie del coche de cabeza en el cambio nº 2 (PK 415+648) de la\nestación de Villafranca de Córdoba (lado Alcázar de San Juan) perteneciente a la línea 400 Alcázar de\nSan Juan – Cádiz.\nComo consecuencia del descarrilamiento no se producen daños personales.\nConclusión: El descarrilamiento se produce por fallo técnico de las instalaciones, debido a la\ndesconexión de ",
+      "resumen": "El descarrilamiento del tren 13096 ocurrido el 9 de enero de 2013 en la estación de Villafranca de Córdoba no provocó víctimas ni daños personales graves. La causa principal fue un fallo técnico en las instalaciones, derivado de la rotura del pasador de sujeción del tirante de maniobra del cambio nº 2. Este defecto impidió el encerrojado correcto de la aguja, lo que provocó su apertura durante el paso del tren y el subsiguiente descarrilamiento del segundo bogie.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
     },
     "conclusiones": [
@@ -92,8 +92,8 @@
     "gravedad": "menor",
     "fecha_suceso": "2013-01-31",
     "ubicacion": {
-      "estacion": "Arahal",
-      "provincia": "Sevilla",
+      "estacion": "Val de San Vicente",
+      "provincia": "Cantabria",
       "lat": 37.2667,
       "lng": -5.55
     },
@@ -113,7 +113,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
+      "resumen": "El 31 de enero de 2013, un descarrilamiento del tren de mercancías 9565 ocurrió en Val de San Vicente (Cantabria), provocando daños materiales significativos en la infraestructura, el material rodante y la carga, sin causar víctimas. La causa principal del suceso fue el fallo humano del maquinista, quien circuló a 61 km/h en una zona con una limitación de velocidad máxima de 40 km/h.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 10\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 13\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................13\n3.1.  RESUMEN DE LAS DECLARACIONES ........................................................................................................"
     },
     "conclusiones": [],
@@ -257,7 +257,7 @@
     "fecha_suceso": "2013-02-26",
     "ubicacion": {
       "estacion": "Coslada",
-      "provincia": "Barcelona",
+      "provincia": "Madrid",
       "lat": 40.423802,
       "lng": -3.5552882
     },
@@ -343,7 +343,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-02-27",
     "ubicacion": {
-      "estacion": "Pitis",
+      "estacion": "Madrid",
       "provincia": "Madrid",
       "lat": 40.525,
       "lng": -3.875
@@ -420,7 +420,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-03-07",
     "ubicacion": {
-      "estacion": "VIANA DE CEGA",
+      "estacion": "Viana de Cega",
       "provincia": "Valladolid",
       "lat": 42.5467,
       "lng": -1.6581
@@ -440,7 +440,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en el paso a nivel clase A entre Villargordo y Grañena, donde el tren 18032 arrolló a una furgoneta que invadió la vía. El suceso provocó la muerte del conductor del vehículo y daños materiales en el tren, sin que la actuación del maquinista fuera imputable. La causa principal del accidente fue la invasión del paso a nivel por parte del vehículo en el momento del paso del tren.",
+      "resumen": "El día 7 de marzo de 2013 a las 13:15 horas, el tren complementario VB688 de Renfe Operadora rebasó indebidamente las señales de entrada E2 y retroceso R2 en indicación de parada en la estación de Viana de Cega, debido a un incumplimiento de las órdenes de señalización por parte del personal de conducción. Se produjo una situación de conato de colisión con el tren auscultador PD601 de Adif, que se encontraba estacionado en la vía 4, quedando ambos trenes enfrentados a una distancia de 226 metros sin causar daños materiales ni personales.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -505,7 +505,7 @@
     "fecha_suceso": "2013-03-26",
     "ubicacion": {
       "estacion": "Urda",
-      "provincia": "Madrid",
+      "provincia": "Toledo",
       "lat": 39.4167,
       "lng": -3.4833
     },
@@ -523,7 +523,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 13 de julio de 2009 en el paso a nivel particular de Jaca (Huesca), donde el tren 15653 arrolló a un camión articulado. La colisión provocó heridos leves en el conductor del vehículo y una viajera, además de daños materiales significativos en el tren y la infraestructura. La causa principal del siniestro fue la ocupación indebida del gálibo de la vía por parte del camión, que invadió el paso a nivel sin respetar la señalización de stop.",
+      "resumen": "El 26 de marzo de 2013, un descarrilamiento de una perfiladora ocurrió en el tramo entre Urda y Malagón (Toledo) debido a la rotura de un eje motriz por fatiga cíclica. El suceso no provocó víctimas mortales ni heridos, aunque generó daños materiales en el material rodante y la infraestructura. La causa principal identificada fue un fallo del material móvil originado por un proceso de carga cíclica de fatiga en el eje.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
     },
     "conclusiones": [
@@ -580,8 +580,8 @@
     "gravedad": "menor",
     "fecha_suceso": "2013-04-07",
     "ubicacion": {
-      "estacion": "Puertollano",
-      "provincia": "Cádiz",
+      "estacion": "Almodóvar del Campo",
+      "provincia": "Ciudad Real",
       "lat": 38.6852161,
       "lng": -4.1111749
     },
@@ -600,7 +600,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0027/2013 ocurrido el 07.04.2013\nInforme final\nRESUMEN\nEl día 7 de abril de 2013 a la 17:31 horas el tren de larga distancia 2164 de la empresa ferroviaria\nRenfe Operadora, procedente de Madrid Puerta de Atocha y destino Cádiz, cuando circulaba por la vía\nII sufre el desprendimiento de la puerta izquierda del tercer coche en el sentido de la marcha, cuando\nse encontraba en el interior del túnel de Venta La Inés, entre las estaciones de Venta La Inés y\nConquista (Ciudad Real) perteneciente a la línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa de\nalta velocidad.\nSeguidamente el tren de alta velocidad 2361 de la empresa ferroviaria Renfe Operadora, procedente\nde Sevilla Santa Justa y destino Madrid Puerta de Atocha que circulaba por la vía I",
+      "resumen": "Accidente ferroviario ocurrido el 7 de abril de 2013 en el túnel de Venta La Inés (Ciudad Real), donde se desprendió una puerta del tren 2164 al circular a 245 km/h. No hubo víctimas mortales ni heridos, aunque sí daños materiales en ambos trenes implicados y en la infraestructura. La causa principal fue el fallo humano del interventor, quien no enclavó correctamente la puerta tras condenarla, lo que permitió su salida por efecto de la diferencia de presión en el túnel.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -660,8 +660,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-04-20",
     "ubicacion": {
-      "estacion": "Villaverde de Pontones",
-      "provincia": "Cantabria",
+      "estacion": "Anoeta",
+      "provincia": "Guipúzcoa",
       "lat": 43.3833,
       "lng": -4.5333
     },
@@ -680,7 +680,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 8 de julio de 2009 en el paso a nivel de Villaverde de Pontones (Ribamontán al Monte, Cantabria), donde un tren de mercancías arrolló un vehículo detenido en la vía. El suceso provocó la muerte del conductor del automóvil y daños materiales en el tren y la infraestructura. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que ignoró las señales de parada del paso a nivel.",
+      "resumen": "Accidente ferroviario ocurrido el 20 de abril de 2013 en el apeadero de Anoeta (Guipúzcoa), donde un tren de larga distancia arrolló a una persona que cruzaba las vías. La consecuencia fue el fallecimiento de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó sin percatarse de la llegada del tren debido a la obstrucción de su visibilidad por otro tren estacionado.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................."
     },
     "conclusiones": [
@@ -743,7 +743,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-04-28",
     "ubicacion": {
-      "estacion": "Boñar",
+      "estacion": "Vegaquemada",
       "provincia": "León",
       "lat": 42.8667,
       "lng": -5.3167
@@ -764,7 +764,7 @@
       "victimas_total": 7
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0035/2013 ocurrido el 28.04.2013\nInforme final\nRESUMEN\nEl día 28 de abril de 2013, a las 09:58 horas, entre los apeaderos de Otero y La Mata de la Riba\n(León), en el P.K. 26+700 de la línea 790 La Asunción Universidad (León) a Aranguren perteneciente a\nla red de ancho métrico (antes Feve), se produce la colisión por alcance del automotor 2901 al 2905\nque acoplados formaban el tren 7601. Previamente, el tren sufre una parada de urgencia y queda\ndetenido en el PK 25+504 y, tras desacoplarse los automotores, el 2905 reinicia la marcha y el 2901\nentra en deriva por la fuerte pendiente, produciéndose la colisión por alcance al detenerse el primero\npor otra parada de urgencia.\nComo consecuencia del suceso se producen siete heridos leves.\nConclusión: E",
+      "resumen": "El 28 de abril de 2013, en Vegaquemada (León), se produjo un accidente ferroviario por alcance entre los automotores 2901 y 2905 que causó siete heridos leves. La causa principal fue el fallo humano del maquinista, quien no ejecutó correctamente la secuencia de operaciones para remolcar con freno la unidad averiada. Esta omisión provocó que el automotor desacoplado iniciara una deriva por la pendiente, colisionando posteriormente con la unidad traccionada.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................."
     },
     "conclusiones": [],
@@ -898,8 +898,8 @@
     "gravedad": "menor",
     "fecha_suceso": "2013-05-26",
     "ubicacion": {
-      "estacion": "Pedralba",
-      "provincia": "Zamora",
+      "estacion": "Sevilla Santa Justa",
+      "provincia": "Sevilla",
       "lat": 41.9913,
       "lng": -6.7066
     },
@@ -918,7 +918,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Incidente ocurrido el 1 de julio de 2018 en la estación de Pedralba (Zamora) que no provocó víctimas ni daños materiales. La causa principal fue el mal funcionamiento del enclavamiento debido a derivaciones en el cableado de señalización, que provocaron el encendido incorrecto de una señal de vía libre.",
+      "resumen": "El descarrilamiento ocurrido el 26 de mayo de 2013 en la estación de Sevilla Santa Justa provocó daños materiales en el material rodante y la infraestructura, sin causar víctimas. La causa principal fue el fallo de la infraestructura debido al estado deficiente de las sujeciones y traviesas del desvío nº 18.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -1149,8 +1149,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-07-11",
     "ubicacion": {
-      "estacion": "Lleida",
-      "provincia": "Barcelona",
+      "estacion": "Lleida Pirineus",
+      "provincia": "Lleida",
       "lat": 41.6137,
       "lng": 0.6276
     },
@@ -1231,7 +1231,7 @@
     "fecha_suceso": "2013-07-24",
     "ubicacion": {
       "estacion": "Santiago de Compostela",
-      "provincia": "Albacete",
+      "provincia": "A Coruña",
       "lat": 42.3365,
       "lng": -7.856
     },
@@ -1246,7 +1246,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente grave\nnº 0054/2013 ocurrido el 24.07.2013\nInforme final\nRESUMEN\nEl día 24 de julio de 2013, a las 20:41 horas, en el PK 84+413 de la línea 082 Bifurcación Coto da\nTorre (Ourense) - Bifurcación A Grandeira (A Coruña) aguja km 85,0, en las proximidades de la\nestación de Santiago de Compostela (A Coruña), se produce un accidente grave por descarrilamiento\nde todos los vehículos del tren de viajeros de larga distancia 150/151, perteneciente a Renfe\nOperadora, con origen Madrid-Chamartín y con destino Ferrol.\nDescarrila toda la composición y los daños, tanto personales como materiales, son catastróficos.\nSe producen 80 fallecidos y numerosos heridos de distinta gravedad.\nConclusión: La causa del accidente fue un exceso de velocidad del tren (circulaba a",
+      "resumen": "Accidente grave ocurrido el 24 de julio de 2013 en las proximidades de la estación de Santiago de Compostela, que provocó 80 fallecidos y numerosos heridos. La causa principal fue el exceso de velocidad del tren, que circulaba a 179 km/h en una curva limitada a 80 km/h, debido a la distracción del maquinista por atender una llamada telefónica.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................. 9\n2.1.\nSUCESO ........................................................................................................................................................ 9\n2.1.1. Datos ........................................................................................................................................................... 9\n2.1.2. Descripción del suceso ................................................................................................................................ 9\n2.1.3. Decisión de abrir la investigación .............................................................................................................. 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................................... 12\n2.2.1. Personal ferroviario implicado ...................................."
     },
     "conclusiones": [
@@ -1299,7 +1299,8 @@
       "pdf_local": "pdfs/2013/IF240713200514CIAF.pdf"
     },
     "similares": [],
-    "tipo_suceso_normalizado": "averia"
+    "tipo_suceso_normalizado": "averia",
+    "tramo": "082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0"
   },
   {
     "id": "2013-0062/2013",
@@ -1311,8 +1312,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-08-12",
     "ubicacion": {
-      "estacion": "Betanzos",
-      "provincia": "Barcelona",
+      "estacion": "Salomó",
+      "provincia": "Tarragona",
       "lat": 43.262,
       "lng": -2.925
     },
@@ -1331,7 +1332,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora.",
+      "resumen": "El descarrilamiento de la vagoneta de electrificación SC507 ocurrió el 12 de agosto de 2013 en plena vía entre Salomó y Valls, provocando cuatro heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal del suceso fue el fallo del material móvil, específicamente la rotura de la mangueta derecha del segundo eje.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -1395,7 +1396,7 @@
     "fecha_suceso": "2013-08-14",
     "ubicacion": {
       "estacion": "Torralba",
-      "provincia": "Barcelona",
+      "provincia": "Soria",
       "lat": 41.9167,
       "lng": -2.5333
     },
@@ -1414,7 +1415,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren.",
+      "resumen": "Incidente ocurrido el 14 de agosto de 2013 en la estación de Torralba (Soria), donde el tren de mercancías 81811 rebasó indebidamente una señal de parada, provocando un conato de colisión con un tren de viajeros. No se registraron víctimas ni daños materiales significativos. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal de conducción del tren de mercancías.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado"
     },
     "conclusiones": [
@@ -1499,7 +1500,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El 2 de junio de 2020 en La Hiniesta (Zamora) se produjo un accidente ferroviario grave tras la colisión de un tren Alvia con un vehículo que había caído desde un paso superior, resultando en dos fallecidos y siete heridos. La causa principal fue el accidente de tráfico que provocó la precipitación del vehículo al gálibo de la vía, agravado por deficiencias en el mantenimiento del sistema de contención del paso superior.",
+      "resumen": "El incidente ocurrido el 5 de septiembre de 2013 en Requejada (Cantabria) provocó un conato de colisión entre dos trenes de Renfe Operadora sin causar víctimas ni daños materiales. La causa principal fue un fallo combinado que incluyó un exceso de arenado en los carriles, lo que generó una pérdida de shuntado en el circuito de vía, y el funcionamiento anómalo de un relé de seguridad que permitió la apertura indebida de la señal de paso.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -1572,7 +1573,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-09-20",
     "ubicacion": {
-      "estacion": "BARCELONA",
+      "estacion": "Barcelona Sants",
       "provincia": "Barcelona",
       "lat": 41.3725,
       "lng": 2.1404
@@ -1592,7 +1593,7 @@
       "victimas_total": 24
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren.",
+      "resumen": "El 20 de septiembre de 2013, en la estación de Barcelona Sants, se produjo un accidente por alcance entre dos trenes de cercanías que causó 24 heridos leves y daños materiales. La causa principal fue el fallo humano del maquinista del tren 25706, quien, por falta de atención, incumplió las condiciones reglamentarias de rebase autorizado y marcha de maniobras.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -1649,8 +1650,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-09-26",
     "ubicacion": {
-      "estacion": "Sant Guim de Freixenet",
-      "provincia": "Barcelona",
+      "estacion": "Valladolid",
+      "provincia": "Valladolid",
       "lat": 41.65,
       "lng": 1.4167
     },
@@ -1669,7 +1670,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 20 de diciembre de 2009 en el paso a nivel de Sant Guim de Freixenet (Lérida), donde un tren de Renfe Operadora arrolló a un niño de nueve años que cruzaba las vías corriendo. El suceso provocó la muerte de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del accidente fue la actuación de la víctima, quien ignoró las señales de alerta y las semibarreras bajadas al intentar cruzar cuando ya circulaba el tren.",
+      "resumen": "Incidente ocurrido el 26 de septiembre de 2013 en el puesto de bloqueo de Río Duero (Valladolid), donde el tren 4083 rebasó indebidamente una señal en parada, provocando un conato de colisión con el tren 4076. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en las circulaciones afectadas. La causa principal del suceso fue un fallo humano por falta de atención del maquinista del tren 4083.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -1732,7 +1733,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-10-27",
     "ubicacion": {
-      "estacion": "Fuenmayor",
+      "estacion": "Sant Andreu Arenal",
       "provincia": "Barcelona",
       "lat": 41.435,
       "lng": 2.19
@@ -1752,7 +1753,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 30 de diciembre de 2009 en la estación de Fuenmayor (La Rioja), donde el tren 930 colisionó con una roca desprendida de la ladera. El suceso provocó el descarrilamiento de la locomotora y los cuatro primeros coches, causando daños materiales considerables en el material rodante y la infraestructura, aunque no hubo víctimas mortales ni heridos. La causa principal del accidente fue la colisión con la roca, cuyo impacto superó la capacidad de la malla metálica de protección existente.",
+      "resumen": "El 27 de octubre de 2013, un descarrilamiento en la estación de Barcelona Sant Andreu Arenal provocó tres heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal fue el fallo humano del jefe de circulación, quien accionó por error la aguja nº 12 mientras el tren circulaba sobre ella, incumpliendo la normativa de seguridad. Este error, posiblemente derivado de la alta carga de trabajo, obligó a la interrupción de la circulación y activación del protocolo de emergencia.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -1811,7 +1812,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-10-27",
     "ubicacion": {
-      "estacion": "Pedrera",
+      "estacion": "Zalla",
       "provincia": "Vizcaya",
       "lat": 43.2167,
       "lng": -3.1333
@@ -1832,7 +1833,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El 28 de diciembre de 2009, un descarrilamiento en la estación de Pedrera (Sevilla) provocó daños materiales por 9.883 euros sin causar víctimas. La causa principal fue la autorización indebida de rebase de señal por parte de la responsable de circulación, quien no verificó la incorrecta posición de las agujas que impedía la apertura automática de la señal.",
+      "resumen": "El día 27 de octubre de 2013 a las 08:31 horas, en la estación de Zalla (Vizcaya), el tren de viajeros de cercanías 08904 rebasó indebidamente la señal S2/2 que se encontraba en indicación de parada, provocando una situación de conato de colisión con el tren turístico 73101, que estaba detenido ante la señal de entrada E1. Ambos trenes pertenecían a Renfe Operadora y debían cruzarse en dicha estación. No se produjeron víctimas ni daños materiales significativos, aunque se registraron pequeños retrasos en ambos trenes.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado"
     },
     "conclusiones": [

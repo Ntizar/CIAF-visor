@@ -9,7 +9,7 @@
     "gravedad": "menor",
     "fecha_suceso": "2024-07-29",
     "ubicacion": {
-      "estacion": "Cuenca",
+      "estacion": "Cuenca-Fernando Zóbel",
       "provincia": "Cuenca",
       "lat": 40.0335,
       "lng": -2.1431
@@ -25,7 +25,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El 25 de junio de 2024, a las 21:30 horas, el tren de alta velocidad 05903, procedente de Murcia del\nCarmen y con destino a Madrid-Puerta de Atocha, sufrió un incidente operacional que consistió en la\nreanudación de la marcha tras el rebase indebido de una señal, después de realizar una parada\ncomercial en la estación de Cuenca-Fernando Zóbel. El incidente se produjo cuando el tren sobrepasó\nla señal de salida S1/5, que presentaba el aspecto FF7C (rojo fijo y azul fijo). Al circular el tren en\nERTMS Nivel 1, esta señal de parada selectiva obligaba al tren a detenerse. Sin embargo, como la\ndetención no se llevó a cabo, se activó el modo TRIP* del ERTMS, lo que detuvo automáticamente el\ntren. Posteriormente, el maquinista se comunicó con el Responsable de Circulación (RC) del Centro\nde Regul",
+      "resumen": "Incidente operacional ocurrido el 25 de junio de 2024 en la estación de Cuenca-Fernando Zóbel, que no provocó víctimas ni daños materiales. La causa principal fue la interpretación errónea por parte del maquinista del aspecto de la señal de salida, lo que derivó en un rebase indebido y una posterior autorización de marcha incorrecta por parte del responsable de circulación.",
       "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .........................................................................................................................9\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................10\n3.1.5. Material rodante ........."
     },
     "conclusiones": [],
@@ -94,8 +94,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2024-10-29",
     "ubicacion": {
-      "estacion": "Puerto Lápice",
-      "provincia": "Ciudad Real",
+      "estacion": "Arahal",
+      "provincia": "Sevilla",
       "lat": 39.3333,
       "lng": -3.4833
     },
@@ -110,7 +110,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros,\ncompuesto por la unidad 112.014, que realizaba el servicio entre Málaga - María Zambrano y Madrid\n- Puerta de Atocha, con un total de 276 viajeros, circulando a una velocidad aproximada de 200 km/h,\ncolisionó con un obstáculo constituido por tierra y piedras acumulados sobre la vía en el punto\nkilométrico 124/573 de la línea 030 Bifurcación Málaga A.V. – Málaga María Zambrano, en el término\nmunicipal de Álora, a la salida norte del túnel de Álora, por la vía I, produciéndose como consecuencia\nel descarrilamiento del primer eje del primer bogie de la cabeza tractora en el sentido de la marcha.\nEl tren circulaba con una Limitación Temporal de Velocidad (LTV) de 200 km/h, establecida por Centro\nde ",
+      "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
       "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................12\n3.1.3. Interceptación de la vía ...............................................................................................................................13\n3.1.4. Personal y entidades ..................................................................................................................................13\n3.1.5. Material rodante ............."
     },
     "conclusiones": [
@@ -177,7 +177,8 @@
     },
     "similares": [
       "2024-64/2024"
-    ]
+    ],
+    "tramo": "422 Bif. Utrera a Fuente de la Piedra"
   },
   {
     "id": "2024-122/2024",
@@ -189,7 +190,7 @@
     "gravedad": "menor",
     "fecha_suceso": "2024-12-13",
     "ubicacion": {
-      "estacion": "León",
+      "estacion": "León Clasificación",
       "provincia": "León",
       "lat": 42.5981,
       "lng": -5.5667
@@ -204,7 +205,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El 12 de diciembre de 2024, durante el turno de mañana, el Auxiliar de Circulación (AXC) de la\nempresa prestadora de servicios básicos LOGIRAIL realizó maniobras para estacionar en la vía 9 del\nhaz de ordenación de la estación de León Clasificación una parte de los vagones del tren 55251,\npertenecientes a Renfe-Mercancías SME S.A. Este corte estaba compuesto por 10 vagones plataforma\nde los tipos MMC y MC, algunos de ellos cargados con mercancías peligrosas (MMPP).\nDurante la madrugada del día siguiente, 13 de diciembre de 2024, a las 03:50 horas, se produjo una\nderiva incontrolada de este material estacionado, que se desplazó debido a la declividad existente de\nla vía. Esta deriva del material provocó el talonamiento de la aguja 29, lo que causó el\ndescarrilamiento del primer eje del vagó",
+      "resumen": "Incidente de descarrilamiento por deriva incontrolada ocurrido en la estación de León Clasificación el 13 de diciembre de 2024, que provocó daños en la infraestructura sin víctimas personales. La causa principal fue la inmovilización no efectiva del corte de vagones, derivada de la ineficacia del freno de estacionamiento y la ausencia de calces antideriva.",
       "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................10\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................10\n3.1.5. Material rodante .........."
     },
     "conclusiones": [

@@ -9,7 +9,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2015-01-12",
     "ubicacion": {
-      "estacion": "Barcelona",
+      "estacion": "Barcelona Marina",
       "provincia": "Barcelona",
       "lat": 41.3923,
       "lng": 2.1948
@@ -29,7 +29,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0005/2015 ocurrido el 12.01.2015\n160223-150112-IF-CIAF.doc\nRESUMEN\nEl día 12 de enero de 2015 a las 21:14 horas, en la línea 266 Bif. Glorias – Bif. Vilanova (Barcelona) de\nla estación de Barcelona Marina, se produjo un conato de colisión entre los trenes 25780 y 25386,\nambos de cercanías y pertenecientes a la empresa ferroviaria Renfe Viajeros, cuando el primero\nrebasó indebidamente la señal 3646 que se encontraba en indicación de parada.\nNo se producen heridos ni daños materiales como consecuencia del incidente.\nConclusión:  El incidente tuvo su origen en el fallo humano del personal de conducción del tren\n25780, más concretamente por una falta de atención, dando lugar al rebase indebido de la señal 3646\nen indicación de parada.\nRecomendacione",
+      "resumen": "El 12 de enero de 2015, en la estación de Barcelona Marina, se produjo un incidente con conato de colisión entre dos trenes de cercanías de Renfe. No hubo víctimas ni daños materiales, aunque se registraron retrasos en la circulación. La causa principal fue el fallo humano del maquinista del tren 25780, quien rebasó indebidamente una señal de parada por falta de atención.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición de equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ....................................."
     },
     "conclusiones": [
@@ -178,7 +178,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2015-02-13",
     "ubicacion": {
-      "estacion": "Sodupe",
+      "estacion": "Barcelona Estació de França",
       "provincia": "Barcelona",
       "lat": 41.4309797,
       "lng": 2.1831056
@@ -198,7 +198,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 30 de enero de 2009 en la estación de Sodupe, que provocó la muerte de un joven de 18 años al ser arrollado por el tren 8604. La causa principal del siniestro fue la acción de la víctima, quien sorteó las barreras bajadas y las señales de protección para cruzar la vía a pesar de la proximidad del tren. No se identificaron fallos en el material rodante, las instalaciones ni en la actuación del maquinista, quien cumplió con los protocolos de seguridad establecidos.",
+      "resumen": "El descarrilamiento del tren 1112 de Renfe ocurrió el 13 de febrero de 2015 en la estación de Barcelona Estació de França, sin causar víctimas ni heridos. La causa principal fue el fallo técnico de la infraestructura, derivado de sobreanchos y deficiencias en las sujeciones del carril. Como consecuencia, se produjeron daños materiales en el material rodante y en la vía, valorados en 56.800 euros, además de la interrupción del servicio en la vía 3.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ...................................."
     },
     "conclusiones": [
@@ -262,7 +262,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2015-02-17",
     "ubicacion": {
-      "estacion": "Cerdanyola del Vallés",
+      "estacion": "Madrid",
       "provincia": "Madrid",
       "lat": 40.4726,
       "lng": -3.6825
@@ -282,7 +282,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Incidente ocurrido el 12 de febrero de 2009 en Cerdanyola del Vallés, donde la maquinaria de vía MQ577 rebasó una señal de parada y talonó un cambio, quedando enfrentada a un tren de mercancías a 400 metros. El suceso no provocó víctimas ni daños materiales graves, aunque interrumpió la circulación y causó retrasos en otros servicios. La causa principal fue el rebase indebido de la señalización por parte de un tren cuya tripulación carecía de la habilitación reglamentaria para conducir.",
+      "resumen": "Incidente de conato de colisión ocurrido el 17 de febrero de 2015 en la estación de Madrid Chamartín, sin causar víctimas ni daños materiales. La causa principal fue un error humano del maquinista, quien percibió incorrectamente la señal de parada como rebase autorizado, situación agravada por el reflejo solar en el foco de la señal.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ...................................."
     },
     "conclusiones": [
@@ -316,7 +316,7 @@
     ],
     "hora": "15:30",
     "pk": null,
-    "tramo": "",
+    "tramo": "102 Bifurcación Aranda a Madrid Chamartín",
     "trenes": [
       {
         "numero": "21428",
@@ -341,7 +341,7 @@
     "gravedad": "menor",
     "fecha_suceso": "2015-03-04",
     "ubicacion": {
-      "estacion": "Puerto de Navacerrada",
+      "estacion": "Cercedilla",
       "provincia": "Madrid",
       "lat": 40.8333,
       "lng": -4.0167
@@ -361,7 +361,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
+      "resumen": "El descarrilamiento del tren 35188 ocurrido el 4 de marzo de 2015 entre Puerto de Navacerrada y Collado Albo (Madrid) no causó víctimas, aunque provocó daños materiales en la infraestructura y el material rodante. La causa principal fue el fallo técnico de la infraestructura, derivado del mal estado de las traviesas de madera y sus sujeciones, lo que generó sobreanchos y la apertura de la vía.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
     },
     "conclusiones": [
@@ -447,7 +447,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0015/2015 ocurrido el 18.03.2015\n160531-150318-IF-CIAF\nRESUMEN\nEl día 18 de marzo de 2015 a las 15:53 horas en la línea 150 Aboño a Serín, una locomotora propiedad\nde la UTE APG Rail, inicia la deriva en movimiento no controlado y sin personal en cabina desde la vía\n13 de la estación de Aboño, dependencia de la Autoridad Portuaria de Gijón (Asturias) y, finalmente,\narrolla la topera de la vía mango, prolongación de la vía 7, de la estación de Veriña de Adif,\ndescarrilando sus dos bogies tras recorrer unos 1.200 metros en movimiento no controlado.\nComo consecuencia del descarrilamiento no se producen víctimas pero sí daños materiales.\nConclusión: El accidente se produjo por el fallo humano del operador de vehículos de maniobras (que\nes también el",
+      "resumen": "El 18 de marzo de 2015, en la estación de Aboño (Asturias), una locomotora derivó de forma incontrolada y descarriló tras recorrer 1.200 metros, provocando daños materiales sin causar víctimas. La causa principal del accidente fue el fallo humano del operador, quien abandonó la cabina sin asegurar la inmovilización del vehículo. Esta acción se vio agravada por el mal funcionamiento del freno de estacionamiento y la inutilización del dispositivo de hombre muerto.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ...................................."
     },
     "conclusiones": [
@@ -678,7 +678,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2015-10-05",
     "ubicacion": {
-      "estacion": "Tardienta",
+      "estacion": "Estación de Tardienta",
       "provincia": "Huesca",
       "lat": 42.1316,
       "lng": -0.4081
@@ -698,7 +698,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0046/2015 ocurrido el 05.10.2015\n170627-151005-IF-CIAF-sn.docx\n1. RESUMEN\nEl suceso tiene lugar con fecha 05.10.2015 a las 17:17 horas en la vía 4 de la estación de Tardienta, en\nel pk 52+950 de la Línea 200 de Madrid Chamartín a Barcelona estación de Francia cuando el tren de\nmercancías BAR11/52 procede a invertir su sentido de circulación en esta estación.\nEl tren se estaciona en vía 4 y la locomotora, una vez desenganchada del tren y de forma aislada, realiza\nla maniobra de inversión en la que en el último movimiento colisiona con el vagón de cola del material\nremolcado estacionado.\nComo consecuencia del impacto se producen daños de consideración en la locomotora y el último vagón\nde la composición estacionada y resultan heridos leves el maqu",
+      "resumen": "Accidente ferroviario ocurrido el 05.10.2015 en la estación de Tardienta (Huesca) durante la maniobra de inversión de una locomotora de mercancías. El impacto provocó daños materiales considerables en la locomotora y el último vagón, además de lesiones leves al maquinista y al agente de maniobras. La causa principal fue un fallo humano del conductor, que no aplicó correctamente el freno al conducir desde la cabina contraria al sentido de la marcha, incumpliendo la normativa de seguridad.",
       "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ..................................................................................... 6\n2.1. SUCESO .............................................................................................................................. 6\n2.1.1. Datos .......................................................................................................................... 6\n2.1.2. Descripción del suceso ............................................................................................... 7\n2.1.3. Decisión de abrir la investigación............................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 10\n2.2.1. Personal Ferroviario implicado ................................................................................. 10\n2.2.2. Material rodante .................................................................................."
     },
     "conclusiones": [
@@ -770,7 +770,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0052/2015 ocurrido el 22.10.2015\n160927-151022-IF-CIAF.doc\nRESUMEN\nEl día 22 de octubre de 2015, a las 06:34 horas, en la estación de Río Huerva (Zaragoza),\nperteneciente a la línea 214 La Cartuja a Zaragoza CIM, el tren de mercancías 99563 de la empresa\nferroviaria Continental Rail rebasa indebidamente la señal de salida S1/3 que se encontraba en\nindicación de parada, produciéndose un conato de colisión con el tren BAR70 de la empresa ferroviaria\nTransfesa Rail, que estaba parado ante la señal de entrada E2.\nConclusión: El incidente se produjo por fallo humano del personal de conducción del tren de\nmercancías 99563, más concretamente por una falta de atención, dando lugar al rebase indebido de la\nseñal de salida S1/3 que se encontraba en indica",
+      "resumen": "El incidente ferroviario ocurrido el 22 de octubre de 2015 en la estación de Río Huerva (Zaragoza) provocó un conato de colisión sin víctimas ni daños materiales. La causa principal fue el fallo humano del maquinista, derivado de una falta de atención y confusión visual con las señales de la línea de alta velocidad adyacente. Se identificaron como factores coadyuvantes la escasa experiencia del conductor en esa vía y la posible fatiga por una larga jornada de servicio.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción de los hechos ................................................................................................................. 6\n2.1.3.\nDecisión de abrir la investigación y composición del equipo de investigación ......................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1.\nPersonal ferroviario implicado .............................................................................................."
     },
     "conclusiones": [

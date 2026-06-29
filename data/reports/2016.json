@@ -29,7 +29,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0010/2016 ocurrido el 23.01.2016\n170919-160123-IF-SN_CIAF.docx\n1. RESUMEN\nEl suceso tiene lugar el día 23 de enero de 2016 a las 12:17 horas en el pk 518+063 de la línea 210\nTarragona – Miraflores, estación de Ascó (Tarragona), cuando el tren de mercancías nº 97534 propiedad\nde la empresa ferroviaria TRANSFESA RAIL compuesto por locomotora 335 y 22 vagones, procedente de\nCostantí (Tarragona) con destino La Salud (Sevilla), circula por vía principal (vía 1) sentido Zaragoza, a\nuna velocidad de 48 km/hora conforme a la limitación temporal así impuesta.\nA la altura de la señal de salida S1 (lado Zaragoza) de la estación de Ascó se produce el descarrilamiento\ndel primer eje del vagón que ocupa el lugar nº 18 de la composición en el sentido de la mar",
+      "resumen": "El descarrilamiento del tren de mercancías 97535 ocurrido el 23 de enero de 2016 en la estación de Ascó (Tarragona) no provocó víctimas, pero sí daños materiales considerables en el material rodante y la infraestructura. La causa principal fue un fallo de la infraestructura derivado de variaciones significativas de peralte, agravado por un deficiente drenaje y la desconsolidación del asiento de las traviesas.",
       "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ................................................................................................................. 6\n2.1. SUCESO .............................................................................................................................. 6\n2.1.1. Datos ..........................................................................................................6\n2.1.2. Descripción del suceso .................................................................................7\n2.1.3. Decisión de abrir la investigación ..................................................................8\n2.2. CIRCUNSTANCIAS DEL SUCESO ........................................................................................ 9\n2.2.1. Personal Ferroviario implicado .......................................................................9\n2.2.2. Material rodante ...........................................................................................9\n2.2.3. Descripció"
     },
     "conclusiones": [
@@ -168,8 +168,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-03-15",
     "ubicacion": {
-      "estacion": "Arahal",
-      "provincia": "Sevilla",
+      "estacion": "Mont-Roig del Camp",
+      "provincia": "Tarragona",
       "lat": 37.2667,
       "lng": -5.55
     },
@@ -188,7 +188,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
+      "resumen": "Accidente ferroviario ocurrido el 15 de marzo de 2016 en Mont-Roig del Camp (Tarragona), donde el tren 11161 arrolló un obstáculo procedente del desmoronamiento de una trinchera adyacente. El suceso provocó el descarrilamiento del primer eje del tren durante 826 metros, causando daños materiales significativos en el material rodante y la infraestructura, aunque no hubo heridos graves, solo tres pasajeros atendidos por ansiedad o lipotimia. La causa principal fue el fallo de la infraestructura por el desprendimiento de tierras y una gran roca, factor coadyuvante de las fuertes lluvias previas.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación ..................................................................................................10\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado ..............................................................."
     },
     "conclusiones": [
@@ -332,8 +332,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-04-17",
     "ubicacion": {
-      "estacion": "Maliaño",
-      "provincia": "Cantabria",
+      "estacion": "Hernani",
+      "provincia": "Guipúzcoa",
       "lat": 43.4174,
       "lng": -3.8421
     },
@@ -354,7 +354,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El descarrilamiento del tren de mercancías 9681 ocurrido el 10 de febrero de 2013 en la estación de Maliaño (Cantabria) no causó víctimas ni heridos, aunque provocó daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue la inadecuada estiba de la carga en el octavo vagón, lo que generó un desplazamiento lateral del cargamento y la posterior desestabilización del tren. Como factor coadyuvante se identificó la existencia de un leve alabeo en la vía justo antes del punto del accidente.",
+      "resumen": "El 17 de abril de 2016, en la estación de Hernani (Guipúzcoa), se produjo una colisión por alcance entre dos trenes de Renfe que causó cinco heridos y daños materiales. El suceso fue provocado principalmente por un fallo en las instalaciones de seguridad, concretamente la no detección del tren estacionado debido a la falta de shuntado del circuito de vía. Esta anomalía técnica fue facilitada por un exceso de óxido en los carriles y se vio agravada por un factor humano relacionado con la longitud del tren respecto a la vía de estacionamiento.",
       "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO...................................................................................................................6\n2.1.\nSUCESO.................................................................................................................................................................6\n2.1.1.Datos.....................................................................................................................................................................6\n2.1.2.Descripción del suceso..........................................................................................................................................7\n2.1.3.Decisión de abrir la investigación y composición de equipo de investigación. ......................................................9\n2.2.\nCIRCUNSTANCIAS DEL SUCESO..........................................................................................................................9\n2.2.1.Personal ferroviario implicado, t"
     },
     "conclusiones": [
@@ -436,7 +436,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-05-28",
     "ubicacion": {
-      "estacion": "Vilanova",
+      "estacion": "Vilanova i la Geltrú",
       "provincia": "Barcelona",
       "lat": 41.2193,
       "lng": 1.7286
@@ -456,7 +456,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del incidente\nnº 0027/2016 ocurrido el 28.05.2016\n180223-160528-IF-SN_CIAF.DOCX\n1. RESUMEN\nEl suceso tiene lugar el día 28 de mayo de 2016 a las 09:50:39 horas, en la estación de Vilanova i la\nGeltrú, pk 635+888 de la línea 200 de Madrid Chamartín a Barcelona Estación de Francia, cuando el tren\nregional exprés 17501, propiedad de la empresa RENFE VIAJEROS, procedente de Barcelona con destino\nMadrid, circula por vía general (vía I), sentido impar, entra en la estación por vía 2 (continuación dentro\nde la estación de la vía general, vía I) con 14 minutos de retraso sobre su horario prescrito y sin parada\ncomercial, rebasa la señal de salida S1/2 en indicación de parada a una velocidad de 72 km/hora y se\ndetiene después de recorrer una distancia de  160 m por acció",
+      "resumen": "Incidente ocurrido el 28 de mayo de 2016 en la estación de Vilanova i la Geltrú, donde el tren regional exprés 17501 rebasó una señal de parada a 72 km/h, provocando un conato de colisión por alcance sin víctimas ni daños materiales. La causa principal fue un fallo humano del maquinista, probablemente por falta de atención y mala percepción del riesgo, agravado por el retraso acumulado del servicio.",
       "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ..................................................................................... 6\n2.1. SUCESO ........................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................ 6\n2.1.2. Descripción del suceso ....................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ...................................................................................... 10\n2.2. CIRCUNSTANCIAS DEL SUCESO ................................................................................... 10\n2.2.1. Personal Ferroviario implicado .......................................................................................... 10\n2.2.2. Material rodante ........................................................"
     },
     "conclusiones": [
@@ -518,7 +518,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-07-18",
     "ubicacion": {
-      "estacion": "Boñar",
+      "estacion": "Estación de Boñar",
       "provincia": "León",
       "lat": 42.8667,
       "lng": -5.3167
@@ -540,7 +540,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 13 de julio de 2009 en el paso a nivel particular de Jaca (Huesca), donde el tren 15653 arrolló a un camión articulado. La colisión provocó heridos leves en el conductor del vehículo y una viajera, además de daños materiales significativos en el tren y la infraestructura. La causa principal del siniestro fue la ocupación indebida del gálibo de la vía por parte del camión, que invadió el paso a nivel sin respetar la señalización de stop.",
+      "resumen": "El 18 de julio de 2016, en la estación de Boñar (León), se produjo un incidente con conato de colisión entre la maniobra UT 2903 y el tren 71490 que no dejó heridos ni daños materiales. La causa principal fue el fallo humano del jefe de maquinistas de la UT 2903, quien, distraído por una prueba de motor, rebasó el límite de maniobras a 46 km/h y quedó inmovilizado en plena vía.",
       "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................6\n2.1. SUCESO.......................................................................................................................................................6\n2.1.1.\nDatos....................................................................................................................................................6\n2.1.2.\nDescripción del suceso......................................................................................................................6\n2.1.3.\nDecisión de abrir la investigación....................................................................................................8\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................9\n2.2.1.\nPersonal ferroviario implicado....................................................................."
     },
     "conclusiones": [
@@ -607,8 +607,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-09-09",
     "ubicacion": {
-      "estacion": "Anoeta",
-      "provincia": "Guipúzcoa",
+      "estacion": "Estación de O Porriño",
+      "provincia": "Pontevedra",
       "lat": 42.898,
       "lng": -2.13
     },
@@ -628,7 +628,7 @@
       "victimas_total": 17
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 20 de abril de 2013 en el apeadero de Anoeta (Guipúzcoa), donde un tren de larga distancia arrolló a una persona que cruzaba las vías. La consecuencia fue el fallecimiento de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó sin percatarse de la llegada del tren debido a la obstrucción de su visibilidad por otro tren estacionado.",
+      "resumen": "El descarrilamiento del tren 420 \"Tren Celta\" ocurrió el 9 de septiembre de 2016 en la estación de O Porriño (Pontevedra), provocando la muerte de cuatro personas y heridas a 47 viajeros. La causa directa fue el paso del tren a 110 km/h por un desvío con velocidad limitada a 30 km/h, debido al incumplimiento de las señales de precaución por parte del maquinista.",
       "descripcion": ""
     },
     "conclusiones": [],
@@ -680,8 +680,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-09-30",
     "ubicacion": {
-      "estacion": "Busdongo",
-      "provincia": "León",
+      "estacion": "Lena",
+      "provincia": "Asturias",
       "lat": 42.5981,
       "lng": -5.5667
     },
@@ -701,7 +701,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0043/2016 ocurrido el 30.09.2016\n180525-160930-IF-SN_CIAF.doc\nRESUMEN\nEl día 30 de septiembre de 2016 a las 21:26 horas,  en plena vía (p.k. 59+505) y dentro del túnel\nnº 15 (denominado Canto del Estillero), en el trayecto entre las estaciones de  Busdongo y Pajares, de\nla línea  130 Gijón Sanz Crespo-Venta de Baños, el tren de viajeros de larga distancia 665 de la\nempresa ferroviaria Renfe Viajeros procedente de Barcelona Sants y destino Gijón Sanz Crespo\ndescarrila debido a una rotura de carril.\nComo consecuencia del accidente no se produjeron víctimas mortales ni heridos.\nSe produjeron daños materiales en el automotor y en la infraestructura de la vía (carril, traviesas,\nsujeciones, etc.) debido a los metros que circuló el tren descarrilado.\n",
+      "resumen": "El descarrilamiento del tren Alvia 665 ocurrido el 30 de septiembre de 2016 en el túnel Canto del Estillero de Lena no causó víctimas, aunque provocó daños materiales en el tren y la infraestructura. La causa principal fue la rotura del carril izquierdo debido a un defecto de fabricación que generó una fisura por fatiga, agravada por la corrosión del entorno. Este fallo no fue detectado por los procedimientos de auscultación ultrasónica vigentes, los cuales resultaron ineficaces para identificar la anomalía interna del carril.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1.\nPersonal ferroviario implicado ..........................................................."
     },
     "conclusiones": [
@@ -764,8 +764,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-11-04",
     "ubicacion": {
-      "estacion": "Sama de Langreo",
-      "provincia": "Asturias",
+      "estacion": "Cheste",
+      "provincia": "Valencia",
       "lat": 43.2833,
       "lng": -5.7833
     },
@@ -785,7 +785,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren.",
+      "resumen": "Accidente ferroviario ocurrido el 4 de noviembre de 2016 en la estación de Cheste (Valencia), donde un tren de cercanías de Renfe sufrió un incendio en el motor tras la pérdida de un tornillo de sujeción de una brida de combustible. El suceso no provocó víctimas ni heridos, aunque se registraron daños materiales en el material rodante valorados en 29.756 euros. La causa principal fue un fallo técnico del material rodante, agravado por la no comunicación de una anomalía de pérdida de gasóleo detectada el día anterior.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 7\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado"
     },
     "conclusiones": [
@@ -850,7 +850,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-11-04",
     "ubicacion": {
-      "estacion": "indicación de parada",
+      "estacion": "L’ Hospitalet de Llobregat",
       "provincia": "Barcelona",
       "lat": 41.3595118,
       "lng": 2.0996318
@@ -871,7 +871,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "SUBSECRETARÍA\nInvestigación del accidente\nnº 0051/2016 ocurrido el 04.11.2016\n18.07.18 - 180718-161104-IF_CIAF.docx\n1. RESUMEN\nEl accidente tiene lugar el día 4 de noviembre de 2016 a las 21:36 horas, en la estación de L’ Hospitalet\nde Llobregat, pk 95+106 de la línea 220 Lleida Pirineus a L’ Hospitalet de Llobregat, cuando el tren 25752\nprocedente de Calella que circula por vía II, rebasa la señal de entrada E1 en indicación de parada,\ndespués de estar detenido ante ella, y tras una indicación incorrecta momentánea de rebase autorizado\nen la señal, entra en la estación sin itinerario establecido, rebasa la señal de retroceso R1 también en\nindicación de parada y colisiona lateralmente con el tren 25779, que ha salido de vía 3 con itinerario\nestablecido destino Calella y se encuentra deteni",
+      "resumen": "El 4 de noviembre de 2016, en la estación de L’Hospitalet de Llobregat, se produjo una colisión lateral entre dos trenes de cercanías que causó daños materiales en el material rodante y la infraestructura, sin víctimas mortales ni heridos. La causa principal fue un fallo en el enclavamiento electrónico que generó una indicación de señal errónea, induciendo al maquinista a rebasar la señal de parada, agravado por la actuación precipitada del jefe de control de tráfico.",
       "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ................................................................................................................. 8\n2.1. SUCESO .............................................................................................................................. 8\n2.1.1. Datos .................................................................................................................................. 8\n2.1.2. Descripción del suceso ......................................................................................................... 8\n2.1.3. Decisión de abrir la investigación ........................................................................................ 14\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 14\n2.2.1. Personal ferroviario implicado ............................................................................................. 14\n2.2.2. Material rodante ............."
     },
     "conclusiones": [

@@ -74,7 +74,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "1. SUMMARY\nThe incident occurred on 4th of March of 2020, in the stations of Xeraco and Tavernes (Valencia), and\nthe line between them (single track line). In the beginning, train #24272 was placed at the track #1 of\nXeraco station (Valencia)†. Then, with the route blocked from Xeraco to Tavernes, the dispatcher at\nthe Control Centre ordered an exit itinerary for this train, bound to Tavernes. In order to set this\nitinerary, the switch A1 was ordered to move from diverted position to direct position, but there was\na malfunction and the switch didn’t verify its position. The driver of the train #24272 visually verified\nthat the switch remained in diverted position (to track #2). So, the dispatcher blocked the switch in\ndiverted position (to track #2) and executed several orders and actions ",
+      "resumen": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia) el 4 de marzo de 2020, que no provocó víctimas ni daños materiales. La causa principal fue el fallo humano del Responsable de Circulación, quien expidió un tren sin establecer el bloqueo correspondiente al desactivar parcialmente los automatismos de seguridad. Este error generó una situación de riesgo de colisión frontal que fue evitada gracias a la intervención inmediata del controlador.",
       "descripcion": ""
     },
     "conclusiones": [
@@ -121,8 +121,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2020-06-02",
     "ubicacion": {
-      "estacion": "La Hiniesta de",
-      "provincia": "Álava",
+      "estacion": "Coslada",
+      "provincia": "Madrid",
       "lat": 42.25,
       "lng": -5.8333
     },
@@ -136,7 +136,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El 31 de agosto de 2014, un descarrilamiento del tren 632 de Renfe Operadora ocurrió en el cambiador de ancho de Zaragoza Delicias, sin causar víctimas pero con daños materiales en el material rodante y la infraestructura. El suceso fue provocado por el fallo del sistema de cambio de ancho de la rueda derecha del último eje, que no realizó la traslación axial debido al agarrotamiento del semiacoplamiento. Esta avería se originó por la degradación de la grasa de lubricación, contaminada por la entrada de partículas a través de una junta de estanqueidad (rascador) desgastada y no estanca.",
+      "resumen": "Accidente ferroviario ocurrido el 26 de febrero de 2013 entre las estaciones de San Fernando de Henares y Coslada, donde un tren de cercanías impactó lateralmente con un vehículo que se precipitó desde un paso superior. El suceso provocó una herida leve al conductor del automóvil y daños materiales en el tren y la infraestructura. La causa principal fue la invasión del gálibo de vía por el vehículo al precipitarse desde el paso superior carretero.",
       "descripcion": ""
     },
     "conclusiones": [

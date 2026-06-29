@@ -9,8 +9,8 @@
     "gravedad": "menor",
     "fecha_suceso": "2022-06-01",
     "ubicacion": {
-      "estacion": "Ponferrada",
-      "provincia": "León",
+      "estacion": "El Papiol",
+      "provincia": "Barcelona",
       "lat": 42.4984,
       "lng": -6.5663
     },
@@ -26,7 +26,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
+      "resumen": "Incidente operacional ocurrido el 1 de junio de 2022 en el apeadero de El Papiol (Barcelona), donde el tren 77721 realizó un retroceso no autorizado sin causar víctimas ni daños materiales. La causa principal fue la confusión del maquinista entre el apeadero de El Papiol y la estación de Castellbisbal, agravada por el desvío de la atención y el incumplimiento de los procedimientos de seguridad.",
       "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante ............."
     },
     "conclusiones": [
@@ -229,8 +229,8 @@
     "gravedad": "menor",
     "fecha_suceso": "2022-12-13",
     "ubicacion": {
-      "estacion": "Els Guiamets",
-      "provincia": "Barcelona",
+      "estacion": "Tivissa",
+      "provincia": "Tarragona",
       "lat": 41.0833,
       "lng": 0.75
     },
@@ -246,7 +246,7 @@
       "danos_materiales": true
     },
     "analisis": {
-      "resumen": "Accidente en paso a nivel ocurrido en Novelda (Alicante) el 2 de julio de 2021, que provocó la muerte de los cuatro ocupantes del automóvil arrollado. La causa principal fue el fallo humano del conductor, que invadió el paso a pesar de que las barreras estaban bajadas, agravado por un diseño viario que dificultaba la percepción de la señalización y la barrera.",
+      "resumen": "Accidente de colisión por alcance ocurrido el 13 de diciembre de 2022 en Tivissa, entre las estaciones de Els Guiamets y Mora La Nova, que provocó daños materiales en la infraestructura y el material rodante sin víctimas personales. La causa principal fue la inadecuada regulación de la velocidad por parte del maquinista del tren perseguidor, quien no adaptó la marcha a la visibilidad disponible durante la noche y con condiciones meteorológicas adversas. Este fallo humano se vio agravado por factores contributivos como la falta de experiencia del conductor, la realización de una llamada telefónica durante la maniobra y las condiciones sistémicas del rebase de señales de parada.",
       "descripcion": ""
     },
     "conclusiones": [],

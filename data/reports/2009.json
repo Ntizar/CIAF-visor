@@ -9,7 +9,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-01-01",
     "ubicacion": {
-      "estacion": "Sitges",
+      "estacion": "Estación de Sitges",
       "provincia": "Barcelona",
       "lat": 41.2367,
       "lng": 1.8034
@@ -83,7 +83,7 @@
     "fecha_suceso": "2009-01-14",
     "ubicacion": {
       "estacion": "Vila-real",
-      "provincia": "Castellón",
+      "provincia": "Asturias",
       "lat": 39.9372616,
       "lng": -0.1004465
     },
@@ -103,7 +103,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en el paso a nivel de la estación de Vila-real (Castellón), donde un tren de viajeros arrolló a un motocarro. Como consecuencia del impacto, falleció el único ocupante del vehículo y se produjeron daños materiales en el tren y la vía. La causa principal del siniestro fue la irrupción del vehículo en el paso a nivel cuando las semibarreras ya se encontraban bajadas y las señales indicaban la proximidad del tren.",
+      "resumen": "Accidente ferroviario ocurrido el 14 de enero de 2009 en un paso a nivel de la estación de Avilés, que provocó la muerte de una mujer al ser arrollada por el tren de cercanías 22321. La causa principal del siniestro fue la decisión de la víctima de sortear las barreras bajadas y cruzar la vía cuando los sistemas de protección ya estaban activos.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................8\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................8\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD................."
     },
     "conclusiones": [
@@ -156,7 +156,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-01-20",
     "ubicacion": {
-      "estacion": "Getafe",
+      "estacion": "La Florida",
       "provincia": "Asturias",
       "lat": 40.45,
       "lng": -3.7167
@@ -175,7 +175,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en la estación de Getafe Industrial (Madrid) que provocó la muerte de una persona al ser arrollada por el tren 17000. La causa principal del siniestro fue el cruce de la vía por parte de la víctima en un lugar no habilitado para ello, impidiendo al maquinista evitar el impacto a pesar de aplicar el freno de emergencia. No se registraron daños materiales en el material rodante ni en la infraestructura, aunque se produjeron interrupciones en la circulación.",
+      "resumen": "Incidente ferroviario ocurrido el 20 de enero de 2009 en la estación de La Florida, donde el tren de cercanías 5412 rebasó una señal de parada provocando un conato de colisión. El suceso no causó víctimas mortales ni lesiones, aunque se registraron daños materiales en la aguja de la vía y retrasos en otros trenes. La causa principal fue el incumplimiento del reglamento de circulación por parte del maquinista, quien no hizo caso a la indicación de parada de la señal de salida.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD................."
     },
     "conclusiones": [
@@ -243,7 +243,7 @@
     "fecha_suceso": "2009-01-20",
     "ubicacion": {
       "estacion": "La Florida",
-      "provincia": "Asturias",
+      "provincia": "Barcelona",
       "lat": 43.3,
       "lng": -5.85
     },
@@ -262,7 +262,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "Incidente ferroviario ocurrido el 20 de enero de 2009 en la estación de La Florida, donde el tren de cercanías 5412 rebasó una señal de parada provocando un conato de colisión. El suceso no causó víctimas mortales ni lesiones, aunque se registraron daños materiales en la aguja de la vía y retrasos en otros trenes. La causa principal fue el incumplimiento del reglamento de circulación por parte del maquinista, quien no hizo caso a la indicación de parada de la señal de salida.",
+      "resumen": "Accidente ferroviario ocurrido el 20 de enero de 2009 entre Tordera y Blanes, donde un tren de cercanías arrolló a un peatón que cruzaba la vía. El suceso provocó la muerte inmediata de la víctima y la interrupción de la circulación durante aproximadamente tres horas. La causa principal del accidente fue la invasión del galibo de la vía por parte de la víctima, quien utilizó un antiguo paso a nivel ya suprimido.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD................."
     },
     "conclusiones": [
@@ -328,7 +328,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-01-22",
     "ubicacion": {
-      "estacion": "Gavá",
+      "estacion": "Estación de Gavá",
       "provincia": "Barcelona",
       "lat": 41.3063,
       "lng": 2.0033
@@ -416,7 +416,7 @@
     "fecha_suceso": "2009-01-30",
     "ubicacion": {
       "estacion": "Sodupe",
-      "provincia": "Madrid",
+      "provincia": "Vizcaya",
       "lat": 43.2167,
       "lng": -3.0667
     },
@@ -484,7 +484,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-02-02",
     "ubicacion": {
-      "estacion": "Sodupe",
+      "estacion": "Zegama",
       "provincia": "Guipúzcoa",
       "lat": 42.8988,
       "lng": -2.1697
@@ -504,7 +504,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 30 de enero de 2009 en la estación de Sodupe, que provocó la muerte de un joven de 18 años al ser arrollado por el tren 8604. La causa principal del siniestro fue la acción de la víctima, quien sorteó las barreras bajadas y las señales de protección para cruzar la vía a pesar de la proximidad del tren. No se identificaron fallos en el material rodante, las instalaciones ni en la actuación del maquinista, quien cumplió con los protocolos de seguridad establecidos.",
+      "resumen": "El 2 de febrero de 2009, una colisión lateral entre un tren de media distancia y uno de mercancías ocurrió en el túnel de Osina, cerca de Zegama. El suceso provocó heridas leves a una pasajera y daños materiales en el tren de viajeros. La causa principal identificada fue el defecto de la vía debido a valores incorrectos de peralte y entrecalle.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD...........................................................................................7\n3.3. NORMATIVA..........................................................................."
     },
     "conclusiones": [],
@@ -759,7 +759,7 @@
     "fecha_suceso": "2009-02-22",
     "ubicacion": {
       "estacion": "Chapela",
-      "provincia": "Madrid",
+      "provincia": "Pontevedra",
       "lat": 42.285,
       "lng": -8.564
     },
@@ -778,7 +778,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
+      "resumen": "Accidente ferroviario ocurrido el 22 de febrero de 2009 entre las estaciones de Chapela y Vigo, que provocó la muerte de una persona al ser arrollada por el tren 12703. La causa principal del siniestro fue la invasión de la caja de la vía por parte de la víctima, quien intentaba recoger un objeto cuando el tren circulaba a 80 km/h.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1\nSUCESO..................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................5\n2.4\nCIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD............................................."
     },
     "conclusiones": [
@@ -987,8 +987,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-03-24",
     "ubicacion": {
-      "estacion": "Algemesí",
-      "provincia": "Madrid",
+      "estacion": "Estación de Algemesí",
+      "provincia": "Valencia",
       "lat": 39.1535,
       "lng": -0.435
     },
@@ -1064,7 +1064,7 @@
     "fecha_suceso": "2009-03-24",
     "ubicacion": {
       "estacion": "Villargordo",
-      "provincia": "Córdoba",
+      "provincia": "Jaén",
       "lat": 38.0833,
       "lng": -3.0833
     },
@@ -1147,7 +1147,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-04-07",
     "ubicacion": {
-      "estacion": "Las Navas del Marqués",
+      "estacion": "Estación de Las Navas del Marqués",
       "provincia": "Ávila",
       "lat": 40.6,
       "lng": -4.3333
@@ -1302,8 +1302,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-06-05",
     "ubicacion": {
-      "estacion": "Maçanet-Massanes",
-      "provincia": "Barcelona",
+      "estacion": "Maçanet de la Selva",
+      "provincia": "Gerona",
       "lat": 41.7774422,
       "lng": 2.7309252
     },
@@ -1377,7 +1377,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-06-18",
     "ubicacion": {
-      "estacion": "Madrid",
+      "estacion": "Madrid Chamartín",
       "provincia": "Madrid",
       "lat": 40.4726,
       "lng": -3.6825
@@ -1525,7 +1525,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-06-26",
     "ubicacion": {
-      "estacion": "Humanes",
+      "estacion": "Humanes (Madrid)",
       "provincia": "Madrid",
       "lat": 40.2524,
       "lng": -3.9242
@@ -1605,8 +1605,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-06-26",
     "ubicacion": {
-      "estacion": "Xeraco",
-      "provincia": "Valencia",
+      "estacion": "Estación de Aluche",
+      "provincia": "Madrid",
       "lat": 39.0331946,
       "lng": -0.2152033
     },
@@ -1625,7 +1625,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia) el 4 de marzo de 2020, que no provocó víctimas ni daños materiales. La causa principal fue el fallo humano del Responsable de Circulación, quien expidió un tren sin establecer el bloqueo correspondiente al desactivar parcialmente los automatismos de seguridad. Este error generó una situación de riesgo de colisión frontal que fue evitada gracias a la intervención inmediata del controlador.",
+      "resumen": "El 26 de junio de 2009, en la estación de Aluche (Madrid), un tren de cercanías colisionó con otro estacionado tras un retroceso indebido del primero. El suceso provocó 61 heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal del accidente fue el retroceso no autorizado del tren 27319, realizado por iniciativa propia del maquinista.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUSTANCIAS EXTERNAS...................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................"
     },
     "conclusiones": [
@@ -1691,8 +1691,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-07-06",
     "ubicacion": {
-      "estacion": "Logroño",
-      "provincia": "Córdoba",
+      "estacion": "Ronda",
+      "provincia": "Málaga",
       "lat": 39.9625,
       "lng": -0.2605
     },
@@ -1711,7 +1711,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista.",
+      "resumen": "Accidente ferroviario ocurrido el 6 de julio de 2009 en el paso a nivel entre Ronda y Setenil (Málaga), donde el tren 149 arrolló a un automóvil que invadió la vía a pesar de las señales de advertencia. El suceso provocó la muerte de la conductora del vehículo y daños materiales en el tren y el coche. La causa principal del accidente fue la invasión del gálibo de la vía por parte del automóvil, que cruzó ignorando las señales acústicas y luminosas que indicaban la proximidad del tren.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
     },
     "conclusiones": [
@@ -1930,7 +1930,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-07-27",
     "ubicacion": {
-      "estacion": "França",
+      "estacion": "Barcelona",
       "provincia": "Barcelona",
       "lat": 37.8884,
       "lng": -4.7794
@@ -2010,7 +2010,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-08-24",
     "ubicacion": {
-      "estacion": "Sant Andreu Comtal",
+      "estacion": "Sant Feliú de Llobregat",
       "provincia": "Barcelona",
       "lat": 41.4378,
       "lng": 2.1877
@@ -2094,8 +2094,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-08-28",
     "ubicacion": {
-      "estacion": "Ponferrada",
-      "provincia": "León",
+      "estacion": "El Rebollar",
+      "provincia": "Valencia",
       "lat": 42.4984436,
       "lng": -6.5663176
     },
@@ -2114,7 +2114,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
+      "resumen": "El 28 de agosto de 2009, un descarrilamiento ocurrió en la estación de El Rebollar (Valencia) al accionar indebidamente la aguja nº 2 mientras el tren 18160 circulaba sobre ella. El suceso no provocó víctimas mortales ni heridos, aunque se registraron daños materiales limitados en el material rodante y la infraestructura. La causa principal del accidente fue el accionamiento indebido de la aguja por parte de la responsable de circulación, quien actuó antes de que el tren hubiera liberado completamente el cambio.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
     },
     "conclusiones": [
@@ -2346,7 +2346,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-09-24",
     "ubicacion": {
-      "estacion": "Cazoña",
+      "estacion": "Santander",
       "provincia": "Cantabria",
       "lat": 43.4667,
       "lng": -3.8333
@@ -2505,8 +2505,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-10-08",
     "ubicacion": {
-      "estacion": "Orense",
-      "provincia": "Orense",
+      "estacion": "Monforte de Lemos",
+      "provincia": "Lugo",
       "lat": 42.3365,
       "lng": -7.856
     },
@@ -2576,8 +2576,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-10-16",
     "ubicacion": {
-      "estacion": "ALFAFAR",
-      "provincia": "Madrid",
+      "estacion": "Alfafar-Benetússer",
+      "provincia": "Valencia",
       "lat": 39.4211,
       "lng": -0.3556
     },
@@ -2596,7 +2596,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren.",
+      "resumen": "Accidente ferroviario ocurrido el 16 de octubre de 2009 en el paso a nivel de la estación de Alfafar-Benetússer, donde el tren de cercanías 24228 arrolló a una mujer de 78 años que cruzaba las vías. La única consecuencia fue la muerte de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue la actuación de la víctima, que irrumpió en el paso a nivel cuando las semibarreras ya estaban bajadas y la señalización alertaba de la proximidad del tren.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
     },
     "conclusiones": [
@@ -2735,7 +2735,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-11-16",
     "ubicacion": {
-      "estacion": "Sama",
+      "estacion": "Sama de Langreo",
       "provincia": "Asturias",
       "lat": 43.2833,
       "lng": -5.7667
@@ -2827,7 +2827,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "El 2 de junio de 2020 en La Hiniesta (Zamora) se produjo un accidente ferroviario grave tras la colisión de un tren Alvia con un vehículo que había caído desde un paso superior, resultando en dos fallecidos y siete heridos. La causa principal fue el accidente de tráfico que provocó la precipitación del vehículo al gálibo de la vía, agravado por deficiencias en el mantenimiento del sistema de contención del paso superior.",
+      "resumen": "Accidente ferroviario ocurrido el 1 de diciembre de 2009 en el paso a nivel de la estación de O Porriño (Pontevedra), que provocó la muerte de un peatón. La investigación concluye que la causa principal fue la actuación de la víctima, quien cruzó la vía a pesar de que las semibarreras estaban bajadas y la señalización alertaba de la llegada del tren.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
     },
     "conclusiones": [
@@ -2885,8 +2885,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-12-06",
     "ubicacion": {
-      "estacion": "entre las estaciones de Espeja y Fuentes de Oñoro",
-      "provincia": "Salamanca",
+      "estacion": "Granollers Centre",
+      "provincia": "Barcelona",
       "lat": 41.6002,
       "lng": 2.2863
     },
@@ -2905,7 +2905,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren.",
+      "resumen": "El incidente de conato de colisión ocurrido el 6 de diciembre de 2009 en la estación de Granollers Centre (Barcelona) no provocó víctimas ni daños materiales. La causa principal fue la expedición indebida del tren 10371 por el personal de circulación, que incumplió las normas del bloqueo telefónico al autorizar la salida con el cantón ocupado. Este error se vio agravado por deficiencias en la comunicación de órdenes y en la gestión de las instalaciones durante los trabajos de mantenimiento.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................5\n2.1. SUCESO..................................................................................................................................................5\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................7\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................9\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................9\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
     },
     "conclusiones": [
@@ -2999,7 +2999,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-12-11",
     "ubicacion": {
-      "estacion": "RENEDO",
+      "estacion": "Renedo",
       "provincia": "Cantabria",
       "lat": 43.35,
       "lng": -3.8333
@@ -3019,7 +3019,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El 11 de noviembre de 2010, entre las estaciones de Algemesí y Benifaió, se produjo el descarrilamiento del tren de mercancías COX26, sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y retrasos significativos en la circulación. La causa principal del suceso fue un fallo técnico del material rodante, concretamente el fallo mecánico de un rodamiento que provocó la pérdida de la caja de grasa y la posterior basculación del vagón.",
+      "resumen": "Incidente ocurrido el 11 de diciembre de 2009 en la estación de Renedo (Cantabria), donde el tren AE 147 rebasó indebidamente una señal de parada, talonando un desvío y provocando un conato de colisión con otro tren. El suceso no causó víctimas ni heridos, aunque generó daños materiales en las instalaciones y retrasos en el tráfico ferroviario. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal de conducción.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................6\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................6\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD...........................................................................................7\n3.3. NORMATIVA..........................................................................."
     },
     "conclusiones": [
@@ -3081,8 +3081,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-12-13",
     "ubicacion": {
-      "estacion": "Betanzos-Infesta",
-      "provincia": "A Coruña",
+      "estacion": "Orbita",
+      "provincia": "Ávila",
       "lat": 43.2707175,
       "lng": -8.225834
     },
@@ -3101,7 +3101,7 @@
       "victimas_total": 1
     },
     "analisis": {
-      "resumen": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora.",
+      "resumen": "Accidente ferroviario ocurrido el 13 de diciembre de 2009 en el paso a nivel del apeadero de Orbita-Espinosa (Ávila), donde el tren 17212 arrolló un vehículo que cruzaba la vía. El suceso provocó la muerte de un ocupante del automóvil y daños materiales en el tren. La causa principal fue el cruce del vehículo por el paso a nivel en el momento de la llegada del tren, agravado por una señalización de carretera incompleta y no conforme a la normativa vigente.",
       "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
     },
     "conclusiones": [
@@ -3240,7 +3240,7 @@
     "fecha_suceso": "2009-12-20",
     "ubicacion": {
       "estacion": "Sant Guim de Freixenet",
-      "provincia": "Barcelona",
+      "provincia": "Lérida",
       "lat": 41.65,
       "lng": 1.4167
     },
@@ -3393,7 +3393,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-12-30",
     "ubicacion": {
-      "estacion": "Fuenmayor",
+      "estacion": "Estación de Fuenmayor",
       "provincia": "La Rioja",
       "lat": 42.475,
       "lng": -2.562

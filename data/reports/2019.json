@@ -9,7 +9,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2019-02-08",
     "ubicacion": {
-      "estacion": "Ribadedeva",
+      "estacion": "Castellgalí",
       "provincia": "Barcelona",
       "lat": 41.7257,
       "lng": 1.8269
@@ -27,7 +27,7 @@
       "victimas_leves": 0
     },
     "analisis": {
-      "resumen": "El descarrilamiento del tren de mercancías 9656 ocurrió el 2 de septiembre de 2014 en Ribadedeva, entre Unquera y Colombres, sin causar víctimas ni heridos. La causa principal fue la existencia de defectos en la geometría de la vía, concretamente alabeos provocados por un drenaje insuficiente de la plataforma. Se produjeron daños materiales valorados en 80.000 euros en el material rodante y la infraestructura.",
+      "resumen": "Accidente ferroviario ocurrido el 8 de febrero de 2019 en Castellgalí (Barcelona) que provocó la muerte de una maquinista y 108 heridos. La causa directa fue la circulación indebida a contravía del tren 15624, derivada de una incorrecta disposición de un desvío en la estación de Manresa y fallos en la supervisión del personal de circulación.",
       "descripcion": ""
     },
     "conclusiones": [],
@@ -83,7 +83,7 @@
       "victimas_total": 0
     },
     "analisis": {
-      "resumen": "El incidente tiene lugar el día 9 de diciembre de 2019 a las 16:35 horas, en el PK 92+898 de la Línea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat, estación de Cornellá, al rebasar indebidamente el tren 25045 la señal de entrada E1 en indicación de parada, con riesgo de colisión por alcance con el tren 95951 precedente. El Responsable de Circulación del CTC de Barcelona establece itinerario a vía 4 para el tren 95951 precedente. Con el tren 95951 aún detenido ante la señal E1, el tren 25045 pasa por la baliza previa de la señal E1, recibiendo en el equipo embarcado la indicación de anuncio de parada. El tren 95951 inicia la marcha y, tras su paso por la señal E1, ésta vuelve a cambiar su indicación a la de parada. Segundos después el tren 25045 rebasa indebidamente la señal E1 en indicación de parada y se detiene por activación del frenado de emergencia ASFA. Reanuda la marcha 39 segundos después de su parada hasta quedar estacionado en la vía 2 de la estación.",
+      "resumen": "Incidente ocurrido el 9 de diciembre de 2019 en la estación de Cornellá (Barcelona), donde el tren 25045 rebasó indebidamente una señal de parada con riesgo de colisión. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos operativos. La causa principal fue el error del maquinista al no mantener la marcha a la vista y confundir la indicación del sistema ASFA transmitida para el tren precedente.",
       "descripcion": ""
     },
     "conclusiones": [
