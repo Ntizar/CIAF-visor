@@ -6,10 +6,10 @@
     "titulo": "IF 0010/2016 — El suceso tiene lugar el día 23 de enero de 2016 a las 12:17 horas en el pk 518+063 de la línea 210",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-01-23",
     "ubicacion": {
-      "estacion": "ASCÓ (TARRAGONA)",
+      "estacion": "Ascó",
       "provincia": "Tarragona",
       "lat": 41.2167,
       "lng": 0.5667
@@ -88,10 +88,10 @@
     "titulo": "IF 0004/2016 — El día 25 de enero de 2016 a las 23:29 horas, en la estación de Elx Parc (Alicante) perteneciente a la",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-01-25",
     "ubicacion": {
-      "estacion": "ELX PARC (ALICANTE)",
+      "estacion": "Elx",
       "provincia": "Alicante",
       "lat": 38.3452,
       "lng": -0.4939
@@ -165,10 +165,10 @@
     "titulo": "IF 0012/2016 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-03-15",
     "ubicacion": {
-      "estacion": "Francia y",
+      "estacion": "Irún",
       "provincia": "Alicante",
       "lat": 43.262,
       "lng": -2.925
@@ -244,10 +244,10 @@
     "titulo": "IF 0014/2016 — SOBRE EL INCIDENTE FERROVIARIO Nº 0014/2016",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-03-16",
     "ubicacion": {
-      "estacion": "TORREJÓN DE ARDOZ",
+      "estacion": "Torrejón de Ardoz",
       "provincia": "Madrid",
       "lat": 40.4556,
       "lng": -3.4822
@@ -329,10 +329,10 @@
     "titulo": "IF 0021/2016 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-04-17",
     "ubicacion": {
-      "estacion": "HERNANI (GUIPÚZCOA)",
+      "estacion": "Maliaño",
       "provincia": "Guipúzcoa",
       "lat": 43.269,
       "lng": -1.9745
@@ -433,10 +433,10 @@
     "titulo": "IF 0027/2016 — El suceso tiene lugar el día 28 de mayo de 2016 a las 09:50:39 horas, en la estación de Vilanova i la",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-05-28",
     "ubicacion": {
-      "estacion": "VILANOVA I LA GELTRÚ",
+      "estacion": "Vilanova",
       "provincia": "Barcelona",
       "lat": 41.2193,
       "lng": 1.7286
@@ -515,10 +515,10 @@
     "titulo": "IF 0036/2016 — SOBRE EL INCIDENTE FERROVIARIO Nº 0036/2016",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-07-18",
     "ubicacion": {
-      "estacion": "BOÑAR (LEÓN).",
+      "estacion": "Boñar",
       "provincia": "León",
       "lat": 42.8667,
       "lng": -5.3167
@@ -604,10 +604,10 @@
     "titulo": "IF 0041/2016 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-09-09",
     "ubicacion": {
-      "estacion": "O PORRIÑO (PONTEVEDRA)",
+      "estacion": "Anoeta",
       "provincia": "Pontevedra",
       "lat": 42.1618,
       "lng": -8.6353
@@ -677,7 +677,7 @@
     "titulo": "IF 0043/2016 — El día 30 de septiembre de 2016 a las 21:26 horas,  en plena vía (p.k",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-09-30",
     "ubicacion": {
       "estacion": "Busdongo",
@@ -761,10 +761,10 @@
     "titulo": "IF 0056/2016 — El día 04 de noviembre de 2016 a las 20:45 horas, el tren de cercanías 24443, procedente de Valencia",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-11-04",
     "ubicacion": {
-      "estacion": "CHESTE (VALENCIA)",
+      "estacion": "Sama de Langreo",
       "provincia": "Valencia",
       "lat": 39.4944,
       "lng": -0.6841
@@ -847,10 +847,10 @@
     "titulo": "IF 0051/2016 — El accidente tiene lugar el día 4 de noviembre de 2016 a las 21:36 horas, en la estación de L’ Hospitalet",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2016-11-04",
     "ubicacion": {
-      "estacion": "L’ HOSPITALET DE",
+      "estacion": "indicación de parada",
       "provincia": "Barcelona",
       "lat": 41.3595118,
       "lng": 2.0996318

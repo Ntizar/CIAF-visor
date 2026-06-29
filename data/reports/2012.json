@@ -6,10 +6,10 @@
     "titulo": "0004/2012 — Estación de SAN CLAUDIO (OVIEDO)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-01-12",
     "ubicacion": {
-      "estacion": "SAN CLAUDIO (OVIEDO)",
+      "estacion": "San",
       "provincia": "Asturias",
       "lat": 43.3667,
       "lng": -5.8492
@@ -93,10 +93,10 @@
     "titulo": "0005/2012 — Estación de TRUBIA (ASTURIAS)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-01-15",
     "ubicacion": {
-      "estacion": "TRUBIA (ASTURIAS)",
+      "estacion": "Trubia",
       "provincia": "Asturias",
       "lat": 41.4933,
       "lng": 2.0345
@@ -178,10 +178,10 @@
     "titulo": "07/2012 — Estación de Barcelona Estació de França.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-01-19",
     "ubicacion": {
-      "estacion": "Barcelona Estació de",
+      "estacion": "Barcelona",
       "provincia": "Barcelona",
       "lat": 41.4309797,
       "lng": 2.1831056
@@ -247,10 +247,10 @@
     "titulo": "0010/2012 — Estación de MATARÓ (BARCELONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-02-09",
     "ubicacion": {
-      "estacion": "MATARÓ (BARCELONA)",
+      "estacion": "Sodupe",
       "provincia": "Barcelona",
       "lat": 41.5373,
       "lng": 2.4474
@@ -330,10 +330,10 @@
     "titulo": "0022/2012 — Estación de SOCUÉLLAMOS",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-03-12",
     "ubicacion": {
-      "estacion": "SOCUÉLLAMOS",
+      "estacion": "Socuéllamos",
       "provincia": "Albacete",
       "lat": 39.2833,
       "lng": -3.0
@@ -421,10 +421,10 @@
     "titulo": "28/2012 — Estación de HERAS (CANTABRIA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-04-18",
     "ubicacion": {
-      "estacion": "HERAS (CANTABRIA)",
+      "estacion": "Heras",
       "provincia": "Cantabria",
       "lat": 43.2333,
       "lng": -2.8667
@@ -477,10 +477,10 @@
     "titulo": "0030/2012 — Estación de RÍO HUERVA (ZARAGOZA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-04-26",
     "ubicacion": {
-      "estacion": "RÍO HUERVA (ZARAGOZA)",
+      "estacion": "Xeraco",
       "provincia": "Zaragoza",
       "lat": 41.6333,
       "lng": -0.9333
@@ -562,10 +562,10 @@
     "titulo": "34/2012 — Estación de ASTILLERO (CANTABRIA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-05-09",
     "ubicacion": {
-      "estacion": "ASTILLERO (CANTABRIA)",
+      "estacion": "Astillero",
       "provincia": "Cantabria",
       "lat": 43.4,
       "lng": -3.8167
@@ -623,10 +623,10 @@
     "titulo": "IF 0035/2012 — El día 11 de mayo de 2012, a las 20:34 horas, en plena vía, entre la estación de Xubia y el apeadero",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-05-11",
     "ubicacion": {
-      "estacion": "Xubia",
+      "estacion": "Xubia y el",
       "provincia": "Asturias",
       "lat": 43.48,
       "lng": -8.234
@@ -689,10 +689,10 @@
     "titulo": "0040/2012 — Estación de TOCÓN - MONTEFRÍO (GRANADA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-05-23",
     "ubicacion": {
-      "estacion": "TOCÓN - MONTEFRÍO",
+      "estacion": "Tocón",
       "provincia": "Granada",
       "lat": 37.1872,
       "lng": -3.6011
@@ -767,13 +767,13 @@
     "titulo": "0041/2012 — Estación de Pradell descarrila el 2º eje del penúltimo",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-06-01",
     "ubicacion": {
-      "estacion": "Pradell de Cascante",
+      "estacion": "Pradell",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.3,
+      "lng": 0.74
     },
     "entidades": [
       "ADIF",
@@ -848,10 +848,10 @@
     "titulo": "0045/2012 — Estación de ARÉVALO (ÁVILA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-06-15",
     "ubicacion": {
-      "estacion": "ARÉVALO (ÁVILA)",
+      "estacion": "Arévalo",
       "provincia": "Ávila",
       "lat": 41.0667,
       "lng": -4.7167
@@ -923,13 +923,13 @@
     "titulo": "IF 0050/2012 — El día 21 de junio de 2012, a las 8:51 horas, se produce el descarrilamiento del tren de viajeros de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-06-21",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Cazoña",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 43.4667,
+      "lng": -3.8333
     },
     "entidades": [
       "ADIF",
@@ -1010,13 +1010,13 @@
     "titulo": "IF 0047/2012 — El día 1 de julio de 2012, a las 09:42 horas, se produce el descarrilamiento del tren de viajeros de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-07-01",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Zaragoza Delicias",
+      "provincia": "Zaragoza",
+      "lat": 41.6568,
+      "lng": -0.8812
     },
     "entidades": [
       "ADIF",
@@ -1087,7 +1087,7 @@
     "titulo": "0051/2012 — Estación de Montoro los 17 vagones de cabeza a las 08:07 horas, los 17 de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-07-19",
     "ubicacion": {
       "estacion": "Montoro",
@@ -1174,10 +1174,10 @@
     "titulo": "0053/2012 — Estación de ATOCHA-CERCANÍAS (MADRID)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-07-26",
     "ubicacion": {
-      "estacion": "ATOCHA-CERCANÍAS (MADRID)",
+      "estacion": "Redondela",
       "provincia": "Madrid",
       "lat": 40.4065,
       "lng": -3.692
@@ -1251,10 +1251,10 @@
     "titulo": "0061/2012 — Estación de Tardienta en rampa de entre 2.7 y 4.7",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-09-06",
     "ubicacion": {
-      "estacion": "Tardienta",
+      "estacion": "Tardienta en rampa de entre",
       "provincia": "Barcelona",
       "lat": 42.0833,
       "lng": -0.5333
@@ -1358,10 +1358,10 @@
     "titulo": "0064/2012 — Estación de Zuera y la vía liberada.",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-10-08",
     "ubicacion": {
-      "estacion": "Francia",
+      "estacion": "Zuera y la",
       "provincia": "Barcelona",
       "lat": 43.262,
       "lng": -2.925
@@ -1439,13 +1439,13 @@
     "titulo": "IF 0071/2012 — El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-10-29",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Alicante",
-      "lat": null,
-      "lng": null
+      "estacion": "Almudévar",
+      "provincia": "Huesca",
+      "lat": 42.05,
+      "lng": -0.4
     },
     "entidades": [
       "ADIF",
@@ -1503,10 +1503,10 @@
     "titulo": "0074/2012 — Estación de LAVIANA (ASTURIAS)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-12-06",
     "ubicacion": {
-      "estacion": "LAVIANA (ASTURIAS)",
+      "estacion": "Laviana",
       "provincia": "Asturias",
       "lat": 43.25,
       "lng": -5.5667
@@ -1592,10 +1592,10 @@
     "titulo": "0076/2012 — Estación de VALENCIA-FONT DE SANT LLUIS",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2012-12-21",
     "ubicacion": {
-      "estacion": "VALENCIA-FONT DE SANT",
+      "estacion": "Valencia",
       "provincia": "Valencia",
       "lat": 39.453,
       "lng": -0.352
@@ -1663,10 +1663,10 @@
     "titulo": "0077/2012 — Estación de LEZAMA (ÁLAVA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2012-12-24",
     "ubicacion": {
-      "estacion": "LEZAMA (ÁLAVA)",
+      "estacion": "Lezama",
       "provincia": "Álava",
       "lat": 43.2667,
       "lng": -2.8333

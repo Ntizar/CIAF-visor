@@ -4,12 +4,12 @@
     "year": 2023,
     "expediente": "11/2023",
     "titulo": "IF 11/2023 — Incendio de material rodante ocurrido el día 30 de enero de",
-    "tipo": "avería",
+    "tipo": "incidente",
     "tipo_suceso": "avería",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2023-01-30",
     "ubicacion": {
-      "estacion": "Valencia",
+      "estacion": "Cerdanyola del Vallés",
       "provincia": "Valencia",
       "lat": 39.453,
       "lng": -0.352
@@ -83,7 +83,8 @@
     },
     "similares": [
       "2023-114/2023"
-    ]
+    ],
+    "tipo_suceso_normalizado": "averia"
   },
   {
     "id": "2023-43/2023",
@@ -92,7 +93,7 @@
     "titulo": "IF 43/2023 — Fallo de señalización en Les Borges del Camp (Tarragona),",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2023-05-26",
     "ubicacion": {
       "estacion": "Les Borges del Camp",
@@ -164,12 +165,12 @@
     "year": 2023,
     "expediente": "114/2023",
     "titulo": "IF 114/2023 — Descarrilamiento de tren",
-    "tipo": "avería",
+    "tipo": "incidente",
     "tipo_suceso": "avería",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2023-11-26",
     "ubicacion": {
-      "estacion": "Atocha-Cercanías (Madrid)",
+      "estacion": "Lleida",
       "provincia": "Madrid",
       "lat": 40.4065,
       "lng": -3.692
@@ -221,6 +222,7 @@
     "similares": [
       "2023-11/2023",
       "2023-43/2023"
-    ]
+    ],
+    "tipo_suceso_normalizado": "averia"
   }
 ]

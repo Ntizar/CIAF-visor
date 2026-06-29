@@ -6,7 +6,7 @@
     "titulo": "IF 0001/2017 — El día 6 de enero de 2017 a las 20:57 horas, en plena vía (p.k",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-01-06",
     "ubicacion": {
       "estacion": "San",
@@ -104,10 +104,10 @@
     "titulo": "IF 0007/2017 — El incidente tiene lugar el día 15 de enero de 2017 a las 12:42 horas, en la estación de Arahal, pk",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-01-15",
     "ubicacion": {
-      "estacion": "ARAHAL (SEVILLA)",
+      "estacion": "Arahal",
       "provincia": "Sevilla",
       "lat": 37.2667,
       "lng": -5.55
@@ -173,13 +173,13 @@
     "titulo": "IF 0012/2017 — El día 13 de febrero de 2017, a las 22:10 horas, el tren de viajeros de media distancia 17025 de la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-02-13",
     "ubicacion": {
-      "estacion": "Torrijos y suprimido.",
+      "estacion": "Torrijos",
       "provincia": "Badajoz",
-      "lat": null,
-      "lng": null
+      "lat": 38.8190843,
+      "lng": -5.1183293
     },
     "entidades": [
       "ADIF",
@@ -264,10 +264,10 @@
     "titulo": "IF 0020/2017 — El incidente que se investiga tuvo lugar el día 23 de marzo de 2017, a las 10:59 horas en la estación",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-03-23",
     "ubicacion": {
-      "estacion": "MADRID CHAMARTÍN (MADRID)",
+      "estacion": "Madrid",
       "provincia": "Madrid",
       "lat": 40.4726,
       "lng": -3.6825
@@ -367,7 +367,7 @@
     "titulo": "IF 0024/2017 — (DESCARRILAMIENTO) Nº 0024/2017",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-05-12",
     "ubicacion": {
       "estacion": "Madrid Puerta de Atocha",
@@ -464,10 +464,10 @@
     "titulo": "IF 0025/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-05-23",
     "ubicacion": {
-      "estacion": "Izarra.",
+      "estacion": "Inoso",
       "provincia": "Álava",
       "lat": 42.9527247,
       "lng": -2.8985342
@@ -554,13 +554,13 @@
     "titulo": "IF 0030/2017 — El día 13 de julio de 2017 a las 17:43 horas en el p",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-07-13",
     "ubicacion": {
-      "estacion": "Pradrell",
+      "estacion": "Xeraco",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 41.3,
+      "lng": 0.74
     },
     "entidades": [
       "ADIF",
@@ -632,10 +632,10 @@
     "titulo": "IF 0043/2017 — El día 25 de julio de 2017 en la estación de Torralba (Soria) de la línea 200 Madrid Chamartín a",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-07-25",
     "ubicacion": {
-      "estacion": "TORRALBA (SORIA)",
+      "estacion": "Torralba",
       "provincia": "Soria",
       "lat": 41.7636,
       "lng": -2.4649
@@ -720,10 +720,10 @@
     "titulo": "IF 0035/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-07-28",
     "ubicacion": {
-      "estacion": "FRANÇA (BARCELONA)",
+      "estacion": "Fran",
       "provincia": "Barcelona",
       "lat": 41.9277228,
       "lng": 2.2823448
@@ -791,10 +791,10 @@
     "titulo": "IF 0038/2017 — El incidente tiene lugar el día 12 de agosto de 2017 a las 11:55 horas, en la estación de Puebla de",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-08-12",
     "ubicacion": {
-      "estacion": "PUEBLA DE SANABRIA",
+      "estacion": "Puebla de\nSanabria",
       "provincia": "Zamora",
       "lat": 42.0667,
       "lng": -6.6333
@@ -883,10 +883,10 @@
     "titulo": "IF 0040/2017 — SOBRE EL INCIDENTE FERROVIARIO Nº 0040/2017",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-08-21",
     "ubicacion": {
-      "estacion": "LLEIDA-PIRINEUS (LLEIDA).",
+      "estacion": "Lleida",
       "provincia": "Barcelona",
       "lat": 41.6137,
       "lng": 0.6276
@@ -986,13 +986,13 @@
     "titulo": "IF 0055/2017 — El día 29 de noviembre de 2017 a las 10:10 horas, en plena vía (p.k",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2017-11-29",
     "ubicacion": {
-      "estacion": "Arahal",
-      "provincia": "Almería",
-      "lat": 37.2667,
-      "lng": -5.55
+      "estacion": "Puerto Lápice",
+      "provincia": "Ciudad Real",
+      "lat": 39.3333,
+      "lng": -3.4833
     },
     "entidades": [
       "ADIF",

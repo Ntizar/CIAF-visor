@@ -6,7 +6,7 @@
     "titulo": "IF 0005/2014 — Chamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2014-01-23",
     "ubicacion": {
       "estacion": "Calzada de Bureba (PK",
@@ -87,13 +87,13 @@
     "titulo": "IF 0026/2014 — El día 15 de abril de 2014 a las 18:09 horas el tren de mercancías 88828 de la empresa ferroviaria",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-04-15",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Pozuelo de Alarcón",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 40.4333,
+      "lng": -3.8167
     },
     "entidades": [
       "ADIF",
@@ -160,10 +160,10 @@
     "titulo": "0034/2014 — Estación de Chinchilla AV, le notifican del CRC que va a circular con",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-07-02",
     "ubicacion": {
-      "estacion": "Chinchilla AV",
+      "estacion": "Chinchilla",
       "provincia": "Albacete",
       "lat": 36.4961371,
       "lng": -4.9442104
@@ -243,10 +243,10 @@
     "titulo": "0037/2014 — Estación de SANT VICENÇ DE CALDERS (TARRAGONA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-07-10",
     "ubicacion": {
-      "estacion": "SANT VICENÇ DE CALDERS",
+      "estacion": "Sant",
       "provincia": "Tarragona",
       "lat": 41.3725,
       "lng": 2.1404
@@ -321,10 +321,10 @@
     "titulo": "0036/2014 — Estación de MATAESPESA DE ALPEDRETE (MADRID)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-07-11",
     "ubicacion": {
-      "estacion": "MATAESPESA DE",
+      "estacion": "MATAESPESA DE ALPEDRETE",
       "provincia": "Madrid",
       "lat": 40.6167,
       "lng": -4.0667
@@ -410,13 +410,13 @@
     "titulo": "IF 0041/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-08-06",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Anoeta",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 42.898,
+      "lng": -2.13
     },
     "entidades": [
       "ADIF",
@@ -494,10 +494,10 @@
     "titulo": "IF 0042/2014 — SOBRE EL INCIDENTE FERROVIARIO Nº 0042/2014",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-08-11",
     "ubicacion": {
-      "estacion": "Pancorbo.",
+      "estacion": "Pedralba",
       "provincia": "Burgos",
       "lat": 42.6353553,
       "lng": -3.1109887
@@ -575,7 +575,7 @@
     "titulo": "IF 0044/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2014-08-31",
     "ubicacion": {
       "estacion": "Zaragoza Delicias (PK",
@@ -667,7 +667,7 @@
     "titulo": "IF 0051/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2014-09-02",
     "ubicacion": {
       "estacion": "Unquera",
@@ -747,10 +747,10 @@
     "titulo": "IF 0052/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-09-26",
     "ubicacion": {
-      "estacion": "Santa María de la",
+      "estacion": "Santa María de la Alameda",
       "provincia": "Ávila",
       "lat": 41.3725,
       "lng": 2.1404
@@ -839,13 +839,13 @@
     "titulo": "IF 0053/2014 — SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2014",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-09-26",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Redondela",
+      "provincia": "Pontevedra",
+      "lat": 42.2851,
+      "lng": -8.6097
     },
     "entidades": [
       "ADIF",
@@ -923,7 +923,7 @@
     "titulo": "IF 0064/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-10-11",
     "ubicacion": {
       "estacion": "Barakaldo",
@@ -993,7 +993,7 @@
     "titulo": "IF 0060/2014 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-11-09",
     "ubicacion": {
       "estacion": "Calañas",
@@ -1091,7 +1091,7 @@
     "titulo": "IF 0061/2014 — El día 18 de noviembre de 2014 a las 21:17 horas, en el PK 0+571 de la línea 622 Aguja Clasif",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2014-11-18",
     "ubicacion": {
       "estacion": "Tarragona Clasificación",

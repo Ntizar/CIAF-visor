@@ -6,10 +6,10 @@
     "titulo": "0001/2013 — Estación de VILLAFRANCA DE CÓRDOBA (CÓRDOBA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-01-09",
     "ubicacion": {
-      "estacion": "VILLAFRANCA DE CÓRDOBA",
+      "estacion": "Villafranca de Córdoba",
       "provincia": "Córdoba",
       "lat": 37.8884,
       "lng": -4.7794
@@ -89,10 +89,10 @@
     "titulo": "0012/2013 — Estación de San Vicente de la Barquera el vagón Sgh",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-01-31",
     "ubicacion": {
-      "estacion": "San Vicente de la",
+      "estacion": "San",
       "provincia": "Cantabria",
       "lat": 41.2333,
       "lng": 1.6333
@@ -168,10 +168,10 @@
     "titulo": "0013/2013 — Estación de MALIAÑO (CANTABRIA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-02-10",
     "ubicacion": {
-      "estacion": "MALIAÑO (CANTABRIA)",
+      "estacion": "Maliaño",
       "provincia": "Cantabria",
       "lat": 43.45,
       "lng": -3.85
@@ -253,7 +253,7 @@
     "titulo": "0015/2013 — Estación de Coslada, reinicia su marcha a las 09:02 horas con siete minutos de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-02-26",
     "ubicacion": {
       "estacion": "Coslada",
@@ -340,7 +340,7 @@
     "titulo": "0016/2013 — Estación de Pitis por el lado Pinar de las Rozas discurre la vía doble de la línea 100 - Hendaya a",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-02-27",
     "ubicacion": {
       "estacion": "Pitis",
@@ -417,7 +417,7 @@
     "titulo": "0018/2013 — Estación de VIANA DE CEGA (VALLADOLID)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-03-07",
     "ubicacion": {
       "estacion": "VIANA DE CEGA",
@@ -501,10 +501,10 @@
     "titulo": "IF 0036/2013 — El día 26 de marzo de 2013, a las 01:00 horas en el PK 122+450 de la línea de alta velocidad 010",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-03-26",
     "ubicacion": {
-      "estacion": "Urda (PK 119+700) y",
+      "estacion": "Urda",
       "provincia": "Madrid",
       "lat": 39.4167,
       "lng": -3.4833
@@ -577,7 +577,7 @@
     "titulo": "0027/2013 — Estación de Puertollano al no cerrarse la misma puerta. En esta ocasión se",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-04-07",
     "ubicacion": {
       "estacion": "Puertollano",
@@ -657,10 +657,10 @@
     "titulo": "0033/2013 — Estación de San Sebastián.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-04-20",
     "ubicacion": {
-      "estacion": "San Sebastián.",
+      "estacion": "San",
       "provincia": "Barcelona",
       "lat": 43.3224219,
       "lng": -1.9838889
@@ -740,10 +740,10 @@
     "titulo": "0035/2013 — Estación de Boñar.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-04-28",
     "ubicacion": {
-      "estacion": "Boñar.",
+      "estacion": "Boñar",
       "provincia": "León",
       "lat": 42.8667,
       "lng": -5.3167
@@ -814,7 +814,7 @@
     "titulo": "IF 0048/2013 — entre Torremejía y Almendralejo (Badajoz), se produce el descarrilamiento de las cuatro ruedas del",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-05-20",
     "ubicacion": {
       "estacion": "Almendralejo",
@@ -895,10 +895,10 @@
     "titulo": "0042/2013 — Estación de SEVILLA - SANTA JUSTA (SEVILLA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-05-26",
     "ubicacion": {
-      "estacion": "SEVILLA - SANTA JUSTA",
+      "estacion": "Pedralba",
       "provincia": "Sevilla",
       "lat": 37.3919,
       "lng": -5.9773
@@ -987,7 +987,7 @@
     "titulo": "IF 0043/2013 — EL INCIDENTE FERROVIARIO Nº 0043/2013",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-06-04",
     "ubicacion": {
       "estacion": "Sant Sadurní d’Anoia",
@@ -1067,13 +1067,13 @@
     "titulo": "IF 0044/2013 — El día 6 de junio de 2013 a las 11:08 horas se produce el descarrilamiento del tren 533 de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-06-06",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Zaragoza Delicias",
+      "provincia": "Zaragoza",
+      "lat": 41.6568,
+      "lng": -0.8812
     },
     "entidades": [
       "ADIF",
@@ -1146,10 +1146,10 @@
     "titulo": "0052/2013 — Estación de LLEIDA PIRINEUS (LLEIDA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-07-11",
     "ubicacion": {
-      "estacion": "LLEIDA PIRINEUS (LLEIDA)",
+      "estacion": "Lleida",
       "provincia": "Barcelona",
       "lat": 41.6137,
       "lng": 0.6276
@@ -1225,12 +1225,12 @@
     "year": 2013,
     "expediente": "0054/2013",
     "titulo": "IF240713200514CIAF",
-    "tipo": "avería",
+    "tipo": "incidente",
     "tipo_suceso": "avería",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-07-24",
     "ubicacion": {
-      "estacion": "Ourense",
+      "estacion": "Santiago de Compostela",
       "provincia": "Albacete",
       "lat": 42.3365,
       "lng": -7.856
@@ -1298,7 +1298,8 @@
       "ciaf_web": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
       "pdf_local": "pdfs/2013/IF240713200514CIAF.pdf"
     },
-    "similares": []
+    "similares": [],
+    "tipo_suceso_normalizado": "averia"
   },
   {
     "id": "2013-0062/2013",
@@ -1307,10 +1308,10 @@
     "titulo": "IF 0062/2013 — El día 12 de agosto de 2013 sobre las 09:12 horas se produjo el descarrilamiento del tren SC507,",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-08-12",
     "ubicacion": {
-      "estacion": "Francia",
+      "estacion": "Betanzos",
       "provincia": "Barcelona",
       "lat": 43.262,
       "lng": -2.925
@@ -1390,7 +1391,7 @@
     "titulo": "0056/2013 — Estación de Torralba ubicada en la línea",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-08-14",
     "ubicacion": {
       "estacion": "Torralba",
@@ -1474,7 +1475,7 @@
     "titulo": "0060/2013 — Estación de Requejada se fusionó con el tren 6727,",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-09-05",
     "ubicacion": {
       "estacion": "Requejada",
@@ -1568,10 +1569,10 @@
     "titulo": "0064/2013 — Estación de BARCELONA SANTS (BARCELONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-09-20",
     "ubicacion": {
-      "estacion": "BARCELONA SANTS",
+      "estacion": "BARCELONA",
       "provincia": "Barcelona",
       "lat": 41.3725,
       "lng": 2.1404
@@ -1645,13 +1646,13 @@
     "titulo": "IF 0066/2013 — EL INCIDENTE FERROVIARIO Nº 0066/2013",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-09-26",
     "ubicacion": {
-      "estacion": "Valladolid (PK 179+309)",
+      "estacion": "Sant",
       "provincia": "Valladolid",
-      "lat": null,
-      "lng": null
+      "lat": 41.643,
+      "lng": -4.7278
     },
     "entidades": [
       "ADIF",
@@ -1728,10 +1729,10 @@
     "titulo": "0069/2013 — Estación de BARCELONA SANT ANDREU ARENAL (BARCELONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-10-27",
     "ubicacion": {
-      "estacion": "BARCELONA SANT ANDREU",
+      "estacion": "Fuenmayor",
       "provincia": "Barcelona",
       "lat": 41.435,
       "lng": 2.19
@@ -1807,10 +1808,10 @@
     "titulo": "0068/2013 — Estación de Zalla (Vizcaya) situada en el PK 2+057",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2013-10-27",
     "ubicacion": {
-      "estacion": "Zalla (Vizcaya)",
+      "estacion": "Pedrera",
       "provincia": "Vizcaya",
       "lat": 43.2167,
       "lng": -3.1333

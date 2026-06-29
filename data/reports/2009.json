@@ -6,10 +6,10 @@
     "titulo": "0001/2009 — Estación de SITGES",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-01-01",
     "ubicacion": {
-      "estacion": "SITGES",
+      "estacion": "Sitges",
       "provincia": "Barcelona",
       "lat": 41.2367,
       "lng": 1.8034
@@ -79,10 +79,10 @@
     "titulo": "0002/2009 — Estación de Avilés.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-01-14",
     "ubicacion": {
-      "estacion": "Avilés.",
+      "estacion": "Vila",
       "provincia": "Asturias",
       "lat": 43.5574,
       "lng": -5.9208
@@ -153,10 +153,10 @@
     "titulo": "0003/2009 — Estación de LA FLORIDA",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-01-20",
     "ubicacion": {
-      "estacion": "LA FLORIDA",
+      "estacion": "Getafe",
       "provincia": "Asturias",
       "lat": 40.45,
       "lng": -3.7167
@@ -239,13 +239,13 @@
     "titulo": "IF 0004/2009 — El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de la empresa ferroviaria",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-01-20",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "La Florida",
+      "provincia": "Asturias",
+      "lat": 43.3,
+      "lng": -5.85
     },
     "entidades": [
       "ADIF",
@@ -325,10 +325,10 @@
     "titulo": "0005/2009 — Estación de GAVÁ",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-01-22",
     "ubicacion": {
-      "estacion": "GAVÁ",
+      "estacion": "Gavá",
       "provincia": "Barcelona",
       "lat": 41.3063,
       "lng": 2.0033
@@ -412,10 +412,10 @@
     "titulo": "0007/2009 — Estación de SODUPE",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-01-30",
     "ubicacion": {
-      "estacion": "SODUPE",
+      "estacion": "Sodupe",
       "provincia": "Madrid",
       "lat": 43.2167,
       "lng": -3.0667
@@ -481,10 +481,10 @@
     "titulo": "0010/2009 — Estación de Altsasua. Tras la comprobación",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-02-02",
     "ubicacion": {
-      "estacion": "Altsasua",
+      "estacion": "Sodupe",
       "provincia": "Guipúzcoa",
       "lat": 42.8988,
       "lng": -2.1697
@@ -569,10 +569,10 @@
     "titulo": "0011/2009 — Estación de Cerdanyola del Vallés.",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-02-12",
     "ubicacion": {
-      "estacion": "Cerdanyola del Vallés.",
+      "estacion": "Cerdanyola del Vallés",
       "provincia": "Barcelona",
       "lat": 41.4929,
       "lng": 2.1374
@@ -664,10 +664,10 @@
     "titulo": "0009/2009 — Estación de LIERES",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-02-14",
     "ubicacion": {
-      "estacion": "LIERES",
+      "estacion": "Lieres",
       "provincia": "Asturias",
       "lat": 43.2,
       "lng": -5.6167
@@ -755,10 +755,10 @@
     "titulo": "IF 0012/2009 — El día 22 de febrero de 2009, a las 17:29 horas, el tren de media distancia 12703, de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-02-22",
     "ubicacion": {
-      "estacion": "Chapela y con",
+      "estacion": "Chapela",
       "provincia": "Madrid",
       "lat": 42.285,
       "lng": -8.564
@@ -833,10 +833,10 @@
     "titulo": "0013/2009 — Estación de Soto Dueñas hasta su posterior traslado a los talleres de El Berrón.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-02-23",
     "ubicacion": {
-      "estacion": "Soto Dueñas",
+      "estacion": "Soto",
       "provincia": "Asturias",
       "lat": 42.2167,
       "lng": -4.4333
@@ -909,13 +909,13 @@
     "titulo": "IF 0015/2009 — El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098, de la empresa ferroviaria",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-03-04",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Platja de Castelldefels",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.2667,
+      "lng": 1.9333
     },
     "entidades": [
       "ADIF",
@@ -984,10 +984,10 @@
     "titulo": "0017/2009 — Estación de ALGEMESÍ",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-03-24",
     "ubicacion": {
-      "estacion": "ALGEMESÍ",
+      "estacion": "Algemesí",
       "provincia": "Madrid",
       "lat": 39.1535,
       "lng": -0.435
@@ -1060,13 +1060,13 @@
     "titulo": "IF 0018/2009 — El día 24 de marzo de 2009, a las 22:25 horas, el tren de viajeros 18032, de la empresa ferroviaria",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-03-24",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Villargordo",
       "provincia": "Córdoba",
-      "lat": null,
-      "lng": null
+      "lat": 38.0833,
+      "lng": -3.0833
     },
     "entidades": [
       "ADIF",
@@ -1144,10 +1144,10 @@
     "titulo": "0019/2009 — Estación de LAS NAVAS DEL MARQUÉS (ÁVILA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-04-07",
     "ubicacion": {
-      "estacion": "LAS NAVAS DEL MARQUÉS",
+      "estacion": "Las",
       "provincia": "Ávila",
       "lat": 40.6,
       "lng": -4.3333
@@ -1218,10 +1218,10 @@
     "titulo": "0022/2009 — Estación de EL CALEYO (ASTURIAS)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-04-17",
     "ubicacion": {
-      "estacion": "EL CALEYO (ASTURIAS)",
+      "estacion": "el Caleyo",
       "provincia": "Asturias",
       "lat": 43.3667,
       "lng": -5.85
@@ -1299,7 +1299,7 @@
     "titulo": "0025/2009 — Estación de Maçanet-",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-06-05",
     "ubicacion": {
       "estacion": "Maçanet-",
@@ -1374,10 +1374,10 @@
     "titulo": "0027/2009 — Estación de MADRID CHAMARTÍN",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-06-18",
     "ubicacion": {
-      "estacion": "MADRID CHAMARTÍN",
+      "estacion": "Madrid",
       "provincia": "Madrid",
       "lat": 40.4726,
       "lng": -3.6825
@@ -1454,10 +1454,10 @@
     "titulo": "0028/2009 — Estación de Infiesto.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-06-22",
     "ubicacion": {
-      "estacion": "Infiesto.",
+      "estacion": "Infiesto",
       "provincia": "Asturias",
       "lat": 43.35,
       "lng": -5.2167
@@ -1522,10 +1522,10 @@
     "titulo": "0032/2009 — Estación de HUMANES (MADRID)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-06-26",
     "ubicacion": {
-      "estacion": "HUMANES (MADRID)",
+      "estacion": "Humanes",
       "provincia": "Madrid",
       "lat": 40.2524,
       "lng": -3.9242
@@ -1602,10 +1602,10 @@
     "titulo": "0030/2009 — Estación de ALUCHE (MADRID)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-06-26",
     "ubicacion": {
-      "estacion": "ALUCHE (MADRID)",
+      "estacion": "Xeraco",
       "provincia": "Madrid",
       "lat": 40.3895,
       "lng": -3.7676
@@ -1688,10 +1688,10 @@
     "titulo": "IF 0031/2009 — El día 6 de julio de 2009, a las 16:54 horas, el tren de viajeros de larga distancia 149, de la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-07-06",
     "ubicacion": {
-      "estacion": "Ronda y éste",
+      "estacion": "Logroño",
       "provincia": "Córdoba",
       "lat": 39.9625,
       "lng": -0.2605
@@ -1767,10 +1767,10 @@
     "titulo": "IF 0033/2009 — El día 8 de julio de 2009, a las 18:21 horas, el tren de mercancías 9687, de la empresa ferroviaria",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-07-08",
     "ubicacion": {
-      "estacion": "Orejo”",
+      "estacion": "Villaverde de Pontones",
       "provincia": "Cantabria",
       "lat": 43.3994195,
       "lng": -3.7381598
@@ -1846,13 +1846,13 @@
     "titulo": "IF 0036/2009 — El día 13 de julio de 2009, a las 18:44, el tren 15653 de media distancia de la empresa Renfe",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-07-13",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Jaca",
       "provincia": "Huesca",
-      "lat": null,
-      "lng": null
+      "lat": 42.5667,
+      "lng": -0.55
     },
     "entidades": [
       "ADIF",
@@ -1927,7 +1927,7 @@
     "titulo": "IF 0038/2009 — El día 27 de julio de 2009, a las 20:16 el tren 15052 de media distancia de la empresa Renfe",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-07-27",
     "ubicacion": {
       "estacion": "França",
@@ -2007,10 +2007,10 @@
     "titulo": "0045/2009 — Estación de SANT FELIÚ DE LLOBREGAT (BARCELONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-08-24",
     "ubicacion": {
-      "estacion": "SANT FELIÚ DE",
+      "estacion": "Sant",
       "provincia": "Barcelona",
       "lat": 41.3843,
       "lng": 2.0441
@@ -2091,10 +2091,10 @@
     "titulo": "0046/2009 — Estación de EL REBOLLAR (VALENCIA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-08-28",
     "ubicacion": {
-      "estacion": "EL REBOLLAR (VALENCIA)",
+      "estacion": "Ponferrada",
       "provincia": "Valencia",
       "lat": 41.9,
       "lng": -6.7833
@@ -2180,10 +2180,10 @@
     "titulo": "0047/2009 — Estación de SAN CRISTOBAL INDUSTRIAL (MADRID)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-08-31",
     "ubicacion": {
-      "estacion": "SAN CRISTOBAL",
+      "estacion": "San",
       "provincia": "Madrid",
       "lat": 40.3833,
       "lng": -3.75
@@ -2258,10 +2258,10 @@
     "titulo": "IF 0054/2009 — El día 17 de septiembre de 2009, a las 16:00 horas, el tren de mercancías 93614 de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-09-17",
     "ubicacion": {
-      "estacion": "ZUMÁRRAGA",
+      "estacion": "Zumárraga",
       "provincia": "Guipúzcoa",
       "lat": 43.0833,
       "lng": -2.3167
@@ -2343,13 +2343,13 @@
     "titulo": "IF 0050/2009 — El día 24 de septiembre de 2009, a las 13:50 horas se produce la rotura de un eje en el tren regular",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-09-24",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Cazoña",
       "provincia": "Cantabria",
-      "lat": null,
-      "lng": null
+      "lat": 43.4667,
+      "lng": -3.8333
     },
     "entidades": [
       "FEVE"
@@ -2427,10 +2427,10 @@
     "titulo": "IF 0052/2009 — El día 28 de septiembre de 2009, a las 13:35 horas, el tren de viajeros 91724, de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-09-28",
     "ubicacion": {
-      "estacion": "Cartagena",
+      "estacion": "Los",
       "provincia": "Madrid",
       "lat": 37.5965,
       "lng": -0.9966
@@ -2502,7 +2502,7 @@
     "titulo": "0055/2009 — Estación de Orense. El",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-10-08",
     "ubicacion": {
       "estacion": "Orense",
@@ -2573,10 +2573,10 @@
     "titulo": "0056/2009 — Estación de ALFAFAR- BENETÚSSER",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-10-16",
     "ubicacion": {
-      "estacion": "ALFAFAR- BENETÚSSER",
+      "estacion": "ALFAFAR",
       "provincia": "Madrid",
       "lat": 39.4211,
       "lng": -0.3556
@@ -2652,10 +2652,10 @@
     "titulo": "0057/2009 — Estación de L’Hospitalet de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-10-23",
     "ubicacion": {
-      "estacion": "L’Hospitalet de",
+      "estacion": "Cornellá de Llobregat",
       "provincia": "Barcelona",
       "lat": 41.3595118,
       "lng": 2.0996318
@@ -2732,7 +2732,7 @@
     "titulo": "0059/2009 — Estación de Sama",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-11-16",
     "ubicacion": {
       "estacion": "Sama",
@@ -2804,10 +2804,10 @@
     "titulo": "0060/2009 — Estación de O Porriño (Pontevedra), en el P.K. 151+433 de la línea",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-01",
     "ubicacion": {
-      "estacion": "O Porriño (Pontevedra)",
+      "estacion": "O Porriño",
       "provincia": "Pontevedra",
       "lat": 42.1618,
       "lng": -8.6353
@@ -2882,10 +2882,10 @@
     "titulo": "0064/2009 — Estación de GRANOLLERS CENTRE (BARCELONA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-06",
     "ubicacion": {
-      "estacion": "GRANOLLERS CENTRE",
+      "estacion": "GRANOLLERS",
       "provincia": "Barcelona",
       "lat": 41.6002,
       "lng": 2.2863
@@ -2996,10 +2996,10 @@
     "titulo": "0063/2009 — Estación de RENEDO (CANTABRIA)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-11",
     "ubicacion": {
-      "estacion": "RENEDO (CANTABRIA)",
+      "estacion": "RENEDO",
       "provincia": "Cantabria",
       "lat": 43.35,
       "lng": -3.8333
@@ -3078,13 +3078,13 @@
     "titulo": "IF 0062/2009 — El día 13 de diciembre de 2009, a las 18:27 horas, el tren de viajeros de media distancia 17212, de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-13",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Ávila",
-      "lat": null,
-      "lng": null
+      "estacion": "Betanzos",
+      "provincia": "A Coruña",
+      "lat": 43.284,
+      "lng": -8.218
     },
     "entidades": [
       "ADIF",
@@ -3159,7 +3159,7 @@
     "titulo": "IF 0065/2009 — El día 15 de diciembre de 2009, a las 17:27 horas el tren regular de viajeros 3102, de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-15",
     "ubicacion": {
       "estacion": "Navia",
@@ -3236,10 +3236,10 @@
     "titulo": "IF 0066/2009 — El día 20 de diciembre de 2009, a las 17:07 horas, el tren de viajeros de media distancia 15624, de la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-20",
     "ubicacion": {
-      "estacion": "Manresa.",
+      "estacion": "Sant",
       "provincia": "Barcelona",
       "lat": 41.7257,
       "lng": 1.8269
@@ -3313,10 +3313,10 @@
     "titulo": "0068/2009 — Estación de PEDRERA (SEVILLA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-28",
     "ubicacion": {
-      "estacion": "PEDRERA (SEVILLA)",
+      "estacion": "Pedrera",
       "provincia": "Sevilla",
       "lat": 37.3333,
       "lng": -4.6833
@@ -3390,10 +3390,10 @@
     "titulo": "0069/2009 — Estación de FUENMAYOR (LA RIOJA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2009-12-30",
     "ubicacion": {
-      "estacion": "FUENMAYOR (LA RIOJA)",
+      "estacion": "Fuenmayor",
       "provincia": "La Rioja",
       "lat": 42.475,
       "lng": -2.562

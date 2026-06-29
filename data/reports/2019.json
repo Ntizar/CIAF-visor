@@ -6,10 +6,10 @@
     "titulo": "IF 12/2019 — responsabilidad del accidente o incidente y será independiente de cualquier investigación",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2019-02-08",
     "ubicacion": {
-      "estacion": "Manresa",
+      "estacion": "Ribadedeva",
       "provincia": "Barcelona",
       "lat": 41.7257,
       "lng": 1.8269
@@ -21,7 +21,10 @@
     "consecuencias": {
       "victimas_mortales": 3,
       "heridos": 89,
-      "danos_materiales": true
+      "danos_materiales": true,
+      "victimas_fallecidos": 1,
+      "victimas_graves": 19,
+      "victimas_leves": 0
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 9656 ocurrió el 2 de septiembre de 2014 en Ribadedeva, entre Unquera y Colombres, sin causar víctimas ni heridos. La causa principal fue la existencia de defectos en la geometría de la vía, concretamente alabeos provocados por un drenaje insuficiente de la plataforma. Se produjeron daños materiales valorados en 80.000 euros en el material rodante y la infraestructura.",
@@ -56,10 +59,10 @@
     "titulo": "IF 0063/2019 — SOBRE EL INCIDENTE FERROVIARIO Nº 0063/2019",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2019-12-09",
     "ubicacion": {
-      "estacion": "CORNELLÁ (BARCELONA)",
+      "estacion": "Cornellá",
       "provincia": "Barcelona",
       "lat": 41.3566,
       "lng": 2.0706

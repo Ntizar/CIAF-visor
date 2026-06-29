@@ -6,10 +6,10 @@
     "titulo": "IF 0007/2011 — El día 4 de enero de 2011, a las 19:20 horas se produce el descarrilamiento del tren de viajeros de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-01-04",
     "ubicacion": {
-      "estacion": "Francia (ancho",
+      "estacion": "Irún",
       "provincia": "Barcelona",
       "lat": 43.262,
       "lng": -2.925
@@ -92,10 +92,10 @@
     "titulo": "03/2011 — Estación de Osuna.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2011-01-16",
     "ubicacion": {
-      "estacion": "Osuna.",
+      "estacion": "Getafe",
       "provincia": "Almería",
       "lat": 37.2373532,
       "lng": -5.1033306
@@ -154,10 +154,10 @@
     "titulo": "0015/2011 — Estación de Flaçà (Girona), a la altura de la señal",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-03-07",
     "ubicacion": {
-      "estacion": "Flaçà (Girona)",
+      "estacion": "Fla",
       "provincia": "Barcelona",
       "lat": 41.9794,
       "lng": 2.8193
@@ -244,13 +244,13 @@
     "titulo": "IF 12/2011 — El día 16 de marzo de 2011, a las 20:19 horas, el tren de viajeros de cercanías 25267, de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-03-16",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Ribadedeva",
+      "provincia": "Asturias",
+      "lat": 43.3667,
+      "lng": -4.5833
     },
     "entidades": [
       "ADIF",
@@ -306,10 +306,10 @@
     "titulo": "0025/2011 — Estación de RUBÍ (BARCELONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-04-05",
     "ubicacion": {
-      "estacion": "RUBÍ (BARCELONA)",
+      "estacion": "Rubí",
       "provincia": "Barcelona",
       "lat": 41.4933,
       "lng": 2.0345
@@ -395,10 +395,10 @@
     "titulo": "0017/2011 — Estación de Bellvitge.",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-04-23",
     "ubicacion": {
-      "estacion": "Bellvitge.",
+      "estacion": "Bellvitge",
       "provincia": "Barcelona",
       "lat": 41.3534,
       "lng": 2.1065
@@ -484,13 +484,13 @@
     "titulo": "IF 0018/2011 — El día 28 de abril de 2011, a las 09:49 horas, en el PK 110+000 de la línea 262 Barcelona Sagrera –",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2011-04-28",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Villargordo",
+      "provincia": "Córdoba",
+      "lat": 38.0833,
+      "lng": -3.0833
     },
     "entidades": [
       "ADIF",
@@ -566,10 +566,10 @@
     "titulo": "0023/2011 — Estación de Los Gavilanes (Madrid) de la línea",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-05-16",
     "ubicacion": {
-      "estacion": "Los Gavilanes (Madrid)",
+      "estacion": "Los",
       "provincia": "Madrid",
       "lat": 39.5,
       "lng": -0.7167
@@ -648,10 +648,10 @@
     "titulo": "0031/2011 — Estación de Villamanín por",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-05-24",
     "ubicacion": {
-      "estacion": "Villamanín por",
+      "estacion": "Logroño",
       "provincia": "León",
       "lat": 42.8,
       "lng": -5.8333
@@ -727,10 +727,10 @@
     "titulo": "0024/2011 — Estación de CALATAYUD (ZARAGOZA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-05-30",
     "ubicacion": {
-      "estacion": "CALATAYUD (ZARAGOZA)",
+      "estacion": "Calatayud",
       "provincia": "Zaragoza",
       "lat": 41.3535,
       "lng": -1.6458
@@ -809,10 +809,10 @@
     "titulo": "0026/2011 — Estación de TRASONA (ASTURIAS)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-06-01",
     "ubicacion": {
-      "estacion": "TRASONA (ASTURIAS)",
+      "estacion": "TRASONA",
       "provincia": "Asturias",
       "lat": 43.545,
       "lng": -5.823
@@ -885,10 +885,10 @@
     "titulo": "IF 0028/2011 — El día 10 de junio de 2011, a las 09:50 horas, en el PK 11+100 de la línea de alta velocidad 10 Madrid–",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-06-10",
     "ubicacion": {
-      "estacion": "Los Gavilanes).",
+      "estacion": "todas las autorizaciones de obras",
       "provincia": "Madrid",
       "lat": 39.5,
       "lng": -0.7167
@@ -967,10 +967,10 @@
     "titulo": "IF 0032/2011 — El día 30 de junio de 2011, a las 11:58 horas, en el PK 7+165 de la línea 116 Los Cotos a Cercedilla,",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-06-30",
     "ubicacion": {
-      "estacion": "Siete Picos",
+      "estacion": "Humanes",
       "provincia": "Madrid",
       "lat": 40.781549,
       "lng": -4.0333834
@@ -1052,7 +1052,7 @@
     "titulo": "IF 0043/2011 — El día 11 de julio de 2011, a las 11:53 horas, en el PK 11+800 de la línea 204 Bif",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-07-11",
     "ubicacion": {
       "estacion": "Canfranc",
@@ -1119,10 +1119,10 @@
     "titulo": "0044/2011 — Estación de Caparrates es el siguiente:",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-07-13",
     "ubicacion": {
-      "estacion": "Caparrates es el",
+      "estacion": "Caparrates",
       "provincia": "Castellón",
       "lat": 41.15,
       "lng": -1.2667
@@ -1194,10 +1194,10 @@
     "titulo": "IF 0036/2011 — El día 20 de julio de 2011, a las 16:25 horas, en el PK 66+480 de la línea 500 Bif",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2011-07-20",
     "ubicacion": {
-      "estacion": "Villaluenga-Yuncler.",
+      "estacion": "Villaluenga-Yuncler",
       "provincia": "Madrid",
       "lat": 40.032306,
       "lng": -3.902171
@@ -1281,10 +1281,10 @@
     "titulo": "0040/2011 — Estación de GRANOLLERS - CENTRE (BARCELONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-08-27",
     "ubicacion": {
-      "estacion": "GRANOLLERS - CENTRE",
+      "estacion": "Granollers",
       "provincia": "Barcelona",
       "lat": 41.6002,
       "lng": 2.2863
@@ -1357,10 +1357,10 @@
     "titulo": "0047/2011 — Estación de VILAMALLA (GIRONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2011-10-12",
     "ubicacion": {
-      "estacion": "VILAMALLA (GIRONA)",
+      "estacion": "Vilamalla",
       "provincia": "Barcelona",
       "lat": 41.9794,
       "lng": 2.8193
@@ -1442,10 +1442,10 @@
     "titulo": "0049/2011 — Estación de SANT POL DE MAR (BARCELONA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-10-26",
     "ubicacion": {
-      "estacion": "SANT POL DE MAR",
+      "estacion": "Sant",
       "provincia": "Barcelona",
       "lat": 41.6022,
       "lng": 2.5968
@@ -1523,10 +1523,10 @@
     "titulo": "0050/2011 — Estación de ASTILLERO (CANTABRIA)",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-10-27",
     "ubicacion": {
-      "estacion": "ASTILLERO (CANTABRIA)",
+      "estacion": "ASTILLERO",
       "provincia": "Cantabria",
       "lat": 43.4,
       "lng": -3.8167
@@ -1597,13 +1597,13 @@
     "titulo": "IF 0051/2011 — El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2011-11-05",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Almendralejo",
+      "provincia": "Badajoz",
+      "lat": 38.6833,
+      "lng": -6.4167
     },
     "entidades": [
       "ADIF",
@@ -1673,10 +1673,10 @@
     "titulo": "0062/2011 — Estación de Loriguilla el jefe del CTC le da telefonema en el que",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-12-15",
     "ubicacion": {
-      "estacion": "Loriguilla",
+      "estacion": "Betanzos",
       "provincia": "Madrid",
       "lat": 39.4905062,
       "lng": -0.5722427
@@ -1756,10 +1756,10 @@
     "titulo": "0061/2011 — Estación de MADRID CHAMARTÍN (MADRID)",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2011-12-19",
     "ubicacion": {
-      "estacion": "MADRID CHAMARTÍN (MADRID)",
+      "estacion": "MADRID",
       "provincia": "Madrid",
       "lat": 40.4726,
       "lng": -3.6825
@@ -1843,13 +1843,13 @@
     "titulo": "IF 0063/2011 — El día 27 de diciembre de 2011, a las 11:38 horas, se produce el descarrilamiento del tren de viajeros",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2011-12-27",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "estacion": "Algemesí",
+      "provincia": "Valencia",
+      "lat": 39.15,
+      "lng": -0.6
     },
     "entidades": [
       "ADIF",

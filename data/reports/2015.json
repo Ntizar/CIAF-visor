@@ -6,10 +6,10 @@
     "titulo": "IF 0005/2015 — El día 12 de enero de 2015 a las 21:14 horas, en la línea 266 Bif. Glorias – Bif",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2015-01-12",
     "ubicacion": {
-      "estacion": "BARCELONA MARINA",
+      "estacion": "Barcelona",
       "provincia": "Barcelona",
       "lat": 41.3923,
       "lng": 2.1948
@@ -101,13 +101,13 @@
     "titulo": "IF 0017/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2015-02-09",
     "ubicacion": {
-      "estacion": "A SUSANA (A CORUÑA).",
-      "provincia": "León",
-      "lat": 43.336,
-      "lng": -8.3953
+      "estacion": "a Susana",
+      "provincia": "A Coruña",
+      "lat": 43.33,
+      "lng": -3.81
     },
     "entidades": [
       "ADIF",
@@ -175,10 +175,10 @@
     "titulo": "IF 0010/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2015-02-13",
     "ubicacion": {
-      "estacion": "BARCELONA ESTACIÓ DE",
+      "estacion": "Sodupe",
       "provincia": "Barcelona",
       "lat": 41.4309797,
       "lng": 2.1831056
@@ -259,10 +259,10 @@
     "titulo": "IF 0011/2015 — SOBRE EL INCIDENTE FERROVIARIO Nº 0011/2015",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2015-02-17",
     "ubicacion": {
-      "estacion": "MADRID CHAMARTÍN (MADRID)",
+      "estacion": "Cerdanyola del Vallés",
       "provincia": "Madrid",
       "lat": 40.4726,
       "lng": -3.6825
@@ -338,7 +338,7 @@
     "titulo": "IF 0012/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2015-03-04",
     "ubicacion": {
       "estacion": "Puerto de Navacerrada",
@@ -422,10 +422,10 @@
     "titulo": "IF 0015/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2015-03-18",
     "ubicacion": {
-      "estacion": "ABOÑO (ASTURIAS)",
+      "estacion": "Aboño",
       "provincia": "Asturias",
       "lat": 43.5833,
       "lng": -5.75
@@ -502,10 +502,10 @@
     "titulo": "IF 0023/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2015-03-31",
     "ubicacion": {
-      "estacion": "MEDINA DEL CAMPO",
+      "estacion": "Medina del Campo",
       "provincia": "Valladolid",
       "lat": 41.3083,
       "lng": -4.8333
@@ -586,10 +586,10 @@
     "titulo": "IF 0028/2015 — SOBRE EL INCIDENTE FERROVIARIO Nº 0028/2015",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2015-05-22",
     "ubicacion": {
-      "estacion": "VICÁLVARO (MADRID)",
+      "estacion": "Vicálvaro",
       "provincia": "Madrid",
       "lat": 40.4121,
       "lng": -3.5712
@@ -675,10 +675,10 @@
     "titulo": "IF 0046/2015 — El suceso tiene lugar con fecha 05",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2015-10-05",
     "ubicacion": {
-      "estacion": "TARDIENTA (HUESCA)",
+      "estacion": "Tardienta",
       "provincia": "Huesca",
       "lat": 42.1316,
       "lng": -0.4081
@@ -746,10 +746,10 @@
     "titulo": "IF 0052/2015 — SOBRE EL INCIDENTE FERROVIARIO Nº 0052/2015",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2015-10-22",
     "ubicacion": {
-      "estacion": "RÍO HUERVA (ZARAGOZA)",
+      "estacion": "Río",
       "provincia": "Zaragoza",
       "lat": 41.6333,
       "lng": -0.9333

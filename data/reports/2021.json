@@ -6,10 +6,10 @@
     "titulo": "IF 402/2013 — El día 03/05/2021 a las 9h47, el tren ALVIA 4271 de la empresa ferroviaria RENFE VIAJEROS que cubría",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2013-05-03",
     "ubicacion": {
-      "estacion": "León",
+      "estacion": "Hostalric",
       "provincia": "León",
       "lat": 42.5981,
       "lng": -5.5667
@@ -85,10 +85,10 @@
     "titulo": "IF 09/2021 — Incidente operacional",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2019-02-08",
     "ubicacion": {
-      "estacion": "Blanes (Girona)",
+      "estacion": "Blanes",
       "provincia": "Barcelona",
       "lat": 41.6778,
       "lng": 2.792
@@ -157,10 +157,10 @@
     "titulo": "IF 08/2021 — Incidente operacional ocurrido en el apeadero de L’Énova-",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2021-02-25",
     "ubicacion": {
-      "estacion": "La Pobla Llarga",
+      "estacion": "Torelló",
       "provincia": "Madrid",
       "lat": 41.3632,
       "lng": 2.0083
@@ -205,10 +205,10 @@
     "titulo": "IF 59/2021 — Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2021-07-02",
     "ubicacion": {
-      "estacion": "Novelda-Aspe",
+      "estacion": "paso a nivel en Novelda",
       "provincia": "Alicante",
       "lat": 38.3452,
       "lng": -0.4939
@@ -276,7 +276,7 @@
     "titulo": "IF 64/2021 — El día 11/08/2021 a las 22h15, el tren 90666 de la empresa ferroviaria LCR que realizaba el trayecto",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2021-08-11",
     "ubicacion": {
       "estacion": "Arcos de Jalón",
@@ -339,12 +339,12 @@
     "year": 2021,
     "expediente": "71/2021",
     "titulo": "IF 71/2021 — Descarrilamiento ocurrido el 6 de septiembre de 2021 en la",
-    "tipo": "avería",
+    "tipo": "incidente",
     "tipo_suceso": "avería",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2021-09-16",
     "ubicacion": {
-      "estacion": "Prat de Llobregat.",
+      "estacion": "Sant",
       "provincia": "Barcelona",
       "lat": 41.3298,
       "lng": 2.0889
@@ -381,6 +381,7 @@
     "similares": [
       "2021-09/2021",
       "2021-64/2021"
-    ]
+    ],
+    "tipo_suceso_normalizado": "averia"
   }
 ]

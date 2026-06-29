@@ -6,10 +6,10 @@
     "titulo": "IF 0062/2007 — El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2007-12-18",
     "ubicacion": {
-      "estacion": "Guillarei",
+      "estacion": "Betanzos",
       "provincia": "León",
       "lat": 42.0705,
       "lng": -8.6368
@@ -74,7 +74,7 @@
     "titulo": "063/2007 — Estación de Salou,",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2007-12-21",
     "ubicacion": {
       "estacion": "Salou",
@@ -148,13 +148,13 @@
     "titulo": "IF 064/2007 — El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763, de la empresa",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2007-12-24",
     "ubicacion": {
-      "estacion": "",
-      "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "estacion": "Oñoro",
+      "provincia": "Salamanca",
+      "lat": 40.9833,
+      "lng": -5.7
     },
     "entidades": [
       "ADIF",
@@ -212,13 +212,13 @@
     "titulo": "IF 065/2007 — El tren de mercancías nº 50565; de la empresa ferroviaria Renfe Operadora, compuesto por la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2007-12-29",
     "ubicacion": {
-      "estacion": "",
+      "estacion": "Abaroa",
       "provincia": "Madrid",
-      "lat": null,
-      "lng": null
+      "lat": 42.85,
+      "lng": -1.7167
     },
     "entidades": [
       "ADIF",

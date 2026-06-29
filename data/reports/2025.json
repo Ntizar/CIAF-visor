@@ -6,7 +6,7 @@
     "titulo": "IF 41/2025 — Incidente operacional en la",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2025-05-22",
     "ubicacion": {
       "estacion": "Cortes de Navarra",

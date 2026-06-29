@@ -6,13 +6,13 @@
     "titulo": "IF 46/2022 — Incidente Operacional - Retroceso no autorizado ocurrido el día",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2022-06-01",
     "ubicacion": {
-      "estacion": "Castellbibal",
+      "estacion": "Ponferrada",
       "provincia": "Barcelona",
-      "lat": null,
-      "lng": null
+      "lat": 41.4765136,
+      "lng": 1.9832978
     },
     "entidades": [
       "ADIF",
@@ -95,7 +95,7 @@
     "gravedad": "grave",
     "fecha_suceso": "2022-06-12",
     "ubicacion": {
-      "estacion": "Francia",
+      "estacion": "parada",
       "provincia": "Barcelona",
       "lat": 43.262,
       "lng": -2.925
@@ -163,10 +163,10 @@
     "titulo": "IF 70/2022 — Incidente operacional con riesgo de colisión ocurrido el 15 de",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2022-08-15",
     "ubicacion": {
-      "estacion": "Manresa (Barcelona).",
+      "estacion": "Manresa",
       "provincia": "Barcelona",
       "lat": 41.7257,
       "lng": 1.8269
@@ -224,9 +224,9 @@
     "year": 2022,
     "expediente": "107/2022",
     "titulo": "IF 107/2022 — Colisión entre trenes por alcance el 13 de diciembre de 2022",
-    "tipo": "avería",
+    "tipo": "incidente",
     "tipo_suceso": "avería",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2022-12-13",
     "ubicacion": {
       "estacion": "Els Guiamets",
@@ -269,7 +269,8 @@
       "2022-48/2022",
       "2022-70/2022",
       "2022-46/2022"
-    ]
+    ],
+    "tipo_suceso_normalizado": "averia"
   },
   {
     "id": "2022-108/2022",
@@ -278,10 +279,10 @@
     "titulo": "IF 108/2022 — El día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2023-02-23",
     "ubicacion": {
-      "estacion": "Torelló (Barcelona).",
+      "estacion": "Torelló",
       "provincia": "Barcelona",
       "lat": 41.8167,
       "lng": 2.2667

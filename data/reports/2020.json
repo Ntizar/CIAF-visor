@@ -9,7 +9,7 @@
     "gravedad": "grave",
     "fecha_suceso": "2020-01-24",
     "ubicacion": {
-      "estacion": "Bifurcación Cerrato",
+      "estacion": "Xeraco",
       "provincia": "Burgos",
       "lat": 41.9619946,
       "lng": -4.4771599
@@ -56,10 +56,10 @@
     "titulo": "IF 19/2020 — Incidente ferroviario ocurrido en la estación de Xeraco (Valencia),",
     "tipo": "incidente",
     "tipo_suceso": "incidente",
-    "gravedad": "leve",
+    "gravedad": "menor",
     "fecha_suceso": "2020-03-04",
     "ubicacion": {
-      "estacion": "Xeraco (Valencia)",
+      "estacion": "Xeraco",
       "provincia": "Valencia",
       "lat": 39.0333,
       "lng": -0.2167
@@ -118,7 +118,7 @@
     "titulo": "IF 15/2013 — “La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la",
     "tipo": "accidente",
     "tipo_suceso": "accidente",
-    "gravedad": "fatal",
+    "gravedad": "muy grave",
     "fecha_suceso": "2020-06-02",
     "ubicacion": {
       "estacion": "La Hiniesta de",
