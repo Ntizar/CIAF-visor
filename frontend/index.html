@@ -1104,17 +1104,25 @@ function showDetailPanel(reportIdx) {
     const body = document.getElementById('detailBody');
     const entityList = r.entities.length > 0 ? r.entities.join(', ') : (r.entity || '—');
 
-    // Build recommendations HTML
+    // Build recommendations HTML — handles all dict formats
     let recsHtml = '<div class="detail-empty">No hay recomendaciones disponibles.</div>';
     if (r.recommendations && r.recommendations.length > 0) {
         const recs = r.recommendations.map(rec => {
-            if (typeof rec === 'string') return rec;
-            if (rec.texto) return (rec.numero ? `<strong>${rec.numero}:</strong> ` : '') + escapeHtml(rec.texto);
-            if (rec.text) return rec.text;
-            return JSON.stringify(rec);
+            if (typeof rec === 'string') return escapeHtml(rec);
+            if (typeof rec === 'object' && rec !== null) {
+                const num = rec.numero || rec.número || '';
+                const dest = rec.destinatario || rec.destinatarios || rec.implementador || '';
+                const body = rec.texto || rec.text || rec.contenido || '';
+                let html = '';
+                if (num) html += `<strong style="color:var(--kz-azul)">${escapeHtml(num)}</strong>`;
+                if (dest) html += ` → <em>${escapeHtml(dest)}</em>`;
+                if (body) html += `${html ? ': ' : ''}${escapeHtml(truncateText(body, 500))}`;
+                return html || escapeHtml(JSON.stringify(rec));
+            }
+            return escapeHtml(String(rec));
         }).filter(Boolean);
         if (recs.length > 0) {
-            recsHtml = `<ol class="detail-list recommendations">${recs.map(r => `<li>${truncateText(r, 500)}</li>`).join('')}</ol>`;
+            recsHtml = `<ol class="detail-list recommendations">${recs.map(r => `<li>${r}</li>`).join('')}</ol>`;
         }
     }
 
@@ -1311,15 +1319,42 @@ async function renderMemorias() {
                         <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="memoria-ciaf-btn" style="background:#666">🌐 Fuente oficial →</a>
                     </div>
                 </div>
-                <p>${m.summary || ''}</p>
+                <p style="color:#555;line-height:1.5">${m.summary || ''}</p>
                 <div class="memoria-stats">
                     <div class="memoria-stat"><div class="num">${m.total_accidents || 0}</div><div class="lbl">Accidentes</div></div>
                     <div class="memoria-stat"><div class="num">${m.total_incidents || 0}</div><div class="lbl">Incidentes</div></div>
-                    <div class="memoria-stat"><div class="num">${m.total_fatal || 0}</div><div class="lbl">Fatales</div></div>
-                    <div class="memoria-stat"><div class="num">${m.total_victims || 0}</div><div class="lbl">Víctimas</div></div>
+                    <div class="memoria-stat"><div class="num" style="color:var(--kz-rojo)">${m.total_fatal || 0}</div><div class="lbl">Fatales</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_victims || '—'}</div><div class="lbl">Víctimas</div></div>
+                    <div class="memoria-stat"><div class="num">${m.total_heridos || '—'}</div><div class="lbl">Heridos</div></div>
                     <div class="memoria-stat"><div class="num">${materialDamage}</div><div class="lbl">Daños materiales</div></div>
                 </div>
-                ${m.highlights ? `<p style="margin-top:1rem"><strong>Destacados:</strong> ${escapeHtml(m.highlights)}</p>` : ''}
+                ${m.highlights ? `<div style="margin-top:1rem;padding:0.75rem;background:#f0f4f8;border-radius:4px;border-left:3px solid var(--kz-azul)"><strong>📌 Destacados:</strong> ${escapeHtml(m.highlights)}</div>` : ''}
+                ${(m.top_causes && m.top_causes.length > 0) ? `
+                <div style="margin-top:1.25rem">
+                    <h3 style="color:var(--kz-azul);font-size:0.88rem;margin-bottom:0.5rem">Causas principales</h3>
+                    ${m.top_causes.map(c => {
+                        const maxCount = Math.max(...m.top_causes.map(x => x.count));
+                        const pct = maxCount > 0 ? (c.count / maxCount * 100) : 0;
+                        return `<div style="margin-bottom:0.4rem">
+                            <div style="display:flex;justify-content:space-between;font-size:0.82rem;margin-bottom:2px">
+                                <span>${escapeHtml(c.cause)}</span><strong>${c.count}</strong>
+                            </div>
+                            <div style="background:#e8e8e8;border-radius:3px;height:8px;overflow:hidden">
+                                <div style="background:var(--kz-azul);height:100%;width:${pct}%;border-radius:3px"></div>
+                            </div>
+                        </div>`;
+                    }).join('')}
+                </div>` : ''}
+                ${(m.top_entities && m.top_entities.length > 0) ? `
+                <div style="margin-top:1.25rem">
+                    <h3 style="color:var(--kz-azul);font-size:0.88rem;margin-bottom:0.5rem">Entidades más mencionadas</h3>
+                    <div style="display:flex;flex-wrap:wrap;gap:0.4rem">
+                        ${m.top_entities.map((e,i) => {
+                            const colors = ['#1A4488','#3463AC','#6B96CF','#98B8DB','#CB1823'];
+                            return `<span style="display:inline-flex;align-items:center;gap:0.3rem;padding:0.3rem 0.6rem;background:${colors[i%colors.length]};color:white;border-radius:3px;font-size:0.78rem;font-weight:500">${escapeHtml(e.entity)} <span style="opacity:0.8">(${e.count})</span></span>`;
+                        }).join('')}
+                    </div>
+                </div>` : ''}
                 ${comparisonHtml}
             </div>`;
     }
@@ -1336,17 +1371,21 @@ function renderEmpresas() {
     allReports.forEach(r => {
         const entities = r.entities && r.entities.length > 0 ? r.entities : [r.entity || 'Desconocido'];
         entities.forEach(ent => {
-            if (!entityMap[ent]) entityMap[ent] = { name: ent, reports: [], totalVictims: 0, totalInjured: 0, types: {} };
+            if (!entityMap[ent]) entityMap[ent] = { name: ent, reports: [], totalVictims: 0, totalInjured: 0, types: {}, provinces: {}, years: {} };
             entityMap[ent].reports.push(r);
             entityMap[ent].totalVictims += r.victims || 0;
             entityMap[ent].totalInjured += r.injured || 0;
             entityMap[ent].types[r.type] = (entityMap[ent].types[r.type] || 0) + 1;
+            const p = r.province || 'Desconocida';
+            entityMap[ent].provinces[p] = (entityMap[ent].provinces[p] || 0) + 1;
+            entityMap[ent].years[r.year] = (entityMap[ent].years[r.year] || 0) + 1;
         });
     });
 
     // Sort by report count
     const entities = Object.values(entityMap).sort((a, b) => b.reports.length - a.reports.length);
 
+    // Render entity selector
     const selector = document.getElementById('entitySelector');
     selector.innerHTML = entities.map((e, i) =>
         `<button class="year-btn${i === 0 ? ' active' : ''}" data-entity="${e.name}">${e.name} (${e.reports.length})</button>`
@@ -1365,44 +1404,71 @@ function renderEmpresas() {
         if (!ent) return;
         const detail = document.getElementById('entityDetail');
 
-        // Year distribution
-        const yearDist = {};
-        ent.reports.forEach(r => { yearDist[r.year] = (yearDist[r.year] || 0) + 1; });
-        const years = Object.keys(yearDist).sort();
-
-        // Province distribution
-        const provDist = {};
-        ent.reports.forEach(r => { const p = r.province || 'Desconocida'; provDist[p] = (provDist[p] || 0) + 1; });
-        const topProvs = Object.entries(provDist).sort((a, b) => b[1] - a[1]).slice(0, 8);
-
-        // Severity distribution
+        const years = Object.keys(ent.years).sort();
+        const topProvs = Object.entries(ent.provinces).sort((a, b) => b[1] - a[1]).slice(0, 8);
         const sevDist = {};
         ent.reports.forEach(r => { const s = r.severity || 'desconocido'; sevDist[s] = (sevDist[s] || 0) + 1; });
+
+        const maxYearCount = Math.max(...Object.values(ent.years));
+        const maxProvCount = topProvs.length > 0 ? topProvs[0][1] : 1;
 
         detail.innerHTML = `
             <div class="entity-card active">
                 <h4>${ent.name}</h4>
                 <div class="entity-stats">
                     <div class="entity-stat"><div class="num">${ent.reports.length}</div><div class="lbl">Informes</div></div>
-                    <div class="entity-stat"><div class="num">${ent.totalVictims}</div><div class="lbl">Víctimas</div></div>
-                    <div class="entity-stat"><div class="num">${ent.totalInjured}</div><div class="lbl">Heridos</div></div>
-                    <div class="entity-stat"><div class="num">${Object.keys(sevDist).length}</div><div class="lbl">Severidades</div></div>
+                    <div class="entity-stat"><div class="num" style="color:var(--kz-rojo)">${ent.totalVictims}</div><div class="lbl">Víctimas</div></div>
+                    <div class="entity-stat"><div class="num" style="color:var(--kz-naranja)">${ent.totalInjured}</div><div class="lbl">Heridos</div></div>
                     <div class="entity-stat"><div class="num">${years.length}</div><div class="lbl">Años</div></div>
+                    <div class="entity-stat"><div class="num">${Object.keys(ent.provinces).length}</div><div class="lbl">Provincias</div></div>
                 </div>
                 <div style="margin-top:1rem">
-                    <strong>Distribución por severidad:</strong>
+                    <strong>Severidad:</strong>
                     ${Object.entries(sevDist).map(([k, v]) => `<span class="badge badge-${k.replace(/ /g, '-')}">${k}: ${v}</span>`).join(' ')}
                 </div>
-                <div style="margin-top:0.75rem">
-                    <strong>Provincias con más informes:</strong>
-                    ${topProvs.map(([k, v]) => `${k} (${v})`).join(', ')}
+            </div>
+
+            <div class="chart-row" style="margin-top:1.25rem">
+                <div class="chart-card">
+                    <h3>Evolución anual</h3>
+                    <div style="padding:0.5rem 0">
+                        ${years.map(y => `<div style="margin-bottom:0.3rem;display:flex;align-items:center;gap:0.5rem;font-size:0.82rem">
+                            <span style="width:40px;text-align:right;color:#666">${y}</span>
+                            <div style="background:#e8e8e8;border-radius:3px;height:16px;flex:1;overflow:hidden">
+                                <div style="background:var(--kz-azul);height:100%;width:${(ent.years[y]/maxYearCount*100)}%;border-radius:3px;display:flex;align-items:center;padding-left:6px;color:white;font-size:0.75rem;font-weight:600">${ent.years[y]}</div>
+                            </div>
+                        </div>`).join('')}
+                    </div>
                 </div>
-                <div style="margin-top:0.75rem">
-                    <strong>Evolución anual:</strong>
-                    ${years.map(y => `${y}: ${yearDist[y]}`).join(' | ')}
+                <div class="chart-card">
+                    <h3>Provincias</h3>
+                    <div style="padding:0.5rem 0">
+                        ${topProvs.map(([p, c]) => `<div style="margin-bottom:0.3rem;display:flex;align-items:center;gap:0.5rem;font-size:0.82rem">
+                            <span style="width:110px;text-align:right;color:#666;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${p}">${p}</span>
+                            <div style="background:#e8e8e8;border-radius:3px;height:16px;flex:1;overflow:hidden">
+                                <div style="background:var(--kz-azul-medio);height:100%;width:${(c/maxProvCount*100)}%;border-radius:3px;display:flex;align-items:center;padding-left:6px;color:white;font-size:0.75rem;font-weight:600">${c}</div>
+                            </div>
+                        </div>`).join('')}
+                    </div>
                 </div>
             </div>
-            <h3 style="color:var(--kz-azul);margin:1rem 0 0.5rem;font-size:0.9rem">Listado de informes (${ent.reports.length})</h3>
+
+            <div class="chart-card" style="margin-top:1.25rem">
+                <h3>Tipos de suceso</h3>
+                <div style="display:flex;gap:0.5rem;margin-top:0.5rem">
+                    ${Object.entries(ent.types).map(([t, c]) => {
+                        const total = ent.reports.length;
+                        const pct = (c / total * 100).toFixed(1);
+                        return `<div style="flex:1;text-align:center;padding:0.7rem;background:#f5f7fa;border-radius:4px">
+                            <div style="font-size:1.5rem;font-weight:700;color:var(--kz-azul)">${c}</div>
+                            <div style="font-size:0.78rem;color:#666">${t}</div>
+                            <div style="font-size:0.72rem;color:var(--kz-azul-medio)">${pct}%</div>
+                        </div>`;
+                    }).join('')}
+                </div>
+            </div>
+
+            <h3 style="color:var(--kz-azul);margin:1.25rem 0 0.5rem;font-size:0.9rem">Listado de informes (${ent.reports.length})</h3>
             <div class="entity-reports-list">
                 ${ent.reports.sort((a, b) => (b.date || '').localeCompare(a.date || '')).map(r => `
                     <div class="entity-report-item" onclick="showDetailPanel(${allReports.indexOf(r)})">
@@ -1421,27 +1487,28 @@ function renderEmpresas() {
 // ===== NORMATIVA =====
 function renderNormativa() {
     const docs = [
-        { title: 'Ley 38/2015, de 29 de septiembre', desc: 'Ley General de Telecomunicaciones. Aplicable a sistemas de comunicación ferroviaria.', date: '2015-09-29' },
-        { title: 'Real Decreto 2320/2004', desc: 'Reglamento sobre seguridad de los recintos ferroviarios y sus instalaciones de apoyo.', date: '2004-12-17' },
-        { title: 'Ley 39/2015, de 1 de octubre', desc: 'Ley del Procedimiento Administrativo Común de las Administraciones Públicas.', date: '2015-10-01' },
-        { title: 'Reglamento (UE) 2021/782', desc: 'Reglamento sobre los derechos de los viajeros en ferrocarril.', date: '2021-05-19' },
-        { title: 'Ley 12/2013, de 2 de octubre', desc: 'Ley de liberalización e impulso del uso de medios de transporte ferroviario.', date: '2013-10-02' },
-        { title: 'Real Decreto 917/2017', desc: 'Reglamento Nacional de Explotación Ferroviaria (RNEF).', date: '2017-07-21' },
-        { title: 'Orden FOM/1200/2009', desc: 'Reglamento sobre seguridad en la explotación y circulación de trenes.', date: '2009-04-24' },
-        { title: 'Ley 6/2020, de 11 de noviembre', desc: 'Ley reguladora de determinados aspectos de los servicios y plataformas de intermediación.', date: '2020-11-11' },
-        { title: 'Reglamento (CE) 1370/2007', desc: 'Transporte público de pasajeros por ferrocarril y carretera.', date: '2007-10-23' },
-        { title: 'Norma UNE EN 50126', desc: 'Especificación y demostración de la fiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS).', date: '1999-01-01' },
-        { title: 'Norma UNE EN 50128', desc: 'Software de sistemas de control y señalización ferroviaria.', date: '2011-01-01' },
-        { title: 'Norma UNE EN 50129', desc: 'Sistemas de señalización ferroviaria — Sistemas electrónicos de seguridad.', date: '2003-01-01' },
-        { title: 'Circular 4/2010 (AGIF)', desc: 'Guía de buenas prácticas para la gestión de la seguridad en la explotación ferroviaria.', date: '2010-06-15' },
-        { title: 'Resolución 08/2019 (ASF)', desc: 'Procedimiento de investigación de accidentes e incidentes ferroviarios.', date: '2019-03-12' }
+        { title: 'Ley 38/2015, de 29 de septiembre', desc: 'Ley de Investigación de Accidentes Ferroviarios.', date: '2015-09-29', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2015-10555' },
+        { title: 'Real Decreto 623/2014', desc: 'Organización y funcionamiento del CIAF.', date: '2014-07-25', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2014-8041' },
+        { title: 'RD 929/2020', desc: 'Agencia de Seguridad Ferroviaria (ASF).', date: '2020-10-27', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2020-17119' },
+        { title: 'RD 2387/2004', desc: 'Investigación de accidentes e incidentes ferroviarios.', date: '2004-12-10', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2004-23001' },
+        { title: 'RD 664/2015', desc: 'Condiciones de seguridad de la explotación ferroviaria.', date: '2015-04-22', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2015-4792' },
+        { title: 'RD 917/2017', desc: 'Reglamento Nacional de Explotación Ferroviaria (RNEF).', date: '2017-07-21', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2017-9567' },
+        { title: 'RD 2320/2004', desc: 'Seguridad de los recintos ferroviarios.', date: '2004-12-17', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2004-23350' },
+        { title: 'Orden FOM/1200/2009', desc: 'Seguridad en la explotación y circulación de trenes.', date: '2009-04-24', url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2009-7380' },
+        { title: 'Directiva (UE) 2016/798', desc: 'Investigación de accidentes ferroviarios en la UE.', date: '2016-05-11', url: 'https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016L0798' },
+        { title: 'Reglamento (UE) 2020/572', desc: 'Seguridad ferroviaria transfronteriza.', date: '2020-04-29', url: 'https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32020R0572' },
+        { title: 'Reglamento (UE) 2021/782', desc: 'Derechos de los viajeros en ferrocarril.', date: '2021-05-19', url: 'https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32021R0782' },
+        { title: 'Reglamento (CE) 1370/2007', desc: 'Transporte público de pasajeros por ferrocarril.', date: '2007-10-23', url: 'https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32007R1370' },
+        { title: 'Norma UNE EN 50126', desc: 'Fiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS).', date: '1999-01-01', url: 'https://www.aena.es/documents/20126/0/en_50126.pdf' },
+        { title: 'Norma UNE EN 50128', desc: 'Software de sistemas de control y señalización ferroviaria.', date: '2011-01-01', url: '' },
+        { title: 'Norma UNE EN 50129', desc: 'Sistemas electrónicos de seguridad ferroviaria.', date: '2003-01-01', url: '' }
     ];
 
     const list = document.getElementById('normativaList');
     list.innerHTML = docs.map(d => `
         <li class="normativa-item">
             <div>
-                <div class="doc-title">${d.title}</div>
+                <div class="doc-title">${d.url ? `<a href="${d.url}" target="_blank" rel="noopener" style="color:var(--kz-azul);text-decoration:none">${d.title} ↗</a>` : d.title}</div>
                 <div class="doc-desc">${d.desc}</div>
             </div>
             <div class="doc-date">${d.date}</div>
