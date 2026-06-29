@@ -3,16 +3,17 @@
     "id": "2015-0005/2015",
     "year": 2015,
     "expediente": "0005/2015",
-    "titulo": "IF 0005/2015 — El día 12 de enero de 2015 a las 21:14 horas, en la línea 266 Bif. Glorias – Bif",
+    "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0005/2015 ocurrido el día 12.01.2015 en la estación de Barcelona Marina (Barcelona)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "muy grave",
     "fecha_suceso": "2015-01-12",
     "ubicacion": {
       "estacion": "Barcelona Marina",
       "provincia": "Barcelona",
       "lat": 41.3923,
-      "lng": 2.1948
+      "lng": 2.1948,
+      "lugar": "Estación de Barcelona Marina"
     },
     "entidades": [
       "ADIF",
@@ -30,30 +31,34 @@
     },
     "analisis": {
       "resumen": "El 12 de enero de 2015, en la estación de Barcelona Marina, se produjo un incidente con conato de colisión entre dos trenes de cercanías de Renfe. No hubo víctimas ni daños materiales, aunque se registraron retrasos en la circulación. La causa principal fue el fallo humano del maquinista del tren 25780, quien rebasó indebidamente una señal de parada por falta de atención.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición de equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ....................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición de equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado .....................................",
+      "causa_directa": "Fallo humano del personal de conducción del tren 25780"
     },
     "conclusiones": [
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El incidente tuvo su origen en el fallo humano del personal de conducción del tren 25780, más concretamente por una falta de atención, dando lugar al rebase indebido de la señal 3646 en indicación de parada.",
+      "El incidente tuvo su origen en el fallo humano del personal de conducción del tren 25780, más concretamente por una falta de atención, dando lugar al rebase indebido de la señal 3646 en indicación de parada.",
       "Como factor coadyuvante se puede considerar el incumplimiento normativo del maquinista al reiniciar la marcha sin haberse puesto en contacto con el puesto de mando para notificar el rebase de la señal 3646.",
-      "Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria El personal de conducción tenía 13 días de antigüedad en el servicio que prestaba.",
-      "La señal 3646 no dispone de baliza previa por carecer de la distancia suficiente para su emplazamiento, según se indica en el AVISO nº 34. (Ver recomendación 05/15-1).",
-      "Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad OBSERVACIONES ADICIONALES El sistema de gestión de la seguridad (SGS) de Renfe Viajeros no dispone de un procedimiento reglado que posibilite la trazabilidad de la formación práctica que se imparte para las habilitaciones de"
+      "El personal de conducción tenía 13 días de antigüedad en el servicio que prestaba.",
+      "La señal 3646 no dispone de baliza previa por carecer de la distancia suficiente para su emplazamiento, según se indica en el AVISO nº 34.",
+      "Ninguna causa relacionada con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad."
     ],
     "recomendaciones": [
       {
         "numero": "05/15-1",
-        "texto": "Estudiar la posibilidad de cambiar de posición la señal 3646 para mejorar su visibilidad y dotarla, en su caso, de baliza previa. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Adif",
+        "texto": "Estudiar la posibilidad de cambiar de posición la señal 3646 para mejorar su visibilidad y dotarla, en su caso, de baliza previa."
       },
       {
         "numero": "05/15-2",
-        "texto": "Que se requiera a las",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "texto": "Que se requiera a las empresas ferroviarias y a los administradores de infraestructura que en sus sistemas de gestión de la seguridad (SGS) incluyan un procedimiento por el que se posibilite la trazabilidad de las actuaciones formativas, en especial las de naturaleza práctica. En dicho procedimiento deberían concretarse los modelos de actividad a establecer por los distintos responsables para cada una de las actividades formativas."
       },
       {
         "numero": "05/15-3",
-        "texto": "Que se concrete a las",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "texto": "Que se concrete a las empresas ferroviarias y a los administradores de infraestructura un plazo máximo en el que las disposiciones contenidas en la Resolución de 23 de diciembre de 2015 de la AESF (BOE 27/01/2016) deben estar incorporadas en sus sistemas de gestión de la seguridad (SGS) y ser, por ello, plenamente operativas."
       }
     ],
     "tags": [
@@ -78,7 +83,7 @@
       "2015-0052/2015"
     ],
     "hora": "21:14",
-    "pk": null,
+    "pk": "364+859",
     "tramo": "266 Bif. Glorias – Bif. Vilanova",
     "trenes": [
       {
@@ -98,16 +103,17 @@
     "id": "2015-0017/2015",
     "year": 2015,
     "expediente": "0017/2015",
-    "titulo": "IF 0017/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0017/2015 ocurrido el día 09.02.2015 en la estación de A Susana (A Coruña)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "arrollamiento_obstaculo",
     "gravedad": "muy grave",
     "fecha_suceso": "2015-02-09",
     "ubicacion": {
-      "estacion": "a Susana",
+      "estacion": "A Susana",
       "provincia": "A Coruña",
       "lat": 43.33,
-      "lng": -3.81
+      "lng": -3.81,
+      "lugar": "Estación de A Susana"
     },
     "entidades": [
       "ADIF",
@@ -127,7 +133,8 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 9 de febrero de 2015 en la estación de A Susana (A Coruña), que provocó el arrollamiento de una topera y el descarrilamiento de tres vagones sin causar víctimas mortales ni heridos. Las consecuencias se limitaron a daños materiales en la infraestructura y el material rodante, valorados en 93.385 euros. La causa principal del suceso fue un fallo humano del auxiliar de operaciones del tren, quien no estableció correctamente el itinerario ni comprobó la posición de las agujas antes de ordenar el movimiento.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1.\nDatos .................................................................................................................................................... 5\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1.\nPersonal ferroviario implicado ..........................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1.\nDatos .................................................................................................................................................... 5\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1.\nPersonal ferroviario implicado ...........................................................",
+      "causa_directa": "Fallo humano del auxiliar de operaciones del tren"
     },
     "conclusiones": [
       "El accidente se produjo por fallo humano, del auxiliar de operaciones del tren, al no establecer correctamente el itinerario de la maniobra y no comprobar la correcta disposición de la posición de las agujas del mismo, antes de haber ordenado el movimiento de “empujar” a la maniobra.",
@@ -172,16 +179,17 @@
     "id": "2015-0010/2015",
     "year": 2015,
     "expediente": "0010/2015",
-    "titulo": "IF 0010/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0010/2015 ocurrido el día 13.02.2015 en la estación de Barcelona Estació de França",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2015-02-13",
     "ubicacion": {
       "estacion": "Barcelona Estació de França",
       "provincia": "Barcelona",
       "lat": 41.4309797,
-      "lng": 2.1831056
+      "lng": 2.1831056,
+      "lugar": "Estación de Barcelona Estació de França"
     },
     "entidades": [
       "ADIF",
@@ -199,25 +207,26 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren 1112 de Renfe ocurrió el 13 de febrero de 2015 en la estación de Barcelona Estació de França, sin causar víctimas ni heridos. La causa principal fue el fallo técnico de la infraestructura, derivado de sobreanchos y deficiencias en las sujeciones del carril. Como consecuencia, se produjeron daños materiales en el material rodante y en la vía, valorados en 56.800 euros, además de la interrupción del servicio en la vía 3.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ...................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ....................................",
+      "causa_directa": "Fallo técnico de la infraestructura de vía"
     },
     "conclusiones": [
-      "mantenimiento preventivo de la misma, permitiendo detectar las anomalías y no conformidades (NC).",
-      "Asimismo, el tratamiento y gestión de estas NC se contemplan dentro de otro procedimiento general (ADIF-PG-104-003-003) que, aunque correcto y completo, puede considerarse de complicada aplicación dada la generalidad del mismo, al menos en lo referente al mantenimiento de Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el Investigador Responsable concluye que:",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El accidente se produjo por el fallo técnico de la infraestructura de vía en la zona del accidente, principalmente por la existencia de sobreanchos y deficiencias en las sujeciones del carril.",
-      "Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria No se realizaron labores de mantenimiento en la zona de andenes de la vía 3 de la estación para paliar los defectos detectados en las inspecciones llevadas a cabo.",
-      "Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad El SGS de Adif dispone para el tratamiento y gestión de las No Conformidades (NC) de un"
+      "El accidente se produjo por el fallo técnico de la infraestructura de vía en la zona del accidente, principalmente por la existencia de sobreanchos y deficiencias en las sujeciones del carril.",
+      "No se realizaron labores de mantenimiento en la zona de andenes de la vía 3 de la estación para paliar los defectos detectados en las inspecciones llevadas a cabo.",
+      "El Sistema de Gestión de la Seguridad de Adif dispone para el tratamiento y gestión de las No Conformidades (NC) de un procedimiento general de aplicación a todas las actividades de Adif, considerándose de complicada aplicación en lo relativo al mantenimiento de infraestructura."
     ],
     "recomendaciones": [
       {
         "numero": "10/15-1",
-        "texto": "Que se revise y/o complemente el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” para que se detalle y concrete el tratamiento y gestión de las no conformidades detectadas en la inspección y vigilancia de la infraestructura por el personal de mantenimiento, con el fin de mejorar la operativa de dicho procedimiento y asegurar su cumplimiento. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador_final": "Adif",
+        "texto": "Que se revise y/o complemente el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” para que se detalle y concrete el tratamiento y gestión de las no conformidades detectadas en la inspección y vigilancia de la infraestructura por el personal de mantenimiento, con el fin de mejorar la operativa de dicho procedimiento y asegurar su cumplimiento."
       },
       {
         "numero": "10/15-2",
-        "texto": "Una vez revisado y/o complementado el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” según lo dispuesto en la Recomendación",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador_final": "Adif",
+        "texto": "Una vez revisado y/o complementado el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” según lo dispuesto en la Recomendación 10/15-1, comprobar que la sistemática es operativa y asegurar que es conocida por el personal involucrado."
       }
     ],
     "tags": [
@@ -256,16 +265,17 @@
     "id": "2015-0011/2015",
     "year": 2015,
     "expediente": "0011/2015",
-    "titulo": "IF 0011/2015 — SOBRE EL INCIDENTE FERROVIARIO Nº 0011/2015",
+    "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0011/2015 OCURRIDO EL DÍA 17.02.2015 EN LA ESTACIÓN DE MADRID CHAMARTÍN (MADRID)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "muy grave",
     "fecha_suceso": "2015-02-17",
     "ubicacion": {
-      "estacion": "Madrid",
+      "estacion": "Madrid Chamartín",
       "provincia": "Madrid",
       "lat": 40.4726,
-      "lng": -3.6825
+      "lng": -3.6825,
+      "lugar": "Estación de Madrid Chamartín"
     },
     "entidades": [
       "ADIF",
@@ -283,15 +293,13 @@
     },
     "analisis": {
       "resumen": "Incidente de conato de colisión ocurrido el 17 de febrero de 2015 en la estación de Madrid Chamartín, sin causar víctimas ni daños materiales. La causa principal fue un error humano del maquinista, quien percibió incorrectamente la señal de parada como rebase autorizado, situación agravada por el reflejo solar en el foco de la señal.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ...................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ....................................",
+      "causa_directa": "Fallo humano del personal de conducción"
     },
     "conclusiones": [
-      "Después de los anteriores rebases indebidos de la señal EB5 (22/10/2014, 12/11/2014 y 20/11/2014) y como consecuencia de lo comprobado en la visita conjunta Adif-Renfe Viajeros se retira el foco blanco de la señal EB5, lo que la Subdirección de Operaciones Centro publicó mediante el Aviso Nº 6 de fecha 6 de marzo de 2015, comunicando que “a partir de las 10:30 horas del día 12/03/2015, como medida cautelar y por motivos de seguridad, se desmonta el foco blanco de la señal EB5”.",
-      "Por parte de Renfe Viajeros Al tratarse de un fallo humano en la conducción, Renfe Viajeros aplicó al maquinista de la maniobra de tren 21428 (material vacío de cercanías UTs 907174461505 y 907174461596), la Circular Operativa nº 1 de Presidencia (gestión del fallo humano), en la que se contemplan una serie de medidas para paliar éste como son: control de alcoholemia, retirada del servicio, reconocimiento psicofísico, programa individualizado de reciclaje (que incluye paso por simulador, reciclaje formativo y acompañamiento en cabina por tutor) y posterior reincorporación al servicio una vez superadas las pruebas y previo informe favorable del tutor.",
-      "Más concretamente, con respecto al maquinista de este suceso, el equipo de apoyo acordó:",
-      "Acción formativa de 16 horas.",
-      "4 acompañamientos en cabina durante los primeros 30 días de reincorporación al trabajo.",
-      "4 análisis de registros de velocidad durante los primeros 30 días de reincorporación al trabajo."
+      "El incidente se produce por fallo humano del personal de conducción de la maniobra para tren 21428 (material vacío de cercanías UTs 907174461505 y 907174461596), y más concretamente por un error en la percepción de la indicación de la señal EB5 - que en todo momento indicó parada y el maquinista manifiesta verla en “rebase autorizado” - dando lugar al rebase de la misma y al consecuente incumplimiento reglamentario.",
+      "Con el vehículo detenido delante de la señal EB5, en momentos puntuales, el efecto del reflejo de la luz solar puede inducir a error de percepción del foco blanco de la señal a los maquinistas.",
+      "Ninguna."
     ],
     "recomendaciones": [],
     "tags": [
@@ -315,7 +323,7 @@
       "2015-0052/2015"
     ],
     "hora": "15:30",
-    "pk": null,
+    "pk": "1+026",
     "tramo": "102 Bifurcación Aranda a Madrid Chamartín",
     "trenes": [
       {
@@ -335,16 +343,17 @@
     "id": "2015-0012/2015",
     "year": 2015,
     "expediente": "0012/2015",
-    "titulo": "IF 0012/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0012/2015 ocurrido el día 04.03.2015 entre la estación de Puerto de Navacerrada y el apeadero de Collado Albo (Madrid)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "menor",
     "fecha_suceso": "2015-03-04",
     "ubicacion": {
-      "estacion": "Cercedilla",
+      "estacion": "Puerto de Navacerrada y el apeadero de Collado Albo",
       "provincia": "Madrid",
       "lat": 40.8333,
-      "lng": -4.0167
+      "lng": -4.0167,
+      "lugar": "Entre la estación de Puerto de Navacerrada y el apeadero de Collado Albo"
     },
     "entidades": [
       "ADIF",
@@ -362,24 +371,18 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren 35188 ocurrido el 4 de marzo de 2015 entre Puerto de Navacerrada y Collado Albo (Madrid) no causó víctimas, aunque provocó daños materiales en la infraestructura y el material rodante. La causa principal fue el fallo técnico de la infraestructura, derivado del mal estado de las traviesas de madera y sus sujeciones, lo que generó sobreanchos y la apertura de la vía.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .........."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+      "causa_directa": "Fallo técnico de la infraestructura debido al mal estado de las traviesas de madera y sujeciones"
     },
     "conclusiones": [
-      "La última inspección a pie realizada en la zona del descarrilamiento y anterior a éste fue el 21 de marzo de 2014 (un año antes), no figurando nada relevante en las hojas de inspección Existe un proyecto elaborado por Adif para sustituir las traviesas de madera por otras de hormigón en el tramo de 4,5 km. Este proyecto a día de hoy no se ha ejecutado ni está previsto que se lleve a cabo Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el investigador responsable concluye que:",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El accidente se produjo por en el fallo técnico de la infraestructura, al encontrarse en mal estado las traviesas de madera y las sujeciones, lo que provocó la existencia de sobreanchos y la apertura de la vía al paso del tren. (Ver recomendación 12/15-1) 4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria El mantenimiento en la zona del descarrilamiento era deficitario. Las traviesas estaban en mal estado, las sujeciones del carril sueltas y fuera de su alojamiento y por otro lado estaba contaminado.",
-      "Se incumplió el procedimiento específico ADIF -301-001-VíA-03, en lo referente a las visitas a pie a efectuar durante el año 2014, efectuándose sólo una de las dos indicadas en el procedimiento."
+      "El accidente se produjo por el fallo técnico de la infraestructura, al encontrarse en mal estado las traviesas de madera y las sujeciones, lo que provocó la existencia de sobreanchos y la apertura de la vía al paso del tren.",
+      "El mantenimiento en la zona del descarrilamiento era deficitario. Las traviesas estaban en mal estado, las sujeciones del carril sueltas y fuera de su alojamiento y el balasto estaba contaminado.",
+      "Se incumplió el procedimiento específico ADIF -301-001-VíA-03, en lo referente a las visitas a pie a efectuar durante el año 2014, efectuándose sólo una de las dos indicadas en el procedimiento.",
+      "Ninguna causa relacionada con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad."
     ],
     "recomendaciones": [
-      {
-        "numero": "12/15-1",
-        "texto": "Se insiste en la aplicación de la recomendación",
-        "implementador": ""
-      },
-      {
-        "numero": "12/15-2",
-        "texto": "Cumplir la periodicidad y calidad de las visitas a pie establecidas para esta línea y reconsiderar las condiciones de circulación de la misma en función de las fichas de control y las no conformidades que resulten, gestionando éstas. Madrid, 31 de mayo de 2016",
-        "implementador": ""
-      }
+      "Se insiste en la aplicación de la recomendación 32/11-1 de la CIAF: “Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presentan mal estado por otras del mismo material” llevando a cabo la ejecución del “Proyecto de sustitución de traviesas de madera por hormigón en el tramo de 4 kilómetros”.",
+      "Cumplir la periodicidad y calidad de las visitas a pie establecidas para esta línea y reconsiderar las condiciones de circulación de la misma en función de las fichas de control y las no conformidades que resulten, gestionando éstas."
     ],
     "tags": [
       "accidente",
@@ -419,16 +422,17 @@
     "id": "2015-0015/2015",
     "year": 2015,
     "expediente": "0015/2015",
-    "titulo": "IF 0015/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0015/2015 OCURRIDO EL DÍA 18.03.2015 EN LA ESTACIÓN DE ABOÑO (ASTURIAS)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "menor",
     "fecha_suceso": "2015-03-18",
     "ubicacion": {
       "estacion": "Aboño",
       "provincia": "Asturias",
       "lat": 43.5833,
-      "lng": -5.75
+      "lng": -5.75,
+      "lugar": "Estación de Aboño"
     },
     "entidades": [
       "ADIF",
@@ -448,11 +452,12 @@
     },
     "analisis": {
       "resumen": "El 18 de marzo de 2015, en la estación de Aboño (Asturias), una locomotora derivó de forma incontrolada y descarriló tras recorrer 1.200 metros, provocando daños materiales sin causar víctimas. La causa principal del accidente fue el fallo humano del operador, quien abandonó la cabina sin asegurar la inmovilización del vehículo. Esta acción se vio agravada por el mal funcionamiento del freno de estacionamiento y la inutilización del dispositivo de hombre muerto.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ...................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ....................................",
+      "causa_directa": "Fallo humano del operador de vehículos de maniobras"
     },
     "conclusiones": [
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El accidente se produjo por el fallo humano del operador de vehículo de maniobras (que es también responsable de circulación del turno de tarde) que pone en marcha la locomotora y abandona la cabina de conducción sin tomar las medidas de seguridad necesarias para evitar el movimiento incontrolado de la locomotora. Se incumple el artículo 607 apartado 3, del Reglamento General de Circulación al no tener asegurada su inmovilidad la locomotora.",
-      "Como causas coadyuvantes se apuntan el estar inutilizado el dispositivo de hombre muerto y el inadecuado funcionamiento del freno de estacionamiento. (Ver recomendación 15/15-6) 4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria El plan de mantenimiento de la locomotora no se ha cumplido adecuadamente, al superarse los plazos establecidos entre revisiones. (Ver recomendaciones 15/15-3 y 15/15-5) 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad La Autoridad Portuaria de Gijón no dispone del Sistema de Gestión de la Seguridad, de acuerdo con la disposición adicional tercera del RD 810/2007 por el que se aprueba el Reglamento sobre seguridad en"
+      "El accidente se produjo por el fallo humano del operador de vehículos de maniobras (que es también el responsable de circulación del turno de tarde) que pone en marcha la locomotora y abandona la cabina de conducción sin tomar las medidas de seguridad necesarias para evitar el movimiento incontrolado de la locomotora.",
+      "Como causas coadyuvantes se apuntan el estar inutilizado el dispositivo de hombre muerto y el inadecuado funcionamiento del freno de estacionamiento."
     ],
     "recomendaciones": [
       "Que la AESF requiera a la APG que elabore un Sistema de Gestión de la Seguridad, según se establece en la disposición adicional tercera del RD 810/2007 por el que se aprueba el Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General.",
@@ -484,7 +489,7 @@
       "2015-0046/2015"
     ],
     "hora": "15:53",
-    "pk": null,
+    "pk": "0+943",
     "tramo": "150 Aboño a Serín",
     "trenes": [
       {
@@ -499,16 +504,17 @@
     "id": "2015-0023/2015",
     "year": 2015,
     "expediente": "0023/2015",
-    "titulo": "IF 0023/2015 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0023/2015 ocurrido el día 31.03.2015 en la estación de Medina del Campo (Valladolid)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "menor",
     "fecha_suceso": "2015-03-31",
     "ubicacion": {
       "estacion": "Medina del Campo",
       "provincia": "Valladolid",
       "lat": 41.3083,
-      "lng": -4.8333
+      "lng": -4.8333,
+      "lugar": "Estación de Medina del Campo"
     },
     "entidades": [
       "ADIF",
@@ -526,24 +532,26 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 98610 ocurrido el 31 de marzo de 2015 en la estación de Medina del Campo provocó daños materiales en el material rodante y la infraestructura, sin causar víctimas. La causa principal del suceso fue el fallo de la infraestructura debido a la existencia de defectos de alabeo fuera de tolerancia en la vía.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado .................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..................................",
+      "causa_directa": "Fallo de la infraestructura por defectos de alabeo fuera de tolerancia"
     },
     "conclusiones": [
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El accidente se produjo por el fallo de la infraestructura en la zona del accidente, y más concretamente por la existencia en la vía de defectos de alabeo fuera de tolerancia.",
-      "Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad El Procedimiento Específico ADIF-PE-301-001-Vía 03 “Inspección de la infraestructura de vía” no contempla la inspección de la geometría del escape 8/14.",
-      "Modificar el Procedimiento Específico ADIF-PE-301-001-VÍA-03 “Inspección de la infraestructura y vía” para incorporar el control de la geometría de los escapes.",
-      "Hacer un plan de inspección de la geometría de los escapes situados en las vías generales. Ante la existencia de"
+      "El accidente se produjo por el fallo de la infraestructura en la zona del accidente, y más concretamente por la existencia en la vía de defectos de alabeo fuera de tolerancia.",
+      "Ninguna causa subyacente relacionada con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria.",
+      "El Procedimiento Específico ADIF-PE-301-001-Vía 03 “Inspección de la infraestructura de vía” no contempla la inspección de la geometría del escape 8/14."
     ],
     "recomendaciones": [
       {
         "numero": "23/15-1",
-        "texto": "Modificar el Procedimiento Específico",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Adif",
+        "texto": "Modificar el Procedimiento Específico ADIF-PE-301-001-VÍA-03 “Inspección de la infraestructura y vía” para incorporar el control de la geometría de los escapes."
       },
       {
         "numero": "23/15-2",
-        "texto": "Hacer un plan de inspección de la geometría de los escapes situados en las vías generales. Ante la existencia de deficiencias de seguridad, actuar con el objeto de restablecer las condiciones que permitan circular con seguridad. Madrid, 23 de febrero de 2016",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Adif",
+        "texto": "Hacer un plan de inspección de la geometría de los escapes situados en las vías generales. Ante la existencia de deficiencias de seguridad, actuar con el objeto de restablecer las condiciones que permitan circular con seguridad."
       }
     ],
     "tags": [
@@ -583,16 +591,17 @@
     "id": "2015-0028/2015",
     "year": 2015,
     "expediente": "0028/2015",
-    "titulo": "IF 0028/2015 — SOBRE EL INCIDENTE FERROVIARIO Nº 0028/2015",
+    "titulo": "Informe Final de la CIAF sobre el incidente ferroviario nº 0028/2015 ocurrido el día 22.05.2015 en la estación de Vicálvaro (Madrid)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "muy grave",
     "fecha_suceso": "2015-05-22",
     "ubicacion": {
       "estacion": "Vicálvaro",
       "provincia": "Madrid",
       "lat": 40.4121,
-      "lng": -3.5712
+      "lng": -3.5712,
+      "lugar": "Estación de Vicálvaro"
     },
     "entidades": [
       "ADIF",
@@ -611,24 +620,28 @@
     },
     "analisis": {
       "resumen": "El 22 de mayo de 2015, en la estación de Vicálvaro (Madrid), se produjo un incidente de conato de colisión entre una locomotora aislada y un tren de mercancías. No se registraron víctimas ni daños materiales como consecuencia del suceso. La causa principal fue un fallo humano por falta de atención del maquinista, agravado por no considerar la mayor aceleración de la locomotora aislada frente a un tren cargado.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación y composición de equipo de investigación. ...................................................... 7\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado, terceros y testigos......"
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación y composición de equipo de investigación. ...................................................... 7\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado, terceros y testigos......",
+      "causa_directa": "Fallo humano del personal de conducción"
     },
     "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el investigador responsable concluye que:",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El incidente se produjo por fallo humano del personal de conducción de la locomotora aislada VK1053, más concretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida B107-3 que se encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
+      "El incidente se produjo por fallo humano del personal de conducción de la locomotora aislada VK153, más concretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida B107-3 que se encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
       "Como causa coadyuvante se apunta que el maquinista no tuvo en cuenta la diferencia de aceleración entre una locomotora aislada y un tren de mercancías cargado.",
-      "Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad No se ha podido constatar que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular. (Ver Recomendación 28/2015-1) 4.3.4. Observaciones adicionales"
+      "Ninguna causa subyacente relacionada con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria.",
+      "No se ha podido constatar que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular.",
+      "No se ha podido constatar la existencia dentro del SGS de Continental Rail de un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones tras un fallo humano en función de la gravedad de éste."
     ],
     "recomendaciones": [
       {
         "numero": "28/2015-1",
-        "texto": "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador_final": "Continental Rail",
+        "texto": "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular."
       },
       {
         "numero": "28/2015-2",
-        "texto": "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste. Madrid, 28 de junio de 2016",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador_final": "Continental Rail",
+        "texto": "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste."
       }
     ],
     "tags": [
@@ -672,16 +685,17 @@
     "id": "2015-0046/2015",
     "year": 2015,
     "expediente": "0046/2015",
-    "titulo": "IF 0046/2015 — El suceso tiene lugar con fecha 05",
+    "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0046/2015 ocurrido el día 05.10.2015 en la estación de Tardienta (Huesca)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2015-10-05",
     "ubicacion": {
       "estacion": "Estación de Tardienta",
       "provincia": "Huesca",
       "lat": 42.1316,
-      "lng": -0.4081
+      "lng": -0.4081,
+      "lugar": "Estación de Tardienta"
     },
     "entidades": [
       "ADIF",
@@ -699,12 +713,33 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 05.10.2015 en la estación de Tardienta (Huesca) durante la maniobra de inversión de una locomotora de mercancías. El impacto provocó daños materiales considerables en la locomotora y el último vagón, además de lesiones leves al maquinista y al agente de maniobras. La causa principal fue un fallo humano del conductor, que no aplicó correctamente el freno al conducir desde la cabina contraria al sentido de la marcha, incumpliendo la normativa de seguridad.",
-      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ..................................................................................... 6\n2.1. SUCESO .............................................................................................................................. 6\n2.1.1. Datos .......................................................................................................................... 6\n2.1.2. Descripción del suceso ............................................................................................... 7\n2.1.3. Decisión de abrir la investigación............................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 10\n2.2.1. Personal Ferroviario implicado ................................................................................. 10\n2.2.2. Material rodante .................................................................................."
+      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ..................................................................................... 6\n2.1. SUCESO .............................................................................................................................. 6\n2.1.1. Datos .......................................................................................................................... 6\n2.1.2. Descripción del suceso ............................................................................................... 7\n2.1.3. Decisión de abrir la investigación............................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 10\n2.2.1. Personal Ferroviario implicado ................................................................................. 10\n2.2.2. Material rodante ..................................................................................",
+      "causa_directa": "Fallo humano del personal de conducción"
     },
     "conclusiones": [
-      "primera cabina en el sentido de la marcha, hagan uso de las correspondientes setas de parada de emergencia cuando la situación lo requiera con el fin de evitar, una colisión, un arrollamiento, un rebase Implementador final Número En las acciones de formación y reciclaje al personal de conducción incidir en la obligación de conducir, siempre que sea posible, en la cabina de cabeza cuando se realizan maniobras, con el fin de conseguir una mayor percepción de la operación. importancia de transmitir al responsable de circulación, la información de un suceso por los cauces normativamente establecidos y en el menor tiempo 28/15-2: Que se elabore e incluya dentro del Sistema de Gestión de la Seguridad de Continental Rail un procedimiento que establezca unos criterios generales para la"
+      "El accidente se produjo por fallo humano del personal de conducción del tren de mercancías BAR 11/52, al ejecutar la maniobra de inversión de la locomotora y no realizar una correcta aplicación del freno de la misma probablemente, por una mala percepción del riesgo (falta de atención o exceso de confianza) al conducir desde la cabina contraria al sentido de la marcha, incumpliendo con esto lo establecido en el Reglamento General de Circulación y en la Carta Circular de Reglamentación Nº 8 de ADIF.",
+      "Como causas coadyuvantes se apunta el realizar la maniobra a una velocidad superior a la establecida en el RGC y a la escasa experiencia del maquinista en la línea y con el material."
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      {
+        "numero": "46/2015 - 1",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+        "implementador": "CONTINENTAL RAIL",
+        "texto": "En las acciones de formación y reciclaje al personal de conducción incidir en la obligación de conducir, siempre que sea posible, en la cabina de cabeza cuando se realizan maniobras, con el fin de conseguir una mayor percepción de la operación."
+      },
+      {
+        "numero": "46/2015 - 2",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+        "implementador": "CONTINENTAL RAIL",
+        "texto": "En las acciones de formación y reciclaje al personal de conducción incidir en la importancia de transmitir al responsable de circulación, la información de un suceso por los cauces normativamente establecidos y en el menor tiempo posible."
+      },
+      {
+        "numero": "46/2015 - 3",
+        "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+        "implementador": "CONTINENTAL RAIL",
+        "texto": "Se reitera la recomendación de la CIAF 28/15-2: Que se elabore e incluya dentro del Sistema de Gestión de la Seguridad de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones tras un fallo humano, en función de la gravedad de éste, con el fin de conseguir un tratamiento uniforme en el proceso de reciclaje para la incorporación del trabajador a su puesto de trabajo tras una incidencia de este tipo."
+      }
+    ],
     "tags": [
       "accidente",
       "paso a nivel",
@@ -743,16 +778,17 @@
     "id": "2015-0052/2015",
     "year": 2015,
     "expediente": "0052/2015",
-    "titulo": "IF 0052/2015 — SOBRE EL INCIDENTE FERROVIARIO Nº 0052/2015",
+    "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0052/2015 ocurrido el día 22.10.2015 en la estación de Río Huerva (Zaragoza)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "menor",
     "fecha_suceso": "2015-10-22",
     "ubicacion": {
       "estacion": "Río Huerva",
       "provincia": "Zaragoza",
       "lat": 41.6333,
-      "lng": -0.9333
+      "lng": -0.9333,
+      "lugar": "Estación de Río Huerva"
     },
     "entidades": [
       "ADIF",
@@ -771,29 +807,32 @@
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 22 de octubre de 2015 en la estación de Río Huerva (Zaragoza) provocó un conato de colisión sin víctimas ni daños materiales. La causa principal fue el fallo humano del maquinista, derivado de una falta de atención y confusión visual con las señales de la línea de alta velocidad adyacente. Se identificaron como factores coadyuvantes la escasa experiencia del conductor en esa vía y la posible fatiga por una larga jornada de servicio.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción de los hechos ................................................................................................................. 6\n2.1.3.\nDecisión de abrir la investigación y composición del equipo de investigación ......................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1.\nPersonal ferroviario implicado .............................................................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción de los hechos ................................................................................................................. 6\n2.1.3.\nDecisión de abrir la investigación y composición del equipo de investigación ......................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1.\nPersonal ferroviario implicado ..............................................................................................",
+      "causa_directa": "Fallo humano del maquinista por falta de atención"
     },
     "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, el Investigador Responsable concluye que:",
-      "Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El incidente se produjo por fallo humano del personal de conducción del tren de mercancías 99563, más concretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida S1/3 que se encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
-      "Como causas coadyuvantes se apuntan la escasa experiencia del maquinista y no haber circulado con anterioridad por la vía de apartado de Río Huerva. También se puede señalar la existencia de posible fatiga al llevar de servicio 10 horas 34 minutos en el momento el rebase, siendo de conducción 8 horas 4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad Se apunta que el maquinista había superado el tiempo máximo de conducción continuada. (Ver Recomendación 52/2015-1).",
-      "Observaciones adicionales"
+      "El incidente se produjo por fallo humano del personal de conducción del tren de mercancías 99563, más concretamente por una falta de atención, dando lugar al rebase indebido de la señal de salida S1/3 que se encontraba en indicación de parada y al consecuente incumplimiento reglamentario.",
+      "Como causas coadyuvantes se apuntan la escasa experiencia del maquinista y no haber circulado con anterioridad por la vía de apartado de Río Huerva.",
+      "Se puede señalar la existencia de posible fatiga al llevar de servicio 10 horas 34 minutos en el momento del rebase, siendo de conducción 8 horas y 14 minutos."
     ],
     "recomendaciones": [
       {
         "numero": "52/2015-1",
-        "texto": "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los maquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para reajustar los tiempos de conducción e impedir su incumplimiento. A SUBSECRETARÍA Investigación del incidente nº 0052/2015 ocurrido el 22.10.2015 160927-151022-IF-CIAF.doc Agencia Estatal de Seguridad Ferroviaria(",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Continental Rail",
+        "texto": "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los maquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para reajustar los tiempos de conducción e impedir su incumplimiento."
       },
       {
         "numero": "52/2015-2",
-        "texto": "Incorporar al SGS de Continental Rail las Recomendaciones Técnicas 7/2014 de la Dirección General de Ferrocarriles sobre procedimientos de control de los tiempos máximos de conducción. Agencia Estatal de Seguridad Ferroviaria(",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Continental Rail",
+        "texto": "Incorporar al SGS de Continental Rail las Recomendaciones Técnicas 7/2014 de la Dirección General de Ferrocarriles sobre procedimientos de control de los tiempos máximos de conducción."
       },
       {
         "numero": "52/2015-3",
-        "texto": "Se reitera la recomendación de la CIAF",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Continental Rail",
+        "texto": "Se reitera la recomendación de la CIAF 28/15-2: Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones tras un fallo humano, en función de la gravedad de éste."
       }
     ],
     "tags": [

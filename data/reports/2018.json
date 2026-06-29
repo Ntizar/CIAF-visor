@@ -3,16 +3,17 @@
     "id": "2018-0025/2018",
     "year": 2018,
     "expediente": "0025/2018",
-    "titulo": "IF 0025/2018 — El incidente por fallo en las instalaciones de seguridad, tiene lugar el día 1 de julio de 2018, a las 20:02",
+    "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0025/2018 OCURRIDO EL DÍA 01.07.2018 EN LA ESTACIÓN DE PEDRALBA (ZAMORA)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "fallo_seguridad",
     "gravedad": "muy grave",
     "fecha_suceso": "2018-07-01",
     "ubicacion": {
       "estacion": "Pedralba",
       "provincia": "Zamora",
       "lat": 39.55,
-      "lng": -0.7167
+      "lng": -0.7167,
+      "lugar": "Estación de Pedralba"
     },
     "entidades": [
       "ADIF",
@@ -30,13 +31,13 @@
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 1 de julio de 2018 en la estación de Pedralba (Zamora) que no provocó víctimas ni daños materiales. La causa principal fue el mal funcionamiento del enclavamiento debido a derivaciones en el cableado de señalización, que provocaron el encendido incorrecto de una señal de vía libre.",
-      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO. ................................................................................................................ 9\n2.1. SUCESO. ............................................................................................................................. 9\n2.1.1. Datos .................................................................................................................................. 9\n2.1.2. Descripción del suceso ......................................................................................................... 9\n2.1.3. Decisión de abrir la investigación ........................................................................................ 13\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 13\n2.2.1. Personal Ferroviario implicado ............................................................................................ 13\n2.2.2. Material rodante .............."
+      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO. ................................................................................................................ 9\n2.1. SUCESO. ............................................................................................................................. 9\n2.1.1. Datos .................................................................................................................................. 9\n2.1.2. Descripción del suceso ......................................................................................................... 9\n2.1.3. Decisión de abrir la investigación ........................................................................................ 13\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 13\n2.2.1. Personal Ferroviario implicado ............................................................................................ 13\n2.2.2. Material rodante ..............",
+      "causa_directa": "Mal funcionamiento del enclavamiento"
     },
     "conclusiones": [
-      "circulaciones de sentidos opuestos y dado que la normativa existente establece una condición de incompatibilidad en el establecimiento de este tipo de itinerarios se introduce la Recomendación Las medidas en curso tomadas por Adif son las siguientes:",
-      "Revisión y actualización de los descargadores existentes en el enclavamiento, Instalación de inhibidores de rayos para minimizar los efectos ocasionados por las tormentas eléctricas.",
-      "Ante el peligro que representa el hecho de que el enclavamiento permita el establecimiento de itinerarios de entrada simultáneos, para circulaciones de sentidos opuestos, desde la Dirección Técnica de ADIF se va a acometer un proyecto de mejora en enclavamientos eléctricos, para no permitir el establecimiento de este tipo de itinerarios de entrada. El Proyecto contempla numerosos enclavamientos a nivel Red. Esta actuación se encuentra en fase de recepción de ofertas de los Puesta en servicio del nuevo enclavamiento de la estación de Pedralba.",
-      "Respecto a la revisión de los hilos en servicio, dentro de las operaciones de mantenimiento de las instalaciones a las que dan servicio los cables, se toman y ajustan valores de tensión/consumo cuya tendencia/desviación es un indicador del estado en que se encuentra el cable."
+      "Causa directa: Mal funcionamiento del enclavamiento producido por derivaciones en los conductores de enlace que alimentaron eléctricamente la señal de entrada 2N, encendiendo su foco verde pese a estar fundido el fusible F2.",
+      "Factores coadyuvantes: Condiciones climatológicas adversas (tormenta) que pudieron provocar la fusión del fusible y derivaciones en el cableado.",
+      "Factores subyacentes: No se realizaron las revisiones a los cables de señalización conforme al Procedimiento Específico MIN-PE-IS-013, y la documentación de la estación no reflejaba adecuadamente la antigüedad y estado del cableado."
     ],
     "recomendaciones": [
       "Identificar aquellos enclavamientos que compartan hilos para servicios de mando y energía en el mismo multiconductor y proceder a su modificación si es necesario.",
@@ -89,16 +90,17 @@
     "id": "2018-0046/2018",
     "year": 2018,
     "expediente": "0046/2018",
-    "titulo": "IF 0046/2018 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2018 OCURRIDO EL DÍA 20.11.2018 EN LA LÍNEA 220 DE LLEIDA PIRINEUS A L´HOSPITALET DE LLOBREGAT, ENTRE LAS ESTACIONES DE VACARISSES Y VACARISSES-TORREBLANCA (BARCELONA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2018-11-20",
     "ubicacion": {
-      "estacion": "Vacarisses",
+      "estacion": "línea 220 de Lleida Pirineus a L'Hospitalet de Llobregat",
       "provincia": "Barcelona",
       "lat": 42.4984,
-      "lng": -6.5663
+      "lng": -6.5663,
+      "lugar": "p.k. 321+017, línea 220 de Lleida Pirineus a L'Hospitalet de Llobregat"
     },
     "entidades": [
       "ADIF",
@@ -118,19 +120,37 @@
     },
     "analisis": {
       "resumen": "El 20 de noviembre de 2018, un accidente ferroviario en Vacarisses provocó un fallecido y 52 heridos tras la colisión del tren con rocas desprendidas por el colapso de un muro de contención. La causa principal fue el fallo de la infraestructura debido al desmoronamiento del muro, agravado por la escorrentía de aguas pluviales y deficiencias en los procedimientos de mantenimiento y gestión de riesgos de Adif.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ........................................................................................................... 7\n2.1.\nSUCESO ................................................................................................................................ 7\n2.1.1.\nDatos ............................................................................................................................. 7\n2.1.2.\nDescripción del suceso .................................................................................................... 8\n2.1.3.\nDecisión de abrir la investigación ................................................................................... 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................ 12\n2.2.1.\nPersonal ferroviario ....................................................................................................... 12\n2.2.2.\nLos trenes y su composición .................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ........................................................................................................... 7\n2.1.\nSUCESO ................................................................................................................................ 7\n2.1.1.\nDatos ............................................................................................................................. 7\n2.1.2.\nDescripción del suceso .................................................................................................... 8\n2.1.3.\nDecisión de abrir la investigación ................................................................................... 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................ 12\n2.2.1.\nPersonal ferroviario ....................................................................................................... 12\n2.2.2.\nLos trenes y su composición ..................",
+      "causa_directa": "colisión con obstáculos (rocas) debido al desmoronamiento de un muro"
     },
     "conclusiones": [
-      "Como factor coadyuvante se considera la probable meteorización superficial del mortero de unión de los mampuestos agarre y la posible reducción del coeficiente de rozamiento entre los mampuestos y 4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria Como causa subyacente se determina la existencia del vertido de las aguas de drenaje de la carreta autonómica C-58 al sistema de drenaje de la vía resultando éste insuficiente y produciéndose la inundación de la vía.",
-      "Causas raíces relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad Como causas raíces se consideran:",
-      " La no aplicación de la ley del Sector Ferroviario (en su caso la Ley de Policía de Ferrocarriles y legislación posterior que la sustituye) respecto a la autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea, (zona de dominio público ferroviario y zona de protección) de la carretera C-58, su cruce con el ferrocarril y su infraestructura.",
-      " Insuficiencia de la ficha II Actuaciones frente a temporales de lluvia del Manual de Prevención y Gestión de Incidencias (anexo II al Plan de Contingencias) dadas las discrepancias de las predicciones con otras fuentes de datos meteorológicos y la inadecuación de las actuaciones a realizar ante el hecho acontecido"
+      "Causa directa: Colisión con obstáculos (rocas) producida por fallo de la infraestructura, al desmoronarse parcialmente un muro de revestimiento de mampostería careada que protegía el talud izquierdo de una trinchera.",
+      "Factor coadyuvante 1: Desbordamiento de la rejilla existente en la cuneta de la derecha de la carretera autonómica C-58 por aguas de escorrentía y su posterior caída sobre el talud ferroviario y el trasdós del muro.",
+      "Factor coadyuvante 2: Probable meteorización superficial del mortero de unión de los mampuestos y posible reducción del coeficiente de rozamiento entre los mampuestos y el mortero del muro.",
+      "Causa raíz 1: No aplicación de la ley del Sector Ferroviario respecto a la autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea (zona de dominio público y protección) de la carretera C-58.",
+      "Causa raíz 2: Insuficiencia de la ficha II 'Actuaciones frente a temporales de lluvia' del Manual de Prevención y Gestión de Incidencias de Adif, por discrepancias en predicciones meteorológicas y adecuación de actuaciones.",
+      "Causa raíz 3: Inadecuación de los procedimientos del Sistema de Gestión de la Seguridad en la Circulación (SGSC) de Adif relativos a la inspección y mantenimiento de la infraestructura, dada la falta de respuesta ante hechos constatados."
     ],
     "recomendaciones": [
       {
         "numero": "46/2018-1",
-        "texto": "Revisar la ficha II Actuaciones frente a temporales de lluvia del Manual de Prevención y Gestión de Incidencias (anexo II al Plan de Contingencias) dadas las discrepancias de las predicciones con otras fuentes de datos meteorológicos y su inadecuación ante el hecho acontecido, y los procedimientos del Sistema de Gestión de la Seguridad de",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+        "contenido": "Revisar la ficha II Actuaciones frente a temporales de lluvia del Manual de Prevención y Gestión de Incidencias y los procedimientos del Sistema de Gestión de la Seguridad de Adif (SGS) relativos a la inspección y mantenimiento de la infraestructura, dada la falta de respuesta ante los hechos constatados."
+      },
+      {
+        "numero": "46/2018-2",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+        "contenido": "Revisar la aplicación de la ley del Sector Ferroviario respecto a la autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea de la carretera C-58, su cruce con el ferrocarril y su infraestructura."
+      },
+      {
+        "numero": "46/2018-3",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+        "contenido": "Identificación de los muros de similares características que tengan agentes externos (otras infraestructuras o vertidos de aguas), como el de este caso, que puedan llegar a comprometer su estabilidad."
+      },
+      {
+        "numero": "46/2018-4",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+        "contenido": "Trasladar a la CCAA de la carretera C-58 la obligatoriedad de adecuar y mejorar su sistema de drenaje de forma que no se vierta agua de escorrentía a la infraestructura ferroviaria."
       }
     ],
     "tags": [

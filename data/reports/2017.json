@@ -3,16 +3,17 @@
     "id": "2017-0001/2017",
     "year": 2017,
     "expediente": "0001/2017",
-    "titulo": "IF 0001/2017 — El día 6 de enero de 2017 a las 20:57 horas, en plena vía (p.k",
+    "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0001/2017 OCURRIDO EL DÍA 06.01.2017 EN PLENA VÍA EN EL P.K. 477+265, DEL TRAYECTO NANCLARES-MANZANOS (ÁLAVA).",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-01-06",
     "ubicacion": {
-      "estacion": "Nanclares",
+      "estacion": ", en el trayecto Nanclares-Manzanos",
       "provincia": "Álava",
       "lat": 43.3224,
-      "lng": -1.9839
+      "lng": -1.9839,
+      "lugar": "En plena vía, en el trayecto Nanclares-Manzanos"
     },
     "entidades": [
       "ADIF",
@@ -30,38 +31,39 @@
     },
     "analisis": {
       "resumen": "El 6 de enero de 2017, en Nanclares (Álava), un tren de viajeros descarriló al circular por el trayecto Nanclares-Manzanos, provocando daños materiales en el tren y la infraestructura sin causar víctimas. La causa principal del accidente fue la rotura del carril derecho debido a una fisura transversal progresiva interna de origen interno, conocida como \"mancha oval\", producto de un defecto de fabricación.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 7\n2.1. SUCESO ....................................................................................................................................................... 7\n2.1.1.\nDatos .................................................................................................................................................... 7\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado ............................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 7\n2.1. SUCESO ....................................................................................................................................................... 7\n2.1.1.\nDatos .................................................................................................................................................... 7\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado .............................................................",
+      "causa_directa": "Rotura del carril derecho por defecto de fabricación"
     },
     "conclusiones": [
-      "La norma N.A.V. 7-4-0.1. en su apartado 4.1.1 “Control de estado de la vía” establece una diferenciación para la periodicidad de la prospección geométrica, en función del tráfico medido en millones de toneladas brutas remolcadas y/o la velocidad máxima de la línea, estableciendo en función de estos dos parámetros frecuencias de actuación cada 4, 6 o 12 meses. En referencia al control ultrasónico de la vía, esta misma norma establece que la periodicidad debe ser análoga a la prospección geométrica de la vía, lo que implica la aplicación de los principios de tráfico y velocidad.",
-      "Sin embargo, tanto el procedimiento operativo SGSC-PO-24.00.08 “Vigilancia del estado de la infraestructura y la vía” como el SGSC-PO-24.00.09 “Auscultación de vía en red convencional”, no tienen en cuenta los criterios de tráfico y velocidad definidos en la NAV al fijar los criterios de periodicidad de las vigilancias y auscultaciones que recogen los citados procedimientos Por otro lado en lo concerniente a la vigilancia a pie, la norma N.A.V. 7-4-1.1. “Inspección de vía. Operaciones de vigilancia en los recorridos a pie”, establece en su punto 2.1 “periodicidad de los recorridos” que las vigilancias deberán de realizarse una vez al mes como media, independientemente de las que se deban efectuar en casos de inundaciones, nevadas, altas o bajas temperaturas, etc.",
-      "No obstante el SGSC-PO-24.00.08 “Vigilancia del estado de la infraestructura y la vía”, establece que la vigilancia a pie de la superestructura en plena vía, se efectuará de forma"
+      "Causa directa: Fallo de la infraestructura debido a la rotura del carril derecho por un defecto de fabricación (enfriamiento rápido en laminación) que ocasionó una fisura transversal progresiva de origen interno ('mancha oval').",
+      "Factor coadyuvante: Antigüedad del carril (49 años en vía, 53 años desde laminación), favoreciendo la evolución de fisuras por fatiga.",
+      "Causa subyacente (i): Las labores de vigilancia (a pie y en cabina) conforme al procedimiento SGSC-PO-24.00.08 no detectaron las anomalías, aunque son difíciles de detectar.",
+      "Causa subyacente (ii): Las auscultaciones ultrasónicas de 2015 y 2016 (procedimiento SGSC-PO-24.00.09) no detectaron el defecto interno del carril.",
+      "Causa subyacente (iii): No se realizó auscultación ultrasónica de carril en 2014.",
+      "Causa subyacente (iv): En 2011, 2012 y 2013 se detectó un defecto (mancha oval) en el punto kilométrico del suceso, pero no se actuó de manera eficaz para subsanarlo.",
+      "Causa raíz (i): El procedimiento operativo de auscultación ultrasónica (SGSC-PO-24.00.09) resultó ineficaz en 2015 y 2016 para detectar la anomalía.",
+      "Causa raíz (ii): Los procedimientos operativos de mantenimiento carecían de mecanismos adecuados dentro del Sistema de Gestión de la Seguridad (SGS) para supervisar la trazabilidad de la gestión de acciones correctivas sobre defectos detectados."
     ],
     "recomendaciones": [
       {
         "numero": "01/17-1",
-        "texto": "Se reitera la recomendación nº",
-        "implementador": ""
-      },
-      {
-        "numero": "43/16-1",
-        "texto": "realizada por la Ciaf en el informe 43/2016 de Busdongo, consistente en: “Adoptar las medidas necesarias a nivel procedimental, técnico y de equipos tanto humanos como materiales, con el objeto de conocer, al realizar las auscultaciones ultrasónicas de carril, incluyendo los aparatos de vía, el estado interno de los mismos y detectar de manera eficaz los defectos que puedan desembocar en una rotura posterior del carril.” Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+        "contenido": "Se reitera la recomendación nº 43/16-1: Adoptar las medidas necesarias a nivel procedimental, técnico y de equipos (humanos y materiales) para conocer, al realizar las auscultaciones ultrasónicas de carril (incluyendo aparatos de vía), el estado interno de los mismos y detectar de manera eficaz los defectos que puedan desembocar en una rotura posterior."
       },
       {
         "numero": "01/17-2",
-        "texto": "Reforzar la trazabilidad de los registros relativos a las acciones de mantenimiento y de las comunicaciones entre la Subdirección de vía y las gerencias de mantenimiento. SUBSECRETARÍA Investigación del accidente nº 0001/2017 ocurrido el 06.01.2017 180718-170106-IF.doc",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+        "contenido": "Reforzar la trazabilidad de los registros relativos a las acciones de mantenimiento y de las comunicaciones entre la Subdirección de vía y las gerencias de mantenimiento."
       },
       {
         "numero": "01/17-3",
-        "texto": "Adoptar las medidas necesarias para que se lleven a cabo las auscultaciones ultrasónicas dentro de los plazos establecidos en el procedimiento operativo correspondiente, incluyendo las actuaciones o medidas complementarias a adoptar para la explotación segura en caso de indisponibilidad de los medios de auscultación. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+        "contenido": "Adoptar las medidas necesarias para que se lleven a cabo las auscultaciones ultrasónicas dentro de los plazos establecidos en el procedimiento operativo correspondiente, incluyendo actuaciones complementarias para la explotación segura en caso de indisponibilidad de medios."
       },
       {
         "numero": "01/17-4",
-        "texto": "Modificar los procedimientos específicos referentes a mantenimiento, de forma que las fichas con los registros resultantes de las operaciones de mantenimiento, se conserven al menos durante el período en el que los carriles estén en servicio. Madrid, 18 de julio de 2018",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+        "contenido": "Modificar los procedimientos específicos de mantenimiento para que las fichas con los registros de las operaciones se conserven al menos durante el período en el que los carriles estén en servicio."
       }
     ],
     "tags": [
@@ -101,16 +103,17 @@
     "id": "2017-0007/2017",
     "year": 2017,
     "expediente": "0007/2017",
-    "titulo": "IF 0007/2017 — El incidente tiene lugar el día 15 de enero de 2017 a las 12:42 horas, en la estación de Arahal, pk",
+    "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 007/2017 OCURRIDO EL DÍA 15.01.2017 EN LA ESTACIÓN DE ARAHAL (SEVILLA)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "otro_incidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-01-15",
     "ubicacion": {
       "estacion": "Arahal",
       "provincia": "Sevilla",
       "lat": 37.2667,
-      "lng": -5.55
+      "lng": -5.55,
+      "lugar": "Estación de Arahal"
     },
     "entidades": [
       "ADIF",
@@ -124,13 +127,12 @@
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 15 de enero de 2017 en la estación de Arahal (Sevilla) debido a la entrada del tren 13903 por vía desviada a una velocidad superior a la permitida. La causa principal fue el fallo humano del maquinista, quien no respetó las señales de precaución y parada, provocando un fuerte desplazamiento lateral del tren. Como consecuencia, no hubo daños materiales, pero seis viajeros sufrieron contusiones leves que no requirieron atención médica inmediata.",
-      "descripcion": ""
+      "descripcion": "",
+      "causa_directa": "Fallo humano del maquinista al no respetar las señales"
     },
     "conclusiones": [
-      "Con fecha marzo de 2017, a la vista de las peculiares condiciones que presenta el acceso a la estación de Arahal lado Fuente de Piedra, ADIF de forma cautelar ha implantado una limitación temporal de velocidad máxima a 80 km/hora dotado de baliza ASFA, para regular y controlar la velocidad de circulación en este tramo a la entrada de la estación.",
-      "En base a lo dispuesto en el RD1011/2017, que modifica el RCF, ADIF ha presentado a la AESF un “Plan de mejora de los equipamientos de seguridad en la red” que recoge la eliminación de los bloqueos telefónicos como el existente en el tramo Arahal – Fuente de Piedra que debe estar eliminado antes de enero de 2021. En base a ello, ADIF ha procedido a la redacción del Proyecto “B.L.A.U. con C.T.C. en el tramo Arahal – Fuente Piedra” que se encuentra en la actualidad en fase de supervisión. Concluida esta fase se aprobará técnicamente y se licitará la ejecución de las obras correspondientes.",
-      "Se le aplica al maquinista del tren 13903 la Circular Operativa nº 1, según se especifica en el apartado 3.2.2.3.3. de este informe.",
-      "El nuevo RCF, artículo 1.1.1.7 obliga, cuando la infraestructura no esté equipada con un sistema de protección del tren, a una dotación mínima en la cabina de conducción de un maquinista y una segunda persona debidamente habilitada, salvo que la empresa ferroviaria establezca en su"
+      "Fallo humano del maquinista del tren de viajeros de media distancia 13903 de RENFE VIAJEROS, cuando entra por vía desviada en la estación de Arahal a velocidad muy superior a la máxima permitida, no respetando lo ordenado por las señales: señal avanzada E’1, en indicación de anuncio de precaución y señal de entrada E1, en anuncio de parada, incumpliendo lo establecido, respectivamente, en el artículo 211 y en el artículo 213 del RGC.",
+      "Inexistencia en el tramo Arahal – Fuente de Piedra de la línea 422 de un sistema de protección del tren que mitigue los posibles errores debidos al factor humano."
     ],
     "recomendaciones": [
       {
@@ -165,22 +167,24 @@
       "2017-0040/2017",
       "2017-0020/2017"
     ],
-    "tramo": "422 Bifurcación de Utrera a Fuente de Piedra"
+    "tramo": "422 Bifurcación de Utrera a Fuente de Piedra",
+    "pk": "27+019"
   },
   {
     "id": "2017-0012/2017",
     "year": 2017,
     "expediente": "0012/2017",
-    "titulo": "IF 0012/2017 — El día 13 de febrero de 2017, a las 22:10 horas, el tren de viajeros de media distancia 17025 de la",
+    "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0012/2017 ocurrido el día 13.02.2017 en el paso a nivel clase A (PK 90+594) en el término municipal de Santo Domingo-Caudilla (Toledo)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-02-13",
     "ubicacion": {
-      "estacion": "Santo Domingo-Caudilla",
+      "estacion": "Paso a nivel clase A",
       "provincia": "Toledo",
       "lat": 38.8190843,
-      "lng": -5.1183293
+      "lng": -5.1183293,
+      "lugar": "Paso a nivel clase A (PK 90+594)"
     },
     "entidades": [
       "ADIF",
@@ -200,23 +204,25 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 13 de febrero de 2017 en el paso a nivel de Santo Domingo-Caudilla (Toledo), que provocó una víctima mortal y daños materiales en el tren. La causa principal fue la invasión del gálibo por parte de un vehículo detenido sin luces en la vía. Como causa raíz se identificó la deficiente señalización del camino de acceso, responsabilidad del ayuntamiento titular.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ........................................................................................................................................................... 6\n2.1.2. Descripción del suceso ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación ................................................................................................................. 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ............................"
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ........................................................................................................................................................... 6\n2.1.2. Descripción del suceso ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación ................................................................................................................. 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ............................",
+      "causa_directa": "Invasión del gálibo de libre paso de la vía por parte del vehículo de carretera."
     },
     "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, se 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por parte del vehículo de carretera. Éste se encontraba detenido y sin luces en la zona central del paso a nivel cuando el tren se aproximaba y siguió allí hasta ser arrollado.",
-      "Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria El paso a nivel no disponía de toda la señalización fija vertical en el camino, no cumpliéndose lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001. (Recomendación 12/17-1) 4.3.3. Causas raíces relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad La investigación de este accidente ha detectado deficiencias reseñables en la señalización viaria del paso a nivel. Asimismo, se tiene conocimiento de otros sucesos en los que confluyen las mismas circunstancias de una señalización viaria deficiente y no conforme a la normativa vigente.",
-      "Por otro lado, los ayuntamientos son generalmente los titulares de dichos caminos y por tanto responsables de su señalización. Se considera que la limitación en los recursos económicos disponibles"
+      "El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por parte del vehículo de carretera.",
+      "El vehículo se encontraba detenido y sin luces en la zona central del paso a nivel cuando el tren se aproximaba.",
+      "Como causa subyacente se indica que el paso a nivel no disponía de toda la señalización fija vertical en el camino, no cumpliéndose lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001.",
+      "Como causa raíz se indica que los ayuntamientos son generalmente los titulares de dichos caminos y por tanto responsables de su señalización."
     ],
     "recomendaciones": [
       {
         "numero": "12/17-1",
-        "texto": "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Ayuntamiento de Santo Domingo-Caudilla",
+        "contenido": "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel."
       },
       {
         "numero": "12/17-2",
-        "texto": "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o bien la Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en lo relativo al estado de los caminos de acceso a éstos y su conservación. Madrid, 24 de abril de 2018",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "contenido": "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o bien la Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en lo relativo al estado de los caminos de acceso a éstos y su conservación."
       }
     ],
     "tags": [
@@ -243,7 +249,7 @@
       "2017-0035/2017"
     ],
     "hora": "22:10",
-    "pk": null,
+    "pk": "90+594",
     "tramo": "500 Bifurcación Planetario a Valencia de Alcántara",
     "trenes": [
       {
@@ -262,16 +268,17 @@
     "id": "2017-0020/2017",
     "year": 2017,
     "expediente": "0020/2017",
-    "titulo": "IF 0020/2017 — El incidente que se investiga tuvo lugar el día 23 de marzo de 2017, a las 10:59 horas en la estación",
+    "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0020/2017 OCURRIDO EL DÍA 23.03.2017 EN LA ESTACIÓN DE MADRID CHAMARTÍN (MADRID)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "rebase_senal",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-03-23",
     "ubicacion": {
-      "estacion": "Madrid Chamartín",
+      "estacion": "Estación Madrid Chamartín",
       "provincia": "Madrid",
       "lat": 40.4726,
-      "lng": -3.6825
+      "lng": -3.6825,
+      "lugar": "Estación Madrid Chamartín"
     },
     "entidades": [
       "ADIF",
@@ -289,10 +296,13 @@
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 23 de marzo de 2017 en la estación de Madrid Chamartín, donde un tren de cercanías rebasó indebidamente una señal de parada con riesgo de colisión, sin causar víctimas ni daños materiales. La causa principal fue un déficit de atención del maquinista, que utilizó la velocidad prefijada en lugar de la conducción manual, incumpliendo los procedimientos de seguridad establecidos.",
-      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.............................................................................................................. 6\n2.1. SUCESO............................................................................................................................6\n2.1.1. Datos............................................................................................................................ 6\n2.1.2. Descripción del suceso................................................................................................... 7\n2.1.3. Decisión de abrir la investigación.................................................................................. 10\n2.2. CIRCUNSTANCIAS DEL SUCESO....................................................................................10\n2.2.1. Personal Ferroviario implicado ...................................................................................... 10\n2.2.2. Material rodante ....................................................."
+      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.............................................................................................................. 6\n2.1. SUCESO............................................................................................................................6\n2.1.1. Datos............................................................................................................................ 6\n2.1.2. Descripción del suceso................................................................................................... 7\n2.1.3. Decisión de abrir la investigación.................................................................................. 10\n2.2. CIRCUNSTANCIAS DEL SUCESO....................................................................................10\n2.2.1. Personal Ferroviario implicado ...................................................................................... 10\n2.2.2. Material rodante .....................................................",
+      "causa_directa": "Rebase indebido de señal S1/10 en indicación de parada"
     },
     "conclusiones": [
-      "En los cursos de formación o reciclaje impartidos al personal de conducción, conocimiento de la infraestructura, debe mantener constantemente la atención a incompatibilidades entre itinerarios por deslizamiento en salidas hacia la travesía Establecer dentro del SGS de ADIF los procedimientos generales y específicos alcance y nivel de detalle a seguir en la elaboración de las Consignas que regulan la operatividad (Consignas A) en base al análisis de riesgo previamente realizado"
+      "El incidente consistió en el rebase indebido de señal por parte del tren 31116, con posibilidad de colisión con el tren 91963.",
+      "Causa directa e inmediata: Rebase indebido de la señal de salida S1/10 y la señal S1/10A, incumpliendo el Reglamento de Circulación Ferroviaria, debido a un déficit de atención por falta de percepción del riesgo.",
+      "Factor subyacente: Uso inapropiado de la velocidad prefijada por el maquinista del tren 31116, incumpliendo el Libro de Normas del Maquinista."
     ],
     "recomendaciones": [
       {
@@ -365,16 +375,17 @@
     "id": "2017-0024/2017",
     "year": 2017,
     "expediente": "0024/2017",
-    "titulo": "IF 0024/2017 — (DESCARRILAMIENTO) Nº 0024/2017",
+    "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0024/2017 OCURRIDO EL DÍA 12.05.2017 EN EL DESVÍO 514 DE LA ESTACIÓN (PAB) DE BRAZATORTAS (CIUDAD REAL) EN EL P.K. 225+965, LÍNEA 010 MADRID PUERTA DE ATOCHA A SEVILLA SANTA JUSTA.",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-05-12",
     "ubicacion": {
-      "estacion": "Brazatortas",
+      "estacion": "Puesto de Bloqueo y Adelantamiento (PBA) de Brazatortas",
       "provincia": "Ciudad Real",
       "lat": 40.4065,
-      "lng": -3.692
+      "lng": -3.692,
+      "lugar": "Puesto de Bloqueo y Adelantamiento (PBA) de Brazatortas"
     },
     "entidades": [
       "ADIF",
@@ -392,31 +403,32 @@
     },
     "analisis": {
       "resumen": "El 12 de mayo de 2017, el tren AVE 0043 descarriló en el desvío 514 de la estación de Brazatortas (Ciudad Real) debido a la rotura por fatiga de la punta móvil del corazón del cruzamiento. El incidente no causó víctimas mortales ni heridos, aunque provocó daños materiales significativos en el material rodante y la infraestructura. La causa principal se atribuye a un fallo de la infraestructura, agravado por deficiencias en los procedimientos de mantenimiento y supervisión de los aparatos de vía.",
-      "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................7\n2.1. SUCESO.......................................................................................................................................................7\n2.1.1.\nDatos....................................................................................................................................................7\n2.1.2.\nDescripción del suceso......................................................................................................................7\n2.1.3.\nDecisión de abrir la investigación....................................................................................................9\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado......................................................................"
+      "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................7\n2.1. SUCESO.......................................................................................................................................................7\n2.1.1.\nDatos....................................................................................................................................................7\n2.1.2.\nDescripción del suceso......................................................................................................................7\n2.1.3.\nDecisión de abrir la investigación....................................................................................................9\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado......................................................................",
+      "causa_directa": "Rotura de la punta móvil del corazón del cruzamiento del desvío 514"
     },
     "conclusiones": [
-      "OBSERVACIONES ADICIONALES En el proceso de investigación de este suceso se ha detectado que tras producirse el descarrilamiento del tren 0043 el 12.05.2017 no se realizaron mediciones, por parte de la empresa ferroviaria, de los parámetros de rodadura del tren de forma inmediata como se recoge en los procedimientos (sin ser en este caso relevante).",
-      "Por otro lado, tras el descarrilamiento tampoco se llevaron a cabo las operaciones para realizar las mediciones, por parte de Adif, de los parámetros de vía en la zona anterior y posterior al punto cero del descarrilamiento (sin ser en este caso relevante).",
-      "Actuaciones inmediatas tras el suceso.",
-      "Se contrata y programa por parte de Adif una campaña para la realización de auscultaciones ultrasónicas de aparatos de vía con equipos manuales con tecnología phased array. Estos equipos manuales incluyen la última evolución tecnológica y presentan la posibilidad de disponer de información del estado interno de los desvíos de punta móvil, incluidas las agujas.",
-      "Se realiza una primera campaña entre los días 23.05.2017 y 22.09.2017. Se detectaron daños en corazones y agujas que obligaron a implantar limitaciones temporales de velocidad máxima en las estaciones de Mora, Urda, Malagón, Ciudad Real, Calatrava, Venta La Inés, Villanueva, Hornachuelos y Guadajoz.",
-      "Se realizó una segunda campaña de auscultaciones en los días 31.10.2017 y 17.11.2017, que"
+      "Causa directa: Fallo de la infraestructura debido a la rotura de la punta móvil del corazón del cruzamiento del desvío 514, provocada por una rotura por plano transversal iniciado en la zona del patín, con progresión de microfisuras internas por fatiga.",
+      "Causa subyacente (i): Las operaciones de mantenimiento no eran adecuadas para detectar defectos internos en los carriles de los aparatos de vía al no emplearse la auscultación adecuada.",
+      "Causa subyacente (ii): No implantación por parte de Adif desde 1992 de un programa de estudio, supervisión y seguimiento específico del estado y evolución de los aparatos de vía.",
+      "Causa subyacente (iii): No adopción de medidas adecuadas en los planes de mantenimiento para la detección y tratamiento de defectos internos en los aparatos de vía.",
+      "Causa raíz (i): Falta de consistencia de los criterios de seguridad en el cuerpo normativo (procedimientos, normas técnicas, mantenimiento y contratos) para inspecciones, auscultaciones y sustituciones.",
+      "Causa raíz (ii): Posible fallo organizativo en las funciones y responsabilidades de la vigilancia y control de mantenimiento de los desvíos, delegadas en la contratación externa."
     ],
     "recomendaciones": [
       {
-        "numero": "24/17-1",
-        "texto": "Establecer una metodología adecuada para que en las labores de mantenimiento se pueda conocer la evolución del estado interno de los carriles de los aparatos de vía, de manera que se puedan detectar preventivamente los defectos internos y actuar en consecuencia. Aplicar dichos métodos en las redes de alta velocidad y convencional. Incluir dicha metodología dentro de los procedimientos e instrucciones técnicas comprendidas en el sistema de gestión de la seguridad (SGS) y se trasladen sus requisit",
-        "implementador": ""
+        "id": "24/17-1",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+        "contenido": "Establecer una metodología adecuada para que en las labores de mantenimiento se pueda conocer la evolución del estado interno de los carriles de los aparatos de vía, detectando preventivamente defectos internos. Aplicar dichos métodos en redes de alta velocidad y convencional. Incluir dicha metodología dentro de los procedimientos e instrucciones técnicas del SGS y trasladar sus requisitos a pliegos y contratos de mantenimiento."
       },
       {
-        "numero": "24/17-2",
-        "texto": "Estudiar desde el punto de vista técnico- científico la conveniencia de definir un ciclo de vida útil para los distintos elementos que componen los aparatos de vía. Considerar en su caso la experiencia de otros países al respecto. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "id": "24/17-2",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+        "contenido": "Estudiar desde el punto de vista técnico-científico la conveniencia de definir un ciclo de vida útil para los distintos elementos que componen los aparatos de vía, considerando la experiencia de otros países."
       },
       {
-        "numero": "24/17-3",
-        "texto": "Realizar un estudio detallado de la evolución de los estados internos de los distintos elementos de los aparatos de vía en función de su uso, con el fin de conocer el comportamiento de los mismos y poder anticipar medidas correctoras ante los posibles fallos que pudieran producirse en dichos elementos. Considerar en su caso la experiencia de otros países al respecto. SUBSECRETARÍA Investigación del accidente nº 0024/2017 ocurrido el 12.05.2017 190125-170512-IF_CIAF.doc Madrid, 25 de enero de 201",
-        "implementador": ""
+        "id": "24/17-3",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+        "contenido": "Realizar un estudio detallado de la evolución de los estados internos de los distintos elementos de los aparatos de vía en función de su uso, para conocer su comportamiento y anticipar medidas correctoras, considerando la experiencia de otros países."
       }
     ],
     "tags": [
@@ -462,16 +474,17 @@
     "id": "2017-0025/2017",
     "year": 2017,
     "expediente": "0025/2017",
-    "titulo": "IF 0025/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la Comisión",
+    "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2017 OCURRIDO EL DÍA 23.05.2017 EN LAS PROXIMIDADES DE LA ESTACIÓN DE INOSO-OIARDO (ÁLAVA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-05-23",
     "ubicacion": {
-      "estacion": "Urcabustaiz",
+      "estacion": "Inoso-Oiardo",
       "provincia": "Álava",
       "lat": 42.9527247,
-      "lng": -2.8985342
+      "lng": -2.8985342,
+      "lugar": "Proximidades de la estación de Inoso-Oiardo"
     },
     "entidades": [
       "ADIF",
@@ -490,26 +503,23 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 23 de mayo de 2017 en las proximidades de la estación de Inoso-Oiardo (Álava), que provocó el descarrilamiento de un vagón sin causar víctimas. La causa principal se atribuye a un fallo técnico por rotura de la suspensión del material rodante, agravado por un plan de mantenimiento inadecuado para las condiciones de explotación.",
-      "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................6\n2.1. SUCESO.......................................................................................................................................................6\n2.1.1.Datos...........................................................................................................................................................6\n2.1.2.Descripción del suceso.................................................................................................................................6\n2.1.3.Decisión de abrir la investigación...............................................................................................................10\n2.2. CIRCUNSTANCIAS DEL SUCESO..........................................................................................................10\n2.2.1.Personal ferroviario implicado............................................."
+      "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................6\n2.1. SUCESO.......................................................................................................................................................6\n2.1.1.Datos...........................................................................................................................................................6\n2.1.2.Descripción del suceso.................................................................................................................................6\n2.1.3.Decisión de abrir la investigación...............................................................................................................10\n2.2. CIRCUNSTANCIAS DEL SUCESO..........................................................................................................10\n2.2.1.Personal ferroviario implicado.............................................",
+      "causa_directa": "Fallo técnico del material rodante"
     },
     "conclusiones": [
-      "En aplicación del Procedimiento General SGS-PG12 (Gestión de los certificados y las habilitaciones del personal que realiza labores relacionadas con la seguridad en la circulación), el Director de Seguridad de Low Cost Rail acuerda, el 24 de mayo de 2017, instruir un expediente informativo al maquinista.",
-      "Con fecha 28 de mayo de 2017, tras la información facilitada por maquinista y revisado su expediente personal, el Director de Seguridad de Low Cost Rail cierra el expediente informativo, “sin otras consecuencias que las de apercibir a todo el personal de conducción sobre la necesidad de que extremen su diligencia en la prestación de sus servicios de conducción”.",
-      "Por parte de Transfesa.",
-      "Teniendo en cuenta los últimos descarrilamientos ocurridos en Portugal, desde el pasado 3/05/2018 Transfesa como EEM certificada según el Reglamento 445/2011 y asociada a estos vagones tipo Laagrss ha tomado la decisión de proceder, antes de la salida del tren, a la inspección de los órganos de suspensión que forman parte de todos los vagones que en la actualidad desarrollan el tráfico Constanti e Alfarelos – TMIP, y complementariamente a las que deben realizar las empresas ferroviarias a la salida del tren.",
-      "Este tipo de inspección, se está llevando a cabo en los puntos Alfarelos (Portugal) y Constanti (España) y bajo las consistencias referidas en la Norma Técnica de Mantenimiento DT-NTM.001-14 que forma parte del Sistema de Gestión de Mantenimiento de Transfesa como EEM.",
-      "Adicionalmente, Transfesa (EEM) va a realizar a modo de investigación y medida preventiva"
+      "Como posible causa del descarrilamiento, sin poderse aseverar, se puede apuntar un fallo técnico del material rodante, debido a la rotura de la hoja maestra y su adyacente de la ballesta de la suspensión del lado izquierdo del 2º eje del vagón 43 71 4 378 118-9 que ocupaba el 5º lugar, en el sentido de la marcha.",
+      "Como causa subyacente se determina que este tipo de vagones, explotados parcialmente en régimen de alquiler, pueden estar soportando nuevos tráficos, de características distintas a las habituales, y circulando por líneas de diferente trazado, haciendo no efectivas las intervenciones programadas en su actual plan de mantenimiento."
     ],
     "recomendaciones": [
       {
         "numero": "25/17-1",
-        "texto": "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos. Agencia Estatal de Seguridad Ferroviaria TRANSFESA - Empresa Operadora",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria / TRANSFESA - Empresa Operadora",
+        "contenido": "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos."
       },
       {
         "numero": "25/17-2",
-        "texto": "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos. Madrid, 19 de diciembre de 2018",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria / TRANSFESA - Empresa Operadora",
+        "contenido": "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos."
       }
     ],
     "tags": [
@@ -533,7 +543,7 @@
       "2017-0035/2017"
     ],
     "hora": "12:29",
-    "pk": null,
+    "pk": "183+815",
     "tramo": "línea 700 Intermodal Abando Indalecio Prieto a Casetas",
     "trenes": [
       {
@@ -552,16 +562,17 @@
     "id": "2017-0030/2017",
     "year": 2017,
     "expediente": "0030/2017",
-    "titulo": "IF 0030/2017 — El día 13 de julio de 2017 a las 17:43 horas en el p",
+    "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2017 OCURRIDO EL DÍA 13.07.2017 EN CAPÇANES (TARRAGONA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-07-13",
     "ubicacion": {
       "estacion": "Capçanes",
       "provincia": "Tarragona",
       "lat": 39.0332,
-      "lng": -0.2152
+      "lng": -0.2152,
+      "lugar": "Capçanes"
     },
     "entidades": [
       "ADIF",
@@ -580,15 +591,26 @@
     },
     "analisis": {
       "resumen": "El 13 de julio de 2017 en Capçanes (Tarragona) se produjo un descarrilamiento de seis vagones de un tren de mercancías que no causó víctimas, aunque generó importantes daños materiales. La causa principal fue la deformación de la vía, resultado de tensiones residuales y factores ambientales, agravada por el incumplimiento de los procedimientos de vigilancia y auscultación geométrica por parte de Adif.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado ............................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado .............................................................",
+      "causa_directa": "Fallo de la infraestructura por deformación de la vía"
     },
     "conclusiones": [
-      "Desde la fecha del suceso Adif ha acometido actuaciones concretas y puntuales en la línea 210, en el tramo comprendido entre Flix y Reus, con el fin de minimizar los sucesos que por fallo de la infraestructura se venían sucediendo.",
-      "Así pues, hasta agosto de 2019 se han realizado actuaciones de mejora en los túneles nº 73 (L´Argentera), 50 (Flix) y también en los 51, 52, 53, 62, 63 y 77. Se han sustituido carril y traviesas en 800 m en Capsanes y traviesas en 1.230 metros entre Els Guiamets y Falset. Se ha mejorado el trazado (alineación y nivelación con maquinaria pesada) entre Flix y Reus y nivelación de desvíos en las estaciones de Les Borges del Camp, Riudecanyes y Marça-Falset. Se han sustituido desvíos en las estaciones de Ascó y Flix. También se ha realizado tratamiento de trincheras en 485 metros en el ámbito de Ascó y Riudecanyes.",
-      "Está previsto continuar con trabajos de mejora en las anualidades 2019 y 2020 que comprenden: sustitución de desvíos en Ascó; la renovación de determinadas vías en Reus y Ascó; sustitución de traviesas en determinadas zonas y puntos; sustitución de carril en 19.000 metros y el tratamiento de trincheras en Ascó, Guiamets y Riudecanyes. Asimismo, está previsto la redacción del proyecto constructivo para la rehabilitación parcial de vía y otros túneles entre Faió y Reus.",
-      "Con anterioridad a este suceso, la Agencia Estatal de Seguridad Ferroviaria (en adelante AESF), realizó una auditoría del “Plan de mantenimiento preventivo en el ámbito territorial de la Jefatura Provincial de"
+      "El accidente por descarrilamiento se produce por fallo de la infraestructura, y más concretamente por la deformación de la vía, como consecuencia de la suma de una serie de posibles factores: existencia de tensiones tras la sustitución de carril un año antes; tensiones en carril tras la reposición de la obra de fábrica; retirada de la LTV tres días antes del suceso; elevada temperatura el día anterior al suceso y falta de material en los hombros de la banqueta de balasto.",
+      "Como causa subyacente se señala el mal estado general de la infraestructura en el tramo comprendido entre Flix y Reus, que ha dado lugar a un relativamente elevado número de sucesos por un mantenimiento deficiente.",
+      "Como causa raíz se señala el incumplimiento de los procedimientos del Sistema de Gestión de La Seguridad en la Circulación de Adif, por la falta de vigilancias a pie (infraestructura y superestructura) en la zona y la no realización de auscultación geométrica."
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      {
+        "numero": "30/2017 - 1",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+        "contenido": "Se reitera la recomendación 10/2016-1: Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura."
+      },
+      {
+        "numero": "30/2017 - 2",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+        "contenido": "Se reitera la recomendación 10/2016-2: Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia."
+      }
+    ],
     "tags": [
       "accidente",
       "descarrilamiento",
@@ -630,16 +652,17 @@
     "id": "2017-0043/2017",
     "year": 2017,
     "expediente": "0043/2017",
-    "titulo": "IF 0043/2017 — El día 25 de julio de 2017 en la estación de Torralba (Soria) de la línea 200 Madrid Chamartín a",
+    "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0043/2017 ocurrido el día 25.07.2017 en la estación de Torralba (Soria)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "rebase_senal",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-07-25",
     "ubicacion": {
       "estacion": "Torralba",
       "provincia": "Soria",
       "lat": 41.7636,
-      "lng": -2.4649
+      "lng": -2.4649,
+      "lugar": "Estación de Torralba"
     },
     "entidades": [
       "ADIF",
@@ -657,24 +680,28 @@
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 25 de julio de 2017 en la estación de Torralba (Soria) consistió en el rebase indebido de una señal y la posterior deriva de una locomotora aislada, sin causar víctimas ni daños materiales. La causa principal fue la falta de atención del personal de conducción al rebasar la señal, agravada por la rotura de la transmisión cardan del compresor que inutilizó el freno automático. Como factores subyacentes se identificaron la circulación con el sistema ASFA desconectado y la insuficiente aplicación del freno de estacionamiento sin uso de calces antideriva.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2. Descripción del suceso .......................................................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ................"
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2. Descripción del suceso .......................................................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ................",
+      "causa_directa": "Rebase indebido de la señal de entrada E1"
     },
     "conclusiones": [
-      "Si bien en este suceso no ha tenido transcendencia alguna, resulta propenso a errores el haber cambiado la numeración original de la serie de la locomotora y dar un número de material auxiliar contradiciendo las directivas y reglamentos de la UE que han sido recopilados y presentada su aplicación por la AESF como la Resolución 1/2019.",
-      "Con respecto al personal de conducción Al maquinista de Ferrovial Railway con título de conducción B se le suspendió de la conducción tras el suceso y, estando prevista la aplicación del procedimiento SGS-FR-P09 relativo a gestión de títulos habilitantes, mediante jornada de reciclaje y acompañamiento de trenes, causó baja en la empresa el 16 de agosto de 2017.",
-      "Al conductor de la maquinaría de vía con habilitación de operador de maquinaria de infraestructura (OMI) se le retiró del servicio de conducción hasta la fecha de su declaración ante Adif, en espera de la resolución que esta entidad tomara con respecto a su habilitación, pues es el otorgante de la misma. Realizada la declaración el 28 de julio de 2017 en Madrid y sin que Adif necesitara tomar ninguna medida restrictiva, se le devolvió a su servicio de OMI.",
-      "No obstante desde ese momento la EF realiza los traslados de maquinaria de vía autopropulsada con personal habilitado como OMI de la máquina a trasladar y, además, con licencia de conducción, lo que asegura el conocimiento por parte del agente de las condiciones de circulación y de los equipos de seguridad embarcados, especialmente de tos equipos del sistema ASFA."
+      "El rebase indebido de la señal de entrada E1 de la estación de Torralba se produce por no mantener la debida atención al aspecto de dicha señal por parte del personal de conducción (maquinista y OMI).",
+      "La deriva se produjo por fallo del material rodante, concretamente por la rotura producida en la transmisión cardan del motor diésel al compresor de freno, lo que propició que el freno automático de la locomotora quedara inoperativo antes del tiempo establecido en sus prestaciones, por la existencia de fugas en el circuito neumático.",
+      "Como causa subyacente, para el primer suceso, se considera que la locomotora circuló con el sistema ASFA analógico desconectado desde origen.",
+      "Como causa subyacente, del segundo suceso, se considera que en la estación no se asegura la locomotora suficientemente con el freno de estacionamiento.",
+      "Otra causa subyacente es la no inclusión de la revisión de la transmisión cardan, dentro del alcance de las intervenciones programadas en el plan de mantenimiento de la locomotora."
     ],
     "recomendaciones": [
       {
         "numero": "43/2017-1",
-        "texto": "En la formación impartida al personal de conducción, debe insistirse en la importancia de: - mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía. - la obligatoriedad de circular con el sistema ASFA y el registrador de seguridad conectados desde origen. - la colocación de calces antideriva en este tipo de locomotoras ante cualquier problema detectado en el freno automático. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Empresa Ferrovial Railway",
+        "contenido": "En la formación impartida al personal de conducción, debe insistirse en la importancia de: mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía; la obligatoriedad de circular con el sistema ASFA y el registrador de seguridad conectados desde origen; la colocación de calces antideriva en este tipo de locomotoras ante cualquier problema detectado en el freno automático."
       },
       {
         "numero": "43/2017-2",
-        "texto": "Incluir en el manual de conducción de este tipo de locomotoras la obligatoriedad de la colocación de calces antideriva en los casos de paradas prolongadas. Madrid, 26 de abril de 2019",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Empresa Ferrovial Railway",
+        "contenido": "Incluir en el manual de conducción de este tipo de locomotoras la obligatoriedad de la colocación de calces antideriva en los casos de paradas prolongadas."
       }
     ],
     "tags": [
@@ -718,16 +745,17 @@
     "id": "2017-0035/2017",
     "year": 2017,
     "expediente": "0035/2017",
-    "titulo": "IF 0035/2017 — La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la",
+    "titulo": "Informe Final de la CIAF sobre el accidente ferroviario nº 0035/2017 ocurrido el día 28.07.2017 en la estación de França (Barcelona)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "colision",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-07-28",
     "ubicacion": {
       "estacion": "Estación de França",
       "provincia": "Barcelona",
       "lat": 41.9277228,
-      "lng": 2.2823448
+      "lng": 2.2823448,
+      "lugar": "Estación de França, Barcelona"
     },
     "entidades": [
       "ADIF",
@@ -746,10 +774,29 @@
     },
     "analisis": {
       "resumen": "El 28 de julio de 2017, un tren de Rodalies colisionó contra la topera de la estación de França en Barcelona, provocando 60 heridos y daños materiales significativos. La causa directa fue la falta de aplicación del freno por parte del maquinista, quien perdió la consciencia presumiblemente debido a un estado de somnolencia derivado de un descanso insuficiente.",
-      "descripcion": ""
+      "descripcion": "",
+      "causa_directa": "Falta de aplicación del freno por parte del maquinista"
     },
-    "conclusiones": [],
-    "recomendaciones": [],
+    "conclusiones": [
+      "La causa directa del accidente fue la falta de aplicación del freno por parte del maquinista del tren 25502, durante el movimiento de estacionamiento en la vía 11.",
+      "La colisión se produjo estando activada una velocidad prefijada (a 28 km/h) durante el estacionamiento, contraviniendo la normativa.",
+      "La no aplicación del freno se debió a que el maquinista perdió presumiblemente la plena consciencia tras el arranque, atribuible a un estado de somnolencia.",
+      "El Dispositivo de Vigilancia (HM) funcionaba correctamente pero no detectó la semiinconsciencia.",
+      "El posible estado de somnolencia fue causado por falta de descanso la noche anterior.",
+      "Existen deficiencias en la trazabilidad de la documentación de asignación de maquinistas en situaciones de huelga.",
+      "Se detectan deficiencias en la cultura de seguridad y percepción del riesgo del maquinista.",
+      "El diseño y estado de la topera influyó en las consecuencias del impacto."
+    ],
+    "recomendaciones": [
+      "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, revisando manuales y evitando referencias a 'conducción automática'.",
+      "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten el uso de velocidad prefijada a bajas velocidades.",
+      "Formar y concienciar al personal de conducción sobre la importancia del sueño, descanso y percepción del riesgo.",
+      "Incluir tests de trastornos del sueño en las pruebas médicas periódicas del personal de conducción.",
+      "Promover un análisis sobre dispositivos complementarios al HM para detectar situaciones de semiinconsciencia.",
+      "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas.",
+      "Instar al cumplimiento de recomendaciones sobre toperas y estudiar distancias de deslizamiento.",
+      "Mejorar los procedimientos de registro y trazabilidad en la asignación de turnos en situaciones de huelga."
+    ],
     "tags": [
       "accidente",
       "colisión",
@@ -789,16 +836,17 @@
     "id": "2017-0038/2017",
     "year": 2017,
     "expediente": "0038/2017",
-    "titulo": "IF 0038/2017 — El incidente tiene lugar el día 12 de agosto de 2017 a las 11:55 horas, en la estación de Puebla de",
+    "titulo": "Informe Final de la CIAF sobre el incidente ferroviario nº 0038/2017 ocurrido el día 12.08.2017 en la estación de Puebla de Sanabria (Zamora)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "otro_incidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-08-12",
     "ubicacion": {
       "estacion": "Puebla de Sanabria",
       "provincia": "Zamora",
       "lat": 42.0667,
-      "lng": -6.6333
+      "lng": -6.6333,
+      "lugar": "Estación de Puebla de Sanabria"
     },
     "entidades": [
       "ADIF",
@@ -816,15 +864,14 @@
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 12 de agosto de 2017 en la estación de Puebla de Sanabria (Zamora), donde el tren 154 de RENFE VIAJEROS entró en vía desviada por fallo en las instalaciones de seguridad. No se registraron víctimas ni daños materiales, aunque el maquinista detuvo el tren mediante frenado de emergencia. La causa principal fue el mal funcionamiento de los diodos de protección del relé de comprobación de la aguja 17, defecto derivado de una modificación tecnológica de 2008 ejecutada sin supervisión adecuada.",
-      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.\n2.1. SUCESO .............................................................................................................................. 8\n2.1.1. Datos .................................................................................................................................. 8\n2.1.2. Descripción del suceso ......................................................................................................... 8\n2.1.3. Decisión de abrir la investigación ........................................................................................ 13\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 13\n2.2.1. Personal Ferroviario implicado ............................................................................................ 13\n2.2.2. Material rodante ................................................................................................................ 14\n2.2.3. Descri"
+      "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.\n2.1. SUCESO .............................................................................................................................. 8\n2.1.1. Datos .................................................................................................................................. 8\n2.1.2. Descripción del suceso ......................................................................................................... 8\n2.1.3. Decisión de abrir la investigación ........................................................................................ 13\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 13\n2.2.1. Personal Ferroviario implicado ............................................................................................ 13\n2.2.2. Material rodante ................................................................................................................ 14\n2.2.3. Descri",
+      "causa_directa": "Mal funcionamiento de las instalaciones de seguridad"
     },
     "conclusiones": [
-      "No obstante, el diseño no adecuado de dicho enclavamiento puede dar lugar a que se repita el mismo fallo en contra de la seguridad, si bien no es probable, dadas las medidas adoptadas.",
-      "Lo mismo puede ocurrir en cualquier otro enclavamiento en que se produzca un fallo en contra de la seguridad y se repare retornando a la situación de partida, pues con ello no se garantiza que no pueda volver a ocurrir el mismo fallo u otro en contra de la seguridad.",
-      "Por ello sería conveniente que ante un fallo en contra de la seguridad se adoptaran medidas complementarias para que, mientras no se profundice en las causas y se subsanen las deficiencias del sistema que lo provocaron, se mantenga un nivel de seguridad adecuado.",
-      "(RECOMENDACIÓN 38/17 – 2) En fechas siguientes al suceso, se despliegan acciones para la identificación de enclavamientos eléctricos de tecnología similar al de Puebla de Sanabria.",
-      "Se chequean todas las instalaciones de cableado libre existentes en las redes convencional y de ancho métrico. Del análisis de esta actuación se deduce que el enclavamiento de Puebla de Sanabria es diferente al resto de las instalaciones revisadas.",
-      "Según tecnólogo de estos enclavamientos, sólo puede producirse una situación de riesgo por triple fallo simultáneo, excepto en el enclavamiento de Puebla de Sanabria que se produjo por un doble fallo. El nivel de integridad de seguridad exigido a estas instalaciones (EN-50129) es"
+      "Causa directa: Mal funcionamiento de las instalaciones de seguridad de la estación de Puebla de Sanabria, que muestran la aguja 17 orientada a vía general en el cuadro de mando local y CTC, mientras que en el terreno está orientada a vía desviada. Esto fue debido al fallo de los diodos para la protección de la bobina del relé de comprobación a normal de la aguja 17, tras el arranque de la instalación tras reparar una avería en el suministro eléctrico.",
+      "Factores coadyuvantes: Los técnicos de Mantenimiento de Infraestructura no accionaron eléctricamente las agujas 17 y 19 varias veces para comprobar su funcionamiento ni realizaron pruebas de concordancia entre el campo y el cuadro de mando local antes de dar de alta la instalación. El responsable de circulación incumplió el Manual de Operación 2299 al no verificar el buen funcionamiento de la aguja 17 tras la reparación.",
+      "Factores subyacentes: El Manual de Operación 2299 no contempla la comprobación de la concordancia entre la orientación del desvío en el campo con la representación videográfica en el CTC y cuadro de mando local antes de establecer itinerarios tras el accionamiento manual. No se realizó análisis de modo de fallo en contra de la seguridad por parte de la empresa que ejecutó los trabajos de modificación del enclavamiento, los cuales no fueron supervisados técnicamente de forma adecuada.",
+      "Causa raíz: Deficiencias en el diseño de los circuitos de mando y comprobación de la aguja 17, correspondientes a la modificación tecnológica del enclavamiento original de 2008 (sustitución de accionamientos por tipo unificado), que no fueron ejecutados conforme a procedimiento."
     ],
     "recomendaciones": [
       "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF-DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002-SC-R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente.",
@@ -853,7 +900,7 @@
       "2017-0020/2017"
     ],
     "hora": "11:55",
-    "pk": null,
+    "pk": "106+871",
     "tramo": "822 Zamora - A Coruña",
     "trenes": [
       {
@@ -881,16 +928,17 @@
     "id": "2017-0040/2017",
     "year": 2017,
     "expediente": "0040/2017",
-    "titulo": "IF 0040/2017 — SOBRE EL INCIDENTE FERROVIARIO Nº 0040/2017",
+    "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0040/2017 OCURRIDO EL DÍA 21.08.2017 EN LA ESTACIÓN DE LLEIDA-PIRINEUS (LLEIDA)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "otro_incidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-08-21",
     "ubicacion": {
-      "estacion": "Estación de Lleida-Pirineus",
+      "estacion": "Lleida-Pirineus",
       "provincia": "Lleida",
       "lat": 41.6137,
-      "lng": 0.6276
+      "lng": 0.6276,
+      "lugar": "Estación de Lleida-Pirineus"
     },
     "entidades": [
       "ADIF",
@@ -910,29 +958,41 @@
     },
     "analisis": {
       "resumen": "El 21 de agosto de 2017 en la estación de Lleida-Pirineus se produjo un incidente con conato de colisión entre un tren de mercancías y uno de viajeros que no dejó heridos ni daños materiales. La causa principal fue el rebasamiento de la señal de parada por parte del tren de mercancías debido a la falta de atención del maquinista y a la confusión entre señales. Este error se vio agravado por deficiencias en el sistema de gestión de seguridad de la empresa ferroviaria, que no informó adecuadamente al personal sobre las condiciones de circulación degradada.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 7\n2.1. SUCESO ....................................................................................................................................................... 7\n2.1.1.\nDatos .................................................................................................................................................... 7\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación ..................................................................................................11\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................11\n2.2.1.\nPersonal ferroviario implicado ..............................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 7\n2.1. SUCESO ....................................................................................................................................................... 7\n2.1.1.\nDatos .................................................................................................................................................... 7\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación ..................................................................................................11\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................11\n2.2.1.\nPersonal ferroviario implicado ...............................................................",
+      "causa_directa": "Rebase de señal de entrada en indicación de parada"
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "Causa directa: El personal de conducción del tren 90979 no cumplió la orden de la señal de entrada a la estación que se encontraba en indicación de parada.",
+      "Factor coadyuvante (i): Falta de atención por parte del personal de conducción.",
+      "Factor coadyuvante (ii): La empresa ferroviaria no facilitara al maquinista la información de la consigna ATO/CTO que establecía las condiciones de circulación en el tramo en el que se había establecido el bloqueo telefónico.",
+      "Factor coadyuvante (iii): Establecimiento del bloqueo telefónico por avería en las instalaciones que se ha prolongado en el tiempo, alargando la situación de circular en condiciones no ordinarias, quedando fuera de servicio el sistema ASFA.",
+      "Causa subyacente: Actuación no adecuada de la empresa ferroviaria ante los reiterados episodios de rebases ocasionados por el maquinista anteriores al suceso que nos ocupa al no adoptar ninguna medida al respecto.",
+      "Causa raíz: Los documentos del SGS de la empresa ferroviaria en relación con el personal de conducción, tanto en el seguimiento de sus labores profesionales como en la comunicación de documentos de trabajo, presentan deficiencias e incumplimientos por parte de los responsables de la empresa ferroviaria."
+    ],
     "recomendaciones": [
       {
         "numero": "40/17-1",
-        "texto": "En los procesos de formación dirigidos al personal de conducción, se deberá considerar lo establecido en la Recomendación Técnica 2/2019 de la",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Transitia Rail",
+        "texto": "En los procesos de formación dirigidos al personal de conducción, se deberá considerar lo establecido en la Recomendación Técnica 2/2019 de la AESF sobre formación en situaciones operativas no ordinarias."
       },
       {
         "numero": "40/17-2",
-        "texto": "Desarrollar e implementar los procedimientos adecuados dentro del SGS de la",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Transitia Rail",
+        "texto": "Desarrollar e implementar los procedimientos adecuados dentro del SGS de la empresa ferroviaria para asegurar que a los maquinistas les llegue la documentación que les afecte y la comprendan antes de la realización de los servicios, incluyendo mecanismos que aseguren la trazabilidad de dichas comunicaciones."
       },
       {
         "numero": "40/17-3",
-        "texto": "Desarrollar/mejorar los procedimientos operativos del SGS de la",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Transitia Rail",
+        "texto": "Desarrollar/mejorar los procedimientos operativos del SGS de la empresa ferroviaria encaminados a supervisar el historial de actuaciones en el desarrollo de sus labores profesionales del personal de conducción, de forma que se pueda evaluar y detectar situaciones de riesgo, contemplando las diferentes acciones a adoptar, dando cumplimiento a la recomendación técnica 4/2016 de la AESF."
       },
       {
         "numero": "40/17-4",
-        "texto": "Incluir lo establecido en la Ficha-Guía de aplicación del Reglamento de Circulación Ferroviaria F-RCF-01/2019: “Circulación con ASFA en modo BTS en caso de incidencias o trabajos programados” de la",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+        "implementador": "Adif",
+        "texto": "Incluir lo establecido en la Ficha-Guía de aplicación del Reglamento de Circulación Ferroviaria F-RCF-01/2019: “Circulación con ASFA en modo BTS en caso de incidencias o trabajos programados” de la AESF, de enero de 2019, en los documentos del SGS que se estime necesarios de manera que pase a formar del mismo."
       }
     ],
     "tags": [
@@ -984,16 +1044,17 @@
     "id": "2017-0055/2017",
     "year": 2017,
     "expediente": "0055/2017",
-    "titulo": "IF 0055/2017 — El día 29 de noviembre de 2017 a las 10:10 horas, en plena vía (p.k",
+    "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0055/2017 OCURRIDO EL DÍA 29.11.2017 EN PLENA VÍA EN EL P.K. 20+350, DEL TRAYECTO EL SORBITO-ARAHAL (SEVILLA).",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2017-11-29",
     "ubicacion": {
-      "estacion": "Arahal",
+      "estacion": ", entre El Sorbito y Arahal",
       "provincia": "Sevilla",
       "lat": 39.3333,
-      "lng": -3.4833
+      "lng": -3.4833,
+      "lugar": "En plena vía, entre El Sorbito y Arahal"
     },
     "entidades": [
       "ADIF",
@@ -1013,29 +1074,31 @@
     },
     "analisis": {
       "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 7\n2.1. SUCESO ....................................................................................................................................................... 7\n2.1.1.\nDatos .................................................................................................................................................... 7\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación ..................................................................................................12\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................12\n2.2.1.\nPersonal ferroviario implicado ..............................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 7\n2.1. SUCESO ....................................................................................................................................................... 7\n2.1.1.\nDatos .................................................................................................................................................... 7\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación ..................................................................................................12\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................12\n2.2.1.\nPersonal ferroviario implicado ...............................................................",
+      "causa_directa": "Desconsolidación de la vía por inundación"
     },
     "conclusiones": [
-      "200124-171129-IF_IR.doc 4.3.3. Causas raíces relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad Como causa raíz (i) se considera la falta de identificación de forma metódica de las zonas inundables con afección a las vías férreas de la RFIG. Ello dio lugar a que el punto kilométrico donde se produjo el accidente por la fuerte avenida de agua, no estaba incluido entre los puntos de riesgo de la línea, por lo que no se aplicaron las medidas establecidas en el Manual de Prevención y Gestión de Incidencias (MPGI) de Adif, dándose esporádicamente inundaciones en estas zonas, si bien no con la intensidad que ha acontecido en el presente suceso. (Ver recomendación 55/2017-1).",
-      "Como causa raíz (ii) se considera que el Plan de Contingencias presenta carencias a la hora de abordar fenómenos meteorológicos similares a los ocurridos en este suceso, de forma que las medidas adoptadas son claramente insuficientes. (Ver recomendación 55/2017-3).",
-      "OBSERVACIONES ADICIONALES deficiencias o defectos adicionales.",
-      "En relación a las medidas adoptadas tras el accidente, se han realizado las siguientes actuaciones a nivel de infraestructura y superestructura en la zona del suceso:"
+      "Causa directa: El descarrilamiento tuvo lugar como consecuencia de la súbita alteración y deformación de la vía, con desconsolidación y pérdida de elementos de la superestructura, al ser sobrepasada por la altura del agua debido a las inundaciones por fuertes lluvias que ocasionaron el desbordamiento de los cauces de los ríos próximos.",
+      "Factor coadyuvante: Inexistencia de obras específicas de drenaje o encauzamiento perimetral para salvaguardar la infraestructura de las fuertes lluvias.",
+      "Causa subyacente: En el diseño del proyecto no se tuvieron en cuenta las condiciones topográficas, hidrológicas e hidráulicas de la zona, incluyendo la concurrencia en un punto bajo de las tres estructuras: puente sobre el arroyo Alameda, vía férrea y paso superior del camino.",
+      "Causa raíz (i): Falta de identificación metódica de las zonas inundables con afección a las vías férreas de la RFIG, por lo que el punto del accidente no estaba incluido entre los puntos de riesgo y no se aplicaron las medidas del Manual de Prevención y Gestión de Incidencias (MPGI).",
+      "Causa raíz (ii): El Plan de Contingencias presenta carencias para abordar fenómenos meteorológicos similares, siendo las medidas adoptadas claramente insuficientes."
     ],
     "recomendaciones": [
       {
         "numero": "55/2017-1",
-        "texto": "Diseñar un protocolo para la identificación y revisión de puntos y tramos con riesgo de inundación por desbordamiento de ríos y arroyos que puedan afectar a las vías férreas. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+        "contenido": "Diseñar un protocolo para la identificación y revisión de puntos y tramos con riesgo de inundación por desbordamiento de ríos y arroyos que puedan afectar a las vías férreas."
       },
       {
         "numero": "55/2017-2",
-        "texto": "Estudiar la implantación de un protocolo o procedimiento operativo para coordinar las informaciones sobre posibles avenidas o crecidas de los cauces fluviales detectadas por las confederaciones hidrográficas, que puedan afectar a las vías férreas, y la interpretación de esos datos. Agencia Estatal de Seguridad Ferroviaria (",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+        "contenido": "Estudiar la implantación de un protocolo o procedimiento operativo para coordinar las informaciones sobre posibles avenidas o crecidas de los cauces fluviales detectadas por las confederaciones hidrográficas, que puedan afectar a las vías férreas, y la interpretación de esos datos."
       },
       {
         "numero": "55/2017-3",
-        "texto": "Estudiar la modificación del Manual de Prevención y Gestión de Incidencias (Ficha II) del Plan de Contingencias en lo relacionado con el tratamiento de las lluvias y de los fenómenos extraordinarios que acontecen. Madrid, 24 de enero de 2020",
-        "implementador": ""
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+        "contenido": "Estudiar la modificación del Manual de Prevención y Gestión de Incidencias (Ficha II) del Plan de Contingencias en lo relacionado con el tratamiento de las lluvias y de los fenómenos extraordinarios que acontecen."
       }
     ],
     "tags": [

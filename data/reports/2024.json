@@ -88,16 +88,17 @@
     "id": "2024-0055/2017",
     "year": 2024,
     "expediente": "0055/2017",
-    "titulo": "IF 111/2024 — Colisión de tren con obstáculo y descarrilamiento",
+    "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0055/2017 OCURRIDO EL DÍA 29.11.2017 EN PLENA VÍA EN EL P.K. 20+350, DEL TRAYECTO EL SORBITO-ARAHAL (SEVILLA).",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2024-10-29",
     "ubicacion": {
-      "estacion": "Arahal",
+      "estacion": ", entre El Sorbito y Arahal",
       "provincia": "Sevilla",
       "lat": 39.3333,
-      "lng": -3.4833
+      "lng": -3.4833,
+      "lugar": "En plena vía, entre El Sorbito y Arahal"
     },
     "entidades": [
       "ADIF",
@@ -111,54 +112,31 @@
     },
     "analisis": {
       "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
-      "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................12\n3.1.3. Interceptación de la vía ...............................................................................................................................13\n3.1.4. Personal y entidades ..................................................................................................................................13\n3.1.5. Material rodante ............."
+      "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................12\n3.1.3. Interceptación de la vía ...............................................................................................................................13\n3.1.4. Personal y entidades ..................................................................................................................................13\n3.1.5. Material rodante .............",
+      "causa_directa": "Desconsolidación de la vía por inundación"
     },
     "conclusiones": [
-      "Factores contribuyentes Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo. Ver Recomendación 111/2024-1 y Recomendación 111/2024-8.",
-      "Orografía del tramo que favoreció el arrastre y depósito de materiales sobre la vía.",
-      "Capacidad insuficiente del sistema de drenaje en el entorno del túnel ante un episodio meteorológico excepcional. Ver Recomendación 111/2024-3, Recomendación 111/2024-4, Recomendación 111/2024-5, Recomendación 111/2024-7, Recomendación 111/2024-8 y Establecimiento de una LTV (200 km/h) de forma estimada, que resultó inadecuada para evitar el descarrilamiento ante la magnitud del obstáculo existente en vía. Recomendación 111/2024-1 y Recomendación 111/2024-2.",
-      "Aplicación deficiente del procedimiento previsto en la “Ficha LAV 2 Deformación de vía”, tras la comunicación de un golpe por el maquinista del tren precedente. Recomendación Ausencia de criterios específicos en la “Ficha LAV 2 Deformación de vía” para la gestión y"
+      "Causa directa: El descarrilamiento tuvo lugar como consecuencia de la súbita alteración y deformación de la vía, con desconsolidación y pérdida de elementos de la superestructura, al ser sobrepasada por la altura del agua debido a las inundaciones por fuertes lluvias que ocasionaron el desbordamiento de los cauces de los ríos próximos.",
+      "Factor coadyuvante: Inexistencia de obras específicas de drenaje o encauzamiento perimetral para salvaguardar la infraestructura de las fuertes lluvias.",
+      "Causa subyacente: En el diseño del proyecto no se tuvieron en cuenta las condiciones topográficas, hidrológicas e hidráulicas de la zona, incluyendo la concurrencia en un punto bajo de las tres estructuras: puente sobre el arroyo Alameda, vía férrea y paso superior del camino.",
+      "Causa raíz (i): Falta de identificación metódica de las zonas inundables con afección a las vías férreas de la RFIG, por lo que el punto del accidente no estaba incluido entre los puntos de riesgo y no se aplicaron las medidas del Manual de Prevención y Gestión de Incidencias (MPGI).",
+      "Causa raíz (ii): El Plan de Contingencias presenta carencias para abordar fenómenos meteorológicos similares, siendo las medidas adoptadas claramente insuficientes."
     ],
     "recomendaciones": [
       {
-        "numero": "111/2024-1",
-        "texto": "Reelaborar los procedimientos de comunicación de deformaciones de vía por parte del personal de conducción de las",
-        "implementador": ""
+        "numero": "55/2017-1",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+        "contenido": "Diseñar un protocolo para la identificación y revisión de puntos y tramos con riesgo de inundación por desbordamiento de ríos y arroyos que puedan afectar a las vías férreas."
       },
       {
-        "numero": "111/2024-2",
-        "texto": "Revisar y actualizar el catálogo de puntos críticos con riesgo de inundación, incluyendo puntos singulares de alta escorrentía no considerados previamente.",
-        "implementador": ""
+        "numero": "55/2017-2",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+        "contenido": "Estudiar la implantación de un protocolo o procedimiento operativo para coordinar las informaciones sobre posibles avenidas o crecidas de los cauces fluviales detectadas por las confederaciones hidrográficas, que puedan afectar a las vías férreas, y la interpretación de esos datos."
       },
       {
-        "numero": "111/2024-3",
-        "texto": "Revisar el dimensionamiento y la configuración geométrica del sistema de drenaje de la cuenca en la boca norte del túnel de Álora, verificando su capacidad hidráulica y su comportamiento frente a caudales extraordinarios, especialmente en tramos con cambio de alineación.",
-        "implementador": ""
-      },
-      {
-        "numero": "111/2024-4",
-        "texto": "Garantizar la inspección y limpieza periódica de cunetas y drenajes para mantener su capacidad hidráulica y prevenir acumulación de materiales.",
-        "implementador": ""
-      },
-      {
-        "numero": "111/2024-5",
-        "texto": "Habilitar el acceso del personal de los Centros de Regulación de Circulación (CRC) a los sistemas de circuito cerrado de televisión (CCTV) de protección y seguridad, a fin de disponer de información visual en tiempo real sobre el estado de los elementos de infraestructura en situaciones de riesgo, como complemento de información ante una incidencia.",
-        "implementador": ""
-      },
-      {
-        "numero": "111/2024-6",
-        "texto": "Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos.",
-        "implementador": ""
-      },
-      {
-        "numero": "111/2024-7",
-        "texto": "Estudiar la viabilidad de implantar sistemas automáticos de medición pluviométrica en tiempo real en puntos estratégicos de la red ferroviaria, especialmente en líneas de alta velocidad y en zonas previamente identificadas con riesgo geológico o hidrológico, con el fin de facilitar la adopción de medidas operativas basadas en datos meteorológicos reales durante episodios de precipitaciones intensas o extraordinarias.",
-        "implementador": ""
-      },
-      {
-        "numero": "111/2024-8",
-        "texto": "Analizar los sistemas de detección de caída de objetos existentes para identificar posibles zonas sin cobertura o puntos ciegos de detección y estudiar la adopción de medidas que permitan corregir dichas limitaciones en función de las características del entorno en el que se encuentran implantados.",
-        "implementador": ""
+        "numero": "55/2017-3",
+        "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+        "contenido": "Estudiar la modificación del Manual de Prevención y Gestión de Incidencias (Ficha II) del Plan de Contingencias en lo relacionado con el tratamiento de las lluvias y de los fenómenos extraordinarios que acontecen."
       }
     ],
     "tags": [
@@ -178,7 +156,8 @@
     "similares": [
       "2024-64/2024"
     ],
-    "tramo": "422 Bif. Utrera a Fuente de la Piedra"
+    "tramo": "422 Bif. Utrera a Fuente de la Piedra",
+    "pk": "20+350"
   },
   {
     "id": "2024-122/2024",

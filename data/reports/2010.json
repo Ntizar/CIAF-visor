@@ -3,16 +3,17 @@
     "id": "2010-0006/2010",
     "year": 2010,
     "expediente": "0006/2010",
-    "titulo": "0006/2010 — Estación de Córdoba, me hago acompañar por el Sr. Maquinista, y el Sr. Interventor de",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0006/2010 OCURRIDO EL DÍA 10.01.2010 EN MAJARABIQUE (SEVILLA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-01-10",
     "ubicacion": {
       "estacion": "Majarabique",
       "provincia": "Sevilla",
       "lat": 37.8845813,
-      "lng": -4.7760138
+      "lng": -4.7760138,
+      "lugar": "Majarabique"
     },
     "entidades": [
       "ADIF",
@@ -30,42 +31,51 @@
     },
     "analisis": {
       "resumen": "El 10 de enero de 2010, un descarrilamiento del tren 112 de Renfe Operadora ocurrió en Majarabique (Sevilla), provocando tres heridos leves y daños materiales significativos. La causa principal fue un fallo en el proceso de cambio de ancho debido a la acumulación de nieve helada en el mecanismo de la rodadura, que impidió el enclavamiento correcto de las ruedas. Esta situación no fue detectada por el sistema de alarma por estar inoperativo, lo que permitió la circulación del tren en condiciones inseguras hasta su detención.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................4\n2.1. SUCESO............................................................................................................................................................ 4\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS................................................................................. 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.................................................................................................. 10\n3.3. NORMATIVA.........."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................4\n2.1. SUCESO............................................................................................................................................................ 4\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS................................................................................. 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.................................................................................................. 10\n3.3. NORMATIVA..........",
+      "causa_directa": "Fallo en el proceso de cambio de ancho debido a acumulación de nieve helada"
     },
     "conclusiones": [
-      "Los parámetros de la infraestructura en el lugar del descarrilamiento estaban dentro de tolerancias.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El descarrilamiento se produce por fallo en el proceso de cambio de ancho, al no quedar la rueda izquierda del primer eje del vehículo motriz de cola en el ancho de vía requerido. Este fallo, posiblemente fue producido por la acumulación de nieve helada en el mecanismo de cambio de la rodadura del bogie afectado.",
-      "Como causa subyacente, se considera la no actuación del sistema de detección de cerrojos caídos.",
-      "Por parte de Renfe Operadora En su informe particular, Renfe Operadora indica que en reunión mantenida con TALGO se acuerda la adopción de las siguientes medidas de aplicación con carácter inmediato:",
-      "Actualización de la dotación personal en los cambiadores (dos personas), para verificación del desarrollo de los pasos de trenes, con instrucciones específicas de situarse a cada lado del cambiador, con objeto de controlar la evolución de los cerrojos.",
-      "Pintar la rampa final de las ocho guías de centrado, verificando después de cada paso, el perfecto estado de la pintura."
+      "El descarrilamiento se produce por fallo en el proceso de cambio de ancho, al no quedar la rueda izquierda del primer eje del vehículo motriz de cola en el ancho de vía requerido.",
+      "Este fallo, posiblemente, fue producido por la acumulación de nieve helada en el mecanismo de cambio de la rodadura del bogie afectado.",
+      "Como causa subyacente, se considera la no actuación del sistema de detección de cerrojos caídos."
     ],
     "recomendaciones": [
       {
         "numero": "06/10-1",
-        "texto": "Estudiar y actualizar el procedimiento de paso por los cambiadores, incluyendo las últimas modificaciones realizadas, comprobando que estén definidas claramente las funciones de los operarios de la instalación y del personal de acompañamiento del tren en casos de circunstancias extraordinarias (por ejemplo existencia de nieve o hielo).",
-        "implementador": ""
+        "destinatarios": [
+          "Adif",
+          "Renfe Operadora"
+        ],
+        "texto": "Estudiar y actualizar el procedimiento de paso por los cambiadores, incluyendo las últimas modificaciones realizadas, comprobando que estén definidas claramente las funciones de los operarios de la instalación y del personal de acompañamiento del tren en casos de circunstancias extraordinarias (por ejemplo existencia de nieve o hielo)."
       },
       {
         "numero": "06/10-2",
-        "texto": "Sistema de detección de cerrojos caídos permanentemente activado, con indicación de falta de energía. Se precintarán los interruptores de puesta en marcha y desconexión del sistema.",
-        "implementador": ""
+        "destinatarios": [
+          "Adif"
+        ],
+        "texto": "Sistema de detección de cerrojos caídos permanentemente activado, con indicación de falta de energía. Se precintarán los interruptores de puesta en marcha y desconexión del sistema."
       },
       {
         "numero": "06/10-3",
-        "texto": "Duplicar el sistema de detección de cerrojo no enclavado, mejorando, asimismo, la protección de los microrruptores para evitar actuaciones esporádicas que activen este sistema y que no corresponden a incidencias reales.",
-        "implementador": ""
+        "destinatarios": [
+          "Adif"
+        ],
+        "texto": "Duplicar el sistema de detección de cerrojo no enclavado, mejorando, asimismo, la protección de los microrruptores para evitar actuaciones esporádicas que activen este sistema y que no corresponden a incidencias reales."
       },
       {
         "numero": "06/10-4",
-        "texto": "Estudiar la posibilidad de montar un sistema de indicación al maquinista para que, en caso de que haya un problema en el proceso de cambio, proceda a detener el tren.",
-        "implementador": ""
+        "destinatarios": [
+          "Adif"
+        ],
+        "texto": "Estudiar la posibilidad de montar un sistema de indicación al maquinista para que, en caso de que haya un problema en el proceso de cambio, proceda a detener el tren."
       },
       {
         "numero": "06/10-5",
-        "texto": "Estudiar la posibilidad de instalación de un sistema de aviso de no desplazamiento de la rueda, por rotura de conducto neumático de cristal o por pedal mecánico, transmitiendo un aviso de frenado al tren. Madrid, 28 de septiembre de 2010",
-        "implementador": ""
+        "destinatarios": [
+          "Adif",
+          "Renfe Operadora"
+        ],
+        "texto": "Estudiar la posibilidad de instalación de un sistema de aviso de no desplazamiento de la rueda, por rotura de conducto neumático de cristal o por pedal mecánico, transmitiendo un aviso de frenado al tren."
       }
     ],
     "tags": [
@@ -105,16 +115,17 @@
     "id": "2010-0002/2010",
     "year": 2010,
     "expediente": "0002/2010",
-    "titulo": "0002/2010 — Estación de VILA-REAL (CASTELLÓN)",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0002/2010 OCURRIDO EL DÍA 15.01.2010 EN EL PASO A NIVEL, CLASE C, SITUADO EN EL P.K. 62+902, EN LA ESTACIÓN DE VILA-REAL (CASTELLÓN)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-01-15",
     "ubicacion": {
       "estacion": "Vila-real",
       "provincia": "Castellón",
       "lat": 39.9372616,
-      "lng": -0.1004465
+      "lng": -0.1004465,
+      "lugar": "Paso a nivel, clase C, P.K. 62+902, estación de Vila-real"
     },
     "entidades": [
       "ADIF",
@@ -132,10 +143,11 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en el paso a nivel de la estación de Vila-real (Castellón), donde un tren de viajeros arrolló a un motocarro. Como consecuencia del impacto, falleció el único ocupante del vehículo y se produjeron daños materiales en el tren y la vía. La causa principal del siniestro fue la irrupción del vehículo en el paso a nivel cuando las semibarreras ya se encontraban bajadas y las señales indicaban la proximidad del tren.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+      "causa_directa": "Cruce del motocarro en el paso a nivel con semibarreras bajadas"
     },
     "conclusiones": [
-      "No se establecen recomendaciones."
+      "El accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando las semibarreras se encontraban bajadas y las señales indicaban la llegada del tren 264."
     ],
     "recomendaciones": [],
     "tags": [
@@ -186,16 +198,17 @@
     "id": "2010-0003/2010",
     "year": 2010,
     "expediente": "0003/2010",
-    "titulo": "0003/2010 — Estación de GETAFE INDUSTRIAL (MADRID)",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0003/2010 OCURRIDO EL DÍA 15.01.2010 EN LA ESTACIÓN DE GETAFE INDUSTRIAL (MADRID)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "arrollamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-01-15",
     "ubicacion": {
       "estacion": "Getafe Industrial",
       "provincia": "Madrid",
       "lat": 40.3028,
-      "lng": -3.7248
+      "lng": -3.7248,
+      "lugar": "Estación de Getafe Industrial"
     },
     "entidades": [
       "ADIF",
@@ -213,11 +226,11 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en la estación de Getafe Industrial (Madrid) que provocó la muerte de una persona al ser arrollada por el tren 17000. La causa principal del siniestro fue el cruce de la vía por parte de la víctima en un lugar no habilitado para ello, impidiendo al maquinista evitar el impacto a pesar de aplicar el freno de emergencia. No se registraron daños materiales en el material rodante ni en la infraestructura, aunque se produjeron interrupciones en la circulación.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+      "causa_directa": "Cruce de la vía por un lugar no habilitado"
     },
     "conclusiones": [
-      "El accidente tuvo su origen cuando la víctima cruza la vía por un lugar no habilitado para ello al tiempo que el tren 17000 circula por el mismo punto.",
-      "No se establece ninguna recomendación."
+      "El accidente tuvo su origen cuando la víctima cruza la vía por un lugar no habilitado para ello al tiempo que el tren 17000 circula por el mismo punto."
     ],
     "recomendaciones": [],
     "tags": [
@@ -262,16 +275,17 @@
     "id": "2010-0008/2010",
     "year": 2010,
     "expediente": "0008/2010",
-    "titulo": "0008/2010 — Estación de Pinar de Las Rozas (Madrid) a la altura del cambio nº 6.",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0008/2010 OCURRIDO EL DÍA 11.02.2010 EN PINAR DE LAS ROZAS (MADRID)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "menor",
     "fecha_suceso": "2010-02-11",
     "ubicacion": {
       "estacion": "Pinar de Las Rozas",
       "provincia": "Madrid",
       "lat": 40.525,
-      "lng": -3.875
+      "lng": -3.875,
+      "lugar": "Pinar de Las Rozas"
     },
     "entidades": [
       "ADIF",
@@ -289,25 +303,22 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren 27239 de Renfe Operadora ocurrió el 11 de febrero de 2010 en la estación de Pinar de Las Rozas (Madrid). El suceso no causó víctimas ni heridos, pero provocó daños materiales cuantificados en aproximadamente 71.400 euros en el material rodante y la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío nº 6 y de un ancho de vía superior al máximo permitido.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+      "causa_directa": "Fallo técnico en las instalaciones de la vía"
     },
     "conclusiones": [
-      "Durante el año 2009 se realizan intervenciones de mantenimiento, inspecciones de infraestructura e inspecciones a pie sin detectarse anomalías en el citado elemento.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen en el fallo técnico en las instalaciones de la vía, dado el deficiente estado de la sujeción del carril de unión del desvío nº 6, así como el valor del ancho de vía en esa zona, que era superior al máximo permitido.",
-      "Analizar la viabilidad de acortar los intervalos de tiempo entre las actuaciones de mantenimiento de los elementos de la infraestructura análogos a los implicados en este accidente; es decir, sometidos a fuertes solicitaciones o de la misma tipología.",
-      "Analizar la viabilidad de incrementar las inspecciones a pie de los elementos de la infraestructura con condiciones análogas a los de la estación de Pinar de Las Rozas."
+      "El accidente tuvo su origen en el fallo técnico en las instalaciones de la vía, dado el deficiente estado de la sujeción del carril de unión del desvío nº 6, así como el valor del ancho de vía en esa zona, que era superior al máximo permitido."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Adif",
         "numero": "08/10-1",
-        "texto": "Analizar la viabilidad de acortar los intervalos de tiempo entre las actuaciones de mantenimiento de los elementos de la infraestructura análogos a los implicados en este accidente; es decir, sometidos a fuertes solicitaciones o de la misma tipología.",
-        "implementador": ""
+        "texto": "Analizar la viabilidad de acortar los intervalos de tiempo entre las actuaciones de mantenimiento de los elementos de la infraestructura análogos a los implicados en este accidente; es decir, sometidos a fuertes solicitaciones o de la misma tipología."
       },
       {
+        "destinatario": "Adif",
         "numero": "08/10-2",
-        "texto": "Analizar la viabilidad de incrementar las inspecciones a pie de los elementos de la infraestructura con condiciones análogas a los de la estación de Pinar de Las Rozas. Madrid, 28 de septiembre de 2010",
-        "implementador": ""
+        "texto": "Analizar la viabilidad de incrementar las inspecciones a pie de los elementos de la infraestructura con condiciones análogas a los de la estación de Pinar de Las Rozas."
       }
     ],
     "tags": [
@@ -347,16 +358,17 @@
     "id": "2010-0014/2010",
     "year": 2010,
     "expediente": "0014/2010",
-    "titulo": "0014/2010 — Estación de Dueñas (Palencia), perteneciente a la línea 100 Madrid – Hendaya.",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0014/2010 OCURRIDO EL DÍA 05.03.2010 EN DUEÑAS (PALENCIA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-03-05",
     "ubicacion": {
       "estacion": "Estación de Dueñas",
       "provincia": "Palencia",
       "lat": 42.2167,
-      "lng": -4.4333
+      "lng": -4.4333,
+      "lugar": "Estación de Dueñas"
     },
     "entidades": [
       "ADIF",
@@ -374,25 +386,22 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 5 de marzo de 2010 en la estación de Dueñas (Palencia), que provocó la muerte de un operario al ser arrollado por el tren 751. La causa principal fue la invasión del gálibo de la vía por parte del trabajador sin la autorización del encargado de los trabajos.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................ 3\n2.1. SUCESO ............................................................................................................................ 3\n2.2. CIRCUNSTANCIAS DEL SUCESO.......................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS ............................................................................................. 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.......................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES .................................................................................... 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD ....................................................................... 13\n3.3. NORMATIVA....................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................ 3\n2.1. SUCESO ............................................................................................................................ 3\n2.2. CIRCUNSTANCIAS DEL SUCESO.......................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS ............................................................................................. 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.......................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES .................................................................................... 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD ....................................................................... 13\n3.3. NORMATIVA.....................................................",
+      "causa_directa": "Invasión del gálibo de la vía por parte del operario sin autorización"
     },
     "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El accidente se produce al invadir el operario el gálibo de la vía en el momento en que pasaba el tren 751, sin tener autorización del encargado de los trabajos (agente autorizado de Adif).",
-      "OBSERVACIONES ADICIONALES Sin tener relación directa con los hechos, se detecta la ubicación incorrecta de una baliza de anuncio de limitación temporal de velocidad en la vía 1.",
-      "Insistir en acciones formativas dirigidas a los empleados de empresas que participan en la realización de trabajos en vía, donde se ponga de manifiesto la importancia de seguir estrictamente la cadena de mando y la importancia de cumplir las órdenes con exactitud cuando se esté trabajando en circulaciones simultáneamente a los trabajos.",
-      "Realización de inspecciones dirigidas a neutralizar los incumplimientos de las normas establecidas para"
+      "El accidente se produce al invadir el operario el gálibo de la vía en el momento en que pasaba el tren 751, sin tener autorización del encargado de los trabajos (agente autorizado de Adif)."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Adif",
         "numero": "14/10-1",
-        "texto": "Insistir en acciones formativas dirigidas a los empleados de empresas que participan en la realización de trabajos en vía, donde se ponga de manifiesto la importancia de seguir estrictamente la cadena de mando y la importancia de cumplir las órdenes con exactitud cuando se esté trabajando en la vía (o en sus inmediaciones) habiendo circulaciones simultáneamente a los trabajos.",
-        "implementador": ""
+        "texto": "Insistir en acciones formativas dirigidas a los empleados de empresas que participan en la realización de trabajos en vía, donde se ponga de manifiesto la importancia de seguir estrictamente la cadena de mando y la importancia de cumplir las órdenes con exactitud cuando se esté trabajando en la vía (o en sus inmediaciones) habiendo circulaciones simultáneamente a los trabajos."
       },
       {
+        "destinatario": "Adif",
         "numero": "14/10-2",
-        "texto": "Realización de inspecciones dirigidas a neutralizar los incumplimientos de las normas establecidas para la realización de trabajos. Madrid, 31 de enero de 2011",
-        "implementador": ""
+        "texto": "Realización de inspecciones dirigidas a neutralizar los incumplimientos de las normas establecidas para la realización de trabajos."
       }
     ],
     "tags": [
@@ -431,16 +440,17 @@
     "id": "2010-0016/2010",
     "year": 2010,
     "expediente": "0016/2010",
-    "titulo": "0016/2010 — Estación de LOGROÑO (LA RIOJA)",
+    "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0016/2010 OCURRIDO EL DÍA 10.03.2010 EN LA ESTACIÓN DE LOGROÑO (LA RIOJA)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-03-10",
     "ubicacion": {
       "estacion": "Logroño",
       "provincia": "La Rioja",
       "lat": 42.4611,
-      "lng": -2.4453
+      "lng": -2.4453,
+      "lugar": "Estación de Logroño"
     },
     "entidades": [
       "ADIF",
@@ -458,19 +468,11 @@
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+      "causa_directa": "Rebase indebido de la señal S1/4 por el tren 933"
     },
     "conclusiones": [
-      "El personal de conducción cumple la normativa vigente en cuanto título, habilitación, reciclaje y reconocimiento médico y psicotécnico.",
-      "Los equipos de seguridad de ambos trenes funcionaron correctamente.",
-      "Estaba establecido itinerario de paso directo por vía 1 para el tren 54654.",
-      "El tren 933 estaba detenido ante la señal de salida S1/4, la cual indicaba parada (rojo).",
-      "El tren 933 inicia la marcha y rebasa indebidamente la señal de salida S1/4 que indicaba parada (rojo).",
-      "Incumpliendo el Artículo 217 de RGC.",
-      "El agente de acompañamiento del tren 933 indica operaciones terminadas al maquinista cuando la señal indicadora de salida estaba en blanco intermitente (señal de salida en parada). Incumpliendo el Artículo 313.3 del RGC.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El incidente tuvo su origen en el rebase indebido por el tren 933 de la señal S1/4 de la estación de Logroño, que estaba en indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal del tren.",
-      "Por parte de Renfe Operadora"
+      "El incidente tuvo su origen en el rebase indebido por el tren 933 de la señal S1/4 de la estación de Logroño, que estaba en indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal del tren."
     ],
     "recomendaciones": [],
     "tags": [
@@ -514,16 +516,17 @@
     "id": "2010-0017/2010",
     "year": 2010,
     "expediente": "0017/2010",
-    "titulo": "IF 0017/2010 — El día 11 de marzo de 2010, a las 09:15 horas, el tren de viajeros de cercanías 7403, de la empresa",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0017/2010 OCURRIDO EL DÍA 11.03.2010 EN EL PASO A NIVEL CLASE A EN VILLAQUILAMBRE (LEÓN)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-03-11",
     "ubicacion": {
       "estacion": "Villaquilambre",
       "provincia": "León",
       "lat": 43.18,
-      "lng": -5.85
+      "lng": -5.85,
+      "lugar": "Paso a nivel no 009, clase A, P.K. 5+037"
     },
     "entidades": [
       "FEVE"
@@ -540,25 +543,22 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 11 de marzo de 2010 en el paso a nivel de Villaquilambre (León), donde un tren de FEVE arrolló a un automóvil que invadió la vía. El suceso provocó la muerte de la conductora del vehículo y daños materiales en el tren y el coche. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera.",
-      "descripcion": ".......................................................................................... 3\n2.1. SUCESO\n\n................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO\n\n............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES\n\n..................................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS\n\n................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES\n\n....................................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS\n\n........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD\n\n........................................................"
+      "descripcion": ".......................................................................................... 3\n2.1. SUCESO\n\n................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO\n\n............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES\n\n..................................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS\n\n................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES\n\n....................................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS\n\n........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD\n\n........................................................",
+      "causa_directa": "Invasión del gálibo de la vía por parte del vehículo"
     },
     "conclusiones": [
-      "cuando la conductora se hubiera percatado de la presencia del tren en el momento que éste se hace La señalización de carretera es incompleta pudiéndose mejorar para adecuarla, lo más posible, a lo establecido en la Orden Ministerial de 2 de agosto de 2001. Así mismo, la marca transversal de parada existente en el pavimento por el lado de la carretera LE – 311 no se encuentra a la distancia de seguridad reglamentaria.",
-      "El tipo de protección del paso a nivel no es el que le corresponde, según lo establecido en la Orden Ministerial de 2 de agosto de 2001, dada la velocidad del tramo, el momento de circulación y las visibilidades reales.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como el informe particular de FEVE, el técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 7403.",
-      "Adaptar la señalización de carretera del P.N. conforme a la Orden Ministerial de 2 de Agosto de 2001, prestando especial atención a la marca transversal continua indicadora del punto de detención del Adaptar las condiciones de P.N. a lo establecido en la Orden Ministerial de 2 de Agosto de 2001. Bien cambiando el tipo de"
+      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 7403."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Ayuntamiento de Villaquilambre",
         "numero": "17/10-1",
-        "texto": "Adaptar la señalización de carretera del P.N. conforme a la Orden Ministerial de 2 de Agosto de 2001, prestando especial atención a la marca transversal continua indicadora del punto de detención del vehículo (M- 4.1) FEVE",
-        "implementador": ""
+        "texto": "Adaptar la señalización de carretera del P.N. conforme a la Orden Ministerial de 2 de Agosto de 2001, prestando especial atención a la marca transversal continua indicadora del punto de detención del vehículo (M- 4.1)"
       },
       {
+        "destinatario": "FEVE",
         "numero": "17/10-2",
-        "texto": "Adaptar las condiciones de P.N. a lo establecido en la Orden Ministerial de 2 de Agosto de 2001. Bien cambiando el tipo de protección de A a B, bien modificando las distancias de visibilidad real acordes a la velocidad establecida en el tramo, o reduciendo la velocidad del tramo adecuándola a las características del P.N. Madrid, 26 de octubre de 2010",
-        "implementador": ""
+        "texto": "Adaptar las condiciones de P.N. a lo establecido en la Orden Ministerial de 2 de Agosto de 2001. Bien cambiando el tipo de protección de A a B, bien modificando las distancias de visibilidad real acordes a la velocidad establecida en el tramo, o reduciendo la velocidad del tramo adecuándola a las características del P.N."
       }
     ],
     "tags": [
@@ -585,7 +585,7 @@
       "2010-0028/2010"
     ],
     "hora": "09:15",
-    "pk": null,
+    "pk": "5+037",
     "tramo": "31 León - Bilbao",
     "trenes": [
       {
@@ -600,16 +600,17 @@
     "id": "2010-0018/2010",
     "year": 2010,
     "expediente": "0018/2010",
-    "titulo": "0018/2010 — Estación de ARÉVALO......31",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0018/2010 OCURRIDO EL DÍA 26.03.2010 EN LAS PROXIMIDADES DE LA ESTACIÓN DE ARÉVALO (ÁVILA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "colision_alcance",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-03-26",
     "ubicacion": {
       "estacion": "Estación de Arévalo",
       "provincia": "Ávila",
       "lat": 41.0667,
-      "lng": -4.7167
+      "lng": -4.7167,
+      "lugar": "Estación de Arévalo"
     },
     "entidades": [
       "ADIF",
@@ -627,32 +628,31 @@
     },
     "analisis": {
       "resumen": "El día 26 de marzo de 2010, a las 00:33 horas, se produjo una colisión por alcance entre los trenes de mercancías 58242 y 58244 de Renfe Operadora en las proximidades de la estación de Arévalo (Ávila). El tren 58242, parado ante la señal de entrada E2 en indicación de parada, fue alcanzado por el tren 58244, que circulaba con indicación de vía libre en la señal avanzada 1734 debido a un fallo técnico en la señalización fija. Este fallo fue consecuencia de los cambios en el enclavamiento de la estación para la realización de pruebas de software y tarjetas, realizados sin la verificación en campo de la concordancia del estado de las señales y sin la interrupción completa de las circulaciones.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................................6\n2.1. SUCESO.....................................................................................................................................................................6\n2.2. CIRCUNSTANCIAS DEL SUCESO..............................................................................................................................8\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................................................10\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................................13\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................................13\n3.1. RESUMEN DE LAS DECLARACIONES.............................................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................................6\n2.1. SUCESO.....................................................................................................................................................................6\n2.2. CIRCUNSTANCIAS DEL SUCESO..............................................................................................................................8\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................................................10\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................................13\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................................13\n3.1. RESUMEN DE LAS DECLARACIONES..............................................................................",
+      "causa_directa": "Fallo técnico en las instalaciones de seguridad"
     },
     "conclusiones": [
-      "Existe un conjunto de circunstancias que han colaborado a que se produzca este accidente:",
-      "La no interrupción completa de las circulaciones durante los trabajos o, en su defecto, el establecimiento de medidas que hubieran garantizado la seguridad de las mismas, como Establecer bloqueo alternativo.",
-      "Actuación sobre las señales afectadas, de forma que se impida la presentación de las indicaciones que autorizan movimientos (verde y amarillo).",
-      "La no verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos.",
-      "La incorrecta evaluación del riesgo que comportaba la realización de esos trabajos.",
-      "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación).",
-      "Cuando la realización de estos trabajos pueda"
+      "El accidente tuvo su origen en un fallo técnico en las instalaciones de seguridad, en concreto, en la señalización fija, producido por los cambios en el enclavamiento de la estación de Arévalo para la realización de pruebas.",
+      "La colisión por alcance se produce al presentar indicación de vía libre la señal de avanzada 1734, encontrándose el circuito posterior ocupado y la señal de entrada E2 en indicación de parada.",
+      "Causas coadyuvantes: La no interrupción completa de las circulaciones durante los trabajos o el establecimiento de medidas que hubieran garantizado la seguridad de las mismas.",
+      "Causas coadyuvantes: La no verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos.",
+      "Causas coadyuvantes: La incorrecta evaluación del riesgo que comportaba la realización de esos trabajos."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Adif",
         "numero": "18/10-1",
-        "texto": "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación). Investigación del accidente nº 0018/2010 ocurrido el 26.03.2010 SECRETARÍA DE ESTADO DE TRANSPORTES SECRETARÍA GENERAL DE TRANSPORTES A Informe",
-        "implementador": ""
+        "texto": "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación)."
       },
       {
+        "destinatario": "Adif",
         "numero": "18/10-2",
-        "texto": "Cuando la realización de estos trabajos pueda afectar al funcionamiento de las instalaciones de seguridad que regulan (señales, balizas, aparatos de vía, etc.), se deberán tomar las siguientes medidas: ¾ Interrupción de las circulaciones o, en su defecto, el establecimiento de un sistema de bloqueo alternativo que garantice la seguridad de las mismas. ¾",
-        "implementador": ""
+        "texto": "Cuando la realización de estos trabajos pueda afectar al funcionamiento de las instalaciones de seguridad que regulan (señales, balizas, aparatos de vía, etc.), se deberán tomar las siguientes medidas: Interrupción de las circulaciones o, en su defecto, el establecimiento de un sistema de bloqueo alternativo que garantice la seguridad de las mismas. Finalizados los trabajos, y antes de permitir la normal circulación, se comprobará en campo que todas las instalaciones de seguridad (señales, balizas, aparatos de vía, etc.) son acordes con lo previsto. Estos términos se deberán recoger en la consigna correspondiente, especificando: Las actividades a realizar, los responsables de las mismas y las condiciones de seguridad necesarias. Los periodos de corte de circulación durante la realización de las pruebas. Las comprobaciones (concordancia) a realizar en las situaciones provisionales a que de lugar el periodo de baja del enclavamiento, para hacerlas compatibles con el tráfico. Todo lo anterior vendrá como resultado de un análisis de riesgos documentado a realizar conjuntamente con la empresa instaladora."
       },
       {
+        "destinatario": "UTE Dimetronic-Thales",
         "numero": "18/10-3",
-        "texto": "Se deberán revisar los procesos del sistema de Gestión de Seguridad/Calidad de la empresa, relativos a instalaciones de seguridad, tanto nuevas como modificación de las existentes, y en los casos de mantenimiento del tráfico ferroviario, con el fin de evitar situaciones similares a las del suceso. Se deberá clarificar en estos casos las funciones y responsabilidades del jefe de puesta en servicio de la empresa, como conocedor de los riesgos técnicos derivados de estas situaciones. Los equipos de",
-        "implementador": ""
+        "texto": "Se deberán revisar los procesos del sistema de Gestión de Seguridad/Calidad de la empresa, relativos a instalaciones de seguridad, tanto nuevas como modificación de las existentes, y en los casos de mantenimiento del tráfico ferroviario, con el fin de evitar situaciones similares a las del suceso. Se deberá clarificar en estos casos las funciones y responsabilidades del jefe de puesta en servicio de la empresa, como conocedor de los riesgos técnicos derivados de estas situaciones. Los equipos de seguridad de la empresa deberán controlar que se realicen de forma efectiva las actividades para la verificación/validación de los sistemas o subsistemas a instalar, o la modificación de los existentes. Además, este equipo de seguridad deberá dar conformidad a las actividades de campo previas a la puesta en servicio. Se deberá tener constancia documental de todo lo anterior (caso de seguridad) antes de proceder a la autorización de la puesta en servicio de la instalación, bien sea nueva o modificación de una existente. Todo ello particularizado para el proyecto concreto de que se trate."
       }
     ],
     "tags": [
@@ -697,16 +697,17 @@
     "id": "2010-0020/2010",
     "year": 2010,
     "expediente": "0020/2010",
-    "titulo": "IF 0020/2010 — El día 8 de abril de 2010, a las 11:25 horas, efectuándose maniobras en la terminal de contenedores",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0020/2010 OCURRIDO EL DÍA 08.04.2010 EN SILLA (VALENCIA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "colision_descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-04-08",
     "ubicacion": {
-      "estacion": "Silla",
+      "estacion": "Terminal de contenedores de Silla",
       "provincia": "Valencia",
       "lat": 39.3667,
-      "lng": -0.3833
+      "lng": -0.3833,
+      "lugar": "Terminal de contenedores de Silla"
     },
     "entidades": [
       "ADIF",
@@ -724,14 +725,18 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 8 de abril de 2010 en la terminal de contenedores de Silla (Valencia) durante maniobras de acoplamiento. El suceso provocó la muerte de un operario y el descarrilamiento de dos vagones debido a la colisión entre un corte en movimiento y material estacionado. La causa principal fue el incumplimiento de las normas del Reglamento General de Circulación por parte del personal interviniente y la ubicación inadecuada del agente fallecido en el momento del impacto.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES.......................................................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD........................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES.......................................................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.........................",
+      "causa_directa": "Maniobra realizada sin cumplir las normas del R.G.C."
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "La colisión y posterior descarrilamiento se produce por realizarse la maniobra sin cumplir los intervinientes directos los artículos 615 (puntos 4 y 8) y 605 (punto 3) del Reglamento General de Circulación (R.G.C.).",
+      "El arrollamiento del agente fallecido se produce al encontrarse éste situado en un lugar inadecuado en el momento de la colisión (POP/20, punto 7)."
+    ],
     "recomendaciones": [
       {
-        "numero": "20/10-1",
-        "texto": "Insistir mediante acciones formativas dirigidas tanto al personal de conducción como a los agentes de maniobras en el estricto cumplimiento de las normas recogidas en el R.G.C. y en el procedimiento operativo de prevención POP/20 de",
-        "implementador": ""
+        "destinatario": "Adif",
+        "número": "20/10-1",
+        "texto": "Insistir, mediante acciones formativas dirigidas tanto al personal de conducción como a los agentes de maniobras, en el estricto cumplimiento de las normas recogidas en el R.G.C. y en el procedimiento operativo de prevención POP/20 de Adif."
       }
     ],
     "tags": [
@@ -777,16 +782,17 @@
     "id": "2010-0026/2010",
     "year": 2010,
     "expediente": "0026/2010",
-    "titulo": "IF 0026/2010 — El día 23 de mayo de 2010, sobre las 22:54 horas, en el P",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0026/2010 OCURRIDO EL DÍA 23.05.2010 ENTRE POZUELO Y MADRID-PRÍNCIPE PÍO",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-05-23",
     "ubicacion": {
-      "estacion": "Príncipe Pío",
+      "estacion": "entre Pozuelo y Madrid-Príncipe Pío",
       "provincia": "Madrid",
       "lat": 40.4209619,
-      "lng": -3.7193334
+      "lng": -3.7193334,
+      "lugar": "P.K. 5+114 entre Pozuelo y Madrid-Príncipe Pío"
     },
     "entidades": [
       "ADIF",
@@ -804,10 +810,19 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 95053 ocurrido el 23 de mayo de 2010 entre Pozuelo y Príncipe Pío (Madrid) no provocó víctimas mortales ni heridos, aunque sí daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue el decalado de la rueda derecha del primer eje del duodécimo vagón, probablemente debido a un mal calado de dicha rueda.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................3\n2.1.  SUCESO .............................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO...........................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................6\n2.4.  CIRCUNSTANCIAS EXTERNAS ..............................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................7\n3.1.  RESUMEN DE LAS DECLARACIONES .....................................................................................7\n3.2.  SISTEMA DE GESTIÓN EN LA SEGURIDAD ............................................................................7\n3.3.  NORMATIVA............................................"
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................3\n2.1.  SUCESO .............................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO...........................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................6\n2.4.  CIRCUNSTANCIAS EXTERNAS ..............................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................7\n3.1.  RESUMEN DE LAS DECLARACIONES .....................................................................................7\n3.2.  SISTEMA DE GESTIÓN EN LA SEGURIDAD ............................................................................7\n3.3.  NORMATIVA............................................",
+      "causa_directa": "Decalado de la rueda derecha del primer eje del primer bogie"
     },
-    "conclusiones": [],
-    "recomendaciones": [],
+    "conclusiones": [
+      "El accidente tuvo su origen en el decalado de la rueda derecha del primer eje, del primer bogie, del vagón-plataforma duodécimo de la composición, probablemente por mal calado de dicha rueda, sin poder determinarse la causa del mismo."
+    ],
+    "recomendaciones": [
+      {
+        "destinatario": "Adif",
+        "numero": "26-10/1",
+        "texto": "Realizar auditoría, externa a Siderúrgica Requena, S.A., en los aspectos relativos a: 1. Documentación aplicada al calado de ruedas y control de calidad. 2. Verificar el estado, el control y la calibración de los medios de mecanizado, calado y sistemas de medición."
+      }
+    ],
     "tags": [
       "accidente",
       "descarrilamiento",
@@ -844,16 +859,17 @@
     "id": "2010-0028/2010",
     "year": 2010,
     "expediente": "0028/2010",
-    "titulo": "IF 0028/2010 — El día 14 de junio de 2010 a las 08:32 horas, el tren de mercancías FR 901 de Feve, descarrila en",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2010 OCURRIDO EL DÍA 14.06.2010 ENTRE CERDIDO Y ORTIGUEIRA (A CORUÑA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "menor",
     "fecha_suceso": "2010-06-14",
     "ubicacion": {
-      "estacion": "Ortigueira",
+      "estacion": "Entre Cerdido y Ortigueira",
       "provincia": "A Coruña",
       "lat": 43.59,
-      "lng": -7.61
+      "lng": -7.61,
+      "lugar": "Entre Cerdido y Ortigueira"
     },
     "entidades": [
       "FEVE"
@@ -870,24 +886,18 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías FR 901 ocurrido el 14 de junio de 2010 en Ortigueira (A Coruña) no provocó víctimas mortales ni heridos, aunque causó daños materiales cuantificados en más de 200.000 euros y la interrupción de la vía. La causa principal del accidente fue la circulación del tren con un exceso de velocidad del 28% respecto al límite permitido en la curva afectada. Como factor subyacente se identificó el incorrecto establecimiento de la velocidad máxima del tramo, que no se ajustaba a los parámetros geométricos de la infraestructura.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES...................................................................................................... 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD........................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES...................................................................................................... 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.........................",
+      "causa_directa": "Exceso de velocidad del tren"
     },
     "conclusiones": [
-      "En la zona del descarrilamiento, para el radio y la velocidad máxima de paso, la insuficiencia de peralte está fuera de la tolerancia máxima permitida en la norma NIF vía 002, Parámetros geométricos.",
-      "Incluso adoptando el peralte máximo (110 mm), el valor de la insuficiencia de peralte estaría fuera de Al circular con exceso de velocidad se incrementa notablemente la insuficiencia de peralte.",
-      "Al maquinista no se le realiza prueba de alcoholemia ni drogadicción, ni se le releva del servicio tras el Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como el informe particular de Feve, el técnico responsable de la investigación concluye que:",
       "El accidente se produce al circular el tren FR 901 con exceso de velocidad.",
-      "Como factor subyacente se destaca el incorrecto establecimiento de la velocidad del tramo en la zona OBSERVACIONES ADICIONALES Al maquinista no se le realizan pruebas de alcoholemia ni drogadicción, ni se le releva tras el accidente, prestando servicio con el mismo tren.",
-      "Con respecto a la infraestructura:",
-      "Se rectifica el radio de la curva pasando de 141 m a 149 m.",
-      "Se adopta un peralte de 70 mm.",
-      "Se establece una limitación de velocidad permanente en este punto de 50 km/h mediante la consigna serie C nº 5/2010."
+      "Como factor subyacente se destaca el incorrecto establecimiento de la velocidad del tramo en la zona del accidente."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Feve",
         "numero": "28/10-1",
-        "texto": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación. Madrid, 31 de enero de 2011",
-        "implementador": ""
+        "texto": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación."
       }
     ],
     "tags": [
@@ -925,16 +935,17 @@
     "id": "2010-0030/2010",
     "year": 2010,
     "expediente": "0030/2010",
-    "titulo": "0030/2010 — Estación de trenes del apeadero, en servicio de prevención, fuera de la estación,",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2010 OCURRIDO EL DÍA 23.06.2010 EN EL APEADERO DE PLATJA DE CASTELLDEFELS (BARCELONA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-06-23",
     "ubicacion": {
-      "estacion": "Apeadero de Platja de Castelldefels",
+      "estacion": "Platja de Castelldefels",
       "provincia": "Barcelona",
       "lat": 39.0331946,
-      "lng": -0.2152033
+      "lng": -0.2152033,
+      "lugar": "Apeadero de Platja de Castelldefels"
     },
     "entidades": [
       "ADIF",
@@ -952,13 +963,16 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 23 de junio de 2010 en el apeadero de Platja de Castelldefels (Barcelona), que provocó 12 muertos, 10 heridos graves y 7 leves. La causa principal fue la invasión del gálibo de la vía por parte de viajeros que cruzaron las vías por un lugar no autorizado, sin percatarse de la llegada del tren Alaris 1202.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................................3\n2.1. SUCESO.....................................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO..............................................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................................................10\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................................10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................................11\n3.1. RESUMEN DE LAS DECLARACIONES.............................................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................................3\n2.1. SUCESO.....................................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO..............................................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................................................10\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................................10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................................11\n3.1. RESUMEN DE LAS DECLARACIONES..............................................................................",
+      "causa_directa": "Invasión del gálibo de la vía por parte de las víctimas"
     },
     "conclusiones": [
-      "No obstante, el cruce imprudente de las vías por lugares no autorizados, y más concretamente en estaciones, da lugar a que este tipo de sucesos tenga un peso significativo dentro de la siniestralidad en la Red Ferroviaria de Interés General (RFIG).",
-      "Por ello, el pleno de la , celebrado el 28 de Ferroviarias, a fin de que analice la factibilidad de implantar, en estaciones especialmente conflictivas de la RFIG, alguna de las medidas de seguridad existentes en esos países u otras actuaciones No se establece ninguna recomendación. (*) Ferroviaria, la información que sobre elementos de seguridad en estaciones se ha recabado de otros países europeos, a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares."
+      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de las víctimas, al cruzar por un lugar no autorizado, y sin percatarse de la llegada del tren 1202."
     ],
-    "recomendaciones": [],
+    "recomendaciones": [
+      "No se establece ninguna recomendación.",
+      "Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad Ferroviaria, la información que sobre elementos de seguridad en estaciones se ha recabado de otros países europeos, a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares."
+    ],
     "tags": [
       "accidente",
       "arrollamiento",
@@ -982,7 +996,7 @@
       "2010-0063/2010"
     ],
     "hora": "23:23",
-    "pk": null,
+    "pk": "656+598",
     "tramo": "200 Madrid Chamartín – Barcelona Sants",
     "trenes": [
       {
@@ -1002,16 +1016,17 @@
     "id": "2010-0031/2010",
     "year": 2010,
     "expediente": "0031/2010",
-    "titulo": "0031/2010 — Estación de VITORIA – GASTEIZ (ÁLAVA)",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2010 OCURRIDO EL DÍA 26.06.2010 EN LA ESTACIÓN DE VITORIA – GASTEIZ (ÁLAVA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-06-26",
     "ubicacion": {
       "estacion": "Vitoria – Gasteiz",
       "provincia": "Álava",
       "lat": 42.8505845,
-      "lng": -2.66145
+      "lng": -2.66145,
+      "lugar": "Estación de Vitoria – Gasteiz"
     },
     "entidades": [
       "ADIF",
@@ -1029,24 +1044,22 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 26 de junio de 2010 en la estación de Vitoria-Gasteiz, que provocó cinco heridos leves. La causa principal fue la indicación de operaciones terminadas por parte de la agente de acompañamiento antes de finalizar la subida de viajeros.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................3\n2.1. SUCESO .............................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................7\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................9\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................9\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................9\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ..........................................................................13\n3.3. NORMATIVA...................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................3\n2.1. SUCESO .............................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................7\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................9\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................9\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................9\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ..........................................................................13\n3.3. NORMATIVA....................................................",
+      "causa_directa": "Indicación de operaciones terminadas sin finalizar la subida de viajeros"
     },
     "conclusiones": [
-      "actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas\", en el que se establece que el agente de acompañamiento deberá verificar que todos los viajeros y el personal de servicio en el tren han accedido al mismo.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen al dar la agente de acompañamiento la indicación de operaciones terminadas, sin haber finalizado la bajada y subida de viajeros.",
-      "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.” Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+      "El accidente tuvo su origen al dar la agente de acompañamiento la indicación de operaciones terminadas, sin haber finalizado la bajada y subida de viajeros."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Renfe Operadora",
         "numero": "31/10-1",
-        "texto": "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.” Renfe Operadora",
-        "implementador": ""
+        "texto": "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”"
       },
       {
+        "destinatario": "Renfe Operadora",
         "numero": "31/10-2",
-        "texto": "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación. Madrid, 31 de enero de 2011",
-        "implementador": ""
+        "texto": "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
       }
     ],
     "tags": [
@@ -1070,7 +1083,7 @@
       "2010-0063/2010"
     ],
     "hora": "00:28",
-    "pk": null,
+    "pk": "492+400",
     "tramo": "100 Madrid Chamartín – Hendaya",
     "trenes": [
       {
@@ -1085,16 +1098,17 @@
     "id": "2010-0032/2010",
     "year": 2010,
     "expediente": "0032/2010",
-    "titulo": "0032/2010 — Estación de SANT ANDREU ARENAL (BARCELONA)",
+    "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0032/2010 OCURRIDO EL DÍA 29.06.2010 EN LA ESTACIÓN DE SANT ANDREU ARENAL (BARCELONA)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "menor",
     "fecha_suceso": "2010-06-29",
     "ubicacion": {
       "estacion": "Sant Andreu Arenal",
       "provincia": "Barcelona",
       "lat": 40.2562378,
-      "lng": -3.827886
+      "lng": -3.827886,
+      "lugar": "Estación de Sant Andreu Arenal"
     },
     "entidades": [
       "ADIF",
@@ -1112,17 +1126,11 @@
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 29 de junio de 2010 en la estación de Sant Andreu Arenal (Barcelona) consistió en un conato de colisión entre una maniobra de material vacío y un tren de cercanías. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en la circulación. La causa principal fue el rebase indebido de la señal de retroceso R3 por parte de la maniobra, debido al incumplimiento de las órdenes de señalización por parte del personal de conducción.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES................................................................................................................ 7\n3.2.  NORMATIVA....................................................................................................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES................................................................................................................ 7\n3.2.  NORMATIVA.....................................................................................................................................",
+      "causa_directa": "Rebase indebido de la señal R3 en indicación de parada"
     },
     "conclusiones": [
-      "El personal de conducción cumple la normativa vigente en cuanto título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
-      "El equipo de seguridad de la maniobra de material vacío (procedente de tren 25122) y las instalaciones funcionaron correctamente.",
-      "La velocidad de la maniobra de material vacío (procedente de tren 25122) fue inferior a la máxima permitida en todo momento.",
-      "La señal R3 tiene buena visibilidad.",
-      "La maniobra de material vacío (procedente de tren 25122) rebasa indebidamente la señal R3, en indicación de parada. Se incumple el artículo 217 del R.G.C.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El incidente tuvo su origen en el rebase indebido por la maniobra de material vacío (procedente de tren 25122) de la señal de retroceso R3, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
-      "Por parte de Renfe Operadora Renfe Operadora, mediante escrito fechado el 23 de septiembre de 2010, comunica que ha puesto en"
+      "El incidente tuvo su origen en el rebase indebido por la maniobra de material vacío (procedente de tren de cercanías 25122) de la señal de retroceso R3, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
     ],
     "recomendaciones": [],
     "tags": [
@@ -1166,16 +1174,17 @@
     "id": "2010-0033/2010",
     "year": 2010,
     "expediente": "0033/2010",
-    "titulo": "0033/2010 — Estación de MÓSTOLES – EL SOTO (MADRID)",
+    "titulo": "Informe final sobre el incidente ferroviario nº 0033/2010 ocurrido el día 05.07.2010 en la estación de Móstoles – El Soto (Madrid)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-07-05",
     "ubicacion": {
-      "estacion": "Móstoles – El Soto",
+      "estacion": "Estación Móstoles – El Soto",
       "provincia": "Madrid",
       "lat": 40.3228,
-      "lng": -3.8649
+      "lng": -3.8649,
+      "lugar": "Estación Móstoles – El Soto"
     },
     "entidades": [
       "ADIF",
@@ -1194,17 +1203,11 @@
     },
     "analisis": {
       "resumen": "El incidente ocurrido el 5 de julio de 2010 en la estación de Móstoles – El Soto (Madrid) consistió en un conato de colisión al rebasar indebidamente un tren vacío la señal de parada 1721. No se registraron víctimas ni daños materiales, ya que el maquinista detuvo la composición a tiempo. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES.......................................................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD........................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES.......................................................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.........................",
+      "causa_directa": "Rebase indebido de la señal de salida 1721 en indicación de parada."
     },
     "conclusiones": [
-      "El personal de conducci ón cumple la normativa v igente en cuanto títul o, habilitación, reciclaje y reconocimiento médico y psicotécnico.",
-      "El equipo de seguridad del tren y las instalaciones funcionaron correctamente.",
-      "El tren 19819, detenido c orrectamente ante la señal de entr ada 1702, espera a que se le establezca itinerario de entrada a la estación.",
-      "El tren 19828 tiene establecido correctamente el itinerario de salida, lado Móstoles (Madrid), por vía 1.",
-      "El tren 27753, estacionado en vía 1, se encontraba vacío a la espera de realizar maniobra de apartado La señal de salida 1721 tiene buena visibilidad.",
-      "La maniobra de material v acío (procedente del tren de cercanías 27753) detenida ante la señal de salida 17 21, la cual indi caba par ada (rojo), l a rebasa, habiendo pulsado antes el m interruptor de rebase autorizado. Incumplimiento del Artículo 217 del R.G.C.",
-      "Por tanto, vi sta la descripción de l os hechos y teni endo en cu enta las con sideraciones anteriores, las declaraciones de l os implicados, así c omo los info rmes p articulares de Adif y Renf e Ope radora, el técnico responsable de la investigación concluye que:",
-      "El incidente tuvo su origen en el rebase indebido, por maniobra de material vacío (procedente del tren"
+      "El incidente tuvo su origen en el rebase indebido, por maniobra de material vacío (procedente del tren de cercanías 27753), de la señal de salida 1721 de la estación Móstoles – El Soto, en indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal del tren."
     ],
     "recomendaciones": [],
     "tags": [
@@ -1252,16 +1255,17 @@
     "id": "2010-0036/2010",
     "year": 2010,
     "expediente": "0036/2010",
-    "titulo": "IF 0036/2010 — El día 10 de julio de 2010, a las 15:51 horas, en el P",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2010 OCURRIDO EL DÍA 10.07.2010 ENTRE LAS ESTACIONES DE UGAO-MIRABALLES Y LLODIO (ÁLAVA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-07-10",
     "ubicacion": {
-      "estacion": "Aracaldo",
+      "estacion": "entre Ugao-Miraballes y Llodio",
       "provincia": "Álava",
       "lat": 42.5667,
-      "lng": -0.55
+      "lng": -0.55,
+      "lugar": "P.K. 230+862, entre Ugao-Miraballes y Llodio"
     },
     "entidades": [
       "ADIF",
@@ -1279,30 +1283,29 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren 436 de Renfe Operadora ocurrió el 10 de julio de 2010 en Aracaldo (Álava), sin causar víctimas ni heridos. La causa principal fue el fallo técnico del material rodante, derivado de la rotura por fatiga del casquillo deslizante de una rueda. El suceso provocó daños materiales en la infraestructura y el tren, además de la interrupción del tráfico ferroviario durante aproximadamente 16 horas.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................4\n2.1. SUCESO .............................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................9\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................9\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ..........................................................................10\n3.3. NORMATIVA...................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................4\n2.1. SUCESO .............................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................9\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................9\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ..........................................................................10\n3.3. NORMATIVA....................................................",
+      "causa_directa": "Fallo técnico del material rodante"
     },
     "conclusiones": [
-      "Según los análisis realizados por diferentes laboratorios, la rotura del casquillo deslizante del eje se produce por fatiga de la pieza, cuyo inicio se produce en la zona de transición de la parte no cilíndrica de la misma y viéndose favorecida por factores geométricos principalmente.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen por el fallo técnico del material rodante, al perderse la distancia entre las caras internas de las ruedas, debido al decalaje de la rueda izquierda del primer eje del segundo bogie del tercer coche del tren 436. El decalaje se produce por la rotura a sección completa del casquillo deslizante de dicha rueda.",
-      "MEDIDAS INMEDIATAS AL SUCESO A lo largo del mes de julio se producen varias reuniones entre representantes de Adif, Renfe Operadora, Actren y Caf para tratar el accidente objeto de este informe. Se establecen varias medidas preventivas mientras se analiza cuál es la causa real de la rotura del casquillo deslizante del tren 436.",
-      "Así pues, además de los ensayos de laboratorio realizados, se fija un plan de actuación urgente de inspección de los casquillos deslizantes del parque de las series 120, 121 y 120.05. Asimismo se plantea la necesidad de modificar el plan de mantenimiento. Las medidas preventivas son:"
+      "El accidente tuvo su origen por el fallo técnico del material rodante, al perderse la distancia entre las caras internas de las ruedas, debido al decalaje de la rueda izquierda del primer eje del segundo bogie del tercer coche del tren 436.",
+      "El decalaje se produce por la rotura a sección completa del casquillo deslizante de dicha rueda.",
+      "La rotura del casquillo deslizante del eje se produce por fatiga de la pieza, cuyo inicio se produce en la zona de transición de la parte no cilíndrica de la misma y viéndose favorecida por factores geométricos principalmente."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Renfe Operadora",
         "numero": "36/10-1",
-        "texto": "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido. Renfe Operadora",
-        "implementador": ""
+        "texto": "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido."
       },
       {
+        "destinatario": "Renfe Operadora",
         "numero": "36/10-2",
-        "texto": "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación",
-        "implementador": ""
+        "texto": "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1."
       },
       {
+        "destinatario": "Renfe Operadora",
         "numero": "36/10-3",
-        "texto": "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca. Madrid, 29 de marzo de 2011",
-        "implementador": ""
+        "texto": "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca."
       }
     ],
     "tags": [
@@ -1341,16 +1344,17 @@
     "id": "2010-0038/2010",
     "year": 2010,
     "expediente": "0038/2010",
-    "titulo": "IF 0038/2010 — El día 14 de julio de 2010, a las 12:41 horas, el tren de mercancías 9121, de Feve, descarrila en plena",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0038/2010 OCURRIDO EL DÍA 14.07.2010 ENTRE RIBADEO (LUGO) Y VEGADEO (ASTURIAS)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "menor",
     "fecha_suceso": "2010-07-14",
     "ubicacion": {
-      "estacion": "Ribadeo",
+      "estacion": "entre las estaciones de Ribadeo y Vegadeo",
       "provincia": "Lugo",
       "lat": 41.4083,
-      "lng": 2.1917
+      "lng": 2.1917,
+      "lugar": "P.K. 148+845, entre las estaciones de Ribadeo y Vegadeo"
     },
     "entidades": [
       "FEVE"
@@ -1367,29 +1371,23 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento del tren de mercancías 9121 ocurrido el 14 de julio de 2010 entre Ribadeo y Vegadeo no causó víctimas, pero provocó daños materiales significativos en la infraestructura y el material rodante. La causa principal fue la circulación del tren a una velocidad superior a la permitida, agravada por un incorrecto establecimiento de la velocidad máxima del tramo.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD..................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+      "causa_directa": "Exceso de velocidad del tren"
     },
     "conclusiones": [
-      "El personal de conducción cumple la normativa vigente de Feve en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
-      "Los equipos de seguridad del tren funcionaban correctamente en el momento del accidente.",
-      "Tras la realización de inspecciones posteriores al accidente en la locomotora 1613, no se detecta anomalía en los datos del bandaje, encontrándose los valores de los parámetros dentro de las tolerancias establecidas en la NBSM.",
-      "No se realiza ninguna comprobación de parámetros de material móvil a la locomotora que va en cabeza ni a las dieciocho plataformas.",
-      "A la locomotora 1613 descarrilada tampoco se le comprueban los parámetros de la suspensión.",
-      "La velocidad del tren era superior en un 21% a la máxima permitida para ese tramo y para ese tipo de En la zona del descarrilamiento, para el radio y la velocidad máxima de paso, la insuficiencia de peralte está fuera de la tolerancia máxima permitida en la norma NIF vía 002, Parámetros geométricos.",
-      "Incluso adoptando el peralte máximo (110 mm), el valor de la insuficiencia de peralte estaría fuera de Al circular con exceso de velocidad se incrementa notablemente la insuficiencia de peralte.",
-      "Un mes antes, tuvo lugar otro accidente en esta misma línea y en el mismo tramo en idénticas circunstancias que el accidente objeto de este informe.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así"
+      "El accidente se produce al circular el tren 9121 con exceso de velocidad.",
+      "Como factor subyacente se destaca el incorrecto establecimiento de la velocidad del tramo en la zona del accidente."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Feve",
         "numero": "38/10-1",
-        "texto": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación. Feve",
-        "implementador": ""
+        "texto": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación."
       },
       {
+        "destinatario": "Feve",
         "numero": "38/10-2",
-        "texto": "Realizar una inspección del tramo Ferrol - Pravia mediante la auscultación de la vía, comprobando que los parámetros cumplen la norma NFI vía 002 “Parámetros geométricos” de Feve. Comprobar que las velocidades de los tramos y las limitaciones permanentes de velocidad son acordes a los parámetros auscultados. Madrid, 25 de febrero de 2011",
-        "implementador": ""
+        "texto": "Realizar una inspección del tramo Ferrol - Pravia mediante la auscultación de la vía, comprobando que los parámetros cumplen la norma NFI vía 002 “Parámetros geométricos” de Feve. Comprobar que las velocidades de los tramos y las limitaciones permanentes de velocidad son acordes a los parámetros auscultados."
       }
     ],
     "tags": [
@@ -1427,16 +1425,17 @@
     "id": "2010-0039/2010",
     "year": 2010,
     "expediente": "0039/2010",
-    "titulo": "IF 0039/2010 — El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de",
+    "titulo": "Informe final sobre el incidente ferroviario nº 0039/2010 ocurrido el día 16.07.2010 en la dependencia Río Duero (Valladolid)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-07-16",
     "ubicacion": {
-      "estacion": "indicación de parada",
+      "estacion": "Dependencia Río Duero",
       "provincia": "Valladolid",
       "lat": 41.643,
-      "lng": -4.7278
+      "lng": -4.7278,
+      "lugar": "Dependencia Río Duero"
     },
     "entidades": [
       "ADIF",
@@ -1454,13 +1453,11 @@
     },
     "analisis": {
       "resumen": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de alta velocidad 80 Madrid Chamartín – Valladolid Campo Grande, se produce un conato de colisión entre los trenes de viajeros de larga distancia 4141 y 8168, ambos de la empresa ferroviaria Renfe Operadora, cuando el primero rebasa indebidamente la señal de entrada E1, que se encontraba en indicación de parada. El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1.  SUCESO..................................................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4.  CIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1.  SUCESO..................................................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4.  CIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD.................................",
+      "causa_directa": "Rebase indebido de la señal de entrada E1"
     },
     "conclusiones": [
-      "El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de Por parte de Renfe Operadora Se suspende la habilitación de conducción al maquinista del tren 4141.",
-      "Se constituyó el equipo de apoyo en aplicación de la Circular Operativa nº 1.",
-      "Renfe Operadora, mediante escrito fechado el 23 de septiembre de 2010, comunica que ha puesto en marcha diversos proyectos orientados a la mejora de la gestión del riesgo por fallo humano:",
-      "Se ha creado una oficina dedicada a la gestión del fallo humano, que tiene por misión la identificación de las causas del fallo humano en la conducción y la aplicación de medidas preventivas En mayo de 2010 ha comenzado su actividad la “comunidad de gestión de conocimiento” integrada por formadores y responsables de seguridad, cuyo fin es la mejora de la formación impartida a los Están en fase de implantación sendos programas formativos centrados en la fiabilidad de la conducción mediante el análisis de las causas más frecuentes de rebase y el desarrollo de las actitudes más adecuadas para prevenir el fallo humano. Estos programas se han desarrollado con el concurso de investigadores universitarios, expertos en el campo de la gestión del fallo humano."
+      "El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
     ],
     "recomendaciones": [],
     "tags": [
@@ -1485,7 +1482,7 @@
       "2010-0016/2010"
     ],
     "hora": "15:41",
-    "pk": null,
+    "pk": "167+867",
     "tramo": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
     "trenes": [
       {
@@ -1505,16 +1502,17 @@
     "id": "2010-0044/2010",
     "year": 2010,
     "expediente": "0044/2010",
-    "titulo": "IF 0044/2010 — El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolla a un",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2010 OCURRIDO EL DÍA 09.08.2010 EN EL PASO A NIVEL, CLASE A, EN CABEZÓN DE LA SAL (CANTABRIA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-08-09",
     "ubicacion": {
       "estacion": "Cabezón de la Sal",
       "provincia": "Cantabria",
       "lat": 43.3078404,
-      "lng": -4.2317625
+      "lng": -4.2317625,
+      "lugar": "Paso a nivel, clase A, en Cabezón de la Sal"
     },
     "entidades": [
       "FEVE"
@@ -1531,22 +1529,17 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 9 de agosto de 2010 en el paso a nivel de Cabezón de la Sal (Cantabria), donde el tren 6502 de Feve arrolló a un vehículo agrícola. El suceso provocó la muerte del conductor de la motosegadora y daños materiales en el tren y el vehículo. La causa principal del accidente fue la invasión del gálibo de la vía por parte del vehículo agrícola, que cruzó el paso a nivel sin percatarse de la llegada del tren.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD..................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+      "causa_directa": "Invasión del gálibo de la vía por un vehículo agrícola"
     },
     "conclusiones": [
-      "Los equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de acuerdo a la normativa vigente.",
-      "El maquinista hace uso del freno de emergencia y del silbato.",
-      "La señalización de la vía férrea se ajusta a lo establecido en la Orden Ministerial de 2 de agosto de La señalización del camino es incompleta pudiéndose mejorar para adecuarla, lo más posible, a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
-      "El tipo de protección del paso a nivel es el que le corresponde, según lo establecido en la Orden Ministerial de 2 de agosto de 2001, dada la velocidad del tramo y el momento de circulación. En efecto, al ser el momento de circulación inferior a 100 no se tiene en cuenta que, en alguno de los cuadrantes, la distancia real es inferior a la distancia técnica, por lo que no se obliga a adoptar una protección clase B en este paso (artículo 12.2 de la Orden Ministerial de 2 de agosto de 2001).",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como el informe particular de Feve, el técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del vehículo agrícola, que cruza por el paso a nivel cuando pasaba el tren 6502.",
-      "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de"
+      "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del vehículo agrícola, que cruza por el paso a nivel cuando pasaba el tren 6502."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Ayuntamiento de Cabezón de la Sal",
         "numero": "44/10-1",
-        "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001. Madrid, 25 de febrero de 2011",
-        "implementador": ""
+        "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
       }
     ],
     "tags": [
@@ -1571,7 +1564,7 @@
       "2010-0017/2010"
     ],
     "hora": "17:00",
-    "pk": null,
+    "pk": "489+795",
     "tramo": "1021 Oviedo – Santander",
     "trenes": [
       {
@@ -1586,16 +1579,17 @@
     "id": "2010-0046/2010",
     "year": 2010,
     "expediente": "0046/2010",
-    "titulo": "0046/2010 — Estación de PONFERRADA (LEÓN)",
+    "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0046/2010 OCURRIDO EL DÍA 17.08.2010 EN LA ESTACIÓN DE PONFERRADA (LEÓN)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "menor",
     "fecha_suceso": "2010-08-17",
     "ubicacion": {
-      "estacion": "Estación de Ponferrada",
+      "estacion": "Ponferrada",
       "provincia": "León",
       "lat": 42.5981,
-      "lng": -5.5667
+      "lng": -5.5667,
+      "lugar": "Estación de Ponferrada"
     },
     "entidades": [
       "ADIF",
@@ -1613,9 +1607,12 @@
     },
     "analisis": {
       "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES................................................................................................................ 7\n3.2.  NORMATIVA...................................................................................................................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES................................................................................................................ 7\n3.2.  NORMATIVA....................................................................................................................................",
+      "causa_directa": "Rebase indebido de la señal de salida S2/4"
     },
-    "conclusiones": [],
+    "conclusiones": [
+      "El incidente tuvo su origen en el rebase indebido por el tren de mercancías 82214 de la señal de salida S2/4, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+    ],
     "recomendaciones": [],
     "tags": [
       "incidente",
@@ -1659,16 +1656,17 @@
     "id": "2010-0047/2010",
     "year": 2010,
     "expediente": "0047/2010",
-    "titulo": "0047/2010 — Estación de El Sorbito y los viajeros fueron trasbordados en dicha",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0047/2010 OCURRIDO EL DÍA 18.08.2010 EN EL PASO A NIVEL CLASE B ENTRE LAS ESTACIONES DE UTRERA Y EL SORBITO (SEVILLA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-08-18",
     "ubicacion": {
-      "estacion": "El Sorbito",
+      "estacion": "P.K. 8+579",
       "provincia": "Sevilla",
       "lat": 37.3372397,
-      "lng": -6.6574505
+      "lng": -6.6574505,
+      "lugar": "Paso a nivel clase B, P.K. 8+579"
     },
     "entidades": [
       "ADIF",
@@ -1686,21 +1684,17 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 18 de agosto de 2010 en el paso a nivel clase B entre las estaciones de Utrera y El Sorbito (Sevilla). El suceso provocó la muerte del conductor del vehículo de carretera que fue arrollado por el tren 13926. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que irrumpió en el paso a nivel a pesar de que los dispositivos de protección estaban activados.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD..................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+      "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera"
     },
     "conclusiones": [
-      "El vehículo fue arrastrado 30 metros y desplazado hacia la izquierda 5 metros. El conductor fallece, quedando su cuerpo fuera del vehículo y a unos metros del mismo.",
-      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
-      "Del registrador del paso a nivel se comprueba que éste estaba debidamente protegido en el momento Según el registrador de seguridad del tren, el maquinista hizo uso del silbato y del freno de emergencia. También se comprueba que la velocidad era inferior a la máxima permitida.",
-      "La víctima irrumpe en el paso a nivel cuando éste tenía las señales luminosas y acústicas alertando de la inminente llegada del tren.",
-      "La señalización vertical del camino actualmente no se adapta en su totalidad a lo establecido en la Orden de 2 de agosto de 2001, por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel estando los dispositivos de protección (sonería e indicadores luminosos) activados, indicando la inminente llegada del tren 13926."
+      "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel estando los dispositivos de protección (sonería e indicadores luminosos) activados, indicando la inminente llegada del tren 13926."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Comunidad Autónoma de Andalucía",
         "numero": "47/10-1",
-        "texto": "Completar la señalización vertical de los caminos que acceden al paso a nivel para adecuarlo a lo establecido en la Orden de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel. Madrid, 29 de marzo de 2011",
-        "implementador": ""
+        "texto": "Completar la señalización vertical de los caminos que acceden al paso a nivel para adecuarlo a lo establecido en la Orden de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel."
       }
     ],
     "tags": [
@@ -1726,7 +1720,7 @@
       "2010-0063/2010"
     ],
     "hora": "12:16",
-    "pk": null,
+    "pk": "8+579",
     "tramo": "422 Bif. Utrera a Fuente de Piedra",
     "trenes": [
       {
@@ -1741,16 +1735,17 @@
     "id": "2010-0049/2010",
     "year": 2010,
     "expediente": "0049/2010",
-    "titulo": "IF 0049/2010 — El día 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015, de la empresa ferroviaria",
+    "titulo": "Informe final sobre el accidente ferroviario nº 0049/2010 ocurrido el día 06.09.2010 en paso a nivel provisional por obras, en el término municipal de Carmonita (Badajoz)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-09-06",
     "ubicacion": {
       "estacion": "Carmonita",
       "provincia": "Badajoz",
       "lat": 40.4065,
-      "lng": -3.692
+      "lng": -3.692,
+      "lugar": "Paso a nivel provisional por obras, PK 24+420"
     },
     "entidades": [
       "ADIF",
@@ -1768,38 +1763,37 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 6 de septiembre de 2010 en el paso a nivel provisional de Carmonita (Badajoz), donde un camión invadió el gálibo de la vía al circular sin las cadenas de seguridad echadas. La colisión provocó la muerte de una pasajera y el conductor del camión, además de heridos graves y daños materiales significativos. La causa principal del siniestro fue la invasión del gálibo por parte del vehículo, que cruzó el paso a nivel cuando el tren se aproximaba y las medidas de protección no estaban activadas.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 4\n2.1. SUCESO................................................................................................................................................. 4\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 9\n2.4. CIRCUNSTANCIAS EXTERNAS.............................................................................................................. 11\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................... 11\n3.1. RESUMEN DE LAS DECLARACIONES.................................................................................................... 11\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD............................"
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 4\n2.1. SUCESO................................................................................................................................................. 4\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 9\n2.4. CIRCUNSTANCIAS EXTERNAS.............................................................................................................. 11\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................... 11\n3.1. RESUMEN DE LAS DECLARACIONES.................................................................................................... 11\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD............................",
+      "causa_directa": "Invasión del gálibo de la vía por el camión dumper"
     },
     "conclusiones": [
-      "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso.",
-      "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel.",
-      "Implantar los medios técnicos necesarios para grabar las circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras."
+      "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del camión dumper, que cruza por el paso a nivel cuando pasaba el tren 17015, sin encontrarse echadas las cadenas del paso a nivel."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Adif",
         "numero": "49/10-1",
-        "texto": "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso. Dirección General de Infraestructuras Ferroviarias - DGIF",
-        "implementador": ""
+        "texto": "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso."
       },
       {
+        "destinatario": "Dirección General de Infraestructuras Ferroviarias - DGIF",
         "numero": "49/10-2",
-        "texto": "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel.",
-        "implementador": ""
+        "texto": "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel."
       },
       {
+        "destinatario": "Adif",
         "numero": "49/10-3",
-        "texto": "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras.",
-        "implementador": ""
+        "texto": "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras."
       },
       {
+        "destinatario": "Adif",
         "numero": "49/10-4",
-        "texto": "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente.",
-        "implementador": ""
+        "texto": "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente."
       },
       {
+        "destinatario": "Adif",
         "numero": "49/10-5",
-        "texto": "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras - por parte del personal de seguridad - para verificar la correcta aplicación de la consigna correspondiente. Madrid, 29 de julio de 2011",
-        "implementador": ""
+        "texto": "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras - por parte del personal de seguridad - para verificar la correcta aplicación de la consigna correspondiente."
       }
     ],
     "tags": [
@@ -1826,7 +1820,7 @@
       "2010-0063/2010"
     ],
     "hora": "12:35",
-    "pk": null,
+    "pk": "24+420",
     "tramo": "510 Aljucén - Cáceres",
     "trenes": [
       {
@@ -1841,16 +1835,17 @@
     "id": "2010-0050/2010",
     "year": 2010,
     "expediente": "0050/2010",
-    "titulo": "0050/2010 — Estación de Aranguren. La",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0050/2010 OCURRIDO EL DÍA 07.09.2010 EN EL PASO A NIVEL, CLASE C, ENTRE LAS ESTACIONES DE ARANGUREN Y ZALLA (VIZCAYA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-09-07",
     "ubicacion": {
-      "estacion": "Zalla",
+      "estacion": "Paso a nivel entre Aranguren y Zalla",
       "provincia": "Vizcaya",
       "lat": 42.894,
-      "lng": -1.612
+      "lng": -1.612,
+      "lugar": "Paso a nivel entre Aranguren y Zalla"
     },
     "entidades": [
       "FEVE"
@@ -1867,28 +1862,27 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 7 de septiembre de 2010 en el paso a nivel de Zalla (Vizcaya), que provocó la muerte de una mujer al ser arrollada por el tren 8939. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó el paso a nivel cuando los dispositivos de protección ya se encontraban en funcionamiento.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD..................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+      "causa_directa": "Invasión del gálibo de la vía por parte de la víctima"
     },
     "conclusiones": [
-      "La salida del apeadero de Aranguren está situada en el medio del paso a nivel (C3).",
-      "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero.",
-      "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que"
+      "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte de la víctima, que cruza por el paso a nivel cuando pasaba el tren 8939 y los dispositivos de protección se encontraban en funcionamiento."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Ayuntamiento de Zalla",
         "numero": "50/10-1",
-        "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001. Feve",
-        "implementador": ""
+        "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
       },
       {
+        "destinatario": "Feve",
         "numero": "50/10-2",
-        "texto": "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero. Feve",
-        "implementador": ""
+        "texto": "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero."
       },
       {
+        "destinatario": "Feve",
         "numero": "50/10-3",
-        "texto": "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan. Madrid, 29 de marzo de 2011",
-        "implementador": ""
+        "texto": "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan."
       }
     ],
     "tags": [
@@ -1914,7 +1908,7 @@
       "2010-0038/2010"
     ],
     "hora": "17:02",
-    "pk": null,
+    "pk": "0+388",
     "tramo": "1031 León – Bilbao",
     "trenes": [
       {
@@ -1929,16 +1923,17 @@
     "id": "2010-0053/2010",
     "year": 2010,
     "expediente": "0053/2010",
-    "titulo": "0053/2010 — Estación de REDONDELA (PONTEVEDRA)",
+    "titulo": "Informe final sobre el incidente ferroviario nº 0053/2010 ocurrido el día 30.09.2010 en la estación de Redondela (Pontevedra)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "menor",
     "fecha_suceso": "2010-09-30",
     "ubicacion": {
       "estacion": "Estación de Redondela",
       "provincia": "Pontevedra",
       "lat": 42.4288,
-      "lng": -8.6453
+      "lng": -8.6453,
+      "lugar": "Estación de Redondela"
     },
     "entidades": [
       "ADIF",
@@ -1956,23 +1951,17 @@
     },
     "analisis": {
       "resumen": "Incidente ocurrido el 30 de septiembre de 2010 en la estación de Redondela (Pontevedra) que provocó un conato de colisión entre dos trenes de Renfe Operadora sin causar víctimas ni daños materiales. La causa principal fue el rebase indebido de la señal de salida 1S/I en indicación de parada por parte del tren 620, debido al incumplimiento de las órdenes de las señales por parte del personal de conducción.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO.........................................................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO....................................................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................7\n2.4.  CIRCUNSTANCIAS EXTERNAS.......................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES .............................................................................................................7\n3.2.  NORM"
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO.........................................................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO....................................................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................7\n2.4.  CIRCUNSTANCIAS EXTERNAS.......................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES .............................................................................................................7\n3.2.  NORM",
+      "causa_directa": "Rebase indebido de la señal de salida 1S/I en indicación de parada"
     },
     "conclusiones": [
-      "El tren 620 rebasa indebidamente la señal 1S/I, en indicación de parada. Se incumple el artículo 217 Posteriormente realiza retroceso sin autorización. Se incumple el artículo 475.1 del RGC.",
-      "Tampoco se informa del suceso. Se incumple el artículo 279 del RGC.",
-      "El agente de acompañamiento comunica al maquinista operaciones terminadas estando la señal de salida 1S/I en indicación de parada. Se incumple el artículo 313.3 del RGC.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El incidente tuvo su origen en el rebase indebido por el tren 620 de la señal de salida 1S/I, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal del tren.",
-      "Por parte de Renfe Operadora Según Renfe Operadora el maquinista del tren 620 fue relevado del servicio y se le aplicó la circular operativa nº1 de Renfe Operadora.",
-      "Renfe Operadora, mediante escrito fechado el 23 de septiembre de 2010, comunicó que ha puesto en marcha diversos proyectos orientados a la mejora de la gestión del riesgo por fallo humano:",
-      "Se ha creado una oficina dedicada a la gestión del fallo humano, que tiene por misión la identificación de las causas del fallo humano en la conducción y la aplicación de medidas preventivas"
+      "El incidente tuvo su origen en el rebase indebido por el tren 620 de la señal de salida 1S/I, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal del tren."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Adif",
         "numero": "53/10-1",
-        "texto": "Estudiar la viabilidad de instalar señal indicadora de salida a la señal 1S/I de la estación de Redondela, dadas las especiales condiciones, al situarse en curva y ser transición de vía doble a dos vías únicas, ampliándose el análisis al resto de las señales de salida de dicha estación. Madrid, 28 de junio de 2011",
-        "implementador": ""
+        "texto": "Estudiar la viabilidad de instalar señal indicadora de salida a la señal 1S/I de la estación de Redondela, dadas las especiales condiciones, al situarse en curva y ser transición de vía doble a dos vías únicas, ampliándose el análisis al resto de las señales de salida de dicha estación."
       }
     ],
     "tags": [
@@ -2016,16 +2005,17 @@
     "id": "2010-0056/2010",
     "year": 2010,
     "expediente": "0056/2010",
-    "titulo": "0056/2010 — Estación de La",
+    "titulo": "Informe final sobre el incidente ferroviario nº 0056/2010 ocurrido el día 19.10.2010 entre las estaciones de Gijón y Sotiello (Asturias)",
     "tipo": "incidente",
-    "tipo_suceso": "incidente",
+    "tipo_suceso": "conato_colision",
     "gravedad": "menor",
     "fecha_suceso": "2010-10-19",
     "ubicacion": {
-      "estacion": "Sama de Langreo",
+      "estacion": "Entre las estaciones de Gijón y Sotiello",
       "provincia": "Asturias",
       "lat": 43.2833,
-      "lng": -5.7833
+      "lng": -5.7833,
+      "lugar": "Entre las estaciones de Gijón y Sotiello"
     },
     "entidades": [
       "FEVE"
@@ -2042,26 +2032,22 @@
     },
     "analisis": {
       "resumen": "El 19 de octubre de 2010, entre las estaciones de Gijón y Sotiello (Asturias), se produjo un conato de colisión entre dos trenes de cercanías de Feve que no causó víctimas ni daños materiales. La causa principal fue la autorización del rebase de la señal de salida hacia un cantón ya ocupado por otro tren debido a una avería en el sistema de bloqueo.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS.......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES............................................................................................................"
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS.......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES............................................................................................................",
+      "causa_directa": "Autorización incorrecta de rebase de señales"
     },
     "conclusiones": [
-      "Al tren 4519 se le autoriza el rebase de la señal S2/P por personal de circulación, sin verificar que se han tomado todas las medidas necesarias para garantizar la seguridad. Se incumple el artículo 2/09/00 del Reglamento de Circulación de Trenes (RCT).",
-      "Antes de expedir el tren 4519 no se verificó por el personal de circulación, el cruzamiento con el tren 5418 que estaba indicado en el libro itinerario. Se incumple el artículo 2/14/00 del RCT.",
-      "El personal de circulación (CTC) autoriza el rebase de la señal de salida al tren 4519 habiendo autorizado previamente un movimiento incompatible con éste. Se incumple el artículo 8/01/00 del Reglamento de Señales.",
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como el informe particular de Feve, el técnico responsable de la investigación concluye que:",
-      "El conato de colisión tuvo su origen al autorizar el personal responsable de la circulación el rebase de la señal S2/P al tren 4519 hacia un cantón ocupado por el tren 5418.",
-      "OBSERVACIONES ADICIONALES En el texto de los telefonemas de expedición y recepción existen diferencias en su contenido y en la Insistir en la aplicación rigurosa del Reglamento de Circulación de Trenes de Feve por parte del personal"
+      "El conato de colisión tuvo su origen al autorizar el personal responsable de la circulación el rebase de la señal S2/P al tren 4519 hacia un cantón ocupado por el tren 5418."
     ],
     "recomendaciones": [
       {
         "numero": "56/10-1",
-        "texto": "Insistir en la aplicación rigurosa del Reglamento de Circulación de Trenes de Feve por parte del personal responsable de la circulación, principalmente en situaciones degradadas debidas a averías en los sistemas de seguridad que controlan la circulación de los trenes. Feve",
-        "implementador": ""
+        "destinatario": "Feve",
+        "texto": "Insistir en la aplicación rigurosa del Reglamento de Circulación de Trenes de Feve por parte del personal responsable de la circulación, principalmente en situaciones degradadas debidas a averías en los sistemas de seguridad que controlan la circulación de los trenes."
       },
       {
         "numero": "56/10-2",
-        "texto": "En los programas de formación y reciclaje del personal de circulación se deberán incluir prácticas de circulación en situaciones degradadas. Madrid, 28 de junio de 2011",
-        "implementador": ""
+        "destinatario": "Feve",
+        "texto": "En los programas de formación y reciclaje del personal de circulación se deberán incluir prácticas de circulación en situaciones degradadas."
       }
     ],
     "tags": [
@@ -2102,16 +2088,17 @@
     "id": "2010-0062/2010",
     "year": 2010,
     "expediente": "0062/2010",
-    "titulo": "0062/2010 — Estación de BETANZOS - INFESTA (A CORUÑA)",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2010 OCURRIDO EL DÍA 10.11.2010 EN LA ESTACIÓN DE BETANZOS - INFESTA (A CORUÑA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "menor",
     "fecha_suceso": "2010-11-10",
     "ubicacion": {
-      "estacion": "Betanzos-Infesta",
+      "estacion": "Estación Betanzos - Infesta",
       "provincia": "A Coruña",
       "lat": 43.2707175,
-      "lng": -8.225834
+      "lng": -8.225834,
+      "lugar": "Estación Betanzos - Infesta"
     },
     "entidades": [
       "ADIF",
@@ -2129,29 +2116,23 @@
     },
     "analisis": {
       "resumen": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD..................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+      "causa_directa": "Fallo técnico en las instalaciones de la vía"
     },
     "conclusiones": [
-      "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
-      "La velocidad del tren es adecuada en todo momento.",
-      "Los valores de los parámetros de la rodadura del tren son correctos.",
-      "Las instalaciones técnicas funcionan correctamente.",
-      "El itinerario de entrada estaba al amparo de los movimientos 6 y 13 de la Consigna Serie A 2250.",
-      "El tramo de unión del desvío 9 con su cruzamiento presenta deficiencias en la sujeción y clavazón: traviesas defectuosas y tirafondos sueltos. Como consecuencia del descarrilamiento, se produce la apertura de la vía ya que presenta valores fuera de tolerancia (desde 1.699 hasta 1.730 mm).",
-      "Cuarenta y cinco días antes del accidente, se realiza inspección de la infraestructura sin que se Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación concluye que:",
-      "El accidente tuvo su origen en el fallo técnico en las instalaciones de la vía. Como consecuencia del deficiente estado de la sujeción del carril de unión del desvío 9 se produjo la apertura de la vía al paso de la locomotora y la posterior caída de los primeros ejes de la misma.",
-      "Después del accidente, se reparó provisionalmente el desvío sustituyendo algunas traviesas."
+      "El accidente tuvo su origen en el fallo técnico en las instalaciones de la vía.",
+      "Como consecuencia del deficiente estado de la sujeción del carril de unión del desvío 9 se produjo la apertura de la vía al paso de la locomotora y la posterior caída de los primeros ejes de la misma."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Adif",
         "numero": "62/10-1",
-        "texto": "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones.",
-        "implementador": ""
+        "texto": "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones."
       },
       {
+        "destinatario": "Adif",
         "numero": "62/10-2",
-        "texto": "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura. Madrid, 27 de abril de 2011",
-        "implementador": ""
+        "texto": "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura."
       }
     ],
     "tags": [
@@ -2191,16 +2172,17 @@
     "id": "2010-0063/2010",
     "year": 2010,
     "expediente": "0063/2010",
-    "titulo": "0063/2010 — Estación de Benifaió, tras recibir instrucciones del puesto de mando.",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0063/2010 OCURRIDO EL DÍA 11.11.2010 ENTRE LAS ESTACIONES DE ALGEMESÍ Y BENIFAIÓ (VALENCIA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "descarrilamiento",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-11-11",
     "ubicacion": {
-      "estacion": "Benifaió",
+      "estacion": "Entre las estaciones de Algemesí y Benifaió",
       "provincia": "Valencia",
       "lat": 39.2831,
-      "lng": -0.575
+      "lng": -0.575,
+      "lugar": "Entre las estaciones de Algemesí y Benifaió"
     },
     "entidades": [
       "ADIF",
@@ -2218,7 +2200,8 @@
     },
     "analisis": {
       "resumen": "El 11 de noviembre de 2010, entre las estaciones de Algemesí y Benifaió, se produjo el descarrilamiento del tren de mercancías COX26, sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y retrasos significativos en la circulación. La causa principal del suceso fue un fallo técnico del material rodante, concretamente el fallo mecánico de un rodamiento que provocó la pérdida de la caja de grasa y la posterior basculación del vagón.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................. 4\n2.1. SUCESO .............................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................8\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ............................................................................9\n3.3. NORMATIVA ............................................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................. 4\n2.1. SUCESO .............................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................8\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ............................................................................9\n3.3. NORMATIVA .............................................",
+      "causa_directa": "Fallo técnico del material rodante"
     },
     "conclusiones": [
       "El accidente tuvo su origen por el fallo técnico del material rodante.",
@@ -2231,29 +2214,29 @@
     ],
     "recomendaciones": [
       {
+        "destinatario": "Adif",
         "numero": "63/10-1",
-        "texto": "Estudiar la posibilidad de introducir automatismos en los equipos de detección de ejes calientes para el control de las variaciones de las temperaturas de riesgo al paso por los mismos, estableciendo cadenas correlacionadas e informatizadas, en tiempo real, para el seguimiento entre detectores consecutivos de una misma línea. Renfe Operadora",
-        "implementador": ""
+        "texto": "Estudiar la posibilidad de introducir automatismos en los equipos de detección de ejes calientes para el control de las variaciones de las temperaturas de riesgo al paso por los mismos, estableciendo cadenas correlacionadas e informatizadas, en tiempo real, para el seguimiento entre detectores consecutivos de una misma línea."
       },
       {
+        "destinatario": "Renfe Operadora",
         "numero": "63/10-2",
-        "texto": "Realizar un estudio de consistencia de las NTM’s y MMC’s que recogen el mantenimiento de las cajas de grasa y rodamientos, modificando las mismas si procede. Renfe Operadora",
-        "implementador": ""
+        "texto": "Realizar un estudio de consistencia de las NTM’s y MMC’s que recogen el mantenimiento de las cajas de grasa y rodamientos, modificando las mismas si procede."
       },
       {
+        "destinatario": "Renfe Operadora",
         "numero": "63/10-3",
-        "texto": "Realizar auditorías de verificación de cumplimiento de las NTM’s que afectan a la revisión de cajas de grasa y rodamientos 800.302.01 y 800.302.00. Dirección General de Infraestructuras Ferroviarias (DGIF)",
-        "implementador": ""
+        "texto": "Realizar auditorías de verificación de cumplimiento de las NTM’s que afectan a la revisión de cajas de grasa y rodamientos 800.302.01 y 800.302.00."
       },
       {
+        "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF)",
         "numero": "63/10-4",
-        "texto": "Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes.",
-        "implementador": ""
+        "texto": "Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes."
       },
       {
+        "destinatario": "Adif",
         "numero": "63/10-5",
-        "texto": "Insistir en la necesidad de realizar pruebas de alcoholemia y drogadicción a todo el personal implicado en el accidente. Madrid, 28 de junio de 2011",
-        "implementador": ""
+        "texto": "Insistir en la necesidad de realizar pruebas de alcoholemia y drogadicción a todo el personal implicado en el accidente."
       }
     ],
     "tags": [
@@ -2299,16 +2282,17 @@
     "id": "2010-0064/2010",
     "year": 2010,
     "expediente": "0064/2010",
-    "titulo": "IF 0064/2010 — El día 3 de diciembre de 2010, a las 10:31 horas, el tren de mercancías 58727, de la empresa",
+    "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0064/2010 OCURRIDO EL DÍA 03.12.2010 EN EL PASO A NIVEL, CLASE A, ENTRE LAS ESTACIONES DE ESPEJA Y FUENTES DE OÑORO (SALAMANCA)",
     "tipo": "accidente",
-    "tipo_suceso": "accidente",
+    "tipo_suceso": "otro_accidente",
     "gravedad": "muy grave",
     "fecha_suceso": "2010-12-03",
     "ubicacion": {
-      "estacion": "entre las estaciones de Espeja y Fuentes de Oñoro",
+      "estacion": "Fuentes de Oñoro",
       "provincia": "Salamanca",
       "lat": 40.9833,
-      "lng": -5.7
+      "lng": -5.7,
+      "lugar": "Paso a nivel, clase A, P.K. 122+116"
     },
     "entidades": [
       "ADIF",
@@ -2326,17 +2310,17 @@
     },
     "analisis": {
       "resumen": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren.",
-      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD..................."
+      "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+      "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera"
     },
     "conclusiones": [
-      "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 58727.",
-      "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de"
+      "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 58727."
     ],
     "recomendaciones": [
       {
+        "destinatario": "Ayuntamiento de Fuentes de Oñoro",
         "numero": "64/10-1",
-        "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001. Madrid, 27 de abril de 2011",
-        "implementador": ""
+        "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
       }
     ],
     "tags": [
@@ -2362,7 +2346,7 @@
       "2010-0062/2010"
     ],
     "hora": "10:31",
-    "pk": null,
+    "pk": "122+116",
     "tramo": "120 Vilar Formoso – Medina del Campo",
     "trenes": [
       {
