@@ -10,9 +10,9 @@
     "fecha_suceso": "2020-01-24",
     "ubicacion": {
       "estacion": "Xeraco",
-      "provincia": "Burgos",
-      "lat": 41.9619946,
-      "lng": -4.4771599
+      "provincia": "Valencia",
+      "lat": 39.0332,
+      "lng": -0.2152
     },
     "entidades": [
       "ADIF",

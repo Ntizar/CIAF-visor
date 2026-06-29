@@ -9,10 +9,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2010-01-10",
     "ubicacion": {
-      "estacion": "Sevilla",
+      "estacion": "Córdoba",
       "provincia": "Córdoba",
-      "lat": 37.8884,
-      "lng": -4.7794
+      "lat": 37.8845813,
+      "lng": -4.7760138
     },
     "entidades": [
       "ADIF",
@@ -111,10 +111,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2010-01-15",
     "ubicacion": {
-      "estacion": "Vila",
+      "estacion": "Vila-real",
       "provincia": "Castellón",
-      "lat": 39.9864,
-      "lng": -0.0513
+      "lat": 39.9372616,
+      "lng": -0.1004465
     },
     "entidades": [
       "ADIF",
@@ -932,9 +932,9 @@
     "fecha_suceso": "2010-06-23",
     "ubicacion": {
       "estacion": "Xeraco",
-      "provincia": "Alicante",
-      "lat": 37.3118846,
-      "lng": -6.8410777
+      "provincia": "Valencia",
+      "lat": 39.0331946,
+      "lng": -0.2152033
     },
     "entidades": [
       "ADIF",
@@ -1092,9 +1092,9 @@
     "fecha_suceso": "2010-06-29",
     "ubicacion": {
       "estacion": "Humanes",
-      "provincia": "Barcelona",
-      "lat": 41.435,
-      "lng": 2.19
+      "provincia": "Madrid",
+      "lat": 40.2562378,
+      "lng": -3.827886
     },
     "entidades": [
       "ADIF",
@@ -1258,7 +1258,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2010-07-10",
     "ubicacion": {
-      "estacion": "Jaca",
+      "estacion": "particular de Jaca",
       "provincia": "Huesca",
       "lat": 42.5667,
       "lng": -0.55
@@ -1747,8 +1747,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2010-09-06",
     "ubicacion": {
-      "estacion": "que",
-      "provincia": "Badajoz",
+      "estacion": "Atocha",
+      "provincia": "Madrid",
       "lat": 40.4065,
       "lng": -3.692
     },
@@ -2108,10 +2108,10 @@
     "gravedad": "menor",
     "fecha_suceso": "2010-11-10",
     "ubicacion": {
-      "estacion": "Betanzos",
+      "estacion": "Betanzos-Infesta",
       "provincia": "A Coruña",
-      "lat": 43.284,
-      "lng": -8.218
+      "lat": 43.2707175,
+      "lng": -8.225834
     },
     "entidades": [
       "ADIF",
@@ -2305,7 +2305,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2010-12-03",
     "ubicacion": {
-      "estacion": "Oñoro",
+      "estacion": "entre las estaciones de Espeja y Fuentes de Oñoro",
       "provincia": "Salamanca",
       "lat": 40.9833,
       "lng": -5.7

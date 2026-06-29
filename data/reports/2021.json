@@ -344,10 +344,10 @@
     "gravedad": "menor",
     "fecha_suceso": "2021-09-16",
     "ubicacion": {
-      "estacion": "Sant",
-      "provincia": "Barcelona",
-      "lat": 41.3298,
-      "lng": 2.0889
+      "estacion": "Sant Vicenç de Calders",
+      "provincia": "Tarragona",
+      "lat": 41.2,
+      "lng": 1.6
     },
     "entidades": [
       "ADIF",

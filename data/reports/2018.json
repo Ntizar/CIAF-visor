@@ -96,9 +96,9 @@
     "fecha_suceso": "2018-11-20",
     "ubicacion": {
       "estacion": "Ponferrada",
-      "provincia": "Barcelona",
-      "lat": 41.3725,
-      "lng": 2.1404
+      "provincia": "León",
+      "lat": 42.4984,
+      "lng": -6.5663
     },
     "entidades": [
       "ADIF",

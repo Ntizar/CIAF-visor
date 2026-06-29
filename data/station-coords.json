@@ -1638,5 +1638,113 @@
     "lat": 40.656,
     "lng": -4.6971,
     "provincia": "Ávila"
+  },
+  "sant celoni": {
+    "lat": 41.6936,
+    "lng": 2.494
+  },
+  "sama de langreo": {
+    "lat": 43.2833,
+    "lng": -5.7833
+  },
+  "betanzos-infesta": {
+    "lat": 43.2707,
+    "lng": -8.2258
+  },
+  "las navas del marques": {
+    "lat": 40.6,
+    "lng": -4.3333
+  },
+  "san cristobal industrial": {
+    "lat": 40.3833,
+    "lng": -3.75
+  },
+  "los gavilanes": {
+    "lat": 40.3228,
+    "lng": -3.8649
+  },
+  "san claudio": {
+    "lat": 43.3667,
+    "lng": -5.8492
+  },
+  "xeraco": {
+    "lat": 39.0332,
+    "lng": -0.2152
+  },
+  "redondela": {
+    "lat": 42.2799,
+    "lng": -8.6163
+  },
+  "pedralba": {
+    "lat": 41.9913,
+    "lng": -6.7066
+  },
+  "elx parc": {
+    "lat": 38.3452,
+    "lng": -0.4939
+  },
+  "san miguel de meruelo": {
+    "lat": 43.3224,
+    "lng": -1.9839
+  },
+  "barcelona franco": {
+    "lat": 41.3833,
+    "lng": 2.1833
+  },
+  "ponferrada": {
+    "lat": 42.4984,
+    "lng": -6.5663
+  },
+  "anoeta": {
+    "lat": 42.898,
+    "lng": -2.13
+  },
+  "irun": {
+    "lat": 43.3375,
+    "lng": -1.7892
+  },
+  "araha": {
+    "lat": 37.2667,
+    "lng": -5.55
+  },
+  "malano": {
+    "lat": 43.4174,
+    "lng": -3.8421
+  },
+  "rio huerva": {
+    "lat": 41.6333,
+    "lng": -0.9333
+  },
+  "sant vicenc de calders": {
+    "lat": 41.2,
+    "lng": 1.6
+  },
+  "trasona": {
+    "lat": 43.545,
+    "lng": -5.823
+  },
+  "sant pol de mar": {
+    "lat": 41.6022,
+    "lng": 2.5968
+  },
+  "sant andreu comtal": {
+    "lat": 41.4378,
+    "lng": 2.1877
+  },
+  "sant guim de freixenet": {
+    "lat": 41.65,
+    "lng": 1.4167
+  },
+  "villaverde de pontones": {
+    "lat": 43.3833,
+    "lng": -4.5333
+  },
+  "atocha": {
+    "lat": 40.4065,
+    "lng": -3.692
+  },
+  "los limoneros": {
+    "lat": 38.0,
+    "lng": -1.1333
   }
 }

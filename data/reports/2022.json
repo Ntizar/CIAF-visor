@@ -10,9 +10,9 @@
     "fecha_suceso": "2022-06-01",
     "ubicacion": {
       "estacion": "Ponferrada",
-      "provincia": "Barcelona",
-      "lat": 41.4765136,
-      "lng": 1.9832978
+      "provincia": "León",
+      "lat": 42.4984,
+      "lng": -6.5663
     },
     "entidades": [
       "ADIF",

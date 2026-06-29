@@ -92,10 +92,10 @@
     "gravedad": "menor",
     "fecha_suceso": "2013-01-31",
     "ubicacion": {
-      "estacion": "San",
-      "provincia": "Cantabria",
-      "lat": 41.2333,
-      "lng": 1.6333
+      "estacion": "Arahal",
+      "provincia": "Sevilla",
+      "lat": 37.2667,
+      "lng": -5.55
     },
     "entidades": [
       "ADIF",
@@ -660,10 +660,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-04-20",
     "ubicacion": {
-      "estacion": "San",
-      "provincia": "Barcelona",
-      "lat": 43.3224219,
-      "lng": -1.9838889
+      "estacion": "Villaverde de Pontones",
+      "provincia": "Cantabria",
+      "lat": 43.3833,
+      "lng": -4.5333
     },
     "entidades": [
       "ADIF",
@@ -899,9 +899,9 @@
     "fecha_suceso": "2013-05-26",
     "ubicacion": {
       "estacion": "Pedralba",
-      "provincia": "Sevilla",
-      "lat": 37.3919,
-      "lng": -5.9773
+      "provincia": "Zamora",
+      "lat": 41.9913,
+      "lng": -6.7066
     },
     "entidades": [
       "ADIF",
@@ -1649,10 +1649,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2013-09-26",
     "ubicacion": {
-      "estacion": "Sant",
-      "provincia": "Valladolid",
-      "lat": 41.643,
-      "lng": -4.7278
+      "estacion": "Sant Guim de Freixenet",
+      "provincia": "Barcelona",
+      "lat": 41.65,
+      "lng": 1.4167
     },
     "entidades": [
       "ADIF",

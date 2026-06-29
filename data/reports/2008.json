@@ -149,10 +149,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2008-01-26",
     "ubicacion": {
-      "estacion": "Vila",
+      "estacion": "Vila-real",
       "provincia": "Castellón",
-      "lat": 42.2605,
-      "lng": 2.9385
+      "lat": 39.9372616,
+      "lng": -0.1004465
     },
     "entidades": [
       "ADIF",
@@ -1220,9 +1220,9 @@
     "fecha_suceso": "2008-06-03",
     "ubicacion": {
       "estacion": "Maliaño",
-      "provincia": "Cádiz",
-      "lat": 37.6667,
-      "lng": -5.5333
+      "provincia": "Cantabria",
+      "lat": 43.4174057,
+      "lng": -3.8420589
     },
     "entidades": [
       "ADIF",
@@ -1496,7 +1496,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2008-07-04",
     "ubicacion": {
-      "estacion": "Sant",
+      "estacion": "Sant Celoni",
       "provincia": "Barcelona",
       "lat": 41.6936,
       "lng": 2.494
@@ -1812,10 +1812,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2008-08-29",
     "ubicacion": {
-      "estacion": "San",
-      "provincia": "Barcelona",
-      "lat": 41.2333,
-      "lng": 1.6333
+      "estacion": "Segur de Calafell",
+      "provincia": "Tarragona",
+      "lat": 41.1924633,
+      "lng": 1.6064509
     },
     "entidades": [
       "ADIF",
@@ -2043,9 +2043,9 @@
     "fecha_suceso": "2008-09-12",
     "ubicacion": {
       "estacion": "Pedralba",
-      "provincia": "Barcelona",
-      "lat": 41.4733,
-      "lng": 1.9272
+      "provincia": "Zamora",
+      "lat": 41.9913107,
+      "lng": -6.7065989
     },
     "entidades": [
       "ADIF",
@@ -2832,9 +2832,9 @@
     "fecha_suceso": "2008-10-23",
     "ubicacion": {
       "estacion": "Redondela",
-      "provincia": "Madrid",
-      "lat": 40.6333,
-      "lng": -3.85
+      "provincia": "Pontevedra",
+      "lat": 42.279914,
+      "lng": -8.6163366
     },
     "entidades": [
       "ADIF",
@@ -3026,9 +3026,9 @@
     "fecha_suceso": "2008-11-02",
     "ubicacion": {
       "estacion": "Sama de Langreo",
-      "provincia": "Barcelona",
-      "lat": 41.7721702,
-      "lng": 2.6733774
+      "provincia": "Asturias",
+      "lat": 43.2833,
+      "lng": -5.7833
     },
     "entidades": [
       "ADIF",
@@ -3379,10 +3379,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2008-11-10",
     "ubicacion": {
-      "estacion": "Betanzos",
-      "provincia": "Asturias",
-      "lat": 43.2833,
-      "lng": -5.7167
+      "estacion": "Betanzos-Infesta",
+      "provincia": "A Coruña",
+      "lat": 43.2707,
+      "lng": -8.2258
     },
     "entidades": [
       "FEVE"

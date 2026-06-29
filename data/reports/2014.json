@@ -246,10 +246,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2014-07-10",
     "ubicacion": {
-      "estacion": "Sant",
+      "estacion": "Sant Vicenç de Calders",
       "provincia": "Tarragona",
-      "lat": 41.3725,
-      "lng": 2.1404
+      "lat": 41.2,
+      "lng": 1.6
     },
     "entidades": [
       "ADIF",
@@ -414,7 +414,7 @@
     "fecha_suceso": "2014-08-06",
     "ubicacion": {
       "estacion": "Anoeta",
-      "provincia": "Barcelona",
+      "provincia": "Guipúzcoa",
       "lat": 42.898,
       "lng": -2.13
     },
@@ -498,9 +498,9 @@
     "fecha_suceso": "2014-08-11",
     "ubicacion": {
       "estacion": "Pedralba",
-      "provincia": "Burgos",
-      "lat": 42.6353553,
-      "lng": -3.1109887
+      "provincia": "Zamora",
+      "lat": 41.9913,
+      "lng": -6.7066
     },
     "entidades": [
       "ADIF",

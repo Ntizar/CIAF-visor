@@ -10,9 +10,9 @@
     "fecha_suceso": "2011-01-04",
     "ubicacion": {
       "estacion": "Irún",
-      "provincia": "Barcelona",
-      "lat": 43.262,
-      "lng": -2.925
+      "provincia": "Guipúzcoa",
+      "lat": 43.3375,
+      "lng": -1.7892
     },
     "entidades": [
       "ADIF",
@@ -157,10 +157,10 @@
     "gravedad": "menor",
     "fecha_suceso": "2011-03-07",
     "ubicacion": {
-      "estacion": "Fla",
-      "provincia": "Barcelona",
-      "lat": 41.9794,
-      "lng": 2.8193
+      "estacion": "Flaçà",
+      "provincia": "Girona",
+      "lat": 42.0456854,
+      "lng": 2.9569565
     },
     "entidades": [
       "ADIF",
@@ -569,10 +569,10 @@
     "gravedad": "menor",
     "fecha_suceso": "2011-05-16",
     "ubicacion": {
-      "estacion": "Los",
+      "estacion": "Los Gavilanes",
       "provincia": "Madrid",
-      "lat": 39.5,
-      "lng": -0.7167
+      "lat": 40.3228,
+      "lng": -3.8649
     },
     "entidades": [
       "ADIF",
@@ -812,7 +812,7 @@
     "gravedad": "menor",
     "fecha_suceso": "2011-06-01",
     "ubicacion": {
-      "estacion": "TRASONA",
+      "estacion": "Trasona",
       "provincia": "Asturias",
       "lat": 43.545,
       "lng": -5.823
@@ -1197,8 +1197,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2011-07-20",
     "ubicacion": {
-      "estacion": "Villaluenga-Yuncler",
-      "provincia": "Madrid",
+      "estacion": "particular de Jaca",
+      "provincia": "Huesca",
       "lat": 40.032306,
       "lng": -3.902171
     },
@@ -1284,7 +1284,7 @@
     "gravedad": "menor",
     "fecha_suceso": "2011-08-27",
     "ubicacion": {
-      "estacion": "Granollers",
+      "estacion": "Granollers-Centre",
       "provincia": "Barcelona",
       "lat": 41.6002,
       "lng": 2.2863
@@ -1361,7 +1361,7 @@
     "fecha_suceso": "2011-10-12",
     "ubicacion": {
       "estacion": "Vilamalla",
-      "provincia": "Barcelona",
+      "provincia": "GIRONA",
       "lat": 41.9794,
       "lng": 2.8193
     },
@@ -1445,7 +1445,7 @@
     "gravedad": "menor",
     "fecha_suceso": "2011-10-26",
     "ubicacion": {
-      "estacion": "Sant",
+      "estacion": "Sant Pol de Mar",
       "provincia": "Barcelona",
       "lat": 41.6022,
       "lng": 2.5968
@@ -1676,10 +1676,10 @@
     "gravedad": "menor",
     "fecha_suceso": "2011-12-15",
     "ubicacion": {
-      "estacion": "Betanzos",
-      "provincia": "Madrid",
-      "lat": 39.4905062,
-      "lng": -0.5722427
+      "estacion": "Betanzos-Infesta",
+      "provincia": "A Coruña",
+      "lat": 43.2707,
+      "lng": -8.2258
     },
     "entidades": [
       "ADIF",

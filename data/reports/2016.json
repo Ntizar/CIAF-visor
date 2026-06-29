@@ -91,7 +91,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-01-25",
     "ubicacion": {
-      "estacion": "Elx",
+      "estacion": "Elx Parc",
       "provincia": "Alicante",
       "lat": 38.3452,
       "lng": -0.4939
@@ -168,10 +168,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2016-03-15",
     "ubicacion": {
-      "estacion": "Irún",
-      "provincia": "Alicante",
-      "lat": 43.262,
-      "lng": -2.925
+      "estacion": "Arahal",
+      "provincia": "Sevilla",
+      "lat": 37.2667,
+      "lng": -5.55
     },
     "entidades": [
       "ADIF",
@@ -333,9 +333,9 @@
     "fecha_suceso": "2016-04-17",
     "ubicacion": {
       "estacion": "Maliaño",
-      "provincia": "Guipúzcoa",
-      "lat": 43.269,
-      "lng": -1.9745
+      "provincia": "Cantabria",
+      "lat": 43.4174,
+      "lng": -3.8421
     },
     "entidades": [
       "ADIF",
@@ -608,9 +608,9 @@
     "fecha_suceso": "2016-09-09",
     "ubicacion": {
       "estacion": "Anoeta",
-      "provincia": "Pontevedra",
-      "lat": 42.1618,
-      "lng": -8.6353
+      "provincia": "Guipúzcoa",
+      "lat": 42.898,
+      "lng": -2.13
     },
     "entidades": [
       "ADIF",
@@ -765,9 +765,9 @@
     "fecha_suceso": "2016-11-04",
     "ubicacion": {
       "estacion": "Sama de Langreo",
-      "provincia": "Valencia",
-      "lat": 39.4944,
-      "lng": -0.6841
+      "provincia": "Asturias",
+      "lat": 43.2833,
+      "lng": -5.7833
     },
     "entidades": [
       "ADIF",

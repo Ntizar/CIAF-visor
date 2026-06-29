@@ -9,10 +9,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2017-01-06",
     "ubicacion": {
-      "estacion": "San",
-      "provincia": "Álava",
-      "lat": 43.33,
-      "lng": -3.81
+      "estacion": "San Miguel de Meruelo",
+      "provincia": "Cantabria",
+      "lat": 43.3224,
+      "lng": -1.9839
     },
     "entidades": [
       "ADIF",
@@ -558,9 +558,9 @@
     "fecha_suceso": "2017-07-13",
     "ubicacion": {
       "estacion": "Xeraco",
-      "provincia": "Madrid",
-      "lat": 41.3,
-      "lng": 0.74
+      "provincia": "Valencia",
+      "lat": 39.0332,
+      "lng": -0.2152
     },
     "entidades": [
       "ADIF",

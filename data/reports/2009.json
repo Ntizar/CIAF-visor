@@ -82,10 +82,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-01-14",
     "ubicacion": {
-      "estacion": "Vila",
-      "provincia": "Asturias",
-      "lat": 43.5574,
-      "lng": -5.9208
+      "estacion": "Vila-real",
+      "provincia": "Castellón",
+      "lat": 39.9372616,
+      "lng": -0.1004465
     },
     "entidades": [
       "ADIF",
@@ -1147,7 +1147,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-04-07",
     "ubicacion": {
-      "estacion": "Las",
+      "estacion": "Las Navas del Marqués",
       "provincia": "Ávila",
       "lat": 40.6,
       "lng": -4.3333
@@ -1302,7 +1302,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-06-05",
     "ubicacion": {
-      "estacion": "Maçanet-",
+      "estacion": "Maçanet-Massanes",
       "provincia": "Barcelona",
       "lat": 41.7774422,
       "lng": 2.7309252
@@ -1606,9 +1606,9 @@
     "fecha_suceso": "2009-06-26",
     "ubicacion": {
       "estacion": "Xeraco",
-      "provincia": "Madrid",
-      "lat": 40.3895,
-      "lng": -3.7676
+      "provincia": "Valencia",
+      "lat": 39.0331946,
+      "lng": -0.2152033
     },
     "entidades": [
       "ADIF",
@@ -1849,7 +1849,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-07-13",
     "ubicacion": {
-      "estacion": "Jaca",
+      "estacion": "particular de Jaca",
       "provincia": "Huesca",
       "lat": 42.5667,
       "lng": -0.55
@@ -2010,10 +2010,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-08-24",
     "ubicacion": {
-      "estacion": "Sant",
+      "estacion": "Sant Andreu Comtal",
       "provincia": "Barcelona",
-      "lat": 41.3843,
-      "lng": 2.0441
+      "lat": 41.4378,
+      "lng": 2.1877
     },
     "entidades": [
       "ADIF",
@@ -2095,9 +2095,9 @@
     "fecha_suceso": "2009-08-28",
     "ubicacion": {
       "estacion": "Ponferrada",
-      "provincia": "Valencia",
-      "lat": 41.9,
-      "lng": -6.7833
+      "provincia": "León",
+      "lat": 42.4984436,
+      "lng": -6.5663176
     },
     "entidades": [
       "ADIF",
@@ -2183,7 +2183,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-08-31",
     "ubicacion": {
-      "estacion": "San",
+      "estacion": "San Cristóbal Industrial",
       "provincia": "Madrid",
       "lat": 40.3833,
       "lng": -3.75
@@ -2430,10 +2430,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-09-28",
     "ubicacion": {
-      "estacion": "Los",
-      "provincia": "Madrid",
-      "lat": 37.5965,
-      "lng": -0.9966
+      "estacion": "Los Limoneros",
+      "provincia": "Murcia",
+      "lat": 38.0,
+      "lng": -1.1333
     },
     "entidades": [
       "FEVE"
@@ -2885,8 +2885,8 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-12-06",
     "ubicacion": {
-      "estacion": "GRANOLLERS",
-      "provincia": "Barcelona",
+      "estacion": "entre las estaciones de Espeja y Fuentes de Oñoro",
+      "provincia": "Salamanca",
       "lat": 41.6002,
       "lng": 2.2863
     },
@@ -3081,10 +3081,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-12-13",
     "ubicacion": {
-      "estacion": "Betanzos",
+      "estacion": "Betanzos-Infesta",
       "provincia": "A Coruña",
-      "lat": 43.284,
-      "lng": -8.218
+      "lat": 43.2707175,
+      "lng": -8.225834
     },
     "entidades": [
       "ADIF",
@@ -3239,10 +3239,10 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2009-12-20",
     "ubicacion": {
-      "estacion": "Sant",
+      "estacion": "Sant Guim de Freixenet",
       "provincia": "Barcelona",
-      "lat": 41.7257,
-      "lng": 1.8269
+      "lat": 41.65,
+      "lng": 1.4167
     },
     "entidades": [
       "ADIF",

@@ -9,7 +9,7 @@
     "gravedad": "muy grave",
     "fecha_suceso": "2012-01-12",
     "ubicacion": {
-      "estacion": "San",
+      "estacion": "San Claudio",
       "provincia": "Asturias",
       "lat": 43.3667,
       "lng": -5.8492
@@ -481,9 +481,9 @@
     "fecha_suceso": "2012-04-26",
     "ubicacion": {
       "estacion": "Xeraco",
-      "provincia": "Zaragoza",
-      "lat": 41.6333,
-      "lng": -0.9333
+      "provincia": "Valencia",
+      "lat": 39.0332,
+      "lng": -0.2152
     },
     "entidades": [
       "ADIF",
@@ -1178,9 +1178,9 @@
     "fecha_suceso": "2012-07-26",
     "ubicacion": {
       "estacion": "Redondela",
-      "provincia": "Madrid",
-      "lat": 40.4065,
-      "lng": -3.692
+      "provincia": "Pontevedra",
+      "lat": 42.2799,
+      "lng": -8.6163
     },
     "entidades": [
       "ADIF",
