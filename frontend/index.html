@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CIAF - Centro de Información de Accidentes Ferroviarios</title>
+    <title>Visualizador informes CIAF</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
@@ -344,7 +344,7 @@
 <!-- Header -->
 <header class="app-header">
     <div>
-        <h1>🚂 CIAF — Centro de Información de Accidentes Ferroviarios</h1>
+        <h1>🚂 Visualizador informes CIAF</h1>
         <div class="subtitle">Visualización interactiva de datos de seguridad ferroviaria en España</div>
     </div>
 </header>
@@ -762,7 +762,7 @@ function setupSearch() {
 }
 
 // ===== MAP =====
-let adifWmsLayer, ltvLayer, tramificacionLayer;
+let adifWmsLayer, ltvLayer, tramificacionLayer, lineLabelsLayer;
 
 function initMap() {
     map = L.map('map').setView([40.0, -3.5], 6);
@@ -792,9 +792,14 @@ function initMap() {
     tramificacionLayer = L.layerGroup();
     loadTramificacion();
 
+    // === Capa Etiquetas de Líneas Ferroviarias ===
+    lineLabelsLayer = L.layerGroup();
+    loadLineLabels();
+
     const overlays = {
         'Informes CIAF': markersLayer,
         '🛤️ Red ferroviaria ADIF': adifWmsLayer,
+        '🏷️ Nombres de líneas': lineLabelsLayer,
         '⚠️ Limitaciones velocidad (LTV)': ltvLayer,
         '🏗️ Tramificación ADIF': tramificacionLayer
     };
@@ -839,23 +844,13 @@ function updateMapMarkers() {
                 iconSize: [12, 12], iconAnchor: [6, 6]
             });
             const marker = L.marker([r.lat, r.lng], { icon });
-            const entityList = r.entities.length > 0 ? r.entities.join(', ') : (r.entity || '—');
-            marker.bindPopup(`
-                <div class="popup-content">
-                    <h4>${r.expediente || r.id}</h4>
-                    <p><span class="detail-label">Fecha:</span> ${r.date || '—'}</p>
-                    <p><span class="detail-label">Tipo:</span> <span class="badge badge-${r.type}">${r.type}</span> ${r.tipo_suceso ? '(' + r.tipo_suceso + ')' : ''}</p>
-                    <p><span class="detail-label">Gravedad:</span> <span class="badge badge-${(r.severity||'').replace(/ /g,'-')}">${r.severity || '—'}</span></p>
-                    <p><span class="detail-label">Estación:</span> ${r.station || r.city || '—'}</p>
-                    <p><span class="detail-label">Provincia:</span> ${r.province || '—'}</p>
-                    <p><span class="detail-label">Entidades:</span> <span class="popup-entities">${entityList}</span></p>
-                    ${r.victims > 0 ? `<p><span class="detail-label">Víctimas fatales:</span> ${r.victims}</p>` : ''}
-                    ${r.injured > 0 ? `<p><span class="detail-label">Heridos:</span> ${r.injured}</p>` : ''}
-                    <p><span class="detail-label">Daños materiales:</span> ${r.material_damage ? 'Sí' : 'No'}</p>
-                    ${r.description ? `<p style="margin-top:0.4rem;font-size:0.78rem;color:#666;max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.description.substring(0, 150)}${r.description.length > 150 ? '…' : ''}</p>` : ''}
-                    <a href="https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados" target="_blank" rel="noopener" class="popup-link">Ver en CIAF →</a>
-                </div>
-            `, { maxWidth: 350, className: '' });
+            // Tooltip con info de línea y expediente
+            const lineInfo = r.linea ? `Línea ${r.linea}` : (r.tramo || '');
+            const tooltipText = `${r.expediente || r.id} — ${r.date || ''}${lineInfo ? ' — ' + lineInfo : ''}`;
+            marker.bindTooltip(tooltipText, { direction: 'top', offset: [0, -8] });
+            marker.on('click', function() {
+                showDetailPanel(allReports.indexOf(r));
+            });
             markersLayer.addLayer(marker);
         }
     });
@@ -958,6 +953,94 @@ async function loadTramificacion() {
     } catch (e) {
         console.warn('Error cargando Tramificación ADIF:', e);
     }
+}
+
+// ===== CAPA ETIQUETAS DE LÍNEAS FERROVIARIAS =====
+// Posiciones aproximadas de etiquetas para las líneas principales de España
+const LINE_LABELS = [
+    // Líneas radiales desde Madrid
+    { name: 'R-1 Madrid-Hendaya', lat: 42.85, lng: -4.50 },
+    { name: 'R-2 Madrid-Barcelona', lat: 41.30, lng: -0.50 },
+    { name: 'R-3 Madrid-Irun', lat: 42.70, lng: -2.50 },
+    { name: 'R-4 Madrid-Valencia', lat: 39.50, lng: -1.00 },
+    { name: 'R-5 Madrid-Cádiz', lat: 38.50, lng: -5.50 },
+    { name: 'R-6 Madrid-Sevilla', lat: 38.00, lng: -4.80 },
+    { name: 'R-7 Madrid-Coruña', lat: 42.50, lng: -7.50 },
+    // Líneas de alta velocidad
+    { name: 'AVE Madrid-Barcelona', lat: 41.50, lng: -1.00 },
+    { name: 'AVE Madrid-Sevilla', lat: 38.30, lng: -4.50 },
+    { name: 'AVE Madrid-Valencia', lat: 39.80, lng: -1.20 },
+    { name: 'AVE Madrid-Málaga', lat: 38.00, lng: -4.50 },
+    { name: 'AVE Madrid-Zaragoza', lat: 41.50, lng: -1.50 },
+    // Líneas costeras
+    { name: 'L-1 Barcelona-Valencia', lat: 40.50, lng: 0.50 },
+    { name: 'L-2 Valencia-Alicante', lat: 38.50, lng: -0.20 },
+    { name: 'L-3 Alicante-Murcia', lat: 38.00, lng: -1.00 },
+    // Líneas del norte
+    { name: 'R-8 Bilbao-San Sebastián', lat: 43.10, lng: -2.80 },
+    { name: 'R-9 Vitoria-Bilbao', lat: 43.10, lng: -3.00 },
+    // Líneas del noroeste
+    { name: 'R-10 Madrid-Galicia', lat: 42.00, lng: -6.50 },
+    { name: 'R-11 Ourense-Santiago', lat: 42.40, lng: -8.10 },
+    // Líneas del suroeste
+    { name: 'R-12 Madrid-Extremadura', lat: 39.20, lng: -5.50 },
+    { name: 'R-13 Córdoba-Málaga', lat: 37.20, lng: -4.50 },
+    // Líneas del este
+    { name: 'L-4 Zaragoza-Huesca', lat: 42.00, lng: -0.80 },
+    { name: 'L-5 Lleida-Puigcerdá', lat: 42.30, lng: 1.80 },
+    // Líneas de Galicia
+    { name: 'G-1 Ourense-Vigo', lat: 42.20, lng: -8.50 },
+    { name: 'G-2 Lugo-Ferrol', lat: 43.30, lng: -8.00 },
+    // Líneas de Asturias
+    { name: 'A-1 León-Gijón', lat: 43.20, lng: -5.80 },
+    { name: 'A-2 Oviedo-Avilés', lat: 43.40, lng: -6.00 },
+    // Líneas de Castilla
+    { name: 'C-1 Valladolid-Burgos', lat: 42.00, lng: -3.50 },
+    { name: 'C-2 León-Astorga', lat: 42.50, lng: -6.00 },
+    // Líneas del Mediterráneo
+    { name: 'M-1 Valencia-Barcelona', lat: 40.80, lng: 0.50 },
+    { name: 'M-2 Barcelona-Perpignan', lat: 42.20, lng: 2.80 },
+    // Líneas de Andalucía
+    { name: 'AN-1 Sevilla-Cádiz', lat: 36.80, lng: -6.00 },
+    { name: 'AN-2 Granada-Almería', lat: 37.00, lng: -3.20 },
+    { name: 'AN-3 Córdoba-Jaén', lat: 37.80, lng: -3.50 },
+    // Líneas de Canarias (conexión ferry)
+    { name: 'L-6 Linares-Almería', lat: 37.20, lng: -2.80 },
+];
+
+function loadLineLabels() {
+    const icon = L.divIcon({
+        className: 'line-label-icon',
+        html: '',  // Se genera dinámicamente
+        iconSize: [0, 0]
+    });
+
+    LINE_LABELS.forEach(line => {
+        const labelIcon = L.divIcon({
+            className: '',
+            html: `<div style="
+                background: rgba(26,68,136,0.9);
+                color: white;
+                padding: 2px 6px;
+                border-radius: 3px;
+                font-size: 10px;
+                font-weight: 600;
+                white-space: nowrap;
+                pointer-events: none;
+                box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+                border: 1px solid rgba(255,255,255,0.3);
+                font-family: 'Segoe UI', sans-serif;
+            ">${line.name}</div>`,
+            iconSize: [0, 0],
+            iconAnchor: [0, 0]
+        });
+        L.marker([line.lat, line.lng], { 
+            icon: labelIcon, 
+            interactive: false,
+            zIndexOffset: -1000 
+        }).addTo(lineLabelsLayer);
+    });
+    console.log(`Etiquetas de líneas cargadas: ${LINE_LABELS.length} líneas`);
 }
 
 // ===== DASHBOARD =====
