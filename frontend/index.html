@@ -1399,10 +1399,16 @@ function renderEmpresas() {
         }
     });
 
+    // Store entity map instance for cleanup
+    let _entityMapInstance = null;
+
     function showEntity(name) {
         const ent = entityMap[name];
         if (!ent) return;
         const detail = document.getElementById('entityDetail');
+
+        // Cleanup previous map
+        if (_entityMapInstance) { _entityMapInstance.remove(); _entityMapInstance = null; }
 
         const years = Object.keys(ent.years).sort();
         const topProvs = Object.entries(ent.provinces).sort((a, b) => b[1] - a[1]).slice(0, 8);
@@ -1410,7 +1416,6 @@ function renderEmpresas() {
         ent.reports.forEach(r => { const s = r.severity || 'desconocido'; sevDist[s] = (sevDist[s] || 0) + 1; });
 
         const maxYearCount = Math.max(...Object.values(ent.years));
-        const maxProvCount = topProvs.length > 0 ? topProvs[0][1] : 1;
 
         detail.innerHTML = `
             <div class="entity-card active">
@@ -1428,6 +1433,11 @@ function renderEmpresas() {
                 </div>
             </div>
 
+            <div class="chart-card" style="margin-top:1.25rem">
+                <h3>Ubicación de informes</h3>
+                <div id="entityMap" style="height:300px;border-radius:4px;overflow:hidden"></div>
+            </div>
+
             <div class="chart-row" style="margin-top:1.25rem">
                 <div class="chart-card">
                     <h3>Evolución anual</h3>
@@ -1441,30 +1451,18 @@ function renderEmpresas() {
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>Provincias</h3>
-                    <div style="padding:0.5rem 0">
-                        ${topProvs.map(([p, c]) => `<div style="margin-bottom:0.3rem;display:flex;align-items:center;gap:0.5rem;font-size:0.82rem">
-                            <span style="width:110px;text-align:right;color:#666;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${p}">${p}</span>
-                            <div style="background:#e8e8e8;border-radius:3px;height:16px;flex:1;overflow:hidden">
-                                <div style="background:var(--kz-azul-medio);height:100%;width:${(c/maxProvCount*100)}%;border-radius:3px;display:flex;align-items:center;padding-left:6px;color:white;font-size:0.75rem;font-weight:600">${c}</div>
-                            </div>
-                        </div>`).join('')}
+                    <h3>Tipos de suceso</h3>
+                    <div style="display:flex;gap:0.5rem;margin-top:0.5rem">
+                        ${Object.entries(ent.types).map(([t, c]) => {
+                            const total = ent.reports.length;
+                            const pct = (c / total * 100).toFixed(1);
+                            return `<div style="flex:1;text-align:center;padding:0.7rem;background:#f5f7fa;border-radius:4px">
+                                <div style="font-size:1.5rem;font-weight:700;color:var(--kz-azul)">${c}</div>
+                                <div style="font-size:0.78rem;color:#666">${t}</div>
+                                <div style="font-size:0.72rem;color:var(--kz-azul-medio)">${pct}%</div>
+                            </div>`;
+                        }).join('')}
                     </div>
-                </div>
-            </div>
-
-            <div class="chart-card" style="margin-top:1.25rem">
-                <h3>Tipos de suceso</h3>
-                <div style="display:flex;gap:0.5rem;margin-top:0.5rem">
-                    ${Object.entries(ent.types).map(([t, c]) => {
-                        const total = ent.reports.length;
-                        const pct = (c / total * 100).toFixed(1);
-                        return `<div style="flex:1;text-align:center;padding:0.7rem;background:#f5f7fa;border-radius:4px">
-                            <div style="font-size:1.5rem;font-weight:700;color:var(--kz-azul)">${c}</div>
-                            <div style="font-size:0.78rem;color:#666">${t}</div>
-                            <div style="font-size:0.72rem;color:var(--kz-azul-medio)">${pct}%</div>
-                        </div>`;
-                    }).join('')}
                 </div>
             </div>
 
@@ -1479,6 +1477,34 @@ function renderEmpresas() {
                     </div>
                 `).join('')}
             </div>`;
+
+        // Init entity map after DOM is ready
+        requestAnimationFrame(() => {
+            const mapEl = document.getElementById('entityMap');
+            if (!mapEl) return;
+            const eMap = L.map('entityMap').setView([40.0, -3.5], 6);
+            L.tileLayer('https://www.ign.es/wmts/ign-base?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=IGNBase-gris&STYLE=default&TILEMATRIXSET=GoogleMapsCompatible&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&FORMAT=image/jpeg', {
+                attribution: '© IGN España', maxZoom: 18
+            }).addTo(eMap);
+            const markers = L.markerClusterGroup({ maxClusterRadius: 40 });
+            ent.reports.forEach(r => {
+                if (!r.lat || !r.lng) return;
+                const color = r.type === 'accidente' ? '#CB1823' : r.type === 'incidente' ? '#e65100' : '#3463AC';
+                const icon = L.divIcon({
+                    className: '',
+                    html: `<div style="width:10px;height:10px;background:${color};border-radius:50%;border:2px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.4)"></div>`,
+                    iconSize: [10, 10], iconAnchor: [5, 5]
+                });
+                const marker = L.marker([r.lat, r.lng], { icon });
+                marker.bindPopup(`<b>${r.expediente || r.id}</b><br>${r.city || ''} (${r.province || ''})<br><span style="color:${color}">${r.type}</span> — ${r.severity || ''}`);
+                markers.addLayer(marker);
+            });
+            eMap.addLayer(markers);
+            if (markers.getLayers().length > 0) {
+                eMap.fitBounds(markers.getBounds().pad(0.1));
+            }
+            _entityMapInstance = eMap;
+        });
     }
 
     if (entities.length > 0) showEntity(entities[0].name);
