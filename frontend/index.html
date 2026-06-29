@@ -407,7 +407,10 @@
                 <div class="legend-item"><span class="legend-dot" style="background:#3463AC"></span> Avería</div>
                 <div style="margin-top:6px;border-top:1px solid #ddd;padding-top:4px">
                     <div class="legend-item"><span style="display:inline-block;width:20px;height:3px;background:#1A4488;border-radius:2px;opacity:0.6"></span> Red ADIF (WMS)</div>
-                    <div class="legend-item"><span class="legend-dot" style="background:#ff6b00"></span> Límites velocidad</div>
+                    <div class="legend-item"><span style="display:inline-block;width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-bottom:9px solid #CB1823"></span> LTV ≤30 km/h</div>
+                    <div class="legend-item"><span style="display:inline-block;width:8px;height:8px;background:#e65100;transform:rotate(45deg);border:1px solid white"></span> LTV 31-60 km/h</div>
+                    <div class="legend-item"><span style="display:inline-block;width:8px;height:8px;background:#f9a825;border:1px solid white;border-radius:1px"></span> LTV 61-120 km/h</div>
+                    <div class="legend-item"><span style="display:inline-block;width:8px;height:8px;background:#2e7d32;border:1px solid white;border-radius:50%"></span> LTV &gt;120 km/h</div>
                     <div class="legend-item"><span style="display:inline-block;width:20px;height:3px;background:#1A4488;border-radius:2px;opacity:0.5;border-top:1px dashed #1A4488"></span> Tramificación</div>
                 </div>
             </div>
@@ -872,29 +875,53 @@ async function loadLTV() {
         const data = await resp.json();
         if (!data.features) throw new Error('Sin datos LTV');
 
-        const ltvIcon = L.divIcon({
-            className: '',
-            html: '<div style="width:10px;height:10px;background:#ff6b00;border-radius:50%;border:2px solid white;box-shadow:0 1px 4px rgba(0,0,0,0.5)"></div>',
-            iconSize: [10, 10], iconAnchor: [5, 5]
-        });
+        // Función para obtener color y forma por velocidad
+        function getLtvStyle(vel) {
+            const v = parseInt(vel) || 0;
+            if (v <= 30) return { color: '#CB1823', shape: 'triangle', label: '≤30', bg: 'rgba(203,24,35,0.15)' };
+            if (v <= 60) return { color: '#e65100', shape: 'diamond', label: '31-60', bg: 'rgba(230,81,0,0.12)' };
+            if (v <= 120) return { color: '#f9a825', shape: 'square', label: '61-120', bg: 'rgba(249,168,37,0.10)' };
+            return { color: '#2e7d32', shape: 'circle', label: '>120', bg: 'rgba(46,125,50,0.10)' };
+        }
+
+        function getLtvIconHtml(vel) {
+            const s = getLtvStyle(vel);
+            const size = 14;
+            let shape = '';
+            if (s.shape === 'triangle') {
+                shape = `<div style="width:0;height:0;border-left:${size/2}px solid transparent;border-right:${size/2}px solid transparent;border-bottom:${size}px solid ${s.color};filter:drop-shadow(0 1px 2px rgba(0,0,0,0.4))"></div>`;
+            } else if (s.shape === 'diamond') {
+                shape = `<div style="width:${size}px;height:${size}px;background:${s.color};transform:rotate(45deg);border:1.5px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.4)"></div>`;
+            } else if (s.shape === 'square') {
+                shape = `<div style="width:${size}px;height:${size}px;background:${s.color};border:1.5px solid white;border-radius:2px;box-shadow:0 1px 3px rgba(0,0,0,0.4)"></div>`;
+            } else {
+                shape = `<div style="width:${size}px;height:${size}px;background:${s.color};border:1.5px solid white;border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,0.4)"></div>`;
+            }
+            return shape;
+        }
 
         data.features.forEach(f => {
             const a = f.attributes;
             if (!f.geometry || !f.geometry.x || !f.geometry.y) return;
             const vel = a.RESTRICCIONVELOCIDAD || '—';
+            const s = getLtvStyle(vel);
+            const ltvIcon = L.divIcon({
+                className: '',
+                html: getLtvIconHtml(vel),
+                iconSize: [14, 14], iconAnchor: [7, 7]
+            });
             const marker = L.marker([f.geometry.y, f.geometry.x], { icon: ltvIcon });
             marker.bindPopup(`
-                <div class="popup-content">
-                    <h4>⚠️ Limitación de Velocidad</h4>
+                <div class="popup-content" style="border-left:3px solid ${s.color};padding-left:10px">
+                    <h4 style="color:${s.color}">⚠️ LTV — ${vel} km/h</h4>
                     <p><span class="detail-label">Línea:</span> ${a.DESCLINEA || a.CODLINEA || '—'}</p>
-                    <p><span class="detail-label">Velocidad:</span> <strong style="color:#CB1823">${vel} km/h</strong></p>
                     <p><span class="detail-label">Tramo:</span> ${a.DESCPSINI || ''} → ${a.DESCPSFIN || ''}</p>
                     <p><span class="detail-label">PK:</span> ${a.PKINI || '—'} — ${a.PKFIN || '—'}</p>
-                    <p><span class="detail-label">Motivo:</span> ${a.MOTIVO || '—'}</p>
-                    <p><span class="detail-label">Tipo tren:</span> ${a.TIPOTREN || '—'}</p>
                     <p><span class="detail-label">Vías:</span> ${a.VIAS || '—'}</p>
-                    <p><span class="detail-label">Vigente desde:</span> ${a.HORAVIGORLTV || '—'}</p>
-                    ${a.OBSERVACIONES ? `<p><span class="detail-label">Obs:</span> ${a.OBSERVACIONES}</p>` : ''}
+                    ${a.MOTIVO ? `<p><span class="detail-label">Motivo:</span> ${a.MOTIVO}</p>` : ''}
+                    ${a.TIPOTREN ? `<p><span class="detail-label">Tipo tren:</span> ${a.TIPOTREN}</p>` : ''}
+                    ${a.HORAVIGORLTV ? `<p><span class="detail-label">Vigente desde:</span> ${a.HORAVIGORLTV}</p>` : ''}
+                    ${a.OBSERVACIONES ? `<p style="margin-top:0.3rem;font-size:0.78rem;color:#666;font-style:italic">${a.OBSERVACIONES}</p>` : ''}
                 </div>
             `, { maxWidth: 320 });
             ltvLayer.addLayer(marker);
