@@ -794,7 +794,6 @@ function initMap() {
     ignEstacionesLayer = L.layerGroup();
     ignLineasLayer = L.layerGroup();
     loadIGNEstaciones();
-    loadIGNLineas();
 
     const overlays = {
         'Informes CIAF': markersLayer,
@@ -954,19 +953,30 @@ function ignLineWidth(ancho) {
 
 function toggleIGNLineas(zoom) {
     if (!ignLineasLayer) return;
-    if (zoom >= 9) { if (!map.hasLayer(ignLineasLayer)) ignLineasLayer.addTo(map); }
-    else { if (map.hasLayer(ignLineasLayer)) map.removeLayer(ignLineasLayer); }
+    if (zoom >= 9) {
+        if (!map.hasLayer(ignLineasLayer)) ignLineasLayer.addTo(map);
+        loadIGNLineasBBox();
+    } else {
+        if (map.hasLayer(ignLineasLayer)) map.removeLayer(ignLineasLayer);
+    }
 }
 
-async function loadIGNLineas() {
+let ignLineasBBoxLoading = false;
+async function loadIGNLineasBBox() {
+    if (ignLineasBBoxLoading) return;
+    ignLineasBBoxLoading = true;
     try {
-        ignLineasLayer = L.layerGroup();
+        const b = map.getBounds();
+        const bbox = `${b.getWest()},${b.getSouth()},${b.getEast()},${b.getNorth()}`;
+        ignLineasLayer.clearLayers();
         let offset = 0, total = 0;
         while (true) {
             const params = new URLSearchParams({
-                where: '1=1', outSR: '4326', returnGeometry: 'true', f: 'geojson',
+                geometry: bbox, geometryType: 'esriGeometryEnvelope',
+                spatialRel: 'esriSpatialRelIntersects', inSR: '4326', outSR: '4326',
+                returnGeometry: 'true', f: 'geojson',
                 outFields: 'nombre,codigo,ancho_viad,electrifid,uso_ppald,titulard,red_tentd,n_via,estadofisd,situaciond,tipo_lined',
-                resultOffset: offset, resultRecordCount: 2000, returnCountOnly: 'false'
+                resultOffset: offset, resultRecordCount: 1000, returnCountOnly: 'false'
             });
             const resp = await fetch(`${IGN_URL}/2/query?${params}`);
             if (!resp.ok) break;
@@ -996,11 +1006,12 @@ async function loadIGNLineas() {
                 `, { maxWidth: 320 });
                 ignLineasLayer.addLayer(layer);
             });
-            if (data.features.length < 2000) break;
-            offset += 2000;
+            if (data.features.length < 1000) break;
+            offset += 1000;
         }
-        console.log(`IGN Líneas cargadas: ${total} tramos`);
-    } catch (e) { console.warn('Error cargando IGN líneas:', e); }
+        console.log(`IGN Líneas bbox: ${total} tramos`);
+    } catch (e) { console.warn('Error cargando IGN líneas bbox:', e); }
+    ignLineasBBoxLoading = false;
 }
 
 async function loadIGNEstaciones() {
@@ -1011,7 +1022,7 @@ async function loadIGNEstaciones() {
             const params = new URLSearchParams({
                 where: '1=1', outSR: '4326', returnGeometry: 'true', f: 'geojson',
                 outFields: 'nombre,cod_est,tipo_estfd,tipo_usod,n_andenes,estadofisd,id_estfc',
-                resultOffset: offset, resultRecordCount: 2000, returnCountOnly: 'false'
+                resultOffset: offset, resultRecordCount: 1000, returnCountOnly: 'false'
             });
             const resp = await fetch(`${IGN_URL}/1/query?${params}`);
             if (!resp.ok) break;
@@ -1038,8 +1049,8 @@ async function loadIGNEstaciones() {
                 `, { maxWidth: 280 });
                 ignEstacionesLayer.addLayer(marker);
             });
-            if (data.features.length < 2000) break;
-            offset += 2000;
+            if (data.features.length < 1000) break;
+            offset += 1000;
         }
         console.log(`IGN Estaciones cargadas: ${total}`);
     } catch (e) { console.warn('Error cargando IGN estaciones:', e); }
