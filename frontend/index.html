@@ -764,7 +764,7 @@ function setupSearch() {
 }
 
 // ===== MAP =====
-let adifWmsLayer, ltvLayer;
+let adifWmsLayer, ltvLayer, ignLineasLayer, ignEstacionesLayer;
 
 function initMap() {
     map = L.map('map').setView([40.0, -3.5], 6);
@@ -790,17 +790,27 @@ function initMap() {
     ltvLayer = L.layerGroup();
     loadLTV();
 
-
+    // === Capas IGN: Red de Ferrocarriles (FeatureServer) ===
+    ignEstacionesLayer = L.layerGroup();
+    ignLineasLayer = L.layerGroup();
+    loadIGNEstaciones();
+    loadIGNLineas();
 
     const overlays = {
         'Informes CIAF': markersLayer,
+        '🚉 Estaciones IGN': ignEstacionesLayer,
+        '🛤️ Líneas IGN (zoom ≥9)': ignLineasLayer,
         '🛤️ Red ferroviaria ADIF': adifWmsLayer,
         '⚠️ Limitaciones velocidad (LTV)': ltvLayer
     };
     L.control.layers(null, overlays, { position: 'topright' }).addTo(map);
 
-    // Activar capa ADIF por defecto
-    adifWmsLayer.addTo(map);
+    // ADIF oculta por defecto (solo visible si el usuario la activa)
+    // adifWmsLayer.addTo(map);
+
+    // IGN estaciones siempre visibles; líneas se muestran al hacer zoom
+    ignEstacionesLayer.addTo(map);
+    map.on('zoomend', function() { toggleIGNLineas(map.getZoom()); });
 
     updateMapMarkers();
 
@@ -924,6 +934,116 @@ async function loadLTV() {
 }
 
 
+
+// ===== CAPA IGN: Red de Ferrocarriles FeatureServer =====
+const IGN_URL = 'https://services1.arcgis.com/nCKYwcSONQTkPA4K/arcgis/rest/services/RedFerrocarrilesIGN/FeatureServer';
+
+function ignColor(ancho) {
+    if (!ancho) return '#6B96CF';
+    const n = ancho.toLowerCase();
+    if (n.includes('internacional')) return '#CB1823';
+    if (n.includes('ibérico')) return '#2563eb';
+    if (n.includes('estrecho')) return '#f97316';
+    return '#6B96CF';
+}
+
+function ignLineWidth(ancho) {
+    if (!ancho) return 1.5;
+    return ancho.toLowerCase().includes('internacional') ? 2.5 : 1.5;
+}
+
+function toggleIGNLineas(zoom) {
+    if (!ignLineasLayer) return;
+    if (zoom >= 9) { if (!map.hasLayer(ignLineasLayer)) ignLineasLayer.addTo(map); }
+    else { if (map.hasLayer(ignLineasLayer)) map.removeLayer(ignLineasLayer); }
+}
+
+async function loadIGNLineas() {
+    try {
+        ignLineasLayer = L.layerGroup();
+        let offset = 0, total = 0;
+        while (true) {
+            const params = new URLSearchParams({
+                where: '1=1', outSR: '4326', returnGeometry: 'true', f: 'geojson',
+                outFields: 'nombre,codigo,ancho_viad,electrifid,uso_ppald,titulard,red_tentd,n_via,estadofisd,situaciond,tipo_lined',
+                resultOffset: offset, resultRecordCount: 2000, returnCountOnly: 'false'
+            });
+            const resp = await fetch(`${IGN_URL}/2/query?${params}`);
+            if (!resp.ok) break;
+            const data = await resp.json();
+            if (!data.features || data.features.length === 0) break;
+            total += data.features.length;
+            data.features.forEach(f => {
+                const p = f.properties || {};
+                const color = ignColor(p.ancho_viad);
+                const layer = L.geoJSON(f, {
+                    style: { color, weight: ignLineWidth(p.ancho_viad), opacity: 0.7 }
+                });
+                layer.bindPopup(`
+                    <div style="border-left:3px solid ${color};padding-left:10px">
+                        <h4 style="color:${color}">🛤️ ${p.nombre || p.codigo || 'Línea'}</h4>
+                        <p><b>Código:</b> ${p.codigo || '—'}</p>
+                        ${p.tipo_lined ? `<p><b>Tipo:</b> ${p.tipo_lined}</p>` : ''}
+                        <p><b>Ancho vía:</b> ${p.ancho_viad || '—'}</p>
+                        <p><b>Electrificación:</b> ${p.electrifid || '—'}</p>
+                        <p><b>Uso:</b> ${p.uso_ppald || '—'}</p>
+                        <p><b>Titular:</b> ${p.titulard || '—'}</p>
+                        <p><b>Vías:</b> ${p.n_via || '—'}</p>
+                        <p><b>Red TenT:</b> ${p.red_tentd || '—'}</p>
+                        <p><b>Estado:</b> ${p.estadofisd || '—'}</p>
+                        <p><b>Situación:</b> ${p.situaciond || '—'}</p>
+                    </div>
+                `, { maxWidth: 320 });
+                ignLineasLayer.addLayer(layer);
+            });
+            if (data.features.length < 2000) break;
+            offset += 2000;
+        }
+        console.log(`IGN Líneas cargadas: ${total} tramos`);
+    } catch (e) { console.warn('Error cargando IGN líneas:', e); }
+}
+
+async function loadIGNEstaciones() {
+    try {
+        ignEstacionesLayer = L.layerGroup();
+        let offset = 0, total = 0;
+        while (true) {
+            const params = new URLSearchParams({
+                where: '1=1', outSR: '4326', returnGeometry: 'true', f: 'geojson',
+                outFields: 'nombre,cod_est,tipo_estfd,tipo_usod,n_andenes,estadofisd,id_estfc',
+                resultOffset: offset, resultRecordCount: 2000, returnCountOnly: 'false'
+            });
+            const resp = await fetch(`${IGN_URL}/1/query?${params}`);
+            if (!resp.ok) break;
+            const data = await resp.json();
+            if (!data.features || data.features.length === 0) break;
+            total += data.features.length;
+            data.features.forEach(f => {
+                const p = f.properties || {};
+                if (!f.geometry || !f.geometry.coordinates) return;
+                const isPasajeros = p.tipo_usod && p.tipo_usod.toLowerCase().includes('pasajeros');
+                const marker = L.circleMarker([f.geometry.coordinates[1], f.geometry.coordinates[0]], {
+                    radius: isPasajeros ? 4 : 2.5,
+                    fillColor: isPasajeros ? '#2563eb' : '#94a3b8',
+                    color: '#fff', weight: 1, fillOpacity: 0.8
+                });
+                marker.bindPopup(`
+                    <div style="border-left:3px solid #2563eb;padding-left:10px">
+                        <h4 style="color:#2563eb">🚉 ${p.nombre || 'Estación'}</h4>
+                        ${p.tipo_estfd ? `<p><b>Tipo:</b> ${p.tipo_estfd}</p>` : ''}
+                        ${p.tipo_usod ? `<p><b>Uso:</b> ${p.tipo_usod}</p>` : ''}
+                        ${p.n_andenes ? `<p><b>Andenes:</b> ${p.n_andenes}</p>` : ''}
+                        ${p.estadofisd ? `<p><b>Estado:</b> ${p.estadofisd}</p>` : ''}
+                    </div>
+                `, { maxWidth: 280 });
+                ignEstacionesLayer.addLayer(marker);
+            });
+            if (data.features.length < 2000) break;
+            offset += 2000;
+        }
+        console.log(`IGN Estaciones cargadas: ${total}`);
+    } catch (e) { console.warn('Error cargando IGN estaciones:', e); }
+}
 
 // ===== DASHBOARD =====
 function renderDashboard() {

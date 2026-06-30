@@ -32,7 +32,9 @@ Un sistema completo para:
 | Capa | Fuente | Uso |
 |------|--------|-----|
 | Mapa base | IGN España (WMTS) | Cartografía oficial |
-| Red ferroviaria | ADIF WMS | Visualización de vías |
+| Estaciones IGN | ArcGIS FeatureServer (IGN) | 3.035 estaciones con tipo, uso, andenes |
+| Líneas IGN | ArcGIS FeatureServer (IGN) | 50.165 tramos con ancho vía, electrificación, titular |
+| Red ferroviaria | ADIF WMS | Visualización de vías (oculta por defecto) |
 | Limitaciones de velocidad | ArcGIS FeatureServer | Restricciones LTV |
 
 ---
